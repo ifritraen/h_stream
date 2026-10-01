@@ -1,0 +1,1273 @@
+{
+  "metadata": {
+    "source": "https://hmvmania.com",
+    "harvested_at": "2026-09-23 02:50:50",
+    "category_count": 6,
+    "tag_count": 88,
+    "creator_count": 25,
+    "cover_count": 94
+  },
+  "categories": [
+    {
+      "name": "Top HMV",
+      "slug": "hmv",
+      "count": 5930,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_HMV-only-JXH33-HMV_cover.jpg",
+      "endpointPath": "/video-category/hmv/",
+      "icon": "Icons.music_note_rounded",
+      "description": "Curated collection of Top HMV music videos and 3D choreography (5930 releases)"
+    },
+    {
+      "name": "3D MMD Dance",
+      "slug": "3d",
+      "count": 560,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_XenSaki-Jean-Cheating-On-You_cover.jpg",
+      "endpointPath": "/video-category/3d/",
+      "icon": "Icons.view_in_ar_rounded",
+      "description": "Curated collection of 3D MMD Dance music videos and 3D choreography (560 releases)"
+    },
+    {
+      "name": "AMV Edit",
+      "slug": "amv",
+      "count": 140,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_oFourEyeso-Closer-Sylvia_cover.jpg",
+      "endpointPath": "/video-category/amv/",
+      "icon": "Icons.movie_filter_rounded",
+      "description": "Curated collection of AMV Edit music videos and 3D choreography (140 releases)"
+    },
+    {
+      "name": "Generative AI",
+      "slug": "generative_ai",
+      "count": 40,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/08/NSFW-PREVIEW-Nagatoro-Poolside-Fun-540p.webp",
+      "endpointPath": "/video-category/generative_ai/",
+      "icon": "Icons.smart_toy_rounded",
+      "description": "Curated collection of Generative AI music videos and 3D choreography (40 releases)"
+    },
+    {
+      "name": "Tutorials & Guides",
+      "slug": "tutorial",
+      "count": 20,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_BasketOfNekos-Making-a-beatbar-in-DaVinci-Resolve_cover.jpg",
+      "endpointPath": "/video-category/tutorial/",
+      "icon": "Icons.school_rounded",
+      "description": "Curated collection of Tutorials & Guides music videos and 3D choreography (20 releases)"
+    },
+    {
+      "name": "Beatbar & Challenge",
+      "slug": "challenge",
+      "count": 2,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_Nao-Erection-Challenge-Vertical-01_cover.jpg",
+      "endpointPath": "/video-category/challenge/",
+      "icon": "Icons.sports_esports_rounded",
+      "description": "Curated collection of Beatbar & Challenge music videos and 3D choreography (2 releases)"
+    }
+  ],
+  "category_covers": {
+    "3d": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_XenSaki-Jean-Cheating-On-You_cover.jpg",
+    "amv": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_oFourEyeso-Closer-Sylvia_cover.jpg",
+    "challenge": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_Nao-Erection-Challenge-Vertical-01_cover.jpg",
+    "generative_ai": "https://hmvmania.com/wp-content/uploads/2026/08/NSFW-PREVIEW-Nagatoro-Poolside-Fun-540p.webp",
+    "hmv": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_HMV-only-JXH33-HMV_cover.jpg",
+    "tutorial": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_BasketOfNekos-Making-a-beatbar-in-DaVinci-Resolve_cover.jpg"
+  },
+  "tags": [
+    {
+      "name": "big boobs",
+      "slug": "big-boobs",
+      "count": 130,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_WaifuRoll99-3D-5.-Miku-out-of-protection-GameLike-HMV_cover.jpg",
+      "categoryGroup": "Action & Fetish",
+      "endpointPath": "/genre/big-boobs/",
+      "icon": "Icons.favorite_rounded",
+      "description": "HMV & MMD videos tagged with big boobs (130 releases)"
+    },
+    {
+      "name": "big ass",
+      "slug": "big-ass",
+      "count": 80,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_WaifuRoll99-3D-5.-Miku-out-of-protection-GameLike-HMV_cover.jpg",
+      "categoryGroup": "Action & Fetish",
+      "endpointPath": "/genre/big-ass/",
+      "icon": "Icons.accessibility_new_rounded",
+      "description": "HMV & MMD videos tagged with big ass (80 releases)"
+    },
+    {
+      "name": "HMV",
+      "slug": "hmv",
+      "count": 80,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/09/Espresso-Slut-HMV-Gimme-That-Load.mp4_snapshot_03.16.718.jpg",
+      "categoryGroup": "Theme & Trope",
+      "endpointPath": "/genre/hmv/",
+      "icon": "Icons.library_music_rounded",
+      "description": "HMV & MMD videos tagged with HMV (80 releases)"
+    },
+    {
+      "name": "hentai",
+      "slug": "hentai",
+      "count": 50,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_PockyLD-Lovehotel-Party-Flashing-Lights_cover.png",
+      "categoryGroup": "Theme & Trope",
+      "endpointPath": "/genre/hentai/",
+      "icon": "Icons.favorite_rounded",
+      "description": "HMV & MMD videos tagged with hentai (50 releases)"
+    },
+    {
+      "name": "2d hmv",
+      "slug": "2d-hmv",
+      "count": 40,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/09/Espresso-Slut-HMV-Gimme-That-Load.mp4_snapshot_03.16.718.jpg",
+      "categoryGroup": "3D & MMD Dance",
+      "endpointPath": "/genre/2d-hmv/",
+      "icon": "Icons.animation_rounded",
+      "description": "HMV & MMD videos tagged with 2d hmv (40 releases)"
+    },
+    {
+      "name": "blowjob",
+      "slug": "blowjob",
+      "count": 40,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/04/GimmeMore-HMV.mp4_snapshot_02.00.115.jpg",
+      "categoryGroup": "Action & Fetish",
+      "endpointPath": "/genre/blowjob/",
+      "icon": "Icons.sentiment_satisfied_rounded",
+      "description": "HMV & MMD videos tagged with blowjob (40 releases)"
+    },
+    {
+      "name": "milf",
+      "slug": "milf",
+      "count": 40,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Mommy-Play-Time-Son-Only-Cover.jpg",
+      "categoryGroup": "Character & Archetype",
+      "endpointPath": "/genre/milf/",
+      "icon": "Icons.family_restroom_rounded",
+      "description": "HMV & MMD videos tagged with milf (40 releases)"
+    },
+    {
+      "name": "beatbar",
+      "slug": "beatbar",
+      "count": 30,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1440p_ytx75-Legeclo-Pixel-Pig_cover.jpg",
+      "categoryGroup": "3D & MMD Dance",
+      "endpointPath": "/genre/beatbar/",
+      "icon": "Icons.music_note_rounded",
+      "description": "HMV & MMD videos tagged with beatbar (30 releases)"
+    },
+    {
+      "name": "creampie",
+      "slug": "creampie",
+      "count": 30,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/09/Espresso-Slut-HMV-Gimme-That-Load.mp4_snapshot_03.16.718.jpg",
+      "categoryGroup": "Action & Fetish",
+      "endpointPath": "/genre/creampie/",
+      "icon": "Icons.water_drop_rounded",
+      "description": "HMV & MMD videos tagged with creampie (30 releases)"
+    },
+    {
+      "name": "harem",
+      "slug": "harem",
+      "count": 30,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/09/Espresso-Slut-HMV-Gimme-That-Load.mp4_snapshot_03.16.718.jpg",
+      "categoryGroup": "Action & Fetish",
+      "endpointPath": "/genre/harem/",
+      "icon": "Icons.group_work_rounded",
+      "description": "HMV & MMD videos tagged with harem (30 releases)"
+    },
+    {
+      "name": "small boob",
+      "slug": "small-boob",
+      "count": 30,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/AddText_06-14-10.26.50.jpg",
+      "categoryGroup": "Character & Archetype",
+      "endpointPath": "/genre/small-boob/",
+      "icon": "Icons.favorite_outline_rounded",
+      "description": "HMV & MMD videos tagged with small boob (30 releases)"
+    },
+    {
+      "name": "sister",
+      "slug": "sister",
+      "count": 30,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/AddText_01-04-06.04.27.jpg",
+      "categoryGroup": "Character & Archetype",
+      "endpointPath": "/genre/sister/",
+      "icon": "Icons.face_3_rounded",
+      "description": "HMV & MMD videos tagged with sister (30 releases)"
+    },
+    {
+      "name": "3d",
+      "slug": "3d",
+      "count": 20,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_WaifuRoll99-3D-6.-Eliza-is-HUNGRY-Tekken-HMV_cover.jpg",
+      "categoryGroup": "3D & MMD Dance",
+      "endpointPath": "/genre/3d/",
+      "icon": "Icons.view_in_ar_rounded",
+      "description": "HMV & MMD videos tagged with 3d (20 releases)"
+    },
+    {
+      "name": "anime",
+      "slug": "anime",
+      "count": 20,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_WaifuRoll99-3.-WaifuRoll99-Miruko-is-defeated-GameLike-HMV_cover.jpg",
+      "categoryGroup": "Theme & Trope",
+      "endpointPath": "/genre/anime/",
+      "icon": "Icons.movie_creation_rounded",
+      "description": "HMV & MMD videos tagged with anime (20 releases)"
+    },
+    {
+      "name": "boobjob",
+      "slug": "boobjob",
+      "count": 20,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_WaifuRoll99-3D-6.-Eliza-is-HUNGRY-Tekken-HMV_cover.jpg",
+      "categoryGroup": "Action & Fetish",
+      "endpointPath": "/genre/boobjob/",
+      "icon": "Icons.favorite_border_rounded",
+      "description": "HMV & MMD videos tagged with boobjob (20 releases)"
+    },
+    {
+      "name": "Cum",
+      "slug": "cum",
+      "count": 20,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_WaifuRoll99-3D-6.-Eliza-is-HUNGRY-Tekken-HMV_cover.jpg",
+      "categoryGroup": "Action & Fetish",
+      "endpointPath": "/genre/cum/",
+      "icon": "Icons.opacity_rounded",
+      "description": "HMV & MMD videos tagged with Cum (20 releases)"
+    },
+    {
+      "name": "cum inside",
+      "slug": "cum-inside",
+      "count": 20,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/09/Espresso-Slut-HMV-Gimme-That-Load.mp4_snapshot_03.16.718.jpg",
+      "categoryGroup": "Action & Fetish",
+      "endpointPath": "/genre/cum-inside/",
+      "icon": "Icons.water_drop_rounded",
+      "description": "HMV & MMD videos tagged with cum inside (20 releases)"
+    },
+    {
+      "name": "Cum on face",
+      "slug": "cum-on-face",
+      "count": 20,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/09/Espresso-Slut-HMV-Gimme-That-Load.mp4_snapshot_03.16.718.jpg",
+      "categoryGroup": "Action & Fetish",
+      "endpointPath": "/genre/cum-on-face/",
+      "icon": "Icons.face_retouching_natural_rounded",
+      "description": "HMV & MMD videos tagged with Cum on face (20 releases)"
+    },
+    {
+      "name": "dark skin",
+      "slug": "dark-skin",
+      "count": 20,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_WaifuRoll99-3D-5.-Miku-out-of-protection-GameLike-HMV_cover.jpg",
+      "categoryGroup": "Character & Archetype",
+      "endpointPath": "/genre/dark-skin/",
+      "icon": "Icons.palette_rounded",
+      "description": "HMV & MMD videos tagged with dark skin (20 releases)"
+    },
+    {
+      "name": "Elves",
+      "slug": "elves",
+      "count": 20,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/AddText_10-23-02.40.27.jpg",
+      "categoryGroup": "Character & Archetype",
+      "endpointPath": "/genre/elves/",
+      "icon": "Icons.flare_rounded",
+      "description": "HMV & MMD videos tagged with Elves (20 releases)"
+    },
+    {
+      "name": "maid",
+      "slug": "maid",
+      "count": 20,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Mommy-Play-Time-Son-Only-Cover.jpg",
+      "categoryGroup": "Character & Archetype",
+      "endpointPath": "/genre/maid/",
+      "icon": "Icons.cleaning_services_rounded",
+      "description": "HMV & MMD videos tagged with maid (20 releases)"
+    },
+    {
+      "name": "petite",
+      "slug": "petite",
+      "count": 20,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/AddText_06-14-10.26.50.jpg",
+      "categoryGroup": "Character & Archetype",
+      "endpointPath": "/genre/petite/",
+      "icon": "Icons.person_pin_rounded",
+      "description": "HMV & MMD videos tagged with petite (20 releases)"
+    },
+    {
+      "name": "music",
+      "slug": "music",
+      "count": 20,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_PockyLD-Lovehotel-Party-Flashing-Lights_cover.png",
+      "categoryGroup": "3D & MMD Dance",
+      "endpointPath": "/genre/music/",
+      "icon": "Icons.headphones_rounded",
+      "description": "HMV & MMD videos tagged with music (20 releases)"
+    },
+    {
+      "name": "NTR",
+      "slug": "ntr",
+      "count": 20,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Warm-Embrace-Plus-One-Cover.jpg",
+      "categoryGroup": "Theme & Trope",
+      "endpointPath": "/genre/ntr/",
+      "icon": "Icons.warning_amber_rounded",
+      "description": "HMV & MMD videos tagged with NTR (20 releases)"
+    },
+    {
+      "name": "sex",
+      "slug": "sex",
+      "count": 20,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/Kayar-3D-Genshin-Impact-Money_cover.jpg",
+      "categoryGroup": "Theme & Trope",
+      "endpointPath": "/genre/sex/",
+      "icon": "Icons.bed_rounded",
+      "description": "HMV & MMD videos tagged with sex (20 releases)"
+    },
+    {
+      "name": "Beat Bar HMV",
+      "slug": "beat-bar-hmv",
+      "count": 10,
+      "cover": "https://hmvmania.com/wp-content/uploads/2025/04/Untitlesdsd-1.jpg",
+      "categoryGroup": "3D & MMD Dance",
+      "endpointPath": "/genre/beat-bar-hmv/",
+      "icon": "Icons.equalizer_rounded",
+      "description": "HMV & MMD videos tagged with Beat Bar HMV (10 releases)"
+    },
+    {
+      "name": "anal",
+      "slug": "anal",
+      "count": 10,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/09/Espresso-Slut-HMV-Gimme-That-Load.mp4_snapshot_03.16.718.jpg",
+      "categoryGroup": "Action & Fetish",
+      "endpointPath": "/genre/anal/",
+      "icon": "Icons.do_not_disturb_on_rounded",
+      "description": "HMV & MMD videos tagged with anal (10 releases)"
+    },
+    {
+      "name": "fap hero",
+      "slug": "fap-hero",
+      "count": 10,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_Kaleka-Fap-Hero-Nun.jpg",
+      "categoryGroup": "3D & MMD Dance",
+      "endpointPath": "/genre/fap-hero/",
+      "icon": "Icons.sports_score_rounded",
+      "description": "HMV & MMD videos tagged with fap hero (10 releases)"
+    },
+    {
+      "name": "paizuri",
+      "slug": "paizuri",
+      "count": 10,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/IMG_20241213_150449.jpg",
+      "categoryGroup": "Action & Fetish",
+      "endpointPath": "/genre/paizuri/",
+      "icon": "Icons.favorite_rounded",
+      "description": "HMV & MMD videos tagged with paizuri (10 releases)"
+    },
+    {
+      "name": "game_cg",
+      "slug": "game_cg",
+      "count": 9,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_WaifuRoll99-3D-6.-Eliza-is-HUNGRY-Tekken-HMV_cover.jpg",
+      "categoryGroup": "Game & Anime Parody",
+      "endpointPath": "/genre/game_cg/",
+      "icon": "Icons.games_rounded",
+      "description": "HMV & MMD videos tagged with game_cg (9 releases)"
+    },
+    {
+      "name": "cock hero",
+      "slug": "cock-hero",
+      "count": 8,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Warm-Embrace-Plus-One-Cover.jpg",
+      "categoryGroup": "3D & MMD Dance",
+      "endpointPath": "/genre/cock-hero/",
+      "icon": "Icons.military_tech_rounded",
+      "description": "HMV & MMD videos tagged with cock hero (8 releases)"
+    },
+    {
+      "name": "faphero",
+      "slug": "faphero",
+      "count": 8,
+      "cover": "https://hmvmania.com/wp-content/uploads/2025/04/Untitlesdsd-1.jpg",
+      "categoryGroup": "3D & MMD Dance",
+      "endpointPath": "/genre/faphero/",
+      "icon": "Icons.sports_score_rounded",
+      "description": "HMV & MMD videos tagged with faphero (8 releases)"
+    },
+    {
+      "name": "futanari",
+      "slug": "futanari",
+      "count": 8,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_WaifuRoll99-3D-6.-Eliza-is-HUNGRY-Tekken-HMV_cover.jpg",
+      "categoryGroup": "Character & Archetype",
+      "endpointPath": "/genre/futanari/",
+      "icon": "Icons.transgender_rounded",
+      "description": "HMV & MMD videos tagged with futanari (8 releases)"
+    },
+    {
+      "name": "Genshin Impact",
+      "slug": "genshin-impact",
+      "count": 8,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_WaifuRoll99-3D-1.-Dehya-gives-special-services-GameLike-HMV_cover.jpg",
+      "categoryGroup": "Game & Anime Parody",
+      "endpointPath": "/genre/genshin-impact/",
+      "icon": "Icons.explore_rounded",
+      "description": "HMV & MMD videos tagged with Genshin Impact (8 releases)"
+    },
+    {
+      "name": "succubus",
+      "slug": "succubus",
+      "count": 8,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_WaifuRoll99-3D-6.-Eliza-is-HUNGRY-Tekken-HMV_cover.jpg",
+      "categoryGroup": "Character & Archetype",
+      "endpointPath": "/genre/succubus/",
+      "icon": "Icons.cruelty_free_rounded",
+      "description": "HMV & MMD videos tagged with succubus (8 releases)"
+    },
+    {
+      "name": "gangbang",
+      "slug": "gangbang",
+      "count": 7,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/09/Espresso-Slut-HMV-Gimme-That-Load.mp4_snapshot_03.16.718.jpg",
+      "categoryGroup": "Action & Fetish",
+      "endpointPath": "/genre/gangbang/",
+      "icon": "Icons.groups_3_rounded",
+      "description": "HMV & MMD videos tagged with gangbang (7 releases)"
+    },
+    {
+      "name": "Group Sex",
+      "slug": "group-sex",
+      "count": 7,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/09/Espresso-Slut-HMV-Gimme-That-Load.mp4_snapshot_03.16.718.jpg",
+      "categoryGroup": "Action & Fetish",
+      "endpointPath": "/genre/group-sex/",
+      "icon": "Icons.groups_rounded",
+      "description": "HMV & MMD videos tagged with Group Sex (7 releases)"
+    },
+    {
+      "name": "vanilla",
+      "slug": "vanilla",
+      "count": 7,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/IMG_20241213_150449.jpg",
+      "categoryGroup": "Theme & Trope",
+      "endpointPath": "/genre/vanilla/",
+      "icon": "Icons.favorite_border_rounded",
+      "description": "HMV & MMD videos tagged with vanilla (7 releases)"
+    },
+    {
+      "name": "Double Penetration",
+      "slug": "double-penetration",
+      "count": 6,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_WaifuRoll99-3D-6.-Eliza-is-HUNGRY-Tekken-HMV_cover.jpg",
+      "categoryGroup": "Action & Fetish",
+      "endpointPath": "/genre/double-penetration/",
+      "icon": "Icons.call_split_rounded",
+      "description": "HMV & MMD videos tagged with Double Penetration (6 releases)"
+    },
+    {
+      "name": "furry",
+      "slug": "furry",
+      "count": 6,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/WaifuRoll99-3D-4.-Six-nights-at-Frennis-GameLike-HMV_cover.jpg",
+      "categoryGroup": "Character & Archetype",
+      "endpointPath": "/genre/furry/",
+      "icon": "Icons.pets_rounded",
+      "description": "HMV & MMD videos tagged with furry (6 releases)"
+    },
+    {
+      "name": "glasses",
+      "slug": "glasses",
+      "count": 6,
+      "cover": "https://secure.gravatar.com/avatar/8039b785820b9253d73fa778476224a80c52a062522e7f9edbff05d11e0ec890?s=96&d=mm&r=g",
+      "categoryGroup": "Character & Archetype",
+      "endpointPath": "/genre/glasses/",
+      "icon": "Icons.visibility_rounded",
+      "description": "HMV & MMD videos tagged with glasses (6 releases)"
+    },
+    {
+      "name": "idol",
+      "slug": "idol",
+      "count": 6,
+      "cover": "https://hmvmania.com/wp-content/uploads/2023/11/AddText_11-22-02.12.51.jpg",
+      "categoryGroup": "3D & MMD Dance",
+      "endpointPath": "/genre/idol/",
+      "icon": "Icons.mic_rounded",
+      "description": "HMV & MMD videos tagged with idol (6 releases)"
+    },
+    {
+      "name": "Mother",
+      "slug": "mother",
+      "count": 4,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Mommy-Play-Time-Son-Only-Cover.jpg",
+      "categoryGroup": "Character & Archetype",
+      "endpointPath": "/genre/mother/",
+      "icon": "Icons.escalator_warning_rounded",
+      "description": "HMV & MMD videos tagged with Mother (4 releases)"
+    },
+    {
+      "name": "demon",
+      "slug": "demon",
+      "count": 3,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/AddText_01-04-06.14.27.jpg",
+      "categoryGroup": "Character & Archetype",
+      "endpointPath": "/genre/demon/",
+      "icon": "Icons.whatshot_rounded",
+      "description": "HMV & MMD videos tagged with demon (3 releases)"
+    },
+    {
+      "name": "ecchi",
+      "slug": "ecchi",
+      "count": 3,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/AddText_06-09-01.05.21.jpg",
+      "categoryGroup": "Theme & Trope",
+      "endpointPath": "/genre/ecchi/",
+      "icon": "Icons.wb_sunny_rounded",
+      "description": "HMV & MMD videos tagged with ecchi (3 releases)"
+    },
+    {
+      "name": "futa",
+      "slug": "futa",
+      "count": 3,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/04/Screenshot-2026-04-12-234136.jpg",
+      "categoryGroup": "Character & Archetype",
+      "endpointPath": "/genre/futa/",
+      "icon": "Icons.transgender_rounded",
+      "description": "HMV & MMD videos tagged with futa (3 releases)"
+    },
+    {
+      "name": "MOM",
+      "slug": "mom",
+      "count": 3,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Mommy-Play-Time-Son-Only-Cover.jpg",
+      "categoryGroup": "Character & Archetype",
+      "endpointPath": "/genre/mom/",
+      "icon": "Icons.family_restroom_rounded",
+      "description": "HMV & MMD videos tagged with MOM (3 releases)"
+    },
+    {
+      "name": "Mommy",
+      "slug": "mommy",
+      "count": 3,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Mommy-Play-Time-Son-Only-Cover.jpg",
+      "categoryGroup": "Character & Archetype",
+      "endpointPath": "/genre/mommy/",
+      "icon": "Icons.child_friendly_rounded",
+      "description": "HMV & MMD videos tagged with Mommy (3 releases)"
+    },
+    {
+      "name": "Uncensored",
+      "slug": "uncensored",
+      "count": 3,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Mommy-Play-Time-Son-Only-Cover.jpg",
+      "categoryGroup": "Character & Archetype",
+      "endpointPath": "/genre/uncensored/",
+      "icon": "Icons.lock_open_rounded",
+      "description": "HMV & MMD videos tagged with Uncensored (3 releases)"
+    },
+    {
+      "name": "Blue Archive",
+      "slug": "blue-archive",
+      "count": 2,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_ForceStarD-Kawaii-Blue-Archive_cover.jpg",
+      "categoryGroup": "Game & Anime Parody",
+      "endpointPath": "/genre/blue-archive/",
+      "icon": "Icons.auto_stories_rounded",
+      "description": "HMV & MMD videos tagged with Blue Archive (2 releases)"
+    },
+    {
+      "name": "christmas",
+      "slug": "christmas",
+      "count": 2,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/ytx75-Rumble-Unitia-Christmas_cover.jpg",
+      "categoryGroup": "Theme & Trope",
+      "endpointPath": "/genre/christmas/",
+      "icon": "Icons.ac_unit_rounded",
+      "description": "HMV & MMD videos tagged with christmas (2 releases)"
+    },
+    {
+      "name": "FNAF",
+      "slug": "fnaf",
+      "count": 2,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/WaifuRoll99-3D-4.-Six-nights-at-Frennis-GameLike-HMV_cover.jpg",
+      "categoryGroup": "Game & Anime Parody",
+      "endpointPath": "/genre/fnaf/",
+      "icon": "Icons.videogame_asset_rounded",
+      "description": "HMV & MMD videos tagged with FNAF (2 releases)"
+    },
+    {
+      "name": "game cg",
+      "slug": "game-cg",
+      "count": 2,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_Man_Oil-Blaster_cover.jpg",
+      "categoryGroup": "Game & Anime Parody",
+      "endpointPath": "/genre/game-cg/",
+      "icon": "Icons.videogame_asset_rounded",
+      "description": "HMV & MMD videos tagged with game cg (2 releases)"
+    },
+    {
+      "name": "Hu Tao",
+      "slug": "hu-tao",
+      "count": 2,
+      "cover": "https://hmvmania.com/wp-content/uploads/2024/09/HMV-Summer-Splash-Обложка.jpg",
+      "categoryGroup": "Game & Anime Parody",
+      "endpointPath": "/genre/hu-tao/",
+      "icon": "Icons.local_fire_department_rounded",
+      "description": "HMV & MMD videos tagged with Hu Tao (2 releases)"
+    },
+    {
+      "name": "mix hentai",
+      "slug": "mix-hentai",
+      "count": 2,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_PockyLD-Lovehotel-Party-Flashing-Lights_cover.png",
+      "categoryGroup": "Theme & Trope",
+      "endpointPath": "/genre/mix-hentai/",
+      "icon": "Icons.shuffle_rounded",
+      "description": "HMV & MMD videos tagged with mix hentai (2 releases)"
+    },
+    {
+      "name": "momson",
+      "slug": "momson",
+      "count": 2,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Mommy-Play-Time-Son-Only-Cover.jpg",
+      "categoryGroup": "Character & Archetype",
+      "endpointPath": "/genre/momson/",
+      "icon": "Icons.groups_2_rounded",
+      "description": "HMV & MMD videos tagged with momson (2 releases)"
+    },
+    {
+      "name": "retro",
+      "slug": "retro",
+      "count": 2,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_720p_Majistoca-Angel-Harvest_cover.jpg",
+      "categoryGroup": "Theme & Trope",
+      "endpointPath": "/genre/retro/",
+      "icon": "Icons.history_toggle_drop_down_rounded",
+      "description": "HMV & MMD videos tagged with retro (2 releases)"
+    },
+    {
+      "name": "yuri",
+      "slug": "yuri",
+      "count": 2,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/AddText_11-13-11.00.20.jpg",
+      "categoryGroup": "Theme & Trope",
+      "endpointPath": "/genre/yuri/",
+      "icon": "Icons.female_rounded",
+      "description": "HMV & MMD videos tagged with yuri (2 releases)"
+    },
+    {
+      "name": "bdsm",
+      "slug": "bdsm",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2024/10/Screenshot_0.jpg",
+      "categoryGroup": "Action & Fetish",
+      "endpointPath": "/genre/bdsm/",
+      "icon": "Icons.link_rounded",
+      "description": "HMV & MMD videos tagged with bdsm (1 releases)"
+    },
+    {
+      "name": "AI",
+      "slug": "ai",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2025/08/000.jpg",
+      "categoryGroup": "Theme & Trope",
+      "endpointPath": "/genre/ai/",
+      "icon": "Icons.smart_toy_rounded",
+      "description": "HMV & MMD videos tagged with AI (1 releases)"
+    },
+    {
+      "name": "2023",
+      "slug": "2023",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2023/01/hmv_1080p_Hentez-Christmas-Gift-Fap-Hero_cover.jpg",
+      "categoryGroup": "Theme & Trope",
+      "endpointPath": "/genre/2023/",
+      "icon": "Icons.tag_rounded",
+      "description": "HMV & MMD videos tagged with 2023 (1 releases)"
+    },
+    {
+      "name": "body control",
+      "slug": "body-control",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/g00nerztendon1tis-Cursed-HMV-1-Youve-Got-a-Friend-in-Me_cover.jpg",
+      "categoryGroup": "Theme & Trope",
+      "endpointPath": "/genre/body-control/",
+      "icon": "Icons.psychology_rounded",
+      "description": "HMV & MMD videos tagged with body control (1 releases)"
+    },
+    {
+      "name": "bouncing breasts",
+      "slug": "bouncing-breasts",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/Jazzhandz-Fantastic-Lover_cover.jpg",
+      "categoryGroup": "Action & Fetish",
+      "endpointPath": "/genre/bouncing-breasts/",
+      "icon": "Icons.swap_calls_rounded",
+      "description": "HMV & MMD videos tagged with bouncing breasts (1 releases)"
+    },
+    {
+      "name": "compilation",
+      "slug": "compilation",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Mommy-Play-Time-Son-Only-Cover.jpg",
+      "categoryGroup": "3D & MMD Dance",
+      "endpointPath": "/genre/compilation/",
+      "icon": "Icons.collections_rounded",
+      "description": "HMV & MMD videos tagged with compilation (1 releases)"
+    },
+    {
+      "name": "cum on breasts",
+      "slug": "cum-on-breasts",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/Jazzhandz-Fantastic-Lover_cover.jpg",
+      "categoryGroup": "Action & Fetish",
+      "endpointPath": "/genre/cum-on-breasts/",
+      "icon": "Icons.grain_rounded",
+      "description": "HMV & MMD videos tagged with cum on breasts (1 releases)"
+    },
+    {
+      "name": "fap_hero",
+      "slug": "fap_hero",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2025/04/Cover.jpg",
+      "categoryGroup": "3D & MMD Dance",
+      "endpointPath": "/genre/fap_hero/",
+      "icon": "Icons.sports_score_rounded",
+      "description": "HMV & MMD videos tagged with fap_hero (1 releases)"
+    },
+    {
+      "name": "friendjoins",
+      "slug": "friendjoins",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Warm-Embrace-Plus-One-Cover.jpg",
+      "categoryGroup": "Theme & Trope",
+      "endpointPath": "/genre/friendjoins/",
+      "icon": "Icons.group_add_rounded",
+      "description": "HMV & MMD videos tagged with friendjoins (1 releases)"
+    },
+    {
+      "name": "handjob",
+      "slug": "handjob",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_odechi-Endless-Handjob-01-HMV_cover.jpg",
+      "categoryGroup": "Action & Fetish",
+      "endpointPath": "/genre/handjob/",
+      "icon": "Icons.front_hand_rounded",
+      "description": "HMV & MMD videos tagged with handjob (1 releases)"
+    },
+    {
+      "name": "hard",
+      "slug": "hard",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/hmv_1080p_SevaXx-HMV-3_cover.jpg",
+      "categoryGroup": "Theme & Trope",
+      "endpointPath": "/genre/hard/",
+      "icon": "Icons.bolt_rounded",
+      "description": "HMV & MMD videos tagged with hard (1 releases)"
+    },
+    {
+      "name": "hen",
+      "slug": "hen",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2023/01/hmv_1080p_Hentez-Christmas-Gift-Fap-Hero_cover.jpg",
+      "categoryGroup": "Theme & Trope",
+      "endpointPath": "/genre/hen/",
+      "icon": "Icons.star_rounded",
+      "description": "HMV & MMD videos tagged with hen (1 releases)"
+    },
+    {
+      "name": "henetz hmv",
+      "slug": "henetz-hmv",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2023/01/hmv_1080p_Hentez-Christmas-Gift-Fap-Hero_cover.jpg",
+      "categoryGroup": "3D & MMD Dance",
+      "endpointPath": "/genre/henetz-hmv/",
+      "icon": "Icons.audiotrack_rounded",
+      "description": "HMV & MMD videos tagged with henetz hmv (1 releases)"
+    },
+    {
+      "name": "hentez",
+      "slug": "hentez",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2023/01/hmv_1080p_Hentez-Christmas-Gift-Fap-Hero_cover.jpg",
+      "categoryGroup": "3D & MMD Dance",
+      "endpointPath": "/genre/hentez/",
+      "icon": "Icons.nightlife_rounded",
+      "description": "HMV & MMD videos tagged with hentez (1 releases)"
+    },
+    {
+      "name": "hentez christmas",
+      "slug": "hentez-christmas",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2023/01/hmv_1080p_Hentez-Christmas-Gift-Fap-Hero_cover.jpg",
+      "categoryGroup": "Theme & Trope",
+      "endpointPath": "/genre/hentez-christmas/",
+      "icon": "Icons.celebration_rounded",
+      "description": "HMV & MMD videos tagged with hentez christmas (1 releases)"
+    },
+    {
+      "name": "instrumental",
+      "slug": "instrumental",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_720p_Majistoca-Nymph-Prim_cover.jpg",
+      "categoryGroup": "3D & MMD Dance",
+      "endpointPath": "/genre/instrumental/",
+      "icon": "Icons.piano_rounded",
+      "description": "HMV & MMD videos tagged with instrumental (1 releases)"
+    },
+    {
+      "name": "monster",
+      "slug": "monster",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2024/10/Screenshot_0.jpg",
+      "categoryGroup": "Action & Fetish",
+      "endpointPath": "/genre/monster/",
+      "icon": "Icons.bug_report_rounded",
+      "description": "HMV & MMD videos tagged with monster (1 releases)"
+    },
+    {
+      "name": "mona",
+      "slug": "mona",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2024/07/Hmv-Genshin-hmv.jpg",
+      "categoryGroup": "Game & Anime Parody",
+      "endpointPath": "/genre/mona/",
+      "icon": "Icons.auto_awesome_rounded",
+      "description": "HMV & MMD videos tagged with mona (1 releases)"
+    },
+    {
+      "name": "penetration",
+      "slug": "penetration",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/04/z.jpg",
+      "categoryGroup": "Theme & Trope",
+      "endpointPath": "/genre/penetration/",
+      "icon": "Icons.login_rounded",
+      "description": "HMV & MMD videos tagged with penetration (1 releases)"
+    },
+    {
+      "name": "netorare",
+      "slug": "netorare",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANKEnbo-艶母-Mommy-7-8-9-Cover.jpg",
+      "categoryGroup": "Theme & Trope",
+      "endpointPath": "/genre/netorare/",
+      "icon": "Icons.heart_broken_rounded",
+      "description": "HMV & MMD videos tagged with netorare (1 releases)"
+    },
+    {
+      "name": "passion",
+      "slug": "passion",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Mommy-Play-Time-Son-Only-Cover.jpg",
+      "categoryGroup": "Theme & Trope",
+      "endpointPath": "/genre/passion/",
+      "icon": "Icons.local_fire_department_rounded",
+      "description": "HMV & MMD videos tagged with passion (1 releases)"
+    },
+    {
+      "name": "rape",
+      "slug": "rape",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/g00nerztendon1tis-Cursed-HMV-1-Youve-Got-a-Friend-in-Me_cover.jpg",
+      "categoryGroup": "Theme & Trope",
+      "endpointPath": "/genre/rape/",
+      "icon": "Icons.gavel_rounded",
+      "description": "HMV & MMD videos tagged with rape (1 releases)"
+    },
+    {
+      "name": "santa",
+      "slug": "santa",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2023/01/hmv_1080p_Hentez-Christmas-Gift-Fap-Hero_cover.jpg",
+      "categoryGroup": "Theme & Trope",
+      "endpointPath": "/genre/santa/",
+      "icon": "Icons.card_giftcard_rounded",
+      "description": "HMV & MMD videos tagged with santa (1 releases)"
+    },
+    {
+      "name": "school",
+      "slug": "school",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/g00nerztendon1tis-Cursed-HMV-1-Youve-Got-a-Friend-in-Me_cover.jpg",
+      "categoryGroup": "Character & Archetype",
+      "endpointPath": "/genre/school/",
+      "icon": "Icons.school_rounded",
+      "description": "HMV & MMD videos tagged with school (1 releases)"
+    },
+    {
+      "name": "student",
+      "slug": "student",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/g00nerztendon1tis-Cursed-HMV-1-Youve-Got-a-Friend-in-Me_cover.jpg",
+      "categoryGroup": "Character & Archetype",
+      "endpointPath": "/genre/student/",
+      "icon": "Icons.menu_book_rounded",
+      "description": "HMV & MMD videos tagged with student (1 releases)"
+    },
+    {
+      "name": "taboo",
+      "slug": "taboo",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Warm-Embrace-Plus-One-Cover.jpg",
+      "categoryGroup": "Theme & Trope",
+      "endpointPath": "/genre/taboo/",
+      "icon": "Icons.do_not_disturb_rounded",
+      "description": "HMV & MMD videos tagged with taboo (1 releases)"
+    },
+    {
+      "name": "teacher",
+      "slug": "teacher",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/g00nerztendon1tis-Cursed-HMV-1-Youve-Got-a-Friend-in-Me_cover.jpg",
+      "categoryGroup": "Character & Archetype",
+      "endpointPath": "/genre/teacher/",
+      "icon": "Icons.co_present_rounded",
+      "description": "HMV & MMD videos tagged with teacher (1 releases)"
+    },
+    {
+      "name": "tentacles",
+      "slug": "tentacles",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2024/10/Screenshot_0.jpg",
+      "categoryGroup": "Action & Fetish",
+      "endpointPath": "/genre/tentacles/",
+      "icon": "Icons.hub_rounded",
+      "description": "HMV & MMD videos tagged with tentacles (1 releases)"
+    },
+    {
+      "name": "threesome",
+      "slug": "threesome",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Warm-Embrace-Plus-One-Cover.jpg",
+      "categoryGroup": "Action & Fetish",
+      "endpointPath": "/genre/threesome/",
+      "icon": "Icons.filter_3_rounded",
+      "description": "HMV & MMD videos tagged with threesome (1 releases)"
+    },
+    {
+      "name": "VTuber",
+      "slug": "vtuber",
+      "count": 1,
+      "cover": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1280p_AMEs-HMV-UGOIRA-by-LK_cover.jpg",
+      "categoryGroup": "Game & Anime Parody",
+      "endpointPath": "/genre/vtuber/",
+      "icon": "Icons.live_tv_rounded",
+      "description": "HMV & MMD videos tagged with VTuber (1 releases)"
+    }
+  ],
+  "tag_covers": {
+    "3d": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_WaifuRoll99-3D-6.-Eliza-is-HUNGRY-Tekken-HMV_cover.jpg",
+    "beat-bar-hmv": "https://hmvmania.com/wp-content/uploads/2025/04/Untitlesdsd-1.jpg",
+    "anal": "https://hmvmania.com/wp-content/uploads/2026/09/Espresso-Slut-HMV-Gimme-That-Load.mp4_snapshot_03.16.718.jpg",
+    "bdsm": "https://hmvmania.com/wp-content/uploads/2024/10/Screenshot_0.jpg",
+    "ai": "https://hmvmania.com/wp-content/uploads/2025/08/000.jpg",
+    "2d-hmv": "https://hmvmania.com/wp-content/uploads/2026/09/Espresso-Slut-HMV-Gimme-That-Load.mp4_snapshot_03.16.718.jpg",
+    "anime": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_WaifuRoll99-3.-WaifuRoll99-Miruko-is-defeated-GameLike-HMV_cover.jpg",
+    "2023": "https://hmvmania.com/wp-content/uploads/2023/01/hmv_1080p_Hentez-Christmas-Gift-Fap-Hero_cover.jpg",
+    "beatbar": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1440p_ytx75-Legeclo-Pixel-Pig_cover.jpg",
+    "big-ass": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_WaifuRoll99-3D-5.-Miku-out-of-protection-GameLike-HMV_cover.jpg",
+    "body-control": "https://hmvmania.com/wp-content/uploads/2021/01/g00nerztendon1tis-Cursed-HMV-1-Youve-Got-a-Friend-in-Me_cover.jpg",
+    "boobjob": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_WaifuRoll99-3D-6.-Eliza-is-HUNGRY-Tekken-HMV_cover.jpg",
+    "blowjob": "https://hmvmania.com/wp-content/uploads/2026/04/GimmeMore-HMV.mp4_snapshot_02.00.115.jpg",
+    "big-boobs": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_WaifuRoll99-3D-5.-Miku-out-of-protection-GameLike-HMV_cover.jpg",
+    "bouncing-breasts": "https://hmvmania.com/wp-content/uploads/2021/01/Jazzhandz-Fantastic-Lover_cover.jpg",
+    "blue-archive": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_ForceStarD-Kawaii-Blue-Archive_cover.jpg",
+    "cum": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_WaifuRoll99-3D-6.-Eliza-is-HUNGRY-Tekken-HMV_cover.jpg",
+    "christmas": "https://hmvmania.com/wp-content/uploads/2021/01/ytx75-Rumble-Unitia-Christmas_cover.jpg",
+    "compilation": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Mommy-Play-Time-Son-Only-Cover.jpg",
+    "cock-hero": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Warm-Embrace-Plus-One-Cover.jpg",
+    "creampie": "https://hmvmania.com/wp-content/uploads/2026/09/Espresso-Slut-HMV-Gimme-That-Load.mp4_snapshot_03.16.718.jpg",
+    "cum-inside": "https://hmvmania.com/wp-content/uploads/2026/09/Espresso-Slut-HMV-Gimme-That-Load.mp4_snapshot_03.16.718.jpg",
+    "cum-on-face": "https://hmvmania.com/wp-content/uploads/2026/09/Espresso-Slut-HMV-Gimme-That-Load.mp4_snapshot_03.16.718.jpg",
+    "cum-on-breasts": "https://hmvmania.com/wp-content/uploads/2021/01/Jazzhandz-Fantastic-Lover_cover.jpg",
+    "dark-skin": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_WaifuRoll99-3D-5.-Miku-out-of-protection-GameLike-HMV_cover.jpg",
+    "fap-hero": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_Kaleka-Fap-Hero-Nun.jpg",
+    "demon": "https://hmvmania.com/wp-content/uploads/2021/01/AddText_01-04-06.14.27.jpg",
+    "double-penetration": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_WaifuRoll99-3D-6.-Eliza-is-HUNGRY-Tekken-HMV_cover.jpg",
+    "ecchi": "https://hmvmania.com/wp-content/uploads/2021/01/AddText_06-09-01.05.21.jpg",
+    "fap_hero": "https://hmvmania.com/wp-content/uploads/2025/04/Cover.jpg",
+    "elves": "https://hmvmania.com/wp-content/uploads/2021/01/AddText_10-23-02.40.27.jpg",
+    "fnaf": "https://hmvmania.com/wp-content/uploads/2021/01/WaifuRoll99-3D-4.-Six-nights-at-Frennis-GameLike-HMV_cover.jpg",
+    "faphero": "https://hmvmania.com/wp-content/uploads/2025/04/Untitlesdsd-1.jpg",
+    "friendjoins": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Warm-Embrace-Plus-One-Cover.jpg",
+    "furry": "https://hmvmania.com/wp-content/uploads/2021/01/WaifuRoll99-3D-4.-Six-nights-at-Frennis-GameLike-HMV_cover.jpg",
+    "futanari": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_WaifuRoll99-3D-6.-Eliza-is-HUNGRY-Tekken-HMV_cover.jpg",
+    "game-cg": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_Man_Oil-Blaster_cover.jpg",
+    "genshin-impact": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_WaifuRoll99-3D-1.-Dehya-gives-special-services-GameLike-HMV_cover.jpg",
+    "futa": "https://hmvmania.com/wp-content/uploads/2026/04/Screenshot-2026-04-12-234136.jpg",
+    "game_cg": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_WaifuRoll99-3D-6.-Eliza-is-HUNGRY-Tekken-HMV_cover.jpg",
+    "gangbang": "https://hmvmania.com/wp-content/uploads/2026/09/Espresso-Slut-HMV-Gimme-That-Load.mp4_snapshot_03.16.718.jpg",
+    "glasses": "https://secure.gravatar.com/avatar/8039b785820b9253d73fa778476224a80c52a062522e7f9edbff05d11e0ec890?s=96&d=mm&r=g",
+    "group-sex": "https://hmvmania.com/wp-content/uploads/2026/09/Espresso-Slut-HMV-Gimme-That-Load.mp4_snapshot_03.16.718.jpg",
+    "handjob": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_odechi-Endless-Handjob-01-HMV_cover.jpg",
+    "hard": "https://hmvmania.com/wp-content/uploads/2021/01/hmv_1080p_SevaXx-HMV-3_cover.jpg",
+    "harem": "https://hmvmania.com/wp-content/uploads/2026/09/Espresso-Slut-HMV-Gimme-That-Load.mp4_snapshot_03.16.718.jpg",
+    "hen": "https://hmvmania.com/wp-content/uploads/2023/01/hmv_1080p_Hentez-Christmas-Gift-Fap-Hero_cover.jpg",
+    "henetz-hmv": "https://hmvmania.com/wp-content/uploads/2023/01/hmv_1080p_Hentez-Christmas-Gift-Fap-Hero_cover.jpg",
+    "hentai": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_PockyLD-Lovehotel-Party-Flashing-Lights_cover.png",
+    "hentez": "https://hmvmania.com/wp-content/uploads/2023/01/hmv_1080p_Hentez-Christmas-Gift-Fap-Hero_cover.jpg",
+    "hu-tao": "https://hmvmania.com/wp-content/uploads/2024/09/HMV-Summer-Splash-Обложка.jpg",
+    "hentez-christmas": "https://hmvmania.com/wp-content/uploads/2023/01/hmv_1080p_Hentez-Christmas-Gift-Fap-Hero_cover.jpg",
+    "instrumental": "https://hmvmania.com/wp-content/uploads/2021/01/av1_720p_Majistoca-Nymph-Prim_cover.jpg",
+    "hmv": "https://hmvmania.com/wp-content/uploads/2026/09/Espresso-Slut-HMV-Gimme-That-Load.mp4_snapshot_03.16.718.jpg",
+    "idol": "https://hmvmania.com/wp-content/uploads/2023/11/AddText_11-22-02.12.51.jpg",
+    "maid": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Mommy-Play-Time-Son-Only-Cover.jpg",
+    "milf": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Mommy-Play-Time-Son-Only-Cover.jpg",
+    "mix-hentai": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_PockyLD-Lovehotel-Party-Flashing-Lights_cover.png",
+    "mom": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Mommy-Play-Time-Son-Only-Cover.jpg",
+    "monster": "https://hmvmania.com/wp-content/uploads/2024/10/Screenshot_0.jpg",
+    "mommy": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Mommy-Play-Time-Son-Only-Cover.jpg",
+    "mona": "https://hmvmania.com/wp-content/uploads/2024/07/Hmv-Genshin-hmv.jpg",
+    "momson": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Mommy-Play-Time-Son-Only-Cover.jpg",
+    "mother": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Mommy-Play-Time-Son-Only-Cover.jpg",
+    "petite": "https://hmvmania.com/wp-content/uploads/2021/01/AddText_06-14-10.26.50.jpg",
+    "music": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_PockyLD-Lovehotel-Party-Flashing-Lights_cover.png",
+    "penetration": "https://hmvmania.com/wp-content/uploads/2026/04/z.jpg",
+    "netorare": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANKEnbo-艶母-Mommy-7-8-9-Cover.jpg",
+    "passion": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Mommy-Play-Time-Son-Only-Cover.jpg",
+    "paizuri": "https://hmvmania.com/wp-content/uploads/2021/01/IMG_20241213_150449.jpg",
+    "ntr": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Warm-Embrace-Plus-One-Cover.jpg",
+    "rape": "https://hmvmania.com/wp-content/uploads/2021/01/g00nerztendon1tis-Cursed-HMV-1-Youve-Got-a-Friend-in-Me_cover.jpg",
+    "retro": "https://hmvmania.com/wp-content/uploads/2021/01/av1_720p_Majistoca-Angel-Harvest_cover.jpg",
+    "santa": "https://hmvmania.com/wp-content/uploads/2023/01/hmv_1080p_Hentez-Christmas-Gift-Fap-Hero_cover.jpg",
+    "sex": "https://hmvmania.com/wp-content/uploads/2021/01/Kayar-3D-Genshin-Impact-Money_cover.jpg",
+    "school": "https://hmvmania.com/wp-content/uploads/2021/01/g00nerztendon1tis-Cursed-HMV-1-Youve-Got-a-Friend-in-Me_cover.jpg",
+    "small-boob": "https://hmvmania.com/wp-content/uploads/2021/01/AddText_06-14-10.26.50.jpg",
+    "sister": "https://hmvmania.com/wp-content/uploads/2021/01/AddText_01-04-06.04.27.jpg",
+    "student": "https://hmvmania.com/wp-content/uploads/2021/01/g00nerztendon1tis-Cursed-HMV-1-Youve-Got-a-Friend-in-Me_cover.jpg",
+    "succubus": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_WaifuRoll99-3D-6.-Eliza-is-HUNGRY-Tekken-HMV_cover.jpg",
+    "taboo": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Warm-Embrace-Plus-One-Cover.jpg",
+    "teacher": "https://hmvmania.com/wp-content/uploads/2021/01/g00nerztendon1tis-Cursed-HMV-1-Youve-Got-a-Friend-in-Me_cover.jpg",
+    "tentacles": "https://hmvmania.com/wp-content/uploads/2024/10/Screenshot_0.jpg",
+    "threesome": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Warm-Embrace-Plus-One-Cover.jpg",
+    "vanilla": "https://hmvmania.com/wp-content/uploads/2021/01/IMG_20241213_150449.jpg",
+    "uncensored": "https://hmvmania.com/wp-content/uploads/2026/02/RC_TANK-Mommy-Play-Time-Son-Only-Cover.jpg",
+    "vtuber": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1280p_AMEs-HMV-UGOIRA-by-LK_cover.jpg",
+    "yuri": "https://hmvmania.com/wp-content/uploads/2021/01/AddText_11-13-11.00.20.jpg"
+  },
+  "creators": [
+    {
+      "name": "Yes_it_is_me",
+      "slug": "yes_it_is_me",
+      "count": 1,
+      "endpointPath": "/author/yes_it_is_me/",
+      "avatar": "https://secure.gravatar.com/avatar/43d098934ee123b0dbdd8d426d7dfef02defccd422f98716f85477719f8f14f1?s=150&d=mm&r=g",
+      "icon": "Icons.person_rounded",
+      "description": "Featured HMV & 3D animator Yes_it_is_me on HMV Mania (1 videos)"
+    },
+    {
+      "name": "hmvmaniac",
+      "slug": "hmvmaniac",
+      "count": 1,
+      "endpointPath": "/author/hmvmaniac/",
+      "avatar": "https://secure.gravatar.com/avatar/f762ac9d88ca739a9f66e2ea1f6ffeb64f2c2c5cbc530fa9700306c5b3af3cb3?s=150&d=mm&r=g",
+      "icon": "Icons.person_rounded",
+      "description": "Featured HMV & 3D animator hmvmaniac on HMV Mania (1 videos)"
+    },
+    {
+      "name": "Minahakuba",
+      "slug": "minahakuba",
+      "count": 1,
+      "endpointPath": "/author/minahakuba/",
+      "avatar": "https://secure.gravatar.com/avatar/e339b19b4f8de4c5ca0e1f920034d37ef81bb63891959819dc236e4194138074?s=150&d=mm&r=g",
+      "icon": "Icons.person_rounded",
+      "description": "Featured HMV & 3D animator Minahakuba on HMV Mania (1 videos)"
+    },
+    {
+      "name": "BigDaddy",
+      "slug": "bigdaddy",
+      "count": 1,
+      "endpointPath": "/author/bigdaddy/",
+      "avatar": "https://secure.gravatar.com/avatar/d26dfb4f13e2c0356f3230b1230451ddfc99587431fd5cc5d92e93f3b412f865?s=150&d=mm&r=g",
+      "icon": "Icons.person_rounded",
+      "description": "Featured HMV & 3D animator BigDaddy on HMV Mania (1 videos)"
+    },
+    {
+      "name": "Loading",
+      "slug": "loading",
+      "count": 1,
+      "endpointPath": "/author/loading/",
+      "avatar": "https://secure.gravatar.com/avatar/c4a5c10a378cfa02baafca1083bebb776a2351218b2bc9fedfd0eb280e3ba27d?s=150&d=mm&r=g",
+      "icon": "Icons.person_rounded",
+      "description": "Featured HMV & 3D animator Loading on HMV Mania (1 videos)"
+    },
+    {
+      "name": "NTRfella",
+      "slug": "ntrfella",
+      "count": 1,
+      "endpointPath": "/author/ntrfella/",
+      "avatar": "https://secure.gravatar.com/avatar/78d486b2d529f2125969ff2f59d5f376da1b8de4c8c7f69b806a913eef174036?s=150&d=mm&r=g",
+      "icon": "Icons.person_rounded",
+      "description": "Featured HMV & 3D animator NTRfella on HMV Mania (1 videos)"
+    },
+    {
+      "name": "EchobunnyMV",
+      "slug": "echobunnymv",
+      "count": 1,
+      "endpointPath": "/author/echobunnymv/",
+      "avatar": "https://secure.gravatar.com/avatar/a9487366f5fa920d5537280fc337235e3db598a562315b24304b4f2f95c1fd88?s=150&d=mm&r=g",
+      "icon": "Icons.person_rounded",
+      "description": "Featured HMV & 3D animator EchobunnyMV on HMV Mania (1 videos)"
+    },
+    {
+      "name": "boyxteen99",
+      "slug": "boyxteen99",
+      "count": 1,
+      "endpointPath": "/author/boyxteen99/",
+      "avatar": "https://secure.gravatar.com/avatar/1183ec1a9989d917f0abce3249c68afd30f5bec13dee45c2b8a2df286addc538?s=150&d=mm&r=g",
+      "icon": "Icons.person_rounded",
+      "description": "Featured HMV & 3D animator boyxteen99 on HMV Mania (1 videos)"
+    },
+    {
+      "name": "Albinohawk",
+      "slug": "albinohawk",
+      "count": 1,
+      "endpointPath": "/author/albinohawk/",
+      "avatar": "https://secure.gravatar.com/avatar/46e654e3a38e77c676750d7b04afe3f93ee18fe8b30506075f9b5dabbd4598e4?s=150&d=mm&r=g",
+      "icon": "Icons.person_rounded",
+      "description": "Featured HMV & 3D animator Albinohawk on HMV Mania (1 videos)"
+    },
+    {
+      "name": "nirva the maid",
+      "slug": "nirva-the-maid",
+      "count": 1,
+      "endpointPath": "/author/nirva-the-maid/",
+      "avatar": "https://secure.gravatar.com/avatar/295aad1d38489895bba2ae46383a22a67d807467a5d7637c661659e51713a888?s=150&d=mm&r=g",
+      "icon": "Icons.person_rounded",
+      "description": "Featured HMV & 3D animator nirva the maid on HMV Mania (1 videos)"
+    },
+    {
+      "name": "Mocha",
+      "slug": "mocha",
+      "count": 1,
+      "endpointPath": "/author/mocha/",
+      "avatar": "https://secure.gravatar.com/avatar/deaecf74ee3af309225de0734be7a7bda42d8493638a1f656efb22b9da17067a?s=150&d=mm&r=g",
+      "icon": "Icons.person_rounded",
+      "description": "Featured HMV & 3D animator Mocha on HMV Mania (1 videos)"
+    },
+    {
+      "name": "Ruono",
+      "slug": "ruono",
+      "count": 1,
+      "endpointPath": "/author/ruono/",
+      "avatar": "https://secure.gravatar.com/avatar/6eb0a90bee25649373375f32c5c9287048afc573986274f4faeb346a57970222?s=150&d=mm&r=g",
+      "icon": "Icons.person_rounded",
+      "description": "Featured HMV & 3D animator Ruono on HMV Mania (1 videos)"
+    },
+    {
+      "name": "EternalHMV",
+      "slug": "eternalhmv",
+      "count": 1,
+      "endpointPath": "/author/eternalhmv/",
+      "avatar": "https://secure.gravatar.com/avatar/aa1770c086e7163283f9d34826a6a4c7d320a38fb3a4ce35eae3f9d90e853d69?s=150&d=mm&r=g",
+      "icon": "Icons.person_rounded",
+      "description": "Featured HMV & 3D animator EternalHMV on HMV Mania (1 videos)"
+    },
+    {
+      "name": "HMV only",
+      "slug": "hmv-only",
+      "count": 1,
+      "endpointPath": "/author/hmv-only/",
+      "avatar": "https://secure.gravatar.com/avatar/96a2b66d7eaeee940dd45bfc970bc4986cccb32ed5bfa90c32cfcb197cb5e9e9?s=150&d=mm&r=g",
+      "icon": "Icons.person_rounded",
+      "description": "Featured HMV & 3D animator HMV only on HMV Mania (1 videos)"
+    },
+    {
+      "name": "RacoonMega",
+      "slug": "racoonmega",
+      "count": 1,
+      "endpointPath": "/author/racoonmega/",
+      "avatar": "https://secure.gravatar.com/avatar/a765cf21fe47408d6b3b6c565859f8b75a91f2c43360e2331964cf0911a97e31?s=150&d=mm&r=g",
+      "icon": "Icons.person_rounded",
+      "description": "Featured HMV & 3D animator RacoonMega on HMV Mania (1 videos)"
+    },
+    {
+      "name": "MaruTheJap",
+      "slug": "maruthejap",
+      "count": 1,
+      "endpointPath": "/author/maruthejap/",
+      "avatar": "https://secure.gravatar.com/avatar/53ddb5327019698839c17114f29663bd81e01b27024c94f9c1e8b843ee24d82f?s=150&d=mm&r=g",
+      "icon": "Icons.person_rounded",
+      "description": "Featured HMV & 3D animator MaruTheJap on HMV Mania (1 videos)"
+    },
+    {
+      "name": "PENADA",
+      "slug": "penada",
+      "count": 1,
+      "endpointPath": "/author/penada/",
+      "avatar": "https://secure.gravatar.com/avatar/8856f21c1bd2c8d916cc881ad958221a986f1e9c186691353942c6983edd75b1?s=150&d=mm&r=g",
+      "icon": "Icons.person_rounded",
+      "description": "Featured HMV & 3D animator PENADA on HMV Mania (1 videos)"
+    },
+    {
+      "name": "MiuAlterego",
+      "slug": "miualterego",
+      "count": 1,
+      "endpointPath": "/author/miualterego/",
+      "avatar": "https://secure.gravatar.com/avatar/29e0286fb8655506cc7366160965a38bd6bd54836662e8d6d794c98f2c54aabd?s=150&d=mm&r=g",
+      "icon": "Icons.person_rounded",
+      "description": "Featured HMV & 3D animator MiuAlterego on HMV Mania (1 videos)"
+    },
+    {
+      "name": "carcb07",
+      "slug": "carcb07",
+      "count": 1,
+      "endpointPath": "/author/carcb07/",
+      "avatar": "https://secure.gravatar.com/avatar/f11cc846ec61f3ad78c79049f13431fdd96d0c8f2a0d887401e156f0862f7735?s=150&d=mm&r=g",
+      "icon": "Icons.person_rounded",
+      "description": "Featured HMV & 3D animator carcb07 on HMV Mania (1 videos)"
+    },
+    {
+      "name": "God Firiel",
+      "slug": "god-firiel",
+      "count": 1,
+      "endpointPath": "/author/god-firiel/",
+      "avatar": "https://secure.gravatar.com/avatar/85d510633126c20c8ed5c078ae5d5193d1110ef179d48218ac28745a0a833967?s=150&d=mm&r=g",
+      "icon": "Icons.person_rounded",
+      "description": "Featured HMV & 3D animator God Firiel on HMV Mania (1 videos)"
+    },
+    {
+      "name": "bin6142",
+      "slug": "bin6142",
+      "count": 1,
+      "endpointPath": "/author/bin6142/",
+      "avatar": "https://secure.gravatar.com/avatar/4c610b874d4f8a7f54ff56cf52e15c9557726404e4b8032d79b513baa49eeff9?s=150&d=mm&r=g",
+      "icon": "Icons.person_rounded",
+      "description": "Featured HMV & 3D animator bin6142 on HMV Mania (1 videos)"
+    },
+    {
+      "name": "Goblin Lord",
+      "slug": "goblin-lord",
+      "count": 1,
+      "endpointPath": "/author/goblin-lord/",
+      "avatar": "https://secure.gravatar.com/avatar/c4434c72783282d68b7108a6ac06d03ef848cea07bea332b73e3892cc9732231?s=150&d=mm&r=g",
+      "icon": "Icons.person_rounded",
+      "description": "Featured HMV & 3D animator Goblin Lord on HMV Mania (1 videos)"
+    },
+    {
+      "name": "Darkness",
+      "slug": "darkness",
+      "count": 1,
+      "endpointPath": "/author/darkness/",
+      "avatar": "https://secure.gravatar.com/avatar/97779d482882c063afbe5958a3b2583f884717886070532813d48a756126edcc?s=150&d=mm&r=g",
+      "icon": "Icons.person_rounded",
+      "description": "Featured HMV & 3D animator Darkness on HMV Mania (1 videos)"
+    },
+    {
+      "name": "jpdapadp",
+      "slug": "jpdapadp",
+      "count": 1,
+      "endpointPath": "/author/jpdapadp/",
+      "avatar": "https://secure.gravatar.com/avatar/2c118ff962aecaf29e01e7d9ff237473b0e31ce6f10907e4fe19f9237f60215d?s=150&d=mm&r=g",
+      "icon": "Icons.person_rounded",
+      "description": "Featured HMV & 3D animator jpdapadp on HMV Mania (1 videos)"
+    },
+    {
+      "name": "ph0bos_tw",
+      "slug": "ph0bos_tw",
+      "count": 1,
+      "endpointPath": "/author/ph0bos_tw/",
+      "avatar": "https://secure.gravatar.com/avatar/417aa3b29b784d3ad0c1d35718970fed48e32c98698ba0fa75ee3cca44661748?s=150&d=mm&r=g",
+      "icon": "Icons.person_rounded",
+      "description": "Featured HMV & 3D animator ph0bos_tw on HMV Mania (1 videos)"
+    }
+  ]
+}

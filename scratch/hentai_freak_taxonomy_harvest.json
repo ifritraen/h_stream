@@ -1,0 +1,1156 @@
+{
+  "extension": "hentai_freak",
+  "name": "HentaiFreak",
+  "baseUrl": "https://hentaifreak.org",
+  "probe": {
+    "https://hentaifreak.org/genres": 200,
+    "https://hentaifreak.org/tags": 200,
+    "https://hentaifreak.org/categories": 200,
+    "https://hentaifreak.org/pick-your-drug/": 200,
+    "https://hentaifreak.org/view-all-series/": 200
+  },
+  "categories": [
+    {
+      "name": "Freak Latest",
+      "slug": "latest",
+      "path": "/",
+      "count": 2241,
+      "desc": "Recently added multi-mirror anime stream releases",
+      "group": "Browse",
+      "icon": "Icons.fiber_new_rounded"
+    },
+    {
+      "name": "Popular Series",
+      "slug": "popular",
+      "path": "/popular/",
+      "count": 1850,
+      "desc": "Most watched and highest rated anime series on HentaiFreak",
+      "group": "Browse",
+      "icon": "Icons.whatshot_rounded"
+    },
+    {
+      "name": "Uncensored Freak",
+      "slug": "uncensored-hentai",
+      "path": "/tags/uncensored-hentai/",
+      "count": 803,
+      "desc": "Uncensored anime streaming cuts without mosaic censorship",
+      "group": "Censorship",
+      "icon": "Icons.lock_open_rounded"
+    },
+    {
+      "name": "3D Freak",
+      "slug": "3d",
+      "path": "/tags/3d/",
+      "count": 102,
+      "desc": "3D CGI animated renders, Blender, SFM, and MMD animations",
+      "group": "Format",
+      "icon": "Icons.animation_rounded"
+    },
+    {
+      "name": "Action Genre",
+      "slug": "action",
+      "path": "/tags/action/",
+      "count": 153,
+      "desc": "High-octane action, ninja, supernatural battle, and combat series",
+      "group": "Genre",
+      "icon": "Icons.bolt_rounded"
+    },
+    {
+      "name": "Full 1080P HD",
+      "slug": "1080p",
+      "path": "/tags/1080p/",
+      "count": 330,
+      "desc": "Ultra-crisp 1080p high bitrate anime streams",
+      "group": "Quality",
+      "icon": "Icons.hd_rounded"
+    },
+    {
+      "name": "Exclusive Releases",
+      "slug": "exclusive",
+      "path": "/tags/exclusive/",
+      "count": 621,
+      "desc": "HentaiFreak exclusive multi-mirror web releases",
+      "group": "Browse",
+      "icon": "Icons.star_rounded"
+    },
+    {
+      "name": "Big Boobs",
+      "slug": "big-boobs",
+      "path": "/tags/big-boobs/",
+      "count": 1668,
+      "desc": "Curvy heroines with voluptuous proportions",
+      "group": "Character",
+      "icon": "Icons.lens_blur_rounded"
+    },
+    {
+      "name": "Blow Job",
+      "slug": "blow-job",
+      "path": "/tags/blow-job/",
+      "count": 1658,
+      "desc": "Sensual oral pleasure and throat play",
+      "group": "Trope",
+      "icon": "Icons.face_rounded"
+    },
+    {
+      "name": "Creampie",
+      "slug": "creampie",
+      "path": "/tags/creampie/",
+      "count": 1536,
+      "desc": "Internal climax and breeding climaxes",
+      "group": "Trope",
+      "icon": "Icons.water_drop_rounded"
+    },
+    {
+      "name": "School Girl",
+      "slug": "school-girl",
+      "path": "/tags/school-girl/",
+      "count": 875,
+      "desc": "Classroom romances, school uniforms, and academy tales",
+      "group": "Character",
+      "icon": "Icons.school_rounded"
+    },
+    {
+      "name": "Harem",
+      "slug": "harem",
+      "path": "/tags/harem/",
+      "count": 583,
+      "desc": "Surrounded by multiple passionate and adoring waifus",
+      "group": "Trope",
+      "icon": "Icons.groups_rounded"
+    },
+    {
+      "name": "Bondage & BDSM",
+      "slug": "bondage",
+      "path": "/tags/bondage/",
+      "count": 576,
+      "desc": "Rope bondage, submission, restraints, and kink",
+      "group": "Trope",
+      "icon": "Icons.link_rounded"
+    },
+    {
+      "name": "Yuri Romance",
+      "slug": "yuri",
+      "path": "/tags/yuri/",
+      "count": 427,
+      "desc": "Passionate girl-on-girl yuri intimacy and romance",
+      "group": "Genre",
+      "icon": "Icons.favorite_rounded"
+    },
+    {
+      "name": "Vanilla Love",
+      "slug": "vanilla",
+      "path": "/tags/vanilla/",
+      "count": 421,
+      "desc": "Pure wholesome consensual loving relationships",
+      "group": "Genre",
+      "icon": "Icons.favorite_border_rounded"
+    },
+    {
+      "name": "Milf & Housewives",
+      "slug": "milf",
+      "path": "/tags/milf/",
+      "count": 369,
+      "desc": "Mature women, stepmothers, neighbors, and housewives",
+      "group": "Character",
+      "icon": "Icons.woman_rounded"
+    },
+    {
+      "name": "Ahegao",
+      "slug": "ahegao-hentai",
+      "path": "/tags/ahegao-hentai/",
+      "count": 403,
+      "desc": "Ecstatic crossed-eye ahegao facial expressions",
+      "group": "Trope",
+      "icon": "Icons.sentiment_satisfied_alt_rounded"
+    },
+    {
+      "name": "Threesome",
+      "slug": "threesome",
+      "path": "/tags/threesome/",
+      "count": 350,
+      "desc": "Trio encounters and ménage à trois excitement",
+      "group": "Trope",
+      "icon": "Icons.group_work_rounded"
+    },
+    {
+      "name": "Virgin Defloration",
+      "slug": "virgin",
+      "path": "/tags/virgin/",
+      "count": 691,
+      "desc": "First time experiences and sweet defloration",
+      "group": "Trope",
+      "icon": "Icons.favorite_rounded"
+    },
+    {
+      "name": "All Series Directory",
+      "slug": "view-all-series",
+      "path": "/view-all-series/",
+      "count": 955,
+      "desc": "Complete alphabetical catalog index of all archived series",
+      "group": "Browse",
+      "icon": "Icons.video_library_rounded"
+    }
+  ],
+  "covers": {
+    "latest": "https://media.hentaifreak.org/shion-episode-2.jpg",
+    "popular": "https://media.hentaifreak.org/words-worth-episode-3.jpg",
+    "uncensored-hentai": "https://media.hentaifreak.org/media/HF-3d-hentai-collection-8-pv.png",
+    "3d": "https://media.hentaifreak.org/media/HF-3d-hentai-collection-8-pv.png",
+    "action": "https://media.hentaifreak.org/2017/05/angel-blade-punish-episode-2.jpg",
+    "1080p": "https://media.hentaifreak.org/media/mesudachi-episode-2-pv.png",
+    "exclusive": "https://media.hentaifreak.org/boku-wa-chiisana-succubus-no-shimobe-episode-1.jpg",
+    "big-boobs": "https://media.hentaifreak.org/media/HF-3d-hentai-collection-8-pv.png",
+    "blow-job": "https://media.hentaifreak.org/media/HF-3d-hentai-collection-8-pv.png",
+    "creampie": "https://media.hentaifreak.org/media/HF-3d-hentai-collection-8-pv.png",
+    "school-girl": "https://media.hentaifreak.org/media/delusion-pv.png",
+    "harem": "https://media.hentaifreak.org/eroge-de-subete-wa-kaiketsu-dekiru-2-pv1-e1675324702139.webp",
+    "bondage": "https://media.hentaifreak.org/media/Resident-Evil-Carnal-Submission-pv.png",
+    "yuri": "https://media.hentaifreak.org/media/HF-3d-hentai-collection-8-pv.png",
+    "vanilla": "https://media.hentaifreak.org/shishunki-no-obenkyou-episode-3.jpg",
+    "milf": "https://media.hentaifreak.org/media/HF-3d-hentai-collection-7-pv.png",
+    "ahegao-hentai": "https://media.hentaifreak.org/media/demon-worship-rachel-pv.png",
+    "threesome": "https://media.hentaifreak.org/media/HF-3d-hentai-collection-8-pv.png",
+    "virgin": "https://media.hentaifreak.org/eroriman-2-episode-1.webp",
+    "view-all-series": "https://media.hentaifreak.org/media/HF-3d-hentai-collection-8-pv.png"
+  },
+  "tags": [
+    {
+      "name": "AANIX",
+      "slug": "aanix",
+      "count": 1,
+      "endpointPath": "/tags/aanix/",
+      "url": "https://hentaifreak.org/tags/aanix/"
+    },
+    {
+      "name": "Ahegao",
+      "slug": "ahegao-hentai",
+      "count": 403,
+      "endpointPath": "/tags/ahegao-hentai/",
+      "url": "https://hentaifreak.org/tags/ahegao-hentai/"
+    },
+    {
+      "name": "Alien",
+      "slug": "alien",
+      "count": 4,
+      "endpointPath": "/tags/alien/",
+      "url": "https://hentaifreak.org/tags/alien/"
+    },
+    {
+      "name": "Amelialtie",
+      "slug": "amelialtie",
+      "count": 1,
+      "endpointPath": "/tags/amelialtie/",
+      "url": "https://hentaifreak.org/tags/amelialtie/"
+    },
+    {
+      "name": "Anal",
+      "slug": "anal",
+      "count": 679,
+      "endpointPath": "/tags/anal/",
+      "url": "https://hentaifreak.org/tags/anal/"
+    },
+    {
+      "name": "BDSM",
+      "slug": "bdsm",
+      "count": 207,
+      "endpointPath": "/tags/bdsm/",
+      "url": "https://hentaifreak.org/tags/bdsm/"
+    },
+    {
+      "name": "Big Ass",
+      "slug": "big-ass",
+      "count": 36,
+      "endpointPath": "/tags/big-ass/",
+      "url": "https://hentaifreak.org/tags/big-ass/"
+    },
+    {
+      "name": "Big Boobs",
+      "slug": "big-boobs",
+      "count": 1668,
+      "endpointPath": "/tags/big-boobs/",
+      "url": "https://hentaifreak.org/tags/big-boobs/"
+    },
+    {
+      "name": "Blackmail",
+      "slug": "blackmail",
+      "count": 16,
+      "endpointPath": "/tags/blackmail/",
+      "url": "https://hentaifreak.org/tags/blackmail/"
+    },
+    {
+      "name": "Blow Job",
+      "slug": "blow-job",
+      "count": 1658,
+      "endpointPath": "/tags/blow-job/",
+      "url": "https://hentaifreak.org/tags/blow-job/"
+    },
+    {
+      "name": "Bondage",
+      "slug": "bondage",
+      "count": 576,
+      "endpointPath": "/tags/bondage/",
+      "url": "https://hentaifreak.org/tags/bondage/"
+    },
+    {
+      "name": "Boob Job",
+      "slug": "boob-job",
+      "count": 771,
+      "endpointPath": "/tags/boob-job/",
+      "url": "https://hentaifreak.org/tags/boob-job/"
+    },
+    {
+      "name": "Cheating",
+      "slug": "cheating",
+      "count": 1,
+      "endpointPath": "/tags/cheating/",
+      "url": "https://hentaifreak.org/tags/cheating/"
+    },
+    {
+      "name": "CHRS",
+      "slug": "chrs",
+      "count": 1,
+      "endpointPath": "/tags/chrs/",
+      "url": "https://hentaifreak.org/tags/chrs/"
+    },
+    {
+      "name": "Chubby",
+      "slug": "chubby",
+      "count": 9,
+      "endpointPath": "/tags/chubby/",
+      "url": "https://hentaifreak.org/tags/chubby/"
+    },
+    {
+      "name": "Cockman Pictures",
+      "slug": "cockman-pictures",
+      "count": 2,
+      "endpointPath": "/tags/cockman-pictures/",
+      "url": "https://hentaifreak.org/tags/cockman-pictures/"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy",
+      "count": 241,
+      "endpointPath": "/tags/comedy/",
+      "url": "https://hentaifreak.org/tags/comedy/"
+    },
+    {
+      "name": "Cosplay",
+      "slug": "cosplay",
+      "count": 275,
+      "endpointPath": "/tags/cosplay/",
+      "url": "https://hentaifreak.org/tags/cosplay/"
+    },
+    {
+      "name": "Creampie",
+      "slug": "creampie",
+      "count": 1536,
+      "endpointPath": "/tags/creampie/",
+      "url": "https://hentaifreak.org/tags/creampie/"
+    },
+    {
+      "name": "Dark Skin",
+      "slug": "dark-skin",
+      "count": 24,
+      "endpointPath": "/tags/dark-skin/",
+      "url": "https://hentaifreak.org/tags/dark-skin/"
+    },
+    {
+      "name": "Deep Throat",
+      "slug": "deep-throat",
+      "count": 14,
+      "endpointPath": "/tags/deep-throat/",
+      "url": "https://hentaifreak.org/tags/deep-throat/"
+    },
+    {
+      "name": "Demon",
+      "slug": "demon",
+      "count": 60,
+      "endpointPath": "/tags/demon/",
+      "url": "https://hentaifreak.org/tags/demon/"
+    },
+    {
+      "name": "DeZmall",
+      "slug": "dezmall",
+      "count": 1,
+      "endpointPath": "/tags/dezmall/",
+      "url": "https://hentaifreak.org/tags/dezmall/"
+    },
+    {
+      "name": "Doctor",
+      "slug": "doctor",
+      "count": 1,
+      "endpointPath": "/tags/doctor/",
+      "url": "https://hentaifreak.org/tags/doctor/"
+    },
+    {
+      "name": "Double Penetration",
+      "slug": "double-penetration",
+      "count": 125,
+      "endpointPath": "/tags/double-penetration/",
+      "url": "https://hentaifreak.org/tags/double-penetration/"
+    },
+    {
+      "name": "Dubbed Hentai",
+      "slug": "dubbed-hentai",
+      "count": 229,
+      "endpointPath": "/tags/dubbed-hentai/",
+      "url": "https://hentaifreak.org/tags/dubbed-hentai/"
+    },
+    {
+      "name": "Elf",
+      "slug": "elf",
+      "count": 1,
+      "endpointPath": "/tags/elf/",
+      "url": "https://hentaifreak.org/tags/elf/"
+    },
+    {
+      "name": "Exclusive",
+      "slug": "exclusive",
+      "count": 621,
+      "endpointPath": "/tags/exclusive/",
+      "url": "https://hentaifreak.org/tags/exclusive/"
+    },
+    {
+      "name": "Facial",
+      "slug": "facial",
+      "count": 807,
+      "endpointPath": "/tags/facial/",
+      "url": "https://hentaifreak.org/tags/facial/"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "count": 63,
+      "endpointPath": "/tags/fantasy/",
+      "url": "https://hentaifreak.org/tags/fantasy/"
+    },
+    {
+      "name": "Femdom",
+      "slug": "femdom",
+      "count": 13,
+      "endpointPath": "/tags/femdom/",
+      "url": "https://hentaifreak.org/tags/femdom/"
+    },
+    {
+      "name": "Filmed",
+      "slug": "filmed",
+      "count": 202,
+      "endpointPath": "/tags/filmed/",
+      "url": "https://hentaifreak.org/tags/filmed/"
+    },
+    {
+      "name": "Fingering",
+      "slug": "fingering",
+      "count": 33,
+      "endpointPath": "/tags/fingering/",
+      "url": "https://hentaifreak.org/tags/fingering/"
+    },
+    {
+      "name": "Fisting",
+      "slug": "fisting",
+      "count": 2,
+      "endpointPath": "/tags/fisting/",
+      "url": "https://hentaifreak.org/tags/fisting/"
+    },
+    {
+      "name": "Foot Job",
+      "slug": "foot-job",
+      "count": 82,
+      "endpointPath": "/tags/foot-job/",
+      "url": "https://hentaifreak.org/tags/foot-job/"
+    },
+    {
+      "name": "Furry",
+      "slug": "furry",
+      "count": 1,
+      "endpointPath": "/tags/furry/",
+      "url": "https://hentaifreak.org/tags/furry/"
+    },
+    {
+      "name": "Futanari",
+      "slug": "futanari-1",
+      "count": 117,
+      "endpointPath": "/tags/futanari-1/",
+      "url": "https://hentaifreak.org/tags/futanari-1/"
+    },
+    {
+      "name": "Game",
+      "slug": "game",
+      "count": 7,
+      "endpointPath": "/tags/game/",
+      "url": "https://hentaifreak.org/tags/game/"
+    },
+    {
+      "name": "Gangbang",
+      "slug": "gangbang",
+      "count": 450,
+      "endpointPath": "/tags/gangbang/",
+      "url": "https://hentaifreak.org/tags/gangbang/"
+    },
+    {
+      "name": "Gender Bender",
+      "slug": "gender-bender-2",
+      "count": 9,
+      "endpointPath": "/tags/gender-bender-2/",
+      "url": "https://hentaifreak.org/tags/gender-bender-2/"
+    },
+    {
+      "name": "Ghost",
+      "slug": "ghost",
+      "count": 8,
+      "endpointPath": "/tags/ghost/",
+      "url": "https://hentaifreak.org/tags/ghost/"
+    },
+    {
+      "name": "Glasses",
+      "slug": "glasses",
+      "count": 76,
+      "endpointPath": "/tags/glasses/",
+      "url": "https://hentaifreak.org/tags/glasses/"
+    },
+    {
+      "name": "Golden Shower",
+      "slug": "golden-shower",
+      "count": 230,
+      "endpointPath": "/tags/golden-shower/",
+      "url": "https://hentaifreak.org/tags/golden-shower/"
+    },
+    {
+      "name": "Hand Job",
+      "slug": "hand-job",
+      "count": 364,
+      "endpointPath": "/tags/hand-job/",
+      "url": "https://hentaifreak.org/tags/hand-job/"
+    },
+    {
+      "name": "Harem",
+      "slug": "harem",
+      "count": 583,
+      "endpointPath": "/tags/harem/",
+      "url": "https://hentaifreak.org/tags/harem/"
+    },
+    {
+      "name": "HentaiHaven",
+      "slug": "hentaihaven",
+      "count": 303,
+      "endpointPath": "/tags/hentaihaven/",
+      "url": "https://hentaifreak.org/tags/hentaihaven/"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror",
+      "count": 118,
+      "endpointPath": "/tags/horror/",
+      "url": "https://hentaifreak.org/tags/horror/"
+    },
+    {
+      "name": "Huge Boobs",
+      "slug": "huge-boobs",
+      "count": 23,
+      "endpointPath": "/tags/huge-boobs/",
+      "url": "https://hentaifreak.org/tags/huge-boobs/"
+    },
+    {
+      "name": "Hypnosis",
+      "slug": "hypnosis",
+      "count": 3,
+      "endpointPath": "/tags/hypnosis/",
+      "url": "https://hentaifreak.org/tags/hypnosis/"
+    },
+    {
+      "name": "Idemi",
+      "slug": "idemi",
+      "count": 4,
+      "endpointPath": "/tags/idemi/",
+      "url": "https://hentaifreak.org/tags/idemi/"
+    },
+    {
+      "name": "Idol",
+      "slug": "idol",
+      "count": 2,
+      "endpointPath": "/tags/idol/",
+      "url": "https://hentaifreak.org/tags/idol/"
+    },
+    {
+      "name": "Impregnation",
+      "slug": "impregnation",
+      "count": 4,
+      "endpointPath": "/tags/impregnation/",
+      "url": "https://hentaifreak.org/tags/impregnation/"
+    },
+    {
+      "name": "Incest",
+      "slug": "incest",
+      "count": 463,
+      "endpointPath": "/tags/incest/",
+      "url": "https://hentaifreak.org/tags/incest/"
+    },
+    {
+      "name": "Inflation",
+      "slug": "inflation",
+      "count": 60,
+      "endpointPath": "/tags/inflation/",
+      "url": "https://hentaifreak.org/tags/inflation/"
+    },
+    {
+      "name": "Inhuman",
+      "slug": "inhuman",
+      "count": 4,
+      "endpointPath": "/tags/inhuman/",
+      "url": "https://hentaifreak.org/tags/inhuman/"
+    },
+    {
+      "name": "Jackerman",
+      "slug": "jackerman",
+      "count": 1,
+      "endpointPath": "/tags/jackerman/",
+      "url": "https://hentaifreak.org/tags/jackerman/"
+    },
+    {
+      "name": "Kemonomimi",
+      "slug": "kemonomimi",
+      "count": 19,
+      "endpointPath": "/tags/kemonomimi/",
+      "url": "https://hentaifreak.org/tags/kemonomimi/"
+    },
+    {
+      "name": "Lactation",
+      "slug": "lactation",
+      "count": 94,
+      "endpointPath": "/tags/lactation/",
+      "url": "https://hentaifreak.org/tags/lactation/"
+    },
+    {
+      "name": "Licking",
+      "slug": "licking",
+      "count": 529,
+      "endpointPath": "/tags/licking/",
+      "url": "https://hentaifreak.org/tags/licking/"
+    },
+    {
+      "name": "Loli",
+      "slug": "loli",
+      "count": 330,
+      "endpointPath": "/tags/loli/",
+      "url": "https://hentaifreak.org/tags/loli/"
+    },
+    {
+      "name": "MaFaVaM",
+      "slug": "mafavam",
+      "count": 3,
+      "endpointPath": "/tags/mafavam/",
+      "url": "https://hentaifreak.org/tags/mafavam/"
+    },
+    {
+      "name": "Maid",
+      "slug": "maid",
+      "count": 178,
+      "endpointPath": "/tags/maid/",
+      "url": "https://hentaifreak.org/tags/maid/"
+    },
+    {
+      "name": "Marathon",
+      "slug": "marathon",
+      "count": 2,
+      "endpointPath": "/tags/marathon/",
+      "url": "https://hentaifreak.org/tags/marathon/"
+    },
+    {
+      "name": "Masturbation",
+      "slug": "masturbation",
+      "count": 441,
+      "endpointPath": "/tags/masturbation/",
+      "url": "https://hentaifreak.org/tags/masturbation/"
+    },
+    {
+      "name": "Milf",
+      "slug": "milf",
+      "count": 369,
+      "endpointPath": "/tags/milf/",
+      "url": "https://hentaifreak.org/tags/milf/"
+    },
+    {
+      "name": "Mind Break",
+      "slug": "mind-break",
+      "count": 200,
+      "endpointPath": "/tags/mind-break/",
+      "url": "https://hentaifreak.org/tags/mind-break/"
+    },
+    {
+      "name": "Mind Control",
+      "slug": "mind-control",
+      "count": 201,
+      "endpointPath": "/tags/mind-control/",
+      "url": "https://hentaifreak.org/tags/mind-control/"
+    },
+    {
+      "name": "Misthios Arc",
+      "slug": "misthios-arc",
+      "count": 1,
+      "endpointPath": "/tags/misthios-arc/",
+      "url": "https://hentaifreak.org/tags/misthios-arc/"
+    },
+    {
+      "name": "MMD",
+      "slug": "mmd",
+      "count": 1,
+      "endpointPath": "/tags/mmd/",
+      "url": "https://hentaifreak.org/tags/mmd/"
+    },
+    {
+      "name": "Monster",
+      "slug": "monster",
+      "count": 243,
+      "endpointPath": "/tags/monster/",
+      "url": "https://hentaifreak.org/tags/monster/"
+    },
+    {
+      "name": "Netorare",
+      "slug": "netorare",
+      "count": 182,
+      "endpointPath": "/tags/netorare/",
+      "url": "https://hentaifreak.org/tags/netorare/"
+    },
+    {
+      "name": "Nikovako",
+      "slug": "nikovako",
+      "count": 1,
+      "endpointPath": "/tags/nikovako/",
+      "url": "https://hentaifreak.org/tags/nikovako/"
+    },
+    {
+      "name": "Nillin3D",
+      "slug": "nillin3d",
+      "count": 1,
+      "endpointPath": "/tags/nillin3d/",
+      "url": "https://hentaifreak.org/tags/nillin3d/"
+    },
+    {
+      "name": "NTR",
+      "slug": "ntr",
+      "count": 8,
+      "endpointPath": "/tags/ntr/",
+      "url": "https://hentaifreak.org/tags/ntr/"
+    },
+    {
+      "name": "NumericGazer",
+      "slug": "numericgazer",
+      "count": 2,
+      "endpointPath": "/tags/numericgazer/",
+      "url": "https://hentaifreak.org/tags/numericgazer/"
+    },
+    {
+      "name": "Nurse",
+      "slug": "nurse",
+      "count": 86,
+      "endpointPath": "/tags/nurse/",
+      "url": "https://hentaifreak.org/tags/nurse/"
+    },
+    {
+      "name": "Office",
+      "slug": "office",
+      "count": 1,
+      "endpointPath": "/tags/office/",
+      "url": "https://hentaifreak.org/tags/office/"
+    },
+    {
+      "name": "Orgy",
+      "slug": "orgy",
+      "count": 195,
+      "endpointPath": "/tags/orgy/",
+      "url": "https://hentaifreak.org/tags/orgy/"
+    },
+    {
+      "name": "Overwatch",
+      "slug": "overwatch",
+      "count": 10,
+      "endpointPath": "/tags/overwatch/",
+      "url": "https://hentaifreak.org/tags/overwatch/"
+    },
+    {
+      "name": "Parkingbelt",
+      "slug": "parkingbelt",
+      "count": 1,
+      "endpointPath": "/tags/parkingbelt/",
+      "url": "https://hentaifreak.org/tags/parkingbelt/"
+    },
+    {
+      "name": "Plot",
+      "slug": "plot",
+      "count": 632,
+      "endpointPath": "/tags/plot/",
+      "url": "https://hentaifreak.org/tags/plot/"
+    },
+    {
+      "name": "PMMSFM",
+      "slug": "pmmsfm",
+      "count": 7,
+      "endpointPath": "/tags/pmmsfm/",
+      "url": "https://hentaifreak.org/tags/pmmsfm/"
+    },
+    {
+      "name": "Portrait",
+      "slug": "portrait",
+      "count": 2,
+      "endpointPath": "/tags/portrait/",
+      "url": "https://hentaifreak.org/tags/portrait/"
+    },
+    {
+      "name": "POV",
+      "slug": "pov",
+      "count": 116,
+      "endpointPath": "/tags/pov/",
+      "url": "https://hentaifreak.org/tags/pov/"
+    },
+    {
+      "name": "Pregnant",
+      "slug": "pregnant",
+      "count": 65,
+      "endpointPath": "/tags/pregnant/",
+      "url": "https://hentaifreak.org/tags/pregnant/"
+    },
+    {
+      "name": "Public Sex",
+      "slug": "public-sex",
+      "count": 691,
+      "endpointPath": "/tags/public-sex/",
+      "url": "https://hentaifreak.org/tags/public-sex/"
+    },
+    {
+      "name": "Rape",
+      "slug": "rape",
+      "count": 981,
+      "endpointPath": "/tags/rape/",
+      "url": "https://hentaifreak.org/tags/rape/"
+    },
+    {
+      "name": "Raw",
+      "slug": "raw",
+      "count": 5,
+      "endpointPath": "/tags/raw/",
+      "url": "https://hentaifreak.org/tags/raw/"
+    },
+    {
+      "name": "Redmoa",
+      "slug": "redmoa",
+      "count": 4,
+      "endpointPath": "/tags/redmoa/",
+      "url": "https://hentaifreak.org/tags/redmoa/"
+    },
+    {
+      "name": "Reverse Rape",
+      "slug": "reverse-rape",
+      "count": 84,
+      "endpointPath": "/tags/reverse-rape/",
+      "url": "https://hentaifreak.org/tags/reverse-rape/"
+    },
+    {
+      "name": "Rigid3d",
+      "slug": "rigid3d",
+      "count": 1,
+      "endpointPath": "/tags/rigid3d/",
+      "url": "https://hentaifreak.org/tags/rigid3d/"
+    },
+    {
+      "name": "Rimjob",
+      "slug": "rimjob",
+      "count": 37,
+      "endpointPath": "/tags/rimjob/",
+      "url": "https://hentaifreak.org/tags/rimjob/"
+    },
+    {
+      "name": "Rimming",
+      "slug": "rimming",
+      "count": 6,
+      "endpointPath": "/tags/rimming/",
+      "url": "https://hentaifreak.org/tags/rimming/"
+    },
+    {
+      "name": "Scat",
+      "slug": "scat",
+      "count": 49,
+      "endpointPath": "/tags/scat/",
+      "url": "https://hentaifreak.org/tags/scat/"
+    },
+    {
+      "name": "School Girl",
+      "slug": "school-girl",
+      "count": 875,
+      "endpointPath": "/tags/school-girl/",
+      "url": "https://hentaifreak.org/tags/school-girl/"
+    },
+    {
+      "name": "Shota",
+      "slug": "shota",
+      "count": 62,
+      "endpointPath": "/tags/shota/",
+      "url": "https://hentaifreak.org/tags/shota/"
+    },
+    {
+      "name": "Shower",
+      "slug": "shower",
+      "count": 1,
+      "endpointPath": "/tags/shower/",
+      "url": "https://hentaifreak.org/tags/shower/"
+    },
+    {
+      "name": "Softcore",
+      "slug": "softcore",
+      "count": 35,
+      "endpointPath": "/tags/softcore/",
+      "url": "https://hentaifreak.org/tags/softcore/"
+    },
+    {
+      "name": "Sumthindifrnt",
+      "slug": "sumthindifrnt",
+      "count": 1,
+      "endpointPath": "/tags/sumthindifrnt/",
+      "url": "https://hentaifreak.org/tags/sumthindifrnt/"
+    },
+    {
+      "name": "Swimsuit",
+      "slug": "swimsuit",
+      "count": 184,
+      "endpointPath": "/tags/swimsuit/",
+      "url": "https://hentaifreak.org/tags/swimsuit/"
+    },
+    {
+      "name": "Teacher",
+      "slug": "teacher",
+      "count": 277,
+      "endpointPath": "/tags/teacher/",
+      "url": "https://hentaifreak.org/tags/teacher/"
+    },
+    {
+      "name": "Tentacle",
+      "slug": "tentacle",
+      "count": 187,
+      "endpointPath": "/tags/tentacle/",
+      "url": "https://hentaifreak.org/tags/tentacle/"
+    },
+    {
+      "name": "Tentacles",
+      "slug": "tentacles",
+      "count": 3,
+      "endpointPath": "/tags/tentacles/",
+      "url": "https://hentaifreak.org/tags/tentacles/"
+    },
+    {
+      "name": "The Fastest GMan",
+      "slug": "the-fastest-gman",
+      "count": 1,
+      "endpointPath": "/tags/the-fastest-gman/",
+      "url": "https://hentaifreak.org/tags/the-fastest-gman/"
+    },
+    {
+      "name": "Threesome",
+      "slug": "threesome",
+      "count": 350,
+      "endpointPath": "/tags/threesome/",
+      "url": "https://hentaifreak.org/tags/threesome/"
+    },
+    {
+      "name": "ToonE",
+      "slug": "toone",
+      "count": 1,
+      "endpointPath": "/tags/toone/",
+      "url": "https://hentaifreak.org/tags/toone/"
+    },
+    {
+      "name": "Toys",
+      "slug": "toys",
+      "count": 558,
+      "endpointPath": "/tags/toys/",
+      "url": "https://hentaifreak.org/tags/toys/"
+    },
+    {
+      "name": "Trap",
+      "slug": "trap",
+      "count": 6,
+      "endpointPath": "/tags/trap/",
+      "url": "https://hentaifreak.org/tags/trap/"
+    },
+    {
+      "name": "Tsundere",
+      "slug": "tsundere",
+      "count": 97,
+      "endpointPath": "/tags/tsundere/",
+      "url": "https://hentaifreak.org/tags/tsundere/"
+    },
+    {
+      "name": "Ugly Bastard",
+      "slug": "ugly-bastard",
+      "count": 127,
+      "endpointPath": "/tags/ugly-bastard/",
+      "url": "https://hentaifreak.org/tags/ugly-bastard/"
+    },
+    {
+      "name": "Umemaro",
+      "slug": "umemaro",
+      "count": 6,
+      "endpointPath": "/tags/umemaro/",
+      "url": "https://hentaifreak.org/tags/umemaro/"
+    },
+    {
+      "name": "Uncensored",
+      "slug": "uncensored-hentai",
+      "count": 803,
+      "endpointPath": "/tags/uncensored-hentai/",
+      "url": "https://hentaifreak.org/tags/uncensored-hentai/"
+    },
+    {
+      "name": "Uniform",
+      "slug": "uniform",
+      "count": 1,
+      "endpointPath": "/tags/uniform/",
+      "url": "https://hentaifreak.org/tags/uniform/"
+    },
+    {
+      "name": "Vanilla",
+      "slug": "vanilla",
+      "count": 421,
+      "endpointPath": "/tags/vanilla/",
+      "url": "https://hentaifreak.org/tags/vanilla/"
+    },
+    {
+      "name": "VG Erotica",
+      "slug": "vg-erotica",
+      "count": 4,
+      "endpointPath": "/tags/vg-erotica/",
+      "url": "https://hentaifreak.org/tags/vg-erotica/"
+    },
+    {
+      "name": "Virgin",
+      "slug": "virgin",
+      "count": 691,
+      "endpointPath": "/tags/virgin/",
+      "url": "https://hentaifreak.org/tags/virgin/"
+    },
+    {
+      "name": "Watersports",
+      "slug": "watersports",
+      "count": 3,
+      "endpointPath": "/tags/watersports/",
+      "url": "https://hentaifreak.org/tags/watersports/"
+    },
+    {
+      "name": "Wildeer Studio",
+      "slug": "wildeer-studio",
+      "count": 1,
+      "endpointPath": "/tags/wildeer-studio/",
+      "url": "https://hentaifreak.org/tags/wildeer-studio/"
+    },
+    {
+      "name": "Wutboi",
+      "slug": "wutboi",
+      "count": 1,
+      "endpointPath": "/tags/wutboi/",
+      "url": "https://hentaifreak.org/tags/wutboi/"
+    },
+    {
+      "name": "Xordel",
+      "slug": "xordel",
+      "count": 1,
+      "endpointPath": "/tags/xordel/",
+      "url": "https://hentaifreak.org/tags/xordel/"
+    },
+    {
+      "name": "X-ray",
+      "slug": "x-ray",
+      "count": 438,
+      "endpointPath": "/tags/x-ray/",
+      "url": "https://hentaifreak.org/tags/x-ray/"
+    },
+    {
+      "name": "Yaoi",
+      "slug": "yaoi",
+      "count": 8,
+      "endpointPath": "/tags/yaoi/",
+      "url": "https://hentaifreak.org/tags/yaoi/"
+    },
+    {
+      "name": "Yuri",
+      "slug": "yuri",
+      "count": 427,
+      "endpointPath": "/tags/yuri/",
+      "url": "https://hentaifreak.org/tags/yuri/"
+    },
+    {
+      "name": "Zero My Love",
+      "slug": "zero-my-love",
+      "count": 3,
+      "endpointPath": "/tags/zero-my-love/",
+      "url": "https://hentaifreak.org/tags/zero-my-love/"
+    },
+    {
+      "name": "3D",
+      "slug": "3d",
+      "count": 102,
+      "endpointPath": "/tags/3d/",
+      "url": "https://hentaifreak.org/tags/3d/"
+    },
+    {
+      "name": "26regionsfm",
+      "slug": "26regionsfm",
+      "count": 2,
+      "endpointPath": "/tags/26regionsfm/",
+      "url": "https://hentaifreak.org/tags/26regionsfm/"
+    },
+    {
+      "name": "1080P",
+      "slug": "1080p",
+      "count": 330,
+      "endpointPath": "/tags/1080p/",
+      "url": "https://hentaifreak.org/tags/1080p/"
+    },
+    {
+      "name": "2017",
+      "slug": "2017",
+      "count": 50,
+      "endpointPath": "/tags/2017/",
+      "url": "https://hentaifreak.org/tags/2017/"
+    },
+    {
+      "name": "2018",
+      "slug": "2018",
+      "count": 109,
+      "endpointPath": "/tags/2018/",
+      "url": "https://hentaifreak.org/tags/2018/"
+    },
+    {
+      "name": "2019",
+      "slug": "2019",
+      "count": 80,
+      "endpointPath": "/tags/2019/",
+      "url": "https://hentaifreak.org/tags/2019/"
+    },
+    {
+      "name": "2020",
+      "slug": "2020",
+      "count": 147,
+      "endpointPath": "/tags/2020/",
+      "url": "https://hentaifreak.org/tags/2020/"
+    },
+    {
+      "name": "2021",
+      "slug": "2021",
+      "count": 117,
+      "endpointPath": "/tags/2021/",
+      "url": "https://hentaifreak.org/tags/2021/"
+    },
+    {
+      "name": "2022",
+      "slug": "2022",
+      "count": 124,
+      "endpointPath": "/tags/2022/",
+      "url": "https://hentaifreak.org/tags/2022/"
+    },
+    {
+      "name": "2023",
+      "slug": "2023",
+      "count": 17,
+      "endpointPath": "/tags/2023/",
+      "url": "https://hentaifreak.org/tags/2023/"
+    }
+  ]
+}

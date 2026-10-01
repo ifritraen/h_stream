@@ -1,0 +1,1355 @@
+{
+  "probe_results": {
+    "https://hentaiplay.net/genres/": {
+      "status": 404,
+      "length": 54409
+    },
+    "https://hentaiplay.net/brand/": {
+      "status": 200,
+      "length": 122367
+    },
+    "https://hentaiplay.net/categories/": {
+      "status": 404,
+      "length": 54409
+    }
+  },
+  "categories": [
+    {
+      "name": "New Hentai Releases",
+      "slug": "new-release",
+      "path": "/hentai/episodes/new-release/",
+      "icon": "Icons.fiber_new_rounded",
+      "group": "Fresh",
+      "description": "Latest freshly released anime episodes and subbed premieres",
+      "cover": "https://hentaiplay.net/wp-content/uploads/Pure-x-Holic-Junketsu-Otome-to-Kon-in-Kankei-The-Animation-Episode-2v3-Hentaiplay-320x180.jpg",
+      "count": 120,
+      "endpointPath": "/hentai/episodes/new-release/"
+    },
+    {
+      "name": "English Subbed",
+      "slug": "hentai-english-subbed",
+      "path": "/hentai/episodes/hentai-english-subbed/",
+      "icon": "Icons.subtitles_rounded",
+      "group": "Language",
+      "description": "High-definition episodes localized with English subtitles",
+      "cover": "https://hentaiplay.net/wp-content/uploads/Pure-x-Holic-Junketsu-Otome-to-Kon-in-Kankei-The-Animation-Episode-2v3-Hentaiplay-320x180.jpg",
+      "count": 120,
+      "endpointPath": "/hentai/episodes/hentai-english-subbed/"
+    },
+    {
+      "name": "Uncensored Hentai",
+      "slug": "hentai-uncensored",
+      "path": "/hentai/episodes/hentai-uncensored/",
+      "icon": "Icons.lock_open_rounded",
+      "group": "Censorship",
+      "description": "Full uncensored director cuts and restored decensored masters",
+      "cover": "https://hentaiplay.net/wp-content/uploads/Onaji-Semi-no-Someya-san-ga-Sexy-Joyuu-datta-Hanashi-Episode-7-Hentaiplay-320x180.jpg",
+      "count": 120,
+      "endpointPath": "/hentai/episodes/hentai-uncensored/"
+    },
+    {
+      "name": "RAW / Japanese",
+      "slug": "hentai-raw",
+      "path": "/hentai/episodes/hentai-raw/",
+      "icon": "Icons.language_rounded",
+      "group": "Language",
+      "description": "Original raw Japanese audio broadcast releases without subtitles",
+      "cover": "https://hentaiplay.net/wp-content/uploads/Sare-Tsuma-wa-Ubawaretai-Episode-1-Hentaiplay-320x180.jpg",
+      "count": 120,
+      "endpointPath": "/hentai/episodes/hentai-raw/"
+    },
+    {
+      "name": "All Episodes Archive",
+      "slug": "episodes",
+      "path": "/hentai/episodes/",
+      "icon": "Icons.video_library_rounded",
+      "group": "Archive",
+      "description": "Complete chronological archive of all streamed anime episodes",
+      "cover": "https://hentaiplay.net/wp-content/uploads/Pure-x-Holic-Junketsu-Otome-to-Kon-in-Kankei-The-Animation-Episode-2v3-Hentaiplay-320x180.jpg",
+      "count": 120,
+      "endpointPath": "/hentai/episodes/"
+    },
+    {
+      "name": "Upcoming Releases",
+      "slug": "upcoming",
+      "path": "/upcoming-hentai-releases/",
+      "icon": "Icons.update_rounded",
+      "group": "Schedule",
+      "description": "Schedule of forthcoming anime OVA releases and monthly lineup",
+      "cover": "https://hentaiplay.net/wp-content/uploads/Pure-x-Holic-Junketsu-Otome-to-Kon-in-Kankei-The-Animation-Episode-2v3-Hentaiplay-160x90.jpg",
+      "count": 120,
+      "endpointPath": "/upcoming-hentai-releases/"
+    },
+    {
+      "name": "Hentai Series Index (A-Z)",
+      "slug": "hentai-list",
+      "path": "/hentai-list/",
+      "icon": "Icons.sort_by_alpha_rounded",
+      "group": "Index",
+      "description": "Complete alphabetical index of all anime franchises and series",
+      "cover": "https://hentaiplay.net/wp-content/uploads/Pure-x-Holic-Junketsu-Otome-to-Kon-in-Kankei-The-Animation-Episode-2v3-Hentaiplay-160x90.jpg",
+      "count": 120,
+      "endpointPath": "/hentai-list/"
+    }
+  ],
+  "brands": [
+    {
+      "name": "Antechinus",
+      "slug": "antechinus",
+      "count": 6,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Himawari-wa-Yoru-ni-Saku-Episode-1v2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/antechinus/",
+      "status": 200
+    },
+    {
+      "name": "Angelfish",
+      "slug": "angelfish",
+      "count": 1,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Fuurinkanzan-Episode-1v2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/angelfish/",
+      "status": 200
+    },
+    {
+      "name": "AibanWork",
+      "slug": "aibanwork",
+      "count": 2,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Sister-Maria-Night-Sex-Treatment-Episode-1v1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/aibanwork/",
+      "status": 200
+    },
+    {
+      "name": "AniMan",
+      "slug": "animan",
+      "count": 4,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Misuzu-Ikenai-Koto-Episode-1v1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/animan/",
+      "status": 200
+    },
+    {
+      "name": "BOMB! CUTE! BOMB!",
+      "slug": "bomb-cute-bomb",
+      "count": 7,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Subarashiki-Kokka-no-Kizukikata-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/bomb-cute-bomb/",
+      "status": 200
+    },
+    {
+      "name": "Bunnywalker",
+      "slug": "bunnywalker",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Chizuru-chan-Kaihatsu-Nikki-Episode-6-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/bunnywalker/",
+      "status": 200
+    },
+    {
+      "name": "BOOTLEG",
+      "slug": "bootleg",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Daraku-Reijou-Episode-1v3-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/bootleg/",
+      "status": 200
+    },
+    {
+      "name": "ChiChinoya",
+      "slug": "chichinoya",
+      "count": 2,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Netorare-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/chichinoya/",
+      "status": 200
+    },
+    {
+      "name": "Collaboration Works",
+      "slug": "collaboration-works",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Ero-Manga-H-mo-Manga-mo-Step-up-Episode-1v1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/collaboration-works/",
+      "status": 200
+    },
+    {
+      "name": "Comic Media",
+      "slug": "comic-media",
+      "count": 1,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Sexfriend-Gakuen-Episode-1v1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/comic-media/",
+      "status": 200
+    },
+    {
+      "name": "Digital Works",
+      "slug": "digital-works",
+      "count": 3,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Maid-Ane-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/digital-works/",
+      "status": 200
+    },
+    {
+      "name": "Gold Bear",
+      "slug": "gold-bear",
+      "count": 6,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Sei-Dorei-Gakuen-2-Episode-2v2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/gold-bear/",
+      "status": 200
+    },
+    {
+      "name": "Innocent Grey",
+      "slug": "innocent-grey",
+      "count": 2,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Kara-no-Shoujo-Episode-2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/innocent-grey/",
+      "status": 200
+    },
+    {
+      "name": "King Bee",
+      "slug": "king-bee",
+      "count": 2,
+      "cover": "https://hentaiplay.net/wp-content/uploads/JK-Genkai-Koubi-Episode-2v1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/king-bee/",
+      "status": 200
+    },
+    {
+      "name": "Lune Pictures",
+      "slug": "lune-pictures",
+      "count": 11,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Bonyuu-chan-wa-Dashitai-Episode-3-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/lune-pictures/",
+      "status": 200
+    },
+    {
+      "name": "Kitty Media",
+      "slug": "kitty-media",
+      "count": 1,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Angelium-Episode-2-320x180.jpg",
+      "endpointPath": "/genre/kitty-media/",
+      "status": 200
+    },
+    {
+      "name": "Majin",
+      "slug": "majin",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Otogibanashi-no-Onigokko-Episode-2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/majin/",
+      "status": 200
+    },
+    {
+      "name": "Mary Jane",
+      "slug": "mary-jane",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Kimi-Omou-Koi-Episode-1v1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/mary-jane/",
+      "status": 200
+    },
+    {
+      "name": "Mitsu",
+      "slug": "mitsu",
+      "count": 1,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Etsuraku-no-Tane-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/mitsu/",
+      "status": 200
+    },
+    {
+      "name": "MS Pictures",
+      "slug": "ms-pictures",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Sweet-Home-H-na-Onee-san-wa-Suki-Desu-ka-Episode-2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/ms-pictures/",
+      "status": 200
+    },
+    {
+      "name": "Mousou Senka",
+      "slug": "mousou-senka",
+      "count": 8,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Cosplay-Change-Episode-4-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/mousou-senka/",
+      "status": 200
+    },
+    {
+      "name": "Pashmina",
+      "slug": "pashmina",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Ane-Koi-Suki-Kirai-Daisuki-Episode-2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/pashmina/",
+      "status": 200
+    },
+    {
+      "name": "Pink Pineapple",
+      "slug": "pink-pineapple",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Eroge-de-Subete-wa-Kaiketsu-Dekiru-Episode-1v5-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/pink-pineapple/",
+      "status": 200
+    },
+    {
+      "name": "Nur",
+      "slug": "nur",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Shuunka-Shuutou-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/nur/",
+      "status": 200
+    },
+    {
+      "name": "Pixy",
+      "slug": "pixy",
+      "count": 3,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Rinkan-Club-Episode-3-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/pixy/",
+      "status": 200
+    },
+    {
+      "name": "PoRO",
+      "slug": "poro",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Korashime-2-Kyouikuteki-Depaga-Shidou-Episode-4-Hentaiplay-1-320x180.jpg",
+      "endpointPath": "/genre/poro/",
+      "status": 200
+    },
+    {
+      "name": "Queen Bee",
+      "slug": "queen-bee",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Succubus-Appli-Gakuen-Sai-Episode-1v1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/queen-bee/",
+      "status": 200
+    },
+    {
+      "name": "POLY",
+      "slug": "poly",
+      "count": 1,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Meijyou-Episode-2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/poly/",
+      "status": 200
+    },
+    {
+      "name": "Selfish",
+      "slug": "selfish",
+      "count": 5,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Runes-Pharmacy-Tiarajima-no-Okusuriya-san-Episode-1v2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/selfish/",
+      "status": 200
+    },
+    {
+      "name": "Seven",
+      "slug": "seven",
+      "count": 0,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Pure-x-Holic-Junketsu-Otome-to-Kon-in-Kankei-The-Animation-Episode-2v3-Hentaiplay-160x90.jpg",
+      "endpointPath": "/genre/seven/",
+      "status": 200
+    },
+    {
+      "name": "sakur",
+      "slug": "sakur",
+      "count": 0,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Pure-x-Holic-Junketsu-Otome-to-Kon-in-Kankei-The-Animation-Episode-2v3-Hentaiplay-160x90.jpg",
+      "endpointPath": "/genre/sakur/",
+      "status": 200
+    },
+    {
+      "name": "Shouten",
+      "slug": "shouten",
+      "count": 10,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Otome-wa-Boku-ni-Koi-Shiteru-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/shouten/",
+      "status": 200
+    },
+    {
+      "name": "Studio 9 Maiami",
+      "slug": "studio-9-maiami",
+      "count": 1,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Nee-Chanto-Shiyou-Yo-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/studio-9-maiami/",
+      "status": 200
+    },
+    {
+      "name": "Showten",
+      "slug": "showten",
+      "count": 9,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Sleepless-Nocturne-The-Animation-Episode-2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/showten/",
+      "status": 200
+    },
+    {
+      "name": "Studio Fantasia",
+      "slug": "studio-fantasia",
+      "count": 1,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Nozoki-Ana-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/studio-fantasia/",
+      "status": 200
+    },
+    {
+      "name": "T-Rex",
+      "slug": "t-rex",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/JK-Bitch-ni-Shiboraretai-Episode-1v2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/t-rex/",
+      "status": 200
+    },
+    {
+      "name": "Suzuki Mirano",
+      "slug": "suzuki-mirano",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Konbini-Shoujo-Z-Episode-4v2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/suzuki-mirano/",
+      "status": 200
+    },
+    {
+      "name": "Torudaya",
+      "slug": "torudaya",
+      "count": 2,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Koumi-jima-Shuu-7-de-Umeru-Mesu-tachi-Episode-2v1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/torudaya/",
+      "status": 200
+    },
+    {
+      "name": "Toho Company",
+      "slug": "toho-company",
+      "count": 1,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Nozoki-Ana-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/toho-company/",
+      "status": 200
+    },
+    {
+      "name": "ZIZ Entertainment",
+      "slug": "ziz-entertainment",
+      "count": 5,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Kimi-no-Mana-wa-Rina-Witch-Episode-1v5-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/ziz-entertainment/",
+      "status": 200
+    },
+    {
+      "name": "White Bear",
+      "slug": "white-bear",
+      "count": 6,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Tennen-Koi-Iro-Alcohol-Episode-1-Hentaiplay-2-320x180.jpg",
+      "endpointPath": "/genre/white-bear/",
+      "status": 200
+    },
+    {
+      "name": "EDGE",
+      "slug": "edge",
+      "count": 11,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Saimin-Class-Episode-1v2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/edge/",
+      "status": 200
+    }
+  ],
+  "genres": [
+    {
+      "name": "Ahegao",
+      "slug": "ahegao",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Pure-x-Holic-Junketsu-Otome-to-Kon-in-Kankei-The-Animation-Episode-2v3-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/ahegao/",
+      "status": 200
+    },
+    {
+      "name": "Action",
+      "slug": "action",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/2014/08/Fighting_of_Ecstasy_02_5987-320x180.jpg",
+      "endpointPath": "/genre/action/",
+      "status": 200
+    },
+    {
+      "name": "20204",
+      "slug": "20204",
+      "count": 0,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Pure-x-Holic-Junketsu-Otome-to-Kon-in-Kankei-The-Animation-Episode-2v3-Hentaiplay-160x90.jpg",
+      "endpointPath": "/genre/20204/",
+      "status": 200
+    },
+    {
+      "name": "3D",
+      "slug": "3d",
+      "count": 2,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Okute-Kanojo-to-Ochi-de-Amatoro-Ecchi-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/3d/",
+      "status": 200
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Rance-01-Hikari-wo-Motomete-The-Animation-Episode-4-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/adventure/",
+      "status": 200
+    },
+    {
+      "name": "Anal",
+      "slug": "anal",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Oyome-sama-Honey-Days-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/anal/",
+      "status": 200
+    },
+    {
+      "name": "Blackmail",
+      "slug": "blackmail",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Nonohara-Yuka-No-Himitsu-No-Haishin-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/blackmail/",
+      "status": 200
+    },
+    {
+      "name": "Blowjob",
+      "slug": "blowjob",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Baka-na-Imouto-o-Rikou-ni-Suru-no-wa-Ore-no-xx-Dake-na-Ken-ni-Tsuite-Episode-3v2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/blowjob/",
+      "status": 200
+    },
+    {
+      "name": "AI Generated",
+      "slug": "ai-generated",
+      "count": 1,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Kaoruko-Waguri-Animation-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/ai-generated/",
+      "status": 200
+    },
+    {
+      "name": "Body Switch",
+      "slug": "body-switch",
+      "count": 2,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Kuro-Gal-ni-Nattakara-Shinyuu-to-Shite-Mita-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/body-switch/",
+      "status": 200
+    },
+    {
+      "name": "Beastiality",
+      "slug": "beastiality",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/mp4hentai-Buta-no-Gotoki-01-cen-RAW.mp4_snapshot_12.08_2015.01.31_07.47.071-320x180.jpg",
+      "endpointPath": "/genre/beastiality/",
+      "status": 200
+    },
+    {
+      "name": "Bondage",
+      "slug": "bondage",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Tsuma-Netori-Ryoujoku-Rinne-Episode-1-Hentaiaiplay-320x180.jpg",
+      "endpointPath": "/genre/bondage/",
+      "status": 200
+    },
+    {
+      "name": "Brainwashed",
+      "slug": "brainwashed",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Kyonyuu-Hitozuma-Onna-Kyoushi-Saimin-Episode-2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/brainwashed/",
+      "status": 200
+    },
+    {
+      "name": "Body Swithing",
+      "slug": "body-swithing",
+      "count": 10,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Residence-Episode-3v1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/body-swithing/",
+      "status": 200
+    },
+    {
+      "name": "Bukakke",
+      "slug": "bukakke",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Oyome-sama-Honey-Days-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/bukakke/",
+      "status": 200
+    },
+    {
+      "name": "Cat Girl",
+      "slug": "cat-girl",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Baka-na-Imouto-o-Rikou-ni-Suru-no-wa-Ore-no-xx-Dake-na-Ken-ni-Tsuite-Episode-3v2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/cat-girl/",
+      "status": 200
+    },
+    {
+      "name": "Chinese Hentai",
+      "slug": "chinese-hentai",
+      "count": 3,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Meijyou-Episode-3v1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/chinese-hentai/",
+      "status": 200
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Rance-01-Hikari-wo-Motomete-The-Animation-Episode-4-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/comedy/",
+      "status": 200
+    },
+    {
+      "name": "Cosplay",
+      "slug": "cosplay",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Tsun-M-Gyutto-Shibatte-Shidoushite-The-Animation-Episode-1-Hentaiplay-1-320x180.jpg",
+      "endpointPath": "/genre/cosplay/",
+      "status": 200
+    },
+    {
+      "name": "Chippai",
+      "slug": "chippai",
+      "count": 2,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Shoujo-Tachi-no-Sadism-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/chippai/",
+      "status": 200
+    },
+    {
+      "name": "Creampie",
+      "slug": "creampie",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Dorei-Usagi-to-Anthony-The-Animation-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/creampie/",
+      "status": 200
+    },
+    {
+      "name": "Dark Skin",
+      "slug": "dark-skin",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Pure-x-Holic-Junketsu-Otome-to-Kon-in-Kankei-The-Animation-Episode-2v3-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/dark-skin/",
+      "status": 200
+    },
+    {
+      "name": "DeepThroat",
+      "slug": "deepthroat",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/JK-Bitch-ni-Shiboraretai-Episode-1v2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/deepthroat/",
+      "status": 200
+    },
+    {
+      "name": "Demons",
+      "slug": "demons",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Inyouchuu-Shoku-Harami-Ochiru-Shoujo-Tachi-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/demons/",
+      "status": 200
+    },
+    {
+      "name": "Double Penatration",
+      "slug": "double-penatration",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Tooi-Kimi-ni-Boku-wa-Todokanai-Episode-2-Hentaiplay-1-320x180.jpg",
+      "endpointPath": "/genre/double-penatration/",
+      "status": 200
+    },
+    {
+      "name": "Double Penetration",
+      "slug": "double-penetration",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Onna-Maou-Melissa-no-H-na-Bouken-Ki-Seieki-wo-Atsumeru-Ero-Maou-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/double-penetration/",
+      "status": 200
+    },
+    {
+      "name": "Facial",
+      "slug": "facial",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Baka-na-Imouto-o-Rikou-ni-Suru-no-wa-Ore-no-xx-Dake-na-Ken-ni-Tsuite-Episode-3v2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/facial/",
+      "status": 200
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Muchuu-no-Tou-Episode-2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/fantasy/",
+      "status": 200
+    },
+    {
+      "name": "Ecchi",
+      "slug": "ecchi",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Ushiro-no-Shoumen-Kamui-san-Episode-7-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/ecchi/",
+      "status": 200
+    },
+    {
+      "name": "Female Teacher",
+      "slug": "female-teacher",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Tsuma-Netori-Ryoujoku-Rinne-Episode-1-Hentaiaiplay-320x180.jpg",
+      "endpointPath": "/genre/female-teacher/",
+      "status": 200
+    },
+    {
+      "name": "Facesitting",
+      "slug": "facesitting",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Oyome-sama-Honey-Days-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/facesitting/",
+      "status": 200
+    },
+    {
+      "name": "Elf",
+      "slug": "elf",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Juurin-Oukoku-Elf-Oukoku-wa-Kyodai-Naedoko-ni-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/elf/",
+      "status": 200
+    },
+    {
+      "name": "Femdom",
+      "slug": "femdom",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Boy-Meets-Harem-The-Animation-Episode-1-Hentaiplay-2-320x180.jpg",
+      "endpointPath": "/genre/femdom/",
+      "status": 200
+    },
+    {
+      "name": "Female Doctor",
+      "slug": "female-doctor",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Tsundero-Episode-6-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/female-doctor/",
+      "status": 200
+    },
+    {
+      "name": "Futanari",
+      "slug": "futanari",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Shinsei-Futanari-Idol-Dekatama-Kei-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/futanari/",
+      "status": 200
+    },
+    {
+      "name": "Gangbang",
+      "slug": "gangbang",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Ushichichi-Tabehoudai-The-Animation-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/gangbang/",
+      "status": 200
+    },
+    {
+      "name": "Goblins",
+      "slug": "goblins",
+      "count": 1,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Phantom-Alchemia-Sylvia-no-Dokidoki-Sakusei-Toshi-Keikaku-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/goblins/",
+      "status": 200
+    },
+    {
+      "name": "Gore",
+      "slug": "gore",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Sinisistar-Episode-2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/gore/",
+      "status": 200
+    },
+    {
+      "name": "Gyaru",
+      "slug": "gyaru",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/JK-Bitch-ni-Shiboraretai-Episode-1v2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/gyaru/",
+      "status": 200
+    },
+    {
+      "name": "Footjob",
+      "slug": "footjob",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Enkou-JK-Bitch-Gyaru-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/footjob/",
+      "status": 200
+    },
+    {
+      "name": "Harem",
+      "slug": "harem",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Pure-x-Holic-Junketsu-Otome-to-Kon-in-Kankei-The-Animation-Episode-2v3-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/harem/",
+      "status": 200
+    },
+    {
+      "name": "Gay Hentai",
+      "slug": "gay-hentai",
+      "count": 10,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Ateuma-Chara-No-Kuse-Shite-Supadari-Ouji-Ni-Choai-Sareteimasu-Episode-7-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/gay-hentai/",
+      "status": 200
+    },
+    {
+      "name": "Hentai Previews",
+      "slug": "hentai-previews",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Muramata-san-no-Aijou-Episode-3-320x180.jpg",
+      "endpointPath": "/genre/hentai-previews/",
+      "status": 200
+    },
+    {
+      "name": "Horny Slut",
+      "slug": "horny-slut",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Ushichichi-Tabehoudai-The-Animation-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/horny-slut/",
+      "status": 200
+    },
+    {
+      "name": "Housewife",
+      "slug": "housewife",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Sare-Tsuma-wa-Ubawaretai-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/housewife/",
+      "status": 200
+    },
+    {
+      "name": "Humiliation",
+      "slug": "humiliation",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Juurin-Oukoku-Elf-Oukoku-wa-Kyodai-Naedoko-ni-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/humiliation/",
+      "status": 200
+    },
+    {
+      "name": "Hypnosis",
+      "slug": "hypnosis",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Cheat-Item-Kanrikyoku-no-Oshigoto-EX-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/hypnosis/",
+      "status": 200
+    },
+    {
+      "name": "Idols",
+      "slug": "idols",
+      "count": 4,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Kegareboshi-Episode-4-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/idols/",
+      "status": 200
+    },
+    {
+      "name": "Incest",
+      "slug": "incest",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Swing-Out-Sisters-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/incest/",
+      "status": 200
+    },
+    {
+      "name": "Historical",
+      "slug": "historical",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Rance-01-Hikari-wo-Motomete-The-Animation-Episode-4-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/historical/",
+      "status": 200
+    },
+    {
+      "name": "Inflation",
+      "slug": "inflation",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Venus-Blood-Brave-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/inflation/",
+      "status": 200
+    },
+    {
+      "name": "Internal Cumshot",
+      "slug": "internal-cumshot",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Ushichichi-Tabehoudai-The-Animation-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/internal-cumshot/",
+      "status": 200
+    },
+    {
+      "name": "Lactation",
+      "slug": "lactation",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Ushichichi-Tabehoudai-The-Animation-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/lactation/",
+      "status": 200
+    },
+    {
+      "name": "Large Breasts",
+      "slug": "large-breasts",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Ushichichi-Tabehoudai-The-Animation-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/large-breasts/",
+      "status": 200
+    },
+    {
+      "name": "Lolicon",
+      "slug": "lolicon",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Juurin-Oukoku-Elf-Oukoku-wa-Kyodai-Naedoko-ni-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/lolicon/",
+      "status": 200
+    },
+    {
+      "name": "Maid",
+      "slug": "maid",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Onna-Maou-Melissa-no-H-na-Bouken-Ki-Seieki-wo-Atsumeru-Ero-Maou-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/maid/",
+      "status": 200
+    },
+    {
+      "name": "lar",
+      "slug": "lar",
+      "count": 0,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Pure-x-Holic-Junketsu-Otome-to-Kon-in-Kankei-The-Animation-Episode-2v3-Hentaiplay-160x90.jpg",
+      "endpointPath": "/genre/lar/",
+      "status": 200
+    },
+    {
+      "name": "Masturbation",
+      "slug": "masturbation",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Furachi-Episode-1-Hentiaplay-320x180.jpg",
+      "endpointPath": "/genre/masturbation/",
+      "status": 200
+    },
+    {
+      "name": "Megane",
+      "slug": "megane",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Eroge-de-Subete-wa-Kaiketsu-Dekiru-Episode-1v5-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/megane/",
+      "status": 200
+    },
+    {
+      "name": "Magical Girls",
+      "slug": "magical-girls",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Venus-Blood-Brave-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/magical-girls/",
+      "status": 200
+    },
+    {
+      "name": "Martial Arts",
+      "slug": "martial-arts",
+      "count": 6,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Kunoichi-Gakuen-Ninpouchou-Ep6-320x180.jpg",
+      "endpointPath": "/genre/martial-arts/",
+      "status": 200
+    },
+    {
+      "name": "MILF",
+      "slug": "milf",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Sare-Tsuma-wa-Ubawaretai-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/milf/",
+      "status": 200
+    },
+    {
+      "name": "Mild Nudity",
+      "slug": "mild-nudity",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Ushiro-no-Shoumen-Kamui-san-Episode-8-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/mild-nudity/",
+      "status": 200
+    },
+    {
+      "name": "Mind Break",
+      "slug": "mind-break",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Succubus-Appli-Gakuen-Sai-Episode-1v1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/mind-break/",
+      "status": 200
+    },
+    {
+      "name": "NTR",
+      "slug": "ntr",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Tsuma-Netori-Ryoujoku-Rinne-Episode-1-Hentaiaiplay-320x180.jpg",
+      "endpointPath": "/genre/ntr/",
+      "status": 200
+    },
+    {
+      "name": "Monsters",
+      "slug": "monsters",
+      "count": 4,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Juurin-Oukoku-Elf-Oukoku-wa-Kyodai-Naedoko-ni-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/monsters/",
+      "status": 200
+    },
+    {
+      "name": "Molestation",
+      "slug": "molestation",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Soshite-Watashi-wa-Ojisan-ni-Episode-3v4-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/molestation/",
+      "status": 200
+    },
+    {
+      "name": "Office Ladies",
+      "slug": "office-ladies",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Hamehara-Episode-1v1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/office-ladies/",
+      "status": 200
+    },
+    {
+      "name": "POV",
+      "slug": "pov",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Kimi-no-Mana-wa-Rina-Witch-Episode-1v5-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/pov/",
+      "status": 200
+    },
+    {
+      "name": "Nuns",
+      "slug": "nuns",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Seikon-no-Aria-Episode-2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/nuns/",
+      "status": 200
+    },
+    {
+      "name": "Pregnant",
+      "slug": "pregnant",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Love-wa-Gal-kara-Hajimaru-Unmei-Episode-2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/pregnant/",
+      "status": 200
+    },
+    {
+      "name": "Nurses",
+      "slug": "nurses",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Sakusei-Byoutou-The-Animation-Episode-10-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/nurses/",
+      "status": 200
+    },
+    {
+      "name": "Orgy",
+      "slug": "orgy",
+      "count": 4,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Juurin-Oukoku-Elf-Oukoku-wa-Kyodai-Naedoko-ni-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/orgy/",
+      "status": 200
+    },
+    {
+      "name": "Rape",
+      "slug": "rape",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Tsuma-Netori-Ryoujoku-Rinne-Episode-1-Hentaiaiplay-320x180.jpg",
+      "endpointPath": "/genre/rape/",
+      "status": 200
+    },
+    {
+      "name": "Public Sex",
+      "slug": "public-sex",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/JK-Bitch-ni-Shiboraretai-Episode-1v2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/public-sex/",
+      "status": 200
+    },
+    {
+      "name": "Remastered",
+      "slug": "remastered",
+      "count": 1,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Kuroinu-Kedakaki-Seijo-Wa-Hakudaku-Ni-Somaru-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/remastered/",
+      "status": 200
+    },
+    {
+      "name": "Princess",
+      "slug": "princess",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Subarashiki-Kokka-no-Kizukikata-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/princess/",
+      "status": 200
+    },
+    {
+      "name": "Romance",
+      "slug": "romance",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Onaji-Semi-no-Someya-san-ga-Sexy-Joyuu-datta-Hanashi-Episode-8-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/romance/",
+      "status": 200
+    },
+    {
+      "name": "School Girls",
+      "slug": "school-girls",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Kokuhaku-Episode-4-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/school-girls/",
+      "status": 200
+    },
+    {
+      "name": "Scat",
+      "slug": "scat",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Sleepless-Nocturne-The-Animation-Episode-2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/scat/",
+      "status": 200
+    },
+    {
+      "name": "Reverse NTR",
+      "slug": "reverse-ntr",
+      "count": 1,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Ano-Ko-no-Kawari-ni-Suki-na-Dake-Episode-2v1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/reverse-ntr/",
+      "status": 200
+    },
+    {
+      "name": "Sci-Fi",
+      "slug": "sci-fi",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Kansen-Sodom-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/sci-fi/",
+      "status": 200
+    },
+    {
+      "name": "Rim job",
+      "slug": "rim-job",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Oyome-sama-Honey-Days-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/rim-job/",
+      "status": 200
+    },
+    {
+      "name": "Short Series",
+      "slug": "short-series",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Ichigo-Aika-Strawberry-Elegy-Episode-2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/short-series/",
+      "status": 200
+    },
+    {
+      "name": "Shoutacon",
+      "slug": "shoutacon",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Nuki-Nuki-Zupposism-Episode-2v1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/shoutacon/",
+      "status": 200
+    },
+    {
+      "name": "Sex Toy",
+      "slug": "sex-toy",
+      "count": 3,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Chimimouryou-Episode-2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/sex-toy/",
+      "status": 200
+    },
+    {
+      "name": "Shimapan",
+      "slug": "shimapan",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Boy-Meets-Harem-The-Animation-Episode-1-Hentaiplay-2-320x180.jpg",
+      "endpointPath": "/genre/shimapan/",
+      "status": 200
+    },
+    {
+      "name": "Sports",
+      "slug": "sports",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Joshi-Luck-Episode-2-Hentiaplay-320x180.jpg",
+      "endpointPath": "/genre/sports/",
+      "status": 200
+    },
+    {
+      "name": "Squirting",
+      "slug": "squirting",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Iinari-Saimin-Kanojo-Episode-2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/squirting/",
+      "status": 200
+    },
+    {
+      "name": "Stocking",
+      "slug": "stocking",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Tennen-Koi-Iro-Alcohol-Episode-1-Hentaiplay-2-320x180.jpg",
+      "endpointPath": "/genre/stocking/",
+      "status": 200
+    },
+    {
+      "name": "Succubus",
+      "slug": "succubus",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Succubus-Appli-Gakuen-Sai-Episode-1v1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/succubus/",
+      "status": 200
+    },
+    {
+      "name": "Super Power",
+      "slug": "super-power",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Naedoko-Demons-Ground-The-Animation-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/super-power/",
+      "status": 200
+    },
+    {
+      "name": "Slaves",
+      "slug": "slaves",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Kuroinu-Kedakaki-Seijo-wa-Hakudaku-ni-Somaru-Episode-5-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/slaves/",
+      "status": 200
+    },
+    {
+      "name": "Supernatural",
+      "slug": "supernatural",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Ushiro-no-Shoumen-Kamui-san-Episode-8-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/supernatural/",
+      "status": 200
+    },
+    {
+      "name": "Swimsuit",
+      "slug": "swimsuit",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Seifuku-wa-Kita-mama-de-Episode-2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/swimsuit/",
+      "status": 200
+    },
+    {
+      "name": "Three some",
+      "slug": "three-some",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Oyome-sama-Honey-Days-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/three-some/",
+      "status": 200
+    },
+    {
+      "name": "Tits Fuck",
+      "slug": "tits-fuck",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/JK-Bitch-ni-Shiboraretai-Episode-1v2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/tits-fuck/",
+      "status": 200
+    },
+    {
+      "name": "Tentacles",
+      "slug": "tentacles",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Muchuu-no-Tou-Episode-2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/tentacles/",
+      "status": 200
+    },
+    {
+      "name": "Toys",
+      "slug": "toys",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Kanojo-Saimin-Episode-2v2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/toys/",
+      "status": 200
+    },
+    {
+      "name": "Train Molestation",
+      "slug": "train-molestation",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Chikan-Shita-Joshikousei-to-Sonogo-Musaboriau-you-na-Doero-Junai-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/train-molestation/",
+      "status": 200
+    },
+    {
+      "name": "Tsundere",
+      "slug": "tsundere",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Tsun-M-Gyutto-Shibatte-Shidoushite-The-Animation-Episode-1-Hentaiplay-1-320x180.jpg",
+      "endpointPath": "/genre/tsundere/",
+      "status": 200
+    },
+    {
+      "name": "Ugly Bastard",
+      "slug": "ugly-bastard",
+      "count": 4,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Tsuma-Netori-Ryoujoku-Rinne-Episode-1-Hentaiaiplay-320x180.jpg",
+      "endpointPath": "/genre/ugly-bastard/",
+      "status": 200
+    },
+    {
+      "name": "Torture",
+      "slug": "torture",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Nightmare-X-Deathscythe-Episode-2-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/torture/",
+      "status": 200
+    },
+    {
+      "name": "Uncensored",
+      "slug": "uncensored-hentai",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Onaji-Semi-no-Someya-san-ga-Sexy-Joyuu-datta-Hanashi-Episode-8-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/uncensored-hentai/",
+      "status": 200
+    },
+    {
+      "name": "Urination",
+      "slug": "urination",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Pinkerton-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/urination/",
+      "status": 200
+    },
+    {
+      "name": "Vanilla",
+      "slug": "vanilla",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/1LDK-JK-Ikinari-Doukyo-Micchaku-Hatsu-Ecchi-The-Animation-Episode-8-320x180.jpg",
+      "endpointPath": "/genre/vanilla/",
+      "status": 200
+    },
+    {
+      "name": "Trap",
+      "slug": "trap",
+      "count": 2,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Otokonoko-Delivery-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/trap/",
+      "status": 200
+    },
+    {
+      "name": "Virgins",
+      "slug": "virgins",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Kanojo-Saimin-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/virgins/",
+      "status": 200
+    },
+    {
+      "name": "X-Ray",
+      "slug": "x-ray",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Ushichichi-Tabehoudai-The-Animation-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/x-ray/",
+      "status": 200
+    },
+    {
+      "name": "Violence",
+      "slug": "violence",
+      "count": 11,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Houkago-Initiation-Episode-2-Hentaiplay--320x180.jpg",
+      "endpointPath": "/genre/violence/",
+      "status": 200
+    },
+    {
+      "name": "Vampire",
+      "slug": "vampire",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Kiriya-Hakushakuke-No-Roku-Shimai-Episode-2v3-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/vampire/",
+      "status": 200
+    },
+    {
+      "name": "yaoi",
+      "slug": "yaoi",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Otokonoko-Delivery-Episode-1-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/yaoi/",
+      "status": 200
+    },
+    {
+      "name": "Yuri",
+      "slug": "yuri",
+      "count": 12,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Kokuhaku-Episode-4-Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/yuri/",
+      "status": 200
+    },
+    {
+      "name": "Widow",
+      "slug": "widow",
+      "count": 1,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Kyonyuu_Daikazoku_Saimin_Episode_1_Hentaiplay-320x180.jpg",
+      "endpointPath": "/genre/widow/",
+      "status": 200
+    },
+    {
+      "name": "vo",
+      "slug": "vo",
+      "count": 0,
+      "cover": "https://hentaiplay.net/wp-content/uploads/Pure-x-Holic-Junketsu-Otome-to-Kon-in-Kankei-The-Animation-Episode-2v3-Hentaiplay-160x90.jpg",
+      "endpointPath": "/genre/vo/",
+      "status": 200
+    }
+  ]
+}

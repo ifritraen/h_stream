@@ -1,0 +1,763 @@
+[
+  {
+    "slug": "3d",
+    "name": "3D",
+    "description": "Contenuti realizzati con grafica tridimensionale computerizzata (CGI), spesso con modelli realistici o stilizzati.",
+    "endpointPath": "/archive?genre=3d",
+    "count": 1,
+    "max_page": 1,
+    "sample_titles": [
+      "Chikan Shita Joshi*sei to Sonogo, Musabori Au Youna Doero Junai"
+    ]
+  },
+  {
+    "slug": "ahegao",
+    "name": "Ahegao",
+    "description": "Espressione facciale esagerata di piacere estremo, con occhi strabuzzati, lingua fuori e viso arrossato, tipica di orgasmi intensi.",
+    "endpointPath": "/archive?genre=ahegao",
+    "count": 200,
+    "max_page": 10,
+    "sample_titles": [
+      "Pure x Holic: Junketsu Otome to Konin Kankei!? The Animation (SUB ENG)",
+      "The Lonely Snow Widow and the Cursed Ring",
+      "Pure x Holic: Junketsu Otome to Konin Kankei!? The Animation"
+    ]
+  },
+  {
+    "slug": "anal",
+    "name": "Anal",
+    "description": "Penetrazione anale, inclusi atti sessuali focalizzati sull'ano.",
+    "endpointPath": "/archive?genre=anal",
+    "count": 380,
+    "max_page": 19,
+    "sample_titles": [
+      "Pure x Holic: Junketsu Otome to Konin Kankei!? The Animation (SUB ENG)",
+      "My Life As (SUB ENG)",
+      "Pure x Holic: Junketsu Otome to Konin Kankei!? The Animation"
+    ]
+  },
+  {
+    "slug": "bdsm",
+    "name": "BDSM",
+    "description": "Pratiche di bondage, dominazione, sottomissione, sadismo e masochismo, con elementi di controllo e dolore consensuale.",
+    "endpointPath": "/archive?genre=bdsm",
+    "count": 100,
+    "max_page": 5,
+    "sample_titles": [
+      "Binetsu Hime: Zange no Shou (SUB ENG)",
+      "Blood Royale (SUB ENG)",
+      "Concerto (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "big-boobs",
+    "name": "Big Boobs",
+    "description": "Personaggi femminili con seni estremamente grandi, spesso enfatizzati in scene erotiche.",
+    "endpointPath": "/archive?genre=big-boobs",
+    "count": 1240,
+    "max_page": 62,
+    "sample_titles": [
+      "Netorareta Bakunyuu Tsuma-tachi 2",
+      "Sare Tsuma wa Ubawaretai (SUB ENG)",
+      "Sare Tsuma wa Ubawaretai"
+    ]
+  },
+  {
+    "slug": "blow-job",
+    "name": "Blow Job",
+    "description": "Sesso orale praticato sul pene, con fellatio e succhiamento.",
+    "endpointPath": "/archive?genre=blow-job",
+    "count": 1220,
+    "max_page": 61,
+    "sample_titles": [
+      "Nijuusou: Wana ni Ochita Onna-tachi (SUB ENG)",
+      "Netorareta Bakunyuu Tsuma-tachi 2",
+      "Sare Tsuma wa Ubawaretai (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "bondage",
+    "name": "Bondage",
+    "description": "Legatura o immobilizzazione del corpo con corde, manette o altri strumenti per restrizione.",
+    "endpointPath": "/archive?genre=bondage",
+    "count": 320,
+    "max_page": 16,
+    "sample_titles": [
+      "Nijuusou: Wana ni Ochita Onna-tachi (SUB ENG)",
+      "My Life As (SUB ENG)",
+      "Blood Royale (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "boob-job",
+    "name": "Boob Job",
+    "description": "Titjob o paizuri, stimolazione del pene tra i seni.",
+    "endpointPath": "/archive?genre=boob-job",
+    "count": 560,
+    "max_page": 28,
+    "sample_titles": [
+      "Netorareta Bakunyuu Tsuma-tachi 2",
+      "Sare Tsuma wa Ubawaretai (SUB ENG)",
+      "Sare Tsuma wa Ubawaretai"
+    ]
+  },
+  {
+    "slug": "censored",
+    "name": "Censored",
+    "description": "Contenuti con pixelatura o barre nere su genitali e atti sessuali, come richiesto dalla legge giapponese.",
+    "endpointPath": "/archive?genre=censored",
+    "count": 1320,
+    "max_page": 66,
+    "sample_titles": [
+      "Nijuusou: Wana ni Ochita Onna-tachi (SUB ENG)",
+      "Netorareta Bakunyuu Tsuma-tachi 2",
+      "Sare Tsuma wa Ubawaretai (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "comedy",
+    "name": "Comedy",
+    "description": "Elementi umoristici, parodie o situazioni comiche integrate in scene erotiche.",
+    "endpointPath": "/archive?genre=comedy",
+    "count": 80,
+    "max_page": 4,
+    "sample_titles": [
+      "Now That I Can Control Reality with a Mouse Cursor, I'm Gonna Click Away on the Girls!",
+      "The Lonely Snow Widow and the Cursed Ring",
+      "Isourou Tengoku (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "cosplay",
+    "name": "Cosplay",
+    "description": "ersonaggi che indossano costumi di altri media (anime, videogiochi) durante atti sessuali.",
+    "endpointPath": "/archive?genre=cosplay",
+    "count": 160,
+    "max_page": 8,
+    "sample_titles": [
+      "Let's Arbeit! (SUB ENG)",
+      "Deco x Deco The Animation (SUB ENG)",
+      "Deco x Deco The Animation"
+    ]
+  },
+  {
+    "slug": "creampie",
+    "name": "Creampie",
+    "description": "Eiaculazione interna, con sperma che fuoriesce dalla vagina o ano.",
+    "endpointPath": "/archive?genre=creampie",
+    "count": 1160,
+    "max_page": 58,
+    "sample_titles": [
+      "Nijuusou: Wana ni Ochita Onna-tachi (SUB ENG)",
+      "Netorareta Bakunyuu Tsuma-tachi 2",
+      "Sare Tsuma wa Ubawaretai (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "dark-skin",
+    "name": "Dark Skin",
+    "description": "Personaggi con pelle scura o abbronzata, spesso di etnia africana, latina o tanned.",
+    "endpointPath": "/archive?genre=dark-skin",
+    "count": 100,
+    "max_page": 5,
+    "sample_titles": [
+      "Nijuusou: Wana ni Ochita Onna-tachi (SUB ENG)",
+      "Rasen Kairou (SUB ENG)",
+      "The Titan's Bride (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "facial",
+    "name": "Facial",
+    "description": "Eiaculazione sul viso del partner.",
+    "endpointPath": "/archive?genre=facial",
+    "count": 500,
+    "max_page": 25,
+    "sample_titles": [
+      "Netorareta Bakunyuu Tsuma-tachi 2",
+      "Pure x Holic: Junketsu Otome to Konin Kankei!? The Animation (SUB ENG)",
+      "Binetsu Hime: Zange no Shou (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "fantasy",
+    "name": "Fantasy",
+    "description": "Ambientazioni magiche, con elfi, draghi o mondi immaginari.",
+    "endpointPath": "/archive?genre=fantasy",
+    "count": 320,
+    "max_page": 16,
+    "sample_titles": [
+      "Pure x Holic: Junketsu Otome to Konin Kankei!? The Animation (SUB ENG)",
+      "Now That I Can Control Reality with a Mouse Cursor, I'm Gonna Click Away on the Girls!",
+      "Legend of Reyon: The God of Darkness (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "filmed",
+    "name": "Filmed",
+    "description": "Scene che simulano una registrazione video, con POV da camera o voyeurismo.",
+    "endpointPath": "/archive?genre=filmed",
+    "count": 180,
+    "max_page": 9,
+    "sample_titles": [
+      "Binetsu Hime: Zange no Shou (SUB ENG)",
+      "Kanojo Saimin (SUB ENG)",
+      "Kanojo Saimin"
+    ]
+  },
+  {
+    "slug": "foot-job",
+    "name": "Foot Job",
+    "description": "Stimolazione del pene con i piedi.",
+    "endpointPath": "/archive?genre=foot-job",
+    "count": 60,
+    "max_page": 3,
+    "sample_titles": [
+      "Bikyaku Seido Kaichou Ai",
+      "H na Ane Series The Animation (SUB ENG)",
+      "H na Ane Series The Animation"
+    ]
+  },
+  {
+    "slug": "futanari",
+    "name": "Futanari",
+    "description": "Personaggi ermafroditi con sia genitali femminili che pene.",
+    "endpointPath": "/archive?genre=futanari",
+    "count": 60,
+    "max_page": 3,
+    "sample_titles": [
+      "Mahou Shoujo Noble Rose The Animation (SUB ENG)",
+      "Parade Parade",
+      "Angel Blade"
+    ]
+  },
+  {
+    "slug": "gangbang",
+    "name": "Gangbang",
+    "description": "Una persona coinvolta sessualmente con più partner contemporaneamente.",
+    "endpointPath": "/archive?genre=gangbang",
+    "count": 280,
+    "max_page": 14,
+    "sample_titles": [
+      "Legend of Reyon: The God of Darkness (SUB ENG)",
+      "Momone (SUB ENG)",
+      "Juurin Oukoku (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "glasses",
+    "name": "Glasses",
+    "description": "Personaggi che indossano occhiali, spesso per un trope di \"ragazza intelligente\".",
+    "endpointPath": "/archive?genre=glasses",
+    "count": 240,
+    "max_page": 12,
+    "sample_titles": [
+      "My Life As (SUB ENG)",
+      "Let's Arbeit! (SUB ENG)",
+      "Concerto (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "hand-job",
+    "name": "Hand Job",
+    "description": "Masturbazione manuale del pene.",
+    "endpointPath": "/archive?genre=hand-job",
+    "count": 400,
+    "max_page": 20,
+    "sample_titles": [
+      "Pure x Holic: Junketsu Otome to Konin Kankei!? The Animation (SUB ENG)",
+      "Junk Story (SUB ENG)",
+      "Pure x Holic: Junketsu Otome to Konin Kankei!? The Animation"
+    ]
+  },
+  {
+    "slug": "harem",
+    "name": "Harem",
+    "description": "Un protagonista maschio circondato da multiple partner femminili devote.",
+    "endpointPath": "/archive?genre=harem",
+    "count": 360,
+    "max_page": 18,
+    "sample_titles": [
+      "Pure x Holic: Junketsu Otome to Konin Kankei!? The Animation (SUB ENG)",
+      "My Life As (SUB ENG)",
+      "Pure x Holic: Junketsu Otome to Konin Kankei!? The Animation"
+    ]
+  },
+  {
+    "slug": "horror",
+    "name": "Horror",
+    "description": "Elementi spaventosi, gore o sovrannaturali misti a erotismo.",
+    "endpointPath": "/archive?genre=horror",
+    "count": 60,
+    "max_page": 3,
+    "sample_titles": [
+      "Mahou Shoujo wa Kiss Shite Kawaru",
+      "Legend of Lyon Flare",
+      "Fukai ni Nemuru Oujo no Abaddon (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "incest",
+    "name": "Incest",
+    "description": "Relazioni sessuali tra familiari (fratelli, sorelle, genitori).",
+    "endpointPath": "/archive?genre=incest",
+    "count": 240,
+    "max_page": 12,
+    "sample_titles": [
+      "Netorareta Bakunyuu Tsuma-tachi 2",
+      "Isourou Tengoku (SUB ENG)",
+      "Rennyuu Tales"
+    ]
+  },
+  {
+    "slug": "inflation",
+    "name": "Inflation",
+    "description": "Gonfiaggio del corpo o parti (seno, ventre) con liquidi come cum o aria.",
+    "endpointPath": "/archive?genre=inflation",
+    "count": 40,
+    "max_page": 2,
+    "sample_titles": [
+      "Shion",
+      "Tokubetsu Byoutou",
+      "Shion Special"
+    ]
+  },
+  {
+    "slug": "lactation",
+    "name": "Lactation",
+    "description": "Produzione e spruzzo di latte materno dai seni.",
+    "endpointPath": "/archive?genre=lactation",
+    "count": 100,
+    "max_page": 5,
+    "sample_titles": [
+      "Paizuri Cheerleader VS Sakunyuu Ouendan!",
+      "Maid-san to Boin Damashii",
+      "My Mother (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "maid",
+    "name": "Maid",
+    "description": "Personaggi in uniforme da cameriera, con temi di servizio e sottomissione.",
+    "endpointPath": "/archive?genre=maid",
+    "count": 120,
+    "max_page": 6,
+    "sample_titles": [
+      "Let's Arbeit! (SUB ENG)",
+      "Lewd Room (SUB ENG)",
+      "Chimimonryou (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "masturbation",
+    "name": "Masturbation",
+    "description": "Auto-stimolazione sessuale, sola o osservata.",
+    "endpointPath": "/archive?genre=masturbation",
+    "count": 160,
+    "max_page": 8,
+    "sample_titles": [
+      "Sare Tsuma wa Ubawaretai (SUB ENG)",
+      "Sare Tsuma wa Ubawaretai",
+      "Binetsu Hime: Zange no Shou (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "milf",
+    "name": "Milf",
+    "description": "Donne mature e attraenti, spesso madri (Mother I'd Like to Fuck).",
+    "endpointPath": "/archive?genre=milf",
+    "count": 160,
+    "max_page": 8,
+    "sample_titles": [
+      "Sare Tsuma wa Ubawaretai (SUB ENG)",
+      "Sare Tsuma wa Ubawaretai",
+      "Isourou Tengoku (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "mind-break",
+    "name": "Mind Break",
+    "description": "Perdita di sanità mentale del personaggio dovuta a piacere eccessivo, diventando dipendente dal sesso.",
+    "endpointPath": "/archive?genre=mind-break",
+    "count": 80,
+    "max_page": 4,
+    "sample_titles": [
+      "The Lonely Snow Widow and the Cursed Ring",
+      "Blood Royale (SUB ENG)",
+      "Juurin Oukoku (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "mind-control",
+    "name": "Mind Control",
+    "description": "Controllo mentale ipnotico o magico per forzare atti sessuali.",
+    "endpointPath": "/archive?genre=mind-control",
+    "count": 100,
+    "max_page": 5,
+    "sample_titles": [
+      "Now That I Can Control Reality with a Mouse Cursor, I'm Gonna Click Away on the Girls!",
+      "The Lonely Snow Widow and the Cursed Ring",
+      "Kanojo Saimin (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "monster",
+    "name": "Monster",
+    "description": "Creature mostruose (orchi, demoni) coinvolte in scene sessuali.",
+    "endpointPath": "/archive?genre=monster",
+    "count": 200,
+    "max_page": 10,
+    "sample_titles": [
+      "The Lonely Snow Widow and the Cursed Ring",
+      "Junk Story (SUB ENG)",
+      "Love Forever (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "nekomimi",
+    "name": "Nekomimi",
+    "description": "Personaggi con orecchie e coda da gatto, tratti antropomorfi felini.",
+    "endpointPath": "/archive?genre=nekomimi",
+    "count": 0,
+    "max_page": 1,
+    "sample_titles": []
+  },
+  {
+    "slug": "ntr",
+    "name": "NTR",
+    "description": "Netorare, furto di partner (cornificazione, spesso con tradimento emotivo).",
+    "endpointPath": "/archive?genre=ntr",
+    "count": 200,
+    "max_page": 10,
+    "sample_titles": [
+      "Netorareta Bakunyuu Tsuma-tachi 2",
+      "Kare no Shiranai Himitsu wo Irete. The Animation",
+      "Kare no Shiranai Himitsu wo Irete. The Animation (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "nurse",
+    "name": "Nurse",
+    "description": "Personaggi in uniforme da infermiera, con temi medici e cure erotiche.",
+    "endpointPath": "/archive?genre=nurse",
+    "count": 80,
+    "max_page": 4,
+    "sample_titles": [
+      "Shikkaku Ishi (SUB ENG)",
+      "Yogosareta Junketsu",
+      "Bakunyuu Bomb"
+    ]
+  },
+  {
+    "slug": "orgy",
+    "name": "Orgy",
+    "description": "Sesso di gruppo con molteplici partecipanti.",
+    "endpointPath": "/archive?genre=orgy",
+    "count": 120,
+    "max_page": 6,
+    "sample_titles": [
+      "Kanojo Saimin (SUB ENG)",
+      "Kanojo Saimin",
+      "Juurin Oukoku (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "plot",
+    "name": "Plot",
+    "description": "Presenza di una storyline narrativa significativa oltre alle scene erotiche.",
+    "endpointPath": "/archive?genre=plot",
+    "count": 700,
+    "max_page": 35,
+    "sample_titles": [
+      "Nijuusou: Wana ni Ochita Onna-tachi (SUB ENG)",
+      "Sare Tsuma wa Ubawaretai (SUB ENG)",
+      "Sare Tsuma wa Ubawaretai"
+    ]
+  },
+  {
+    "slug": "pov",
+    "name": "POV",
+    "description": "Prospettiva in prima persona, come se lo spettatore fosse il protagonista.",
+    "endpointPath": "/archive?genre=pov",
+    "count": 100,
+    "max_page": 5,
+    "sample_titles": [
+      "Junk Land",
+      "Sisters - The Last Day of Summer - Akiko",
+      "Sisters - The Last Day of Summer - Chinatsu"
+    ]
+  },
+  {
+    "slug": "pregnant",
+    "name": "Pregnant",
+    "description": "Personaggi incinte, con enfasi su ventre gonfio e atti sessuali.",
+    "endpointPath": "/archive?genre=pregnant",
+    "count": 40,
+    "max_page": 2,
+    "sample_titles": [
+      "Venus Blood: Brave",
+      "Shion",
+      "Shion Special"
+    ]
+  },
+  {
+    "slug": "public-sex",
+    "name": "Public Sex",
+    "description": "Atti sessuali in luoghi pubblici o con rischio di essere visti.",
+    "endpointPath": "/archive?genre=public-sex",
+    "count": 300,
+    "max_page": 15,
+    "sample_titles": [
+      "Custom Slave (SUB ENG)",
+      "Love es M",
+      "Hamehara (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "rimjob",
+    "name": "Rimjob",
+    "description": "Leccatura o stimolazione anale con la lingua.",
+    "endpointPath": "/archive?genre=rimjob",
+    "count": 60,
+    "max_page": 3,
+    "sample_titles": [
+      "Netorareta Bakunyuu Tsuma-tachi 2",
+      "Kanojo Saimin (SUB ENG)",
+      "Kanojo Saimin"
+    ]
+  },
+  {
+    "slug": "scat",
+    "name": "Scat",
+    "description": "Coinvolgimento di feci in atti sessuali (defecazione, coprofagia).",
+    "endpointPath": "/archive?genre=scat",
+    "count": 40,
+    "max_page": 2,
+    "sample_titles": [
+      "Blood Royale (SUB ENG)",
+      "Juurin Oukoku (SUB ENG)",
+      "Juurin Oukoku"
+    ]
+  },
+  {
+    "slug": "school-girl",
+    "name": "School Girl",
+    "description": "Personaggi in uniforme scolastica, trope di studentessa innocente.",
+    "endpointPath": "/archive?genre=school-girl",
+    "count": 680,
+    "max_page": 34,
+    "sample_titles": [
+      "TriAngle (SUB ENG)",
+      "Now That I Can Control Reality with a Mouse Cursor, I'm Gonna Click Away on the Girls!",
+      "Binetsu Hime: Zange no Shou (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "softcore",
+    "name": "Softcore",
+    "description": "Contenuti erotici non espliciti, con nudità ma senza penetrazione grafica.",
+    "endpointPath": "/archive?genre=softcore",
+    "count": 7,
+    "max_page": 1,
+    "sample_titles": [
+      "Marika's Love Meter Malfunction (SUB ENG)",
+      "Ichigo Aika: Strawberry Elegy (SUB ENG)",
+      "Marika's Love Meter Malfunction"
+    ]
+  },
+  {
+    "slug": "swimsuit",
+    "name": "Swimsuit",
+    "description": "Personaggi in costumi da bagno, spesso in contesti beach o pool.",
+    "endpointPath": "/archive?genre=swimsuit",
+    "count": 140,
+    "max_page": 7,
+    "sample_titles": [
+      "Sare Tsuma wa Ubawaretai (SUB ENG)",
+      "Sare Tsuma wa Ubawaretai",
+      "Momone (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "teacher",
+    "name": "Teacher",
+    "description": "Personaggi insegnanti, con dinamiche studente-professore.",
+    "endpointPath": "/archive?genre=teacher",
+    "count": 220,
+    "max_page": 11,
+    "sample_titles": [
+      "Sare Tsuma wa Ubawaretai (SUB ENG)",
+      "Sare Tsuma wa Ubawaretai",
+      "Binetsu Hime: Zange no Shou (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "tentacle",
+    "name": "Tentacle",
+    "description": "Penetrazione con tentacoli, spesso da creature mostruose.",
+    "endpointPath": "/archive?genre=tentacle",
+    "count": 140,
+    "max_page": 7,
+    "sample_titles": [
+      "Legend of Reyon: The God of Darkness (SUB ENG)",
+      "Junk Story (SUB ENG)",
+      "Blood Royale (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "threesome",
+    "name": "Threesome",
+    "description": "Sesso coinvolgente tre persone.",
+    "endpointPath": "/archive?genre=threesome",
+    "count": 80,
+    "max_page": 4,
+    "sample_titles": [
+      "Isourou Tengoku (SUB ENG)",
+      "Sacred Prostitutes",
+      "Nuki Nuki Zupposism (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "toys",
+    "name": "Toys",
+    "description": "Uso di vibratori, dildo o altri sex toys.",
+    "endpointPath": "/archive?genre=toys",
+    "count": 300,
+    "max_page": 15,
+    "sample_titles": [
+      "Binetsu Hime: Zange no Shou (SUB ENG)",
+      "Ko Ko Ro (SUB ENG)",
+      "Deco x Deco The Animation (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "trap",
+    "name": "Trap",
+    "description": "Personaggi maschi che appaiono femminili, con travestitismo.",
+    "endpointPath": "/archive?genre=trap",
+    "count": 18,
+    "max_page": 1,
+    "sample_titles": [
+      "Otome wa Boku ni Koi Shiteru: Trinkle Stars (SUB ENG)",
+      "Otome wa Boku ni Koi Shiteru: Trinkle Stars",
+      "Skirt no Naka wa Kedamono Deshita."
+    ]
+  },
+  {
+    "slug": "tsundere",
+    "name": "Tsundere",
+    "description": "Personaggi che iniziano freddi/aggressivi ma diventano affettuosi.",
+    "endpointPath": "/archive?genre=tsundere",
+    "count": 40,
+    "max_page": 2,
+    "sample_titles": [
+      "Kanojo Saimin (SUB ENG)",
+      "Kanojo Saimin",
+      "Do You Like Big Girls? (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "ugly-bastard",
+    "name": "Ugly Bastard",
+    "description": "Protagonisti maschi brutti, vecchi o ripugnanti che conquistano donne attraenti.",
+    "endpointPath": "/archive?genre=ugly-bastard",
+    "count": 120,
+    "max_page": 6,
+    "sample_titles": [
+      "Kanojo Saimin (SUB ENG)",
+      "Kanojo Saimin",
+      "Try Z (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "uncensored",
+    "name": "Uncensored",
+    "description": "Contenuti senza pixelatura, con genitali completamente visibili.",
+    "endpointPath": "/archive?genre=uncensored",
+    "count": 280,
+    "max_page": 14,
+    "sample_titles": [
+      "TriAngle (SUB ENG)",
+      "Blood Royale (SUB ENG)",
+      "The Pianist (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "vanilla",
+    "name": "Vanilla",
+    "description": "Sesso convenzionale, romantico e non estremo.",
+    "endpointPath": "/archive?genre=vanilla",
+    "count": 180,
+    "max_page": 9,
+    "sample_titles": [
+      "The Lonely Snow Widow and the Cursed Ring",
+      "Offering My Virginity to a Gangster (SUB ENG)",
+      "My Classmate's a Sexy Actress, and Now We Live Together?!"
+    ]
+  },
+  {
+    "slug": "virgin",
+    "name": "Virgin",
+    "description": "Personaggi alla prima esperienza sessuale, con deflorazione.",
+    "endpointPath": "/archive?genre=virgin",
+    "count": 500,
+    "max_page": 25,
+    "sample_titles": [
+      "Pure x Holic: Junketsu Otome to Konin Kankei!? The Animation (SUB ENG)",
+      "Now That I Can Control Reality with a Mouse Cursor, I'm Gonna Click Away on the Girls!",
+      "The Lonely Snow Widow and the Cursed Ring"
+    ]
+  },
+  {
+    "slug": "watersports",
+    "name": "Watersports",
+    "description": "Coinvolgimento di urina (urinare su partner, golden shower).",
+    "endpointPath": "/archive?genre=watersports",
+    "count": 120,
+    "max_page": 6,
+    "sample_titles": [
+      "Sare Tsuma wa Ubawaretai (SUB ENG)",
+      "Sare Tsuma wa Ubawaretai",
+      "Kanojo Saimin (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "x-ray",
+    "name": "X-Ray",
+    "description": "Vista interna del corpo durante la penetrazione, mostrando organi e fluidi.",
+    "endpointPath": "/archive?genre=x-ray",
+    "count": 340,
+    "max_page": 17,
+    "sample_titles": [
+      "Pure x Holic: Junketsu Otome to Konin Kankei!? The Animation (SUB ENG)",
+      "Pure x Holic: Junketsu Otome to Konin Kankei!? The Animation",
+      "Kanojo Saimin (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "yaoi",
+    "name": "Yaoi",
+    "description": "Relazioni omosessuali maschio-maschio (boys' love).",
+    "endpointPath": "/archive?genre=yaoi",
+    "count": 20,
+    "max_page": 1,
+    "sample_titles": [
+      "My Sexual Harassment (SUB ENG)",
+      "Everything for Demon King Evelogia (SUB ENG)",
+      "The Titan's Bride (SUB ENG)"
+    ]
+  },
+  {
+    "slug": "yuri",
+    "name": "Yuri",
+    "description": "Relazioni omosessuali femmina-femmina (girls' love).",
+    "endpointPath": "/archive?genre=yuri",
+    "count": 200,
+    "max_page": 10,
+    "sample_titles": [
+      "My Life As (SUB ENG)",
+      "Heisei Jogakuen Kagai Lesson (SUB ENG)",
+      "Hyakkiyakou: Warashi (SUB ENG)"
+    ]
+  }
+]

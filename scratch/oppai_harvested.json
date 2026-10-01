@@ -1,0 +1,1646 @@
+{
+  "probe_results": {
+    "https://oppai.stream/genre/": {
+      "status": 404,
+      "url": "https://oppai.stream/genre/",
+      "length": 563
+    },
+    "https://oppai.stream/categories/": {
+      "status": 404,
+      "url": "https://oppai.stream/categories/",
+      "length": 563
+    },
+    "https://oppai.stream/categories": {
+      "status": 200,
+      "url": "https://oppai.stream/categories",
+      "length": 23804
+    },
+    "https://oppai.stream/studios/": {
+      "status": 404,
+      "url": "https://oppai.stream/studios/",
+      "length": 563
+    },
+    "https://oppai.stream/actions/search.php?text=&order=recent&page=1&limit=35&genres=&blacklist=&studio=&ibt=0&swa=1": {
+      "status": 200,
+      "url": "https://oppai.stream/actions/search.php?text=&order=recent&page=1&limit=35&genres=&blacklist=&studio=&ibt=0&swa=1",
+      "length": 102676
+    }
+  },
+  "categories": [
+    {
+      "name": "4K UHD Remasters",
+      "slug": "uhd",
+      "count": 1730,
+      "thumbnail": "https://myspacecat.pictures/Sare Tsuma wa Ubawaretai/thumbnail_1.png",
+      "icon": "Icons.four_k_rounded",
+      "desc": "Lossless AI-upscaled 4K 60FPS high-bitrate master releases",
+      "endpoint": "/search?a=recent&g=4k"
+    },
+    {
+      "name": "Latest Releases",
+      "slug": "recent",
+      "count": 1883,
+      "thumbnail": "https://myspacecat.pictures/Sare Tsuma wa Ubawaretai/thumbnail_1.png",
+      "icon": "Icons.fiber_new_rounded",
+      "desc": "Newly aired and recently remastered anime episodes",
+      "endpoint": "/search?a=recent"
+    },
+    {
+      "name": "Most Viewed",
+      "slug": "popular",
+      "count": 1883,
+      "thumbnail": "https://myspacecat.pictures/maple/stark fern/thumbnail_1.png",
+      "icon": "Icons.whatshot_rounded",
+      "desc": "All-time most watched and trending anime series",
+      "endpoint": "/search?a=views"
+    },
+    {
+      "name": "Highest Rated",
+      "slug": "rating",
+      "count": 1883,
+      "thumbnail": "https://myspacecat.pictures/maple/stark fern/thumbnail_1.png",
+      "icon": "Icons.star_rounded",
+      "desc": "Community top-rated masterpiece hentai series",
+      "endpoint": "/search?a=rating"
+    },
+    {
+      "name": "Recently Uploaded",
+      "slug": "uploaded",
+      "count": 1883,
+      "thumbnail": "https://myspacecat.pictures/Sare Tsuma wa Ubawaretai/thumbnail_1.png",
+      "icon": "Icons.history_rounded",
+      "desc": "Fresh additions to the Oppai.stream archival library",
+      "endpoint": "/search?a=uploaded"
+    },
+    {
+      "name": "Uncensored Archive",
+      "slug": "uncensored",
+      "count": 257,
+      "thumbnail": "https://myspacecat.pictures/maple/chainsaw/thumbnail_1.png",
+      "icon": "Icons.lock_open_rounded",
+      "desc": "Decensored and explicit uncensored uncut editions",
+      "endpoint": "/search?a=recent&g=uncensored"
+    },
+    {
+      "name": "Vanilla & Romance",
+      "slug": "vanilla",
+      "count": 280,
+      "thumbnail": "https://myspacecat.pictures/maple/Sakamoto/thumbnail_1.png",
+      "icon": "Icons.favorite_rounded",
+      "desc": "Wholesome romance, sweet lovers, and intimate storytelling",
+      "endpoint": "/search?a=recent&g=vanilla"
+    },
+    {
+      "name": "3D CGI Animation",
+      "slug": "3d",
+      "count": 5,
+      "thumbnail": "https://myspacecat.pictures/The Relationship of Siblings/thumbnail_3.png",
+      "icon": "Icons.view_in_ar_rounded",
+      "desc": "3D rendered animation, CGI productions, and MMD masters",
+      "endpoint": "/search?a=recent&g=3d"
+    },
+    {
+      "name": "Harem Collections",
+      "slug": "harem",
+      "count": 552,
+      "thumbnail": "https://myspacecat.pictures/Pure x Holic Junketsu Otome to Konin Kankei The Animation/thumbnail_1.png",
+      "icon": "Icons.groups_3_rounded",
+      "desc": "Multi-heroine school, fantasy, and domestic harem series",
+      "endpoint": "/search?a=recent&g=harem"
+    },
+    {
+      "name": "Fantasy & Isekai",
+      "slug": "fantasy",
+      "count": 323,
+      "thumbnail": "https://myspacecat.pictures/Muchuu no Tou/thumbnail_2.png",
+      "icon": "Icons.auto_awesome_rounded",
+      "desc": "Sword, sorcery, magical guilds, and otherworld adventures",
+      "endpoint": "/search?a=recent&g=fantasy"
+    },
+    {
+      "name": "MILF & Mature",
+      "slug": "milf",
+      "count": 243,
+      "thumbnail": "https://myspacecat.pictures/Nuki Nuki Zupposism/thumbnail_2.png",
+      "icon": "Icons.woman_rounded",
+      "desc": "Mature housewives, voluptuous mothers, and older waifus",
+      "endpoint": "/search?a=recent&g=milf"
+    },
+    {
+      "name": "School Girls",
+      "slug": "schoolgirl",
+      "count": 857,
+      "thumbnail": "https://myspacecat.pictures/Deco x Deco The Animation/thumbnail_1.png",
+      "icon": "Icons.school_rounded",
+      "desc": "Academy uniforms, campus romance, and after-school secrets",
+      "endpoint": "/search?a=recent&g=schoolgirl"
+    },
+    {
+      "name": "Maid & Service",
+      "slug": "maid",
+      "count": 136,
+      "thumbnail": "https://myspacecat.pictures/Reika wa Karei na Boku no Joou The Animation/thumbnail_4.png",
+      "icon": "Icons.cleaning_services_rounded",
+      "desc": "Dedicated mansion maids, café staff, and obedient service",
+      "endpoint": "/search?a=recent&g=maid"
+    },
+    {
+      "name": "Cosplay & Gal",
+      "slug": "cosplay",
+      "count": 342,
+      "thumbnail": "https://myspacecat.pictures/Deco x Deco The Animation/thumbnail_1.png",
+      "icon": "Icons.theater_comedy_rounded",
+      "desc": "Costume dress-up, convention roleplay, and flashy gyaru",
+      "endpoint": "/search?a=recent&g=cosplay"
+    },
+    {
+      "name": "Dark Skin Waifus",
+      "slug": "darkskin",
+      "count": 170,
+      "thumbnail": "https://myspacecat.pictures/Shoujo Ramune/thumbnail_7.png",
+      "icon": "Icons.wb_sunny_rounded",
+      "desc": "Tanned beauties, gyaru, and sun-kissed heroines",
+      "endpoint": "/search?a=recent&g=darkskin"
+    },
+    {
+      "name": "Random Discovery",
+      "slug": "random",
+      "count": 1883,
+      "thumbnail": "https://myspacecat.pictures/H na Gishi Series The Animation 2/thumbnail_2.png",
+      "icon": "Icons.shuffle_rounded",
+      "desc": "Shuffle and discover unexpected hidden anime gems",
+      "endpoint": "/search?a=random"
+    }
+  ],
+  "genres": [
+    {
+      "name": "HD",
+      "slug": "hd",
+      "group": "Regular",
+      "count": 1812,
+      "thumbnail": "https://myspacecat.pictures/Kanojo Saimin/thumbnail_1.png"
+    },
+    {
+      "name": "Censored",
+      "slug": "censored",
+      "group": "Regular",
+      "count": 1787,
+      "thumbnail": "https://myspacecat.pictures/Kyokugen Chikan Tokuiten 3 The Animation/thumbnail_1.png"
+    },
+    {
+      "name": "4k",
+      "slug": "4k",
+      "group": "Regular",
+      "count": 1730,
+      "thumbnail": "https://myspacecat.pictures/Sare Tsuma wa Ubawaretai/thumbnail_1.png"
+    },
+    {
+      "name": "Big Boobs",
+      "slug": "bigboobs",
+      "group": "Female Options",
+      "count": 1696,
+      "thumbnail": "https://myspacecat.pictures/3 piece the animation/thumbnail_1.png"
+    },
+    {
+      "name": "Creampie",
+      "slug": "creampie",
+      "group": "Sexual Actions",
+      "count": 1548,
+      "thumbnail": "https://myspacecat.pictures/Gaki ni Modotte Yarinaoshi/thumbnail_2.png"
+    },
+    {
+      "name": "BlowJob",
+      "slug": "blowjob",
+      "group": "Sexual Actions",
+      "count": 1420,
+      "thumbnail": "https://myspacecat.pictures/Hatsukuoi Time/thumbnail_2.png"
+    },
+    {
+      "name": "Doggy",
+      "slug": "doggy",
+      "group": "Sexual Actions",
+      "count": 1251,
+      "thumbnail": "https://myspacecat.pictures/Kyonyuu Reijou MC Gakuen/thumbnail_2.png"
+    },
+    {
+      "name": "Cowgirl",
+      "slug": "cowgirl",
+      "group": "Sexual Actions",
+      "count": 982,
+      "thumbnail": "https://myspacecat.pictures/Sare Tsuma wa Ubawaretai/thumbnail_1.png"
+    },
+    {
+      "name": "Missionary",
+      "slug": "missionary",
+      "group": "Sexual Actions",
+      "count": 935,
+      "thumbnail": "https://myspacecat.pictures/Hatsukuoi Time/thumbnail_6.png"
+    },
+    {
+      "name": "School Girl",
+      "slug": "schoolgirl",
+      "group": "Female Options",
+      "count": 857,
+      "thumbnail": "https://myspacecat.pictures/Amai Ijiwaru/thumbnail_1.png"
+    },
+    {
+      "name": "BoobJob",
+      "slug": "boobjob",
+      "group": "Sexual Actions",
+      "count": 850,
+      "thumbnail": "https://myspacecat.pictures/No Waifu No Life/thumbnail_1.png"
+    },
+    {
+      "name": "Facial",
+      "slug": "facial",
+      "group": "Sexual Actions",
+      "count": 818,
+      "thumbnail": "https://myspacecat.pictures/Tsundero Series/thumbnail_6.png"
+    },
+    {
+      "name": "Brown Hair",
+      "slug": "brownhair",
+      "group": "Female Options",
+      "count": 702,
+      "thumbnail": "https://myspacecat.pictures/Harem-tou e Youkoso/thumbnail_1.png"
+    },
+    {
+      "name": "Blonde Hair",
+      "slug": "blondehair",
+      "group": "Female Options",
+      "count": 656,
+      "thumbnail": "https://myspacecat.pictures/Juurin Oukoku/thumbnail_1.png"
+    },
+    {
+      "name": "Virgin",
+      "slug": "virgin",
+      "group": "Female Options",
+      "count": 631,
+      "thumbnail": "https://myspacecat.pictures/Yuusha-hime Miria/thumbnail_1.png"
+    },
+    {
+      "name": "Rape",
+      "slug": "rape",
+      "group": "Sexual Actions",
+      "count": 606,
+      "thumbnail": "https://myspacecat.pictures/Succubus Connect!  - 02/thumbnail_2.png"
+    },
+    {
+      "name": "Harem",
+      "slug": "harem",
+      "group": "Regular",
+      "count": 552,
+      "thumbnail": "https://myspacecat.pictures/kyonyuu daikazoku saimin/thumbnail_2.png"
+    },
+    {
+      "name": "Black Hair",
+      "slug": "blackhair",
+      "group": "Female Options",
+      "count": 551,
+      "thumbnail": "https://myspacecat.pictures/1LDK JK Ikinari Doukyo Micchaku Hatsu Ecchi8/thumbnail_8.png"
+    },
+    {
+      "name": "Public Sex",
+      "slug": "publicsex",
+      "group": "Sexual Actions",
+      "count": 507,
+      "thumbnail": "https://myspacecat.pictures/Furachi/thumbnail_2.png"
+    },
+    {
+      "name": "Masturbation",
+      "slug": "masturbation",
+      "group": "Sexual Actions",
+      "count": 493,
+      "thumbnail": "https://myspacecat.pictures/Sare Tsuma wa Ubawaretai/thumbnail_1.png"
+    },
+    {
+      "name": "Plot",
+      "slug": "plot",
+      "group": "Regular",
+      "count": 459,
+      "thumbnail": "https://myspacecat.pictures/Sare Tsuma wa Ubawaretai/thumbnail_1.png"
+    },
+    {
+      "name": "Anal",
+      "slug": "anal",
+      "group": "Sexual Actions",
+      "count": 455,
+      "thumbnail": "https://myspacecat.pictures/imouto wa gal kawaii/thumbnail_2.png"
+    },
+    {
+      "name": "X-Ray",
+      "slug": "x-ray",
+      "group": "Regular",
+      "count": 440,
+      "thumbnail": "https://myspacecat.pictures/Kare no Shiranai Himitsu o Irete. The Animation/thumbnail_1.png"
+    },
+    {
+      "name": "HandJob",
+      "slug": "handjob",
+      "group": "Sexual Actions",
+      "count": 431,
+      "thumbnail": "https://myspacecat.pictures/Sare Tsuma wa Ubawaretai/thumbnail_1.png"
+    },
+    {
+      "name": "Short Hair",
+      "slug": "shorthair",
+      "group": "Female Options",
+      "count": 378,
+      "thumbnail": "https://myspacecat.pictures/Nuki Nuki Zupposism/thumbnail_2.png"
+    },
+    {
+      "name": "Toys",
+      "slug": "toys",
+      "group": "Sexual Actions",
+      "count": 362,
+      "thumbnail": "https://myspacecat.pictures/Bitch na Inane-sama/thumbnail_4.png"
+    },
+    {
+      "name": "Cosplay",
+      "slug": "cosplay",
+      "group": "Female Options",
+      "count": 342,
+      "thumbnail": "https://myspacecat.pictures/Kazoku Haha to Shimai no Kyousei/thumbnail_5.png"
+    },
+    {
+      "name": "NTR",
+      "slug": "ntr",
+      "group": "Sexual Actions",
+      "count": 328,
+      "thumbnail": "https://myspacecat.pictures/Tsuma Netori Rei Boku no Ayamachi Kanojo no Sentaku/thumbnail_1.png"
+    },
+    {
+      "name": "Threesome",
+      "slug": "threesome",
+      "group": "Sexual Actions",
+      "count": 325,
+      "thumbnail": "https://myspacecat.pictures/Bubble de House de XXX The Animation/thumbnail_1.png"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "group": "Regular",
+      "count": 323,
+      "thumbnail": "https://myspacecat.pictures/Kyonyuu Elf Oyako Saimin/thumbnail_1.png"
+    },
+    {
+      "name": "Incest",
+      "slug": "incest",
+      "group": "Regular",
+      "count": 323,
+      "thumbnail": "https://myspacecat.pictures/Uchi no Otouto Maji de Dekain Dakedo Mi ni Konai/thumbnail_2.png"
+    },
+    {
+      "name": "Small Boobs",
+      "slug": "smallboobs",
+      "group": "Female Options",
+      "count": 319,
+      "thumbnail": "https://myspacecat.pictures/Hajimete no Orusuban/thumbnail_1.png"
+    },
+    {
+      "name": "Gangbang",
+      "slug": "gangbang",
+      "group": "Sexual Actions",
+      "count": 300,
+      "thumbnail": "https://myspacecat.pictures/Succubus Connect!  - 02/thumbnail_2.png"
+    },
+    {
+      "name": "Bondage",
+      "slug": "bondage",
+      "group": "Sexual Actions",
+      "count": 289,
+      "thumbnail": "https://myspacecat.pictures/Chimimouryou/thumbnail_2.png"
+    },
+    {
+      "name": "Red Hair",
+      "slug": "redhair",
+      "group": "Female Options",
+      "count": 287,
+      "thumbnail": "https://myspacecat.pictures/Hamehara/thumbnail_1.png"
+    },
+    {
+      "name": "Blue Hair",
+      "slug": "bluehair",
+      "group": "Female Options",
+      "count": 285,
+      "thumbnail": "https://myspacecat.pictures/Nuki Nuki Zupposism/thumbnail_2.png"
+    },
+    {
+      "name": "Ahegao",
+      "slug": "ahegao",
+      "group": "Regular",
+      "count": 283,
+      "thumbnail": "https://myspacecat.pictures/Akane wa Tsumare Somerareru/thumbnail_1.png"
+    },
+    {
+      "name": "Vanilla",
+      "slug": "vanilla",
+      "group": "Regular",
+      "count": 280,
+      "thumbnail": "https://myspacecat.pictures/maple/Sakamoto/thumbnail_1.png"
+    },
+    {
+      "name": "Purple Hair",
+      "slug": "purplehair",
+      "group": "Female Options",
+      "count": 270,
+      "thumbnail": "https://myspacecat.pictures/Deco x Deco The Animation/thumbnail_1.png"
+    },
+    {
+      "name": "Glasses",
+      "slug": "glasses",
+      "group": "Female Options",
+      "count": 260,
+      "thumbnail": "https://myspacecat.pictures/Heart Mark Oome/thumbnail_2.png"
+    },
+    {
+      "name": "Uncensored",
+      "slug": "uncensored",
+      "group": "Regular",
+      "count": 257,
+      "thumbnail": "https://myspacecat.pictures/Amanee Tomodachinchi de Konna Koto ni Naru Nante/thumbnail_1.png"
+    },
+    {
+      "name": "Milf",
+      "slug": "milf",
+      "group": "Female Options",
+      "count": 243,
+      "thumbnail": "https://myspacecat.pictures/Jashin Shoukan/thumbnail_1.png"
+    },
+    {
+      "name": "Yuri",
+      "slug": "yuri",
+      "group": "Regular",
+      "count": 222,
+      "thumbnail": "https://myspacecat.pictures/Mugoku no Kuni no Alice/thumbnail_1.png"
+    },
+    {
+      "name": "POV",
+      "slug": "pov",
+      "group": "Regular",
+      "count": 221,
+      "thumbnail": "https://myspacecat.pictures/Kokuhaku/thumbnail_3.png"
+    },
+    {
+      "name": "Swimsuit",
+      "slug": "swimsuit",
+      "group": "Female Options",
+      "count": 194,
+      "thumbnail": "https://myspacecat.pictures/Dearest Blue/thumbnail_4.png"
+    },
+    {
+      "name": "Monster",
+      "slug": "monster",
+      "group": "Regular",
+      "count": 188,
+      "thumbnail": "https://myspacecat.pictures/Ruins Seeker/thumbnail_1.png"
+    },
+    {
+      "name": "Pink Hair",
+      "slug": "pinkhair",
+      "group": "Female Options",
+      "count": 188,
+      "thumbnail": "https://myspacecat.pictures/Cheat Item Kanrikyoku no Oshigoto EX/thumbnail_1.png"
+    },
+    {
+      "name": "Mind Break",
+      "slug": "mindbreak",
+      "group": "Regular",
+      "count": 173,
+      "thumbnail": "https://myspacecat.pictures/Cheat Item Kanrikyoku no Oshigoto EX/thumbnail_1.png"
+    },
+    {
+      "name": "Loli",
+      "slug": "loli",
+      "group": "Female Options",
+      "count": 173,
+      "thumbnail": "https://myspacecat.pictures/Shoujo Ramune/thumbnail_1.png"
+    },
+    {
+      "name": "Orgy",
+      "slug": "orgy",
+      "group": "Sexual Actions",
+      "count": 170,
+      "thumbnail": "https://myspacecat.pictures/Pure x Holic Junketsu Otome to Konin Kankei The Animation/thumbnail_2.png"
+    },
+    {
+      "name": "Dark Skin",
+      "slug": "darkskin",
+      "group": "Female Options",
+      "count": 170,
+      "thumbnail": "https://myspacecat.pictures/Bokura no Sex/thumbnail_1.png"
+    },
+    {
+      "name": "Teacher",
+      "slug": "teacher",
+      "group": "Female Options",
+      "count": 157,
+      "thumbnail": "https://myspacecat.pictures/Seika Jogakuin Kounin Sao Ojisan/thumbnail_1.png"
+    },
+    {
+      "name": "White Hair",
+      "slug": "whitehair",
+      "group": "Female Options",
+      "count": 156,
+      "thumbnail": "https://myspacecat.pictures/Shoujo Ramune/thumbnail_7.png"
+    },
+    {
+      "name": "Filmed",
+      "slug": "filmed",
+      "group": "Regular",
+      "count": 151,
+      "thumbnail": "https://myspacecat.pictures/Oni Chichi/thumbnail_1.png"
+    },
+    {
+      "name": "Ugly Bastard",
+      "slug": "uglybastard",
+      "group": "Male Options",
+      "count": 151,
+      "thumbnail": "https://myspacecat.pictures/Tsuma Netori 3 Kairaku ni Ochita Injiru Kyoushi-tachi/thumbnail_1.png"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy",
+      "group": "Regular",
+      "count": 137,
+      "thumbnail": "https://myspacecat.pictures/Itadaki! Seieki♥/thumbnail_2.png"
+    },
+    {
+      "name": "Maid",
+      "slug": "maid",
+      "group": "Female Options",
+      "count": 136,
+      "thumbnail": "https://myspacecat.pictures/Reika wa Karei na Boku no Joou The Animation/thumbnail_4.png"
+    },
+    {
+      "name": "Double Penetration",
+      "slug": "doublepenetration",
+      "group": "Sexual Actions",
+      "count": 124,
+      "thumbnail": "https://myspacecat.pictures/Akane wa Tsumare Somerareru/thumbnail_2.png"
+    },
+    {
+      "name": "Tentacle",
+      "slug": "tentacle",
+      "group": "Regular",
+      "count": 108,
+      "thumbnail": "https://myspacecat.pictures/Ruins Seeker/thumbnail_2.png"
+    },
+    {
+      "name": "Mind Control",
+      "slug": "mindcontrol",
+      "group": "Regular",
+      "count": 105,
+      "thumbnail": "https://myspacecat.pictures/Cheat Item Kanrikyoku no Oshigoto EX/thumbnail_1.png"
+    },
+    {
+      "name": "Lactation",
+      "slug": "lactation",
+      "group": "Regular",
+      "count": 105,
+      "thumbnail": "https://myspacecat.pictures/Kunoichi Ryoujokuden Ajisai/thumbnail_2.png"
+    },
+    {
+      "name": "BDSM",
+      "slug": "bdsm",
+      "group": "Sexual Actions",
+      "count": 105,
+      "thumbnail": "https://myspacecat.pictures/Tsuma Netori Kan Bijutsu Kyoushi no Baai/thumbnail_1.png"
+    },
+    {
+      "name": "FootJob",
+      "slug": "footjob",
+      "group": "Sexual Actions",
+      "count": 89,
+      "thumbnail": "https://myspacecat.pictures/Hebi to Kumo/thumbnail_1.png"
+    },
+    {
+      "name": "Watersports",
+      "slug": "watersports",
+      "group": "Regular",
+      "count": 88,
+      "thumbnail": "https://myspacecat.pictures/So_low/thumbnail_3.png"
+    },
+    {
+      "name": "Shota",
+      "slug": "shota",
+      "group": "Male Options",
+      "count": 81,
+      "thumbnail": "https://myspacecat.pictures/Shounen ga Otona ni Natta Natsu/thumbnail_1.png"
+    },
+    {
+      "name": "Green Hair",
+      "slug": "greenhair",
+      "group": "Female Options",
+      "count": 79,
+      "thumbnail": "https://myspacecat.pictures/Juurin Oukoku/thumbnail_1.png"
+    },
+    {
+      "name": "Reverse Rape",
+      "slug": "reverserape",
+      "group": "Sexual Actions",
+      "count": 77,
+      "thumbnail": "https://myspacecat.pictures/Reika wa Karei na Boku no Joou The Animation/thumbnail_4.png"
+    },
+    {
+      "name": "Pregnant",
+      "slug": "pregnant",
+      "group": "Female Options",
+      "count": 76,
+      "thumbnail": "https://myspacecat.pictures/Mesu o Karu Mura/thumbnail_2.png"
+    },
+    {
+      "name": "Tsundere",
+      "slug": "tsundere",
+      "group": "Female Options",
+      "count": 76,
+      "thumbnail": "https://myspacecat.pictures/Kazoku Haha to Shimai no Kyousei/thumbnail_6.png"
+    },
+    {
+      "name": "Futanari",
+      "slug": "futanari",
+      "group": "Female Options",
+      "count": 72,
+      "thumbnail": "https://myspacecat.pictures/Futabu!!/thumbnail_2.png"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror",
+      "group": "Regular",
+      "count": 70,
+      "thumbnail": "https://myspacecat.pictures/Sinisistar/thumbnail_2.png"
+    },
+    {
+      "name": "Nurse",
+      "slug": "nurse",
+      "group": "Female Options",
+      "count": 67,
+      "thumbnail": "https://myspacecat.pictures/Sakusei Byoutou The Animation/thumbnail_10.png"
+    },
+    {
+      "name": "Inflation",
+      "slug": "inflation",
+      "group": "Regular",
+      "count": 66,
+      "thumbnail": "https://myspacecat.pictures/Isekai Kita node Sukebe Skill de Zenryoku Ouka Shiyou to Omou The Animation/thumbnail_7.png"
+    },
+    {
+      "name": "Rimjob",
+      "slug": "rimjob",
+      "group": "Sexual Actions",
+      "count": 52,
+      "thumbnail": "https://myspacecat.pictures/Kanojo Saimin/thumbnail_1.png"
+    },
+    {
+      "name": "Reverse Gangbang",
+      "slug": "reversegangbang",
+      "group": "Sexual Actions",
+      "count": 51,
+      "thumbnail": "https://myspacecat.pictures/Joshi Luck!/thumbnail_5.png"
+    },
+    {
+      "name": "Succubus",
+      "slug": "succubus",
+      "group": "Female Options",
+      "count": 50,
+      "thumbnail": "https://myspacecat.pictures/Itadaki! Seieki♥/thumbnail_1.png"
+    },
+    {
+      "name": "Old",
+      "slug": "old",
+      "group": "Male Options",
+      "count": 40,
+      "thumbnail": "https://myspacecat.pictures/Kanojo Saimin/thumbnail_1.png"
+    },
+    {
+      "name": "Gyaru",
+      "slug": "gyaru",
+      "group": "Female Options",
+      "count": 39,
+      "thumbnail": "https://myspacecat.pictures/Love wa Gal kara Hajimaru Unmei/thumbnail_2.png"
+    },
+    {
+      "name": "Elf",
+      "slug": "elf",
+      "group": "Female Options",
+      "count": 38,
+      "thumbnail": "https://myspacecat.pictures/Kyonyuu Elf Oyako Saimin/thumbnail_1.png"
+    },
+    {
+      "name": "Softcore",
+      "slug": "softcore",
+      "group": "Regular",
+      "count": 37,
+      "thumbnail": "https://myspacecat.pictures/Do You Like Big Girls/thumbnail_8.png"
+    },
+    {
+      "name": "Demon",
+      "slug": "demon",
+      "group": "Female Options",
+      "count": 34,
+      "thumbnail": "https://myspacecat.pictures/Succubus Connect/thumbnail_3.png"
+    },
+    {
+      "name": "Scat",
+      "slug": "scat",
+      "group": "Regular",
+      "count": 30,
+      "thumbnail": "https://myspacecat.pictures/Juurin Oukoku/thumbnail_1.png"
+    },
+    {
+      "name": "Ponytail",
+      "slug": "ponytail",
+      "group": "Female Options",
+      "count": 27,
+      "thumbnail": "https://myspacecat.pictures/Todo no Tsumari/thumbnail_2.png"
+    },
+    {
+      "name": "Trap",
+      "slug": "trap",
+      "group": "Male Options",
+      "count": 24,
+      "thumbnail": "https://myspacecat.pictures/Sleepless Nocturne The Animation/thumbnail_2.png"
+    },
+    {
+      "name": "Dominant Girl",
+      "slug": "dominantgirl",
+      "group": "Female Options",
+      "count": 22,
+      "thumbnail": "https://myspacecat.pictures/Sakusei Byoutou The Animation/thumbnail_10.png"
+    },
+    {
+      "name": "Nekomimi",
+      "slug": "nekomimi",
+      "group": "Female Options",
+      "count": 22,
+      "thumbnail": "https://myspacecat.pictures/Boku no Risou no Isekai Seikatsu/thumbnail_4.png"
+    },
+    {
+      "name": "Tripple Penetration",
+      "slug": "tripplepenetration",
+      "group": "Sexual Actions",
+      "count": 19,
+      "thumbnail": "https://myspacecat.pictures/Kan2ochi X Netorare Kazoku the Animation/thumbnail_2.png"
+    },
+    {
+      "name": "Beach",
+      "slug": "beach",
+      "group": "Regular",
+      "count": 18,
+      "thumbnail": "https://myspacecat.pictures/Master Piece The Animation/thumbnail_2.png"
+    },
+    {
+      "name": "Blood",
+      "slug": "blood",
+      "group": "Regular",
+      "count": 11,
+      "thumbnail": "https://myspacecat.pictures/Sinisistar/thumbnail_2.png"
+    },
+    {
+      "name": "Inverted Nipples",
+      "slug": "invertednipples",
+      "group": "Female Options",
+      "count": 6,
+      "thumbnail": "https://myspacecat.pictures/Mark Your Kiss The Animation/thumbnail_1.png"
+    },
+    {
+      "name": "3D",
+      "slug": "3d",
+      "group": "Regular",
+      "count": 5,
+      "thumbnail": "https://myspacecat.pictures/The Relationship of Siblings/thumbnail_1.png"
+    },
+    {
+      "name": "Yaoi",
+      "slug": "yaoi",
+      "group": "Regular",
+      "count": 5,
+      "thumbnail": "https://myspacecat.pictures/Boku no Pico/thumbnail_2.png"
+    },
+    {
+      "name": "Armpit Masturbation",
+      "slug": "armpitmasturbation",
+      "group": "Sexual Actions",
+      "count": 5,
+      "thumbnail": "https://myspacecat.pictures/Succubus Connect/thumbnail_4.png"
+    },
+    {
+      "name": "Tomboy",
+      "slug": "tomboy",
+      "group": "Female Options",
+      "count": 5,
+      "thumbnail": "https://myspacecat.pictures/Ito o Yoru - 01/thumbnail_1.png"
+    },
+    {
+      "name": "Girls Only",
+      "slug": "girlsonly",
+      "group": "Sexual Actions",
+      "count": 4,
+      "thumbnail": "https://myspacecat.pictures/Riginetta-San No Bouken/thumbnail_2.png"
+    },
+    {
+      "name": "Vampire",
+      "slug": "vampire",
+      "group": "Female Options",
+      "count": 4,
+      "thumbnail": "https://myspacecat.pictures/Hajimete no Orusuban/thumbnail_2.png"
+    },
+    {
+      "name": "Gore",
+      "slug": "gore",
+      "group": "Regular",
+      "count": 3,
+      "thumbnail": "https://myspacecat.pictures/Mugoku no Kuni no Alice - 02/thumbnail_2.png"
+    },
+    {
+      "name": "Voyeurism",
+      "slug": "voyeurism",
+      "group": "Sexual Actions",
+      "count": 3,
+      "thumbnail": "https://myspacecat.pictures/Muttsuri Do Sukebe Tsuyu Gibo Shimai no Honshitsu Minuite Sex Sanmai/thumbnail_2.png"
+    },
+    {
+      "name": "Muscles",
+      "slug": "muscles",
+      "group": "Female Options",
+      "count": 1,
+      "thumbnail": "https://myspacecat.pictures/Women at Work/thumbnail_2.png"
+    }
+  ],
+  "studios": [
+    {
+      "name": "Pink Pineapple",
+      "slug": "pink-pineapple",
+      "count": 267,
+      "thumbnail": "https://myspacecat.pictures/Pure x Holic Junketsu Otome to Konin Kankei The Animation/thumbnail_2.png"
+    },
+    {
+      "name": "T-Re",
+      "slug": "t-re",
+      "count": 147,
+      "thumbnail": "https://myspacecat.pictures/Furachi/thumbnail_2.png"
+    },
+    {
+      "name": "T-Rex",
+      "slug": "t-rex",
+      "count": 146,
+      "thumbnail": "https://myspacecat.pictures/Furachi/thumbnail_2.png"
+    },
+    {
+      "name": "PoRo",
+      "slug": "poro",
+      "count": 145,
+      "thumbnail": "https://myspacecat.pictures/Dearest Blue/thumbnail_4.png"
+    },
+    {
+      "name": "Bunny Walker",
+      "slug": "bunny-walker",
+      "count": 135,
+      "thumbnail": "https://myspacecat.pictures/Kanojo Saimin/thumbnail_2.png"
+    },
+    {
+      "name": "Mary Jane",
+      "slug": "mary-jane",
+      "count": 125,
+      "thumbnail": "https://myspacecat.pictures/Shoujo Ramune/thumbnail_7.png"
+    },
+    {
+      "name": "Queen Bee",
+      "slug": "queen-bee",
+      "count": 123,
+      "thumbnail": "https://myspacecat.pictures/Nuki Nuki Zupposism/thumbnail_2.png"
+    },
+    {
+      "name": "Majin",
+      "slug": "majin",
+      "count": 95,
+      "thumbnail": "https://myspacecat.pictures/Muchuu no Tou/thumbnail_2.png"
+    },
+    {
+      "name": "MS Pictures",
+      "slug": "ms-pictures",
+      "count": 95,
+      "thumbnail": "https://myspacecat.pictures/Shoujo-tachi no Sadism The Animation/thumbnail_2.png"
+    },
+    {
+      "name": "MS pictures",
+      "slug": "ms-pictures",
+      "count": 95,
+      "thumbnail": "https://myspacecat.pictures/Shoujo-tachi no Sadism The Animation/thumbnail_2.png"
+    },
+    {
+      "name": "PoRO petit",
+      "slug": "poro-petit",
+      "count": 83,
+      "thumbnail": "https://myspacecat.pictures/Dearest Blue/thumbnail_4.png"
+    },
+    {
+      "name": "Seven",
+      "slug": "seven",
+      "count": 81,
+      "thumbnail": "https://myspacecat.pictures/Deco x Deco The Animation/thumbnail_1.png"
+    },
+    {
+      "name": "Mediabank",
+      "slug": "mediabank",
+      "count": 78,
+      "thumbnail": "https://myspacecat.pictures/Anal Mania Otaku to Ananii Daisuki na Ojou-sama/thumbnail_2.png"
+    },
+    {
+      "name": "Majin Petit",
+      "slug": "majin-petit",
+      "count": 74,
+      "thumbnail": "https://myspacecat.pictures/Muchuu no Tou/thumbnail_2.png"
+    },
+    {
+      "name": "Milky Animation Label",
+      "slug": "milky-animation-label",
+      "count": 73,
+      "thumbnail": "https://myspacecat.pictures/Boku Dake no Hentai Kanojo Motto/thumbnail_1.png"
+    },
+    {
+      "name": "Nur",
+      "slug": "nur",
+      "count": 71,
+      "thumbnail": "https://myspacecat.pictures/Sare Tsuma wa Ubawaretai/thumbnail_1.png"
+    },
+    {
+      "name": "Lune Pictures",
+      "slug": "lune-pictures",
+      "count": 66,
+      "thumbnail": "https://myspacecat.pictures/Kyonyuu ga Futari Inai to Bokki shinai Otto no Tame ni Tomodachi wo Tsurete kita Tsuma fix/thumbnail_2.png"
+    },
+    {
+      "name": "Media Blasters",
+      "slug": "media-blasters",
+      "count": 53,
+      "thumbnail": "https://myspacecat.pictures/Aki Sora Yume no Naka/thumbnail_8.png"
+    },
+    {
+      "name": "Suzuki Mirano",
+      "slug": "suzuki-mirano",
+      "count": 49,
+      "thumbnail": "https://myspacecat.pictures/Ikusei/thumbnail_2.png"
+    },
+    {
+      "name": "Studio Houkiboshi",
+      "slug": "studio-houkiboshi",
+      "count": 48,
+      "thumbnail": "https://myspacecat.pictures/Do You Like Big Girls/thumbnail_8.png"
+    },
+    {
+      "name": "Anime Antenna Iinkai",
+      "slug": "anime-antenna-iinkai",
+      "count": 45,
+      "thumbnail": "https://myspacecat.pictures/Shinsei Kourin Dacryon/thumbnail_2.png"
+    },
+    {
+      "name": "Pixy",
+      "slug": "pixy",
+      "count": 43,
+      "thumbnail": "https://myspacecat.pictures/Koutetsu no Majo Annerose/thumbnail_4.png"
+    },
+    {
+      "name": "Studio 1st",
+      "slug": "studio-1st",
+      "count": 43,
+      "thumbnail": "https://myspacecat.pictures/1LDK JK Ikinari Doukyo Micchaku Hatsu Ecchi8/thumbnail_8.png"
+    },
+    {
+      "name": "Collaboration Works",
+      "slug": "collaboration-works",
+      "count": 42,
+      "thumbnail": "https://myspacecat.pictures/Kitsune Musume no Ecchi na Oyado/thumbnail_2.png"
+    },
+    {
+      "name": "44℃ Baidoku",
+      "slug": "44-baidoku",
+      "count": 41,
+      "thumbnail": "https://myspacecat.pictures/Shoujo Ramune/thumbnail_7.png"
+    },
+    {
+      "name": "Suiseisha",
+      "slug": "suiseisha",
+      "count": 40,
+      "thumbnail": "https://myspacecat.pictures/Do You Like Big Girls/thumbnail_8.png"
+    },
+    {
+      "name": "Show-Ten",
+      "slug": "show-ten",
+      "count": 36,
+      "thumbnail": "https://myspacecat.pictures/Seishidouin no Oshigoto The Animation/thumbnail_1.png"
+    },
+    {
+      "name": "Passione",
+      "slug": "passione",
+      "count": 35,
+      "thumbnail": "https://myspacecat.pictures/Nukitashi The Animation/thumbnail_11.png"
+    },
+    {
+      "name": "Magic Bus",
+      "slug": "magic-bus",
+      "count": 32,
+      "thumbnail": "https://myspacecat.pictures/XL Joushi/thumbnail_8.png"
+    },
+    {
+      "name": "NewGeneration",
+      "slug": "newgeneration",
+      "count": 31,
+      "thumbnail": "https://myspacecat.pictures/Shoujo Ramune/thumbnail_7.png"
+    },
+    {
+      "name": "Studio 9 Maiami",
+      "slug": "studio-9-maiami",
+      "count": 30,
+      "thumbnail": "https://myspacecat.pictures/aoharu snatch/thumbnail_2.png"
+    },
+    {
+      "name": "Suzuki Mirano petit",
+      "slug": "suzuki-mirano-petit",
+      "count": 26,
+      "thumbnail": "https://myspacecat.pictures/Kunoichi Ryoujokuden Ajisai/thumbnail_2.png"
+    },
+    {
+      "name": "ChiChinoya",
+      "slug": "chichinoya",
+      "count": 23,
+      "thumbnail": "https://myspacecat.pictures/Naisho no Wakana-san/thumbnail_1.png"
+    },
+    {
+      "name": "Shion",
+      "slug": "shion",
+      "count": 23,
+      "thumbnail": "https://myspacecat.pictures/Kare no Shiranai Himitsu o Irete. The Animation/thumbnail_1.png"
+    },
+    {
+      "name": "JapanAnime",
+      "slug": "japananime",
+      "count": 22,
+      "thumbnail": "https://myspacecat.pictures/The Roommate/thumbnail_2.png"
+    },
+    {
+      "name": "An♥Tekinus",
+      "slug": "an-tekinus",
+      "count": 21,
+      "thumbnail": "https://myspacecat.pictures/Natsu Zuma/thumbnail_2.png"
+    },
+    {
+      "name": "BREAKBOTTLE",
+      "slug": "breakbottle",
+      "count": 21,
+      "thumbnail": "https://myspacecat.pictures/Raikou Shinki Igis Magia Pandra Saga 3rd Ignition The Animation/thumbnail_2.png"
+    },
+    {
+      "name": "BreakBottle",
+      "slug": "breakbottle",
+      "count": 21,
+      "thumbnail": "https://myspacecat.pictures/Raikou Shinki Igis Magia Pandra Saga 3rd Ignition The Animation/thumbnail_2.png"
+    },
+    {
+      "name": "Breakbottle",
+      "slug": "breakbottle",
+      "count": 21,
+      "thumbnail": "https://myspacecat.pictures/Raikou Shinki Igis Magia Pandra Saga 3rd Ignition The Animation/thumbnail_2.png"
+    },
+    {
+      "name": "ZIZ",
+      "slug": "ziz",
+      "count": 21,
+      "thumbnail": "https://myspacecat.pictures/Tsuma Netori Rei Boku no Ayamachi Kanojo no Sentaku/thumbnail_1.png"
+    },
+    {
+      "name": "Anime Antenna Group",
+      "slug": "anime-antenna-group",
+      "count": 19,
+      "thumbnail": "https://myspacecat.pictures/Uchuu Kaizoku Sara Bonus/thumbnail_1.png"
+    },
+    {
+      "name": "Active",
+      "slug": "active",
+      "count": 19,
+      "thumbnail": "https://myspacecat.pictures/Bible Black Only/thumbnail_2.png"
+    },
+    {
+      "name": "EDGE",
+      "slug": "edge",
+      "count": 19,
+      "thumbnail": "https://myspacecat.pictures/enko jk bitch gal/thumbnail_2.png"
+    },
+    {
+      "name": "Edge",
+      "slug": "edge",
+      "count": 19,
+      "thumbnail": "https://myspacecat.pictures/enko jk bitch gal/thumbnail_2.png"
+    },
+    {
+      "name": "Pashmina",
+      "slug": "pashmina",
+      "count": 19,
+      "thumbnail": "https://myspacecat.pictures/ikoku na retro/thumbnail_1.png"
+    },
+    {
+      "name": "Rabbit Gate",
+      "slug": "rabbit-gate",
+      "count": 19,
+      "thumbnail": "https://myspacecat.pictures/Secret Mission Sennyuu Sousakan wa Zettai ni Makenai/thumbnail_8.png"
+    },
+    {
+      "name": "White Bear",
+      "slug": "white-bear",
+      "count": 18,
+      "thumbnail": "https://myspacecat.pictures/Anal Mania Otaku to Ananii Daisuki na Ojou-sama/thumbnail_2.png"
+    },
+    {
+      "name": "WHITE BEAR",
+      "slug": "white-bear",
+      "count": 18,
+      "thumbnail": "https://myspacecat.pictures/Anal Mania Otaku to Ananii Daisuki na Ojou-sama/thumbnail_2.png"
+    },
+    {
+      "name": "Y.O.U.C",
+      "slug": "y-o-u-c",
+      "count": 17,
+      "thumbnail": "https://myspacecat.pictures/First Love/thumbnail_3.png"
+    },
+    {
+      "name": "BOOTLEG",
+      "slug": "bootleg",
+      "count": 16,
+      "thumbnail": "https://myspacecat.pictures/Juvenile Pornography The Animation/thumbnail_1.png"
+    },
+    {
+      "name": "Kitty Media",
+      "slug": "kitty-media",
+      "count": 16,
+      "thumbnail": "https://myspacecat.pictures/Itadaki! Seieki♥/thumbnail_2.png"
+    },
+    {
+      "name": "Selfish",
+      "slug": "selfish",
+      "count": 16,
+      "thumbnail": "https://myspacecat.pictures/Gaki ni Modotte Yarinaoshi/thumbnail_2.png"
+    },
+    {
+      "name": "SELFISH",
+      "slug": "selfish",
+      "count": 16,
+      "thumbnail": "https://myspacecat.pictures/Gaki ni Modotte Yarinaoshi/thumbnail_2.png"
+    },
+    {
+      "name": "L.",
+      "slug": "l",
+      "count": 15,
+      "thumbnail": "https://myspacecat.pictures/Ore Wa Kanojo Shinjiteru/thumbnail_1.png"
+    },
+    {
+      "name": "ZIZ Entertainment",
+      "slug": "ziz-entertainment",
+      "count": 15,
+      "thumbnail": "https://myspacecat.pictures/Tsuma Netori Rei Boku no Ayamachi Kanojo no Sentaku/thumbnail_1.png"
+    },
+    {
+      "name": "Collaboration Works petit",
+      "slug": "collaboration-works-petit",
+      "count": 13,
+      "thumbnail": "https://myspacecat.pictures/Kitsune Musume no Ecchi na Oyado/thumbnail_2.png"
+    },
+    {
+      "name": "King Bee",
+      "slug": "king-bee",
+      "count": 13,
+      "thumbnail": "https://myspacecat.pictures/1LDK JK Ikinari Doukyo Micchaku Hatsu Ecchi8/thumbnail_8.png"
+    },
+    {
+      "name": "NuTech Digital",
+      "slug": "nutech-digital",
+      "count": 13,
+      "thumbnail": "https://myspacecat.pictures/Lingeries/thumbnail_3.png"
+    },
+    {
+      "name": "Torudaya",
+      "slug": "torudaya",
+      "count": 13,
+      "thumbnail": "https://myspacecat.pictures/Cheat Item Kanrikyoku no Oshigoto EX/thumbnail_1.png"
+    },
+    {
+      "name": "Digital Works",
+      "slug": "digital-works",
+      "count": 12,
+      "thumbnail": "https://myspacecat.pictures/ikoku na retro/thumbnail_1.png"
+    },
+    {
+      "name": "feel.",
+      "slug": "feel",
+      "count": 12,
+      "thumbnail": "https://myspacecat.pictures/Kiss x Sis OVA/thumbnail_12.png"
+    },
+    {
+      "name": "GOLD BEAR",
+      "slug": "gold-bear",
+      "count": 12,
+      "thumbnail": "https://myspacecat.pictures/Juurin Oukoku/thumbnail_1.png"
+    },
+    {
+      "name": "Mousou Senka",
+      "slug": "mousou-senka",
+      "count": 12,
+      "thumbnail": "https://myspacecat.pictures/Yuusha-chan no Bouken wa Owattaeshimatta!/thumbnail_2.png"
+    },
+    {
+      "name": "OZ Inc.",
+      "slug": "oz-inc",
+      "count": 12,
+      "thumbnail": "https://myspacecat.pictures/Tentacle and Witches/thumbnail_4.png"
+    },
+    {
+      "name": "TNK",
+      "slug": "tnk",
+      "count": 12,
+      "thumbnail": "https://myspacecat.pictures/Redo of Healer/thumbnail_12.png"
+    },
+    {
+      "name": "Cotton Doll",
+      "slug": "cotton-doll",
+      "count": 11,
+      "thumbnail": "https://myspacecat.pictures/Ikusa Otome Valkyrie G Ikusa Otome-tachi no Tasogare/thumbnail_2.png"
+    },
+    {
+      "name": "Frontier Works",
+      "slug": "frontier-works",
+      "count": 11,
+      "thumbnail": "https://myspacecat.pictures/Aki Sora Yume no Naka/thumbnail_8.png"
+    },
+    {
+      "name": "Hoods Entertainment",
+      "slug": "hoods-entertainment",
+      "count": 11,
+      "thumbnail": "https://myspacecat.pictures/Aki Sora Yume no Naka/thumbnail_8.png"
+    },
+    {
+      "name": "Maplestar",
+      "slug": "maplestar",
+      "count": 11,
+      "thumbnail": "https://myspacecat.pictures/maple/Sakamoto/thumbnail_1.png"
+    },
+    {
+      "name": "Bomb! Cute! Bomb!",
+      "slug": "bomb-cute-bomb",
+      "count": 10,
+      "thumbnail": "https://myspacecat.pictures/Kono Kaisha Nanika Okashii!/thumbnail_2.png"
+    },
+    {
+      "name": "Green Bunny",
+      "slug": "green-bunny",
+      "count": 10,
+      "thumbnail": "https://myspacecat.pictures/Panty Flash Teacher/thumbnail_2.png"
+    },
+    {
+      "name": "Studio Eromatick",
+      "slug": "studio-eromatick",
+      "count": 10,
+      "thumbnail": "https://myspacecat.pictures/Spocon/thumbnail_2.png"
+    },
+    {
+      "name": "Discovery",
+      "slug": "discovery",
+      "count": 9,
+      "thumbnail": "https://myspacecat.pictures/Aniyome Wa Ijippari/thumbnail_2.png"
+    },
+    {
+      "name": "Himajin Planning",
+      "slug": "himajin-planning",
+      "count": 9,
+      "thumbnail": "https://myspacecat.pictures/Honoo no Haramase Tenkousei/thumbnail_3.png"
+    },
+    {
+      "name": "Pixy Soft",
+      "slug": "pixy-soft",
+      "count": 9,
+      "thumbnail": "https://myspacecat.pictures/Rinkan Club/thumbnail_4.png"
+    },
+    {
+      "name": "Magin Label",
+      "slug": "magin-label",
+      "count": 8,
+      "thumbnail": "https://myspacecat.pictures/Princess Burst/thumbnail_2.png"
+    },
+    {
+      "name": "Studio Hokiboshi",
+      "slug": "studio-hokiboshi",
+      "count": 8,
+      "thumbnail": "https://myspacecat.pictures/Modaete yo Adam-kun/thumbnail_8.png"
+    },
+    {
+      "name": "D3",
+      "slug": "d3",
+      "count": 7,
+      "thumbnail": "https://myspacecat.pictures/Cleavage/thumbnail_2.png"
+    },
+    {
+      "name": "AIC",
+      "slug": "aic",
+      "count": 6,
+      "thumbnail": "https://myspacecat.pictures/Anata dake Konbanwa/thumbnail_5.png"
+    },
+    {
+      "name": "Alice Soft",
+      "slug": "alice-soft",
+      "count": 6,
+      "thumbnail": "https://myspacecat.pictures/Rance 01 Hikari wo Motomete The Animation/thumbnail_4.png"
+    },
+    {
+      "name": "Arms",
+      "slug": "arms",
+      "count": 6,
+      "thumbnail": "https://myspacecat.pictures/G Spot Express/thumbnail_2.png"
+    },
+    {
+      "name": "Front Line",
+      "slug": "front-line",
+      "count": 6,
+      "thumbnail": "https://myspacecat.pictures/Viper Gts/thumbnail_3.png"
+    },
+    {
+      "name": "HiLLS",
+      "slug": "hills",
+      "count": 6,
+      "thumbnail": "https://myspacecat.pictures/Sei Brunehilde Uncensored/thumbnail_1.png"
+    },
+    {
+      "name": "Juicy Mango",
+      "slug": "juicy-mango",
+      "count": 6,
+      "thumbnail": "https://myspacecat.pictures/Pure Pure Pero Pero Princess/thumbnail_2.png"
+    },
+    {
+      "name": "Studio Fantasia",
+      "slug": "studio-fantasia",
+      "count": 6,
+      "thumbnail": "https://myspacecat.pictures/Mahou Shoujo Elena/thumbnail_3.png"
+    },
+    {
+      "name": "Studio Jam",
+      "slug": "studio-jam",
+      "count": 6,
+      "thumbnail": "https://myspacecat.pictures/Bible Black/thumbnail_6.png"
+    },
+    {
+      "name": "unknown",
+      "slug": "unknown",
+      "count": 6,
+      "thumbnail": "https://myspacecat.pictures/Futari no Yume Mochi/thumbnail_1.png"
+    },
+    {
+      "name": "Unknown",
+      "slug": "unknown",
+      "count": 6,
+      "thumbnail": "https://myspacecat.pictures/Futari no Yume Mochi/thumbnail_1.png"
+    },
+    {
+      "name": "G-lam",
+      "slug": "g-lam",
+      "count": 5,
+      "thumbnail": "https://myspacecat.pictures/Sakuracircle Heartful Maman The Animation/thumbnail_1.png"
+    },
+    {
+      "name": "Jellyfish",
+      "slug": "jellyfish",
+      "count": 5,
+      "thumbnail": "https://myspacecat.pictures/SISTERS The last day of Summer/thumbnail_5.png"
+    },
+    {
+      "name": "Soft on Demand",
+      "slug": "soft-on-demand",
+      "count": 5,
+      "thumbnail": "https://myspacecat.pictures/Chikan Juunin Tai The Animation/thumbnail_5.png"
+    },
+    {
+      "name": "Antechinus",
+      "slug": "antechinus",
+      "count": 4,
+      "thumbnail": "https://myspacecat.pictures/Shikijou Kyoudan/thumbnail_2.png"
+    },
+    {
+      "name": "Animac",
+      "slug": "animac",
+      "count": 4,
+      "thumbnail": "https://myspacecat.pictures/Makai Tenshi Jibril/thumbnail_4.png"
+    },
+    {
+      "name": "Collabration Works",
+      "slug": "collabration-works",
+      "count": 4,
+      "thumbnail": "https://myspacecat.pictures/Baka na Imouto wo Rikou ni Suru no wa Ore no xx dake na Ken ni Tsuite/thumbnail_4.png"
+    },
+    {
+      "name": "Moonstone Cherry",
+      "slug": "moonstone-cherry",
+      "count": 4,
+      "thumbnail": "https://myspacecat.pictures/Imouto Paradise 2/thumbnail_2.png"
+    },
+    {
+      "name": "Peak Hunt",
+      "slug": "peak-hunt",
+      "count": 4,
+      "thumbnail": "https://myspacecat.pictures/Genkaku Cool na Sensei ga Aheboteochi!/thumbnail_2.png"
+    },
+    {
+      "name": "Rojiura Jack",
+      "slug": "rojiura-jack",
+      "count": 4,
+      "thumbnail": "https://myspacecat.pictures/Kemonokko Tsuushin The Animation/thumbnail_4.png"
+    },
+    {
+      "name": "Schoolzone",
+      "slug": "schoolzone",
+      "count": 4,
+      "thumbnail": "https://myspacecat.pictures/D-Spray/thumbnail_1.png"
+    },
+    {
+      "name": "TEATRO Nishi Tokyo Studio",
+      "slug": "teatro-nishi-tokyo-studio",
+      "count": 4,
+      "thumbnail": "https://myspacecat.pictures/Tsuma Netori Rei Boku no Ayamachi Kanojo no Sentaku/thumbnail_1.png"
+    },
+    {
+      "name": "AniMan",
+      "slug": "animan",
+      "count": 3,
+      "thumbnail": "https://myspacecat.pictures/Misuzu Ikenai Koto/thumbnail_1.png"
+    },
+    {
+      "name": "Asahi Production",
+      "slug": "asahi-production",
+      "count": 3,
+      "thumbnail": "https://myspacecat.pictures/Angel Blade Punish/thumbnail_3.png"
+    },
+    {
+      "name": "CHIPPAI",
+      "slug": "chippai",
+      "count": 3,
+      "thumbnail": "https://myspacecat.pictures/300 En no Otsukiai Anime Edition/thumbnail_1.png"
+    },
+    {
+      "name": "Circle Tribute",
+      "slug": "circle-tribute",
+      "count": 3,
+      "thumbnail": "https://myspacecat.pictures/Aniki no Yome-san nara Ore ni Hamerarete Hiihii Itteru Tokoro Da yo/thumbnail_1.png"
+    },
+    {
+      "name": "Cosmos",
+      "slug": "cosmos",
+      "count": 3,
+      "thumbnail": "https://myspacecat.pictures/PeroPero Teacher/thumbnail_3.png"
+    },
+    {
+      "name": "Natural High",
+      "slug": "natural-high",
+      "count": 3,
+      "thumbnail": "https://myspacecat.pictures/Boku no Pico/thumbnail_3.png"
+    },
+    {
+      "name": "Office Takeout",
+      "slug": "office-takeout",
+      "count": 3,
+      "thumbnail": "https://myspacecat.pictures/Tsumamigui 3 The Animation/thumbnail_2.png"
+    },
+    {
+      "name": "Studio G-1Neo",
+      "slug": "studio-g-1neo",
+      "count": 3,
+      "thumbnail": "https://myspacecat.pictures/Viper Gts/thumbnail_3.png"
+    },
+    {
+      "name": "Studio Ten Carat",
+      "slug": "studio-ten-carat",
+      "count": 3,
+      "thumbnail": "https://myspacecat.pictures/Bakunyuu Bomb/thumbnail_3.png"
+    },
+    {
+      "name": "Valkyria",
+      "slug": "valkyria",
+      "count": 3,
+      "thumbnail": "https://myspacecat.pictures/Mahou Shoujo Elena/thumbnail_3.png"
+    },
+    {
+      "name": "AT-2",
+      "slug": "at-2",
+      "count": 2,
+      "thumbnail": "https://myspacecat.pictures/Foxy Nudes/thumbnail_2.png"
+    },
+    {
+      "name": "Flavors Soft",
+      "slug": "flavors-soft",
+      "count": 2,
+      "thumbnail": "https://myspacecat.pictures/Elf No Oshiego To Sensei/thumbnail_2.png"
+    },
+    {
+      "name": "Jumondou",
+      "slug": "jumondou",
+      "count": 2,
+      "thumbnail": "https://myspacecat.pictures/Boku to Misaki-Sensei/thumbnail_1.png"
+    },
+    {
+      "name": "Kitty Film",
+      "slug": "kitty-film",
+      "count": 2,
+      "thumbnail": "https://myspacecat.pictures/Bible Black Only/thumbnail_2.png"
+    },
+    {
+      "name": "No Future",
+      "slug": "no-future",
+      "count": 2,
+      "thumbnail": "https://myspacecat.pictures/Mahou Shoujo Noble Rose The Animation/thumbnail_2.png"
+    },
+    {
+      "name": "Nihikime no Dozeu",
+      "slug": "nihikime-no-dozeu",
+      "count": 2,
+      "thumbnail": "https://myspacecat.pictures/Sora no Iro Mizu no Iro/thumbnail_2.png"
+    },
+    {
+      "name": "Pashima",
+      "slug": "pashima",
+      "count": 2,
+      "thumbnail": "https://myspacecat.pictures/Fuzzy Lips/thumbnail_2.png"
+    },
+    {
+      "name": "Toranoana",
+      "slug": "toranoana",
+      "count": 2,
+      "thumbnail": "https://myspacecat.pictures/Victorian Maid Maria no Houshi/thumbnail_1.png"
+    },
+    {
+      "name": "XTER",
+      "slug": "xter",
+      "count": 2,
+      "thumbnail": "https://myspacecat.pictures/My Mother Japanese/thumbnail_1.png"
+    },
+    {
+      "name": "Armor",
+      "slug": "armor",
+      "count": 1,
+      "thumbnail": "https://myspacecat.pictures/Hitou Meguri The Animation/thumbnail_1.png"
+    },
+    {
+      "name": "Avaco Creative Studios",
+      "slug": "avaco-creative-studios",
+      "count": 1,
+      "thumbnail": "https://myspacecat.pictures/KITE/thumbnail_1.png"
+    },
+    {
+      "name": "Blue Bread",
+      "slug": "blue-bread",
+      "count": 1,
+      "thumbnail": "https://myspacecat.pictures/ikumonogakari the animation/thumbnail_2.png"
+    },
+    {
+      "name": "ChuChu",
+      "slug": "chuchu",
+      "count": 1,
+      "thumbnail": "https://myspacecat.pictures/Sono Hanabira ni Kuchizuke o/thumbnail_1.png"
+    },
+    {
+      "name": "erozuki",
+      "slug": "erozuki",
+      "count": 1,
+      "thumbnail": "https://myspacecat.pictures/Tsunpuri/thumbnail_1.png"
+    },
+    {
+      "name": "Happinet Pictures",
+      "slug": "happinet-pictures",
+      "count": 1,
+      "thumbnail": "https://myspacecat.pictures/KITE/thumbnail_1.png"
+    },
+    {
+      "name": "Mitsu",
+      "slug": "mitsu",
+      "count": 1,
+      "thumbnail": "https://myspacecat.pictures/Samurai Hormone The Animation/thumbnail_1.png"
+    },
+    {
+      "name": "MC Pictures",
+      "slug": "mc-pictures",
+      "count": 1,
+      "thumbnail": "https://myspacecat.pictures/Gibo no Toiki/thumbnail_2.png"
+    },
+    {
+      "name": "Studio Kyuuma",
+      "slug": "studio-kyuuma",
+      "count": 1,
+      "thumbnail": "https://myspacecat.pictures/Auction Bijo Dorei/thumbnail_1.png"
+    },
+    {
+      "name": "Union Cho",
+      "slug": "union-cho",
+      "count": 1,
+      "thumbnail": "https://myspacecat.pictures/Idol Sister/thumbnail_1.png"
+    },
+    {
+      "name": "TOHO",
+      "slug": "toho",
+      "count": 1,
+      "thumbnail": "https://myspacecat.pictures/nozoki ana/thumbnail_1.png"
+    }
+  ]
+}

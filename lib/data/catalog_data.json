@@ -1,0 +1,884 @@
+{
+  "categories": [
+    {
+      "name": "Anime Series",
+      "slug": "anime-series",
+      "icon": "live_tv_rounded",
+      "description": "Multi-episode serialized anime"
+    },
+    {
+      "name": "OVA",
+      "slug": "ova",
+      "icon": "album_rounded",
+      "description": "Original Video Animation releases"
+    },
+    {
+      "name": "Uncensored",
+      "slug": "uncensored",
+      "icon": "lock_open_rounded",
+      "description": "Original uncensored footage"
+    },
+    {
+      "name": "Decensored",
+      "slug": "decensored",
+      "icon": "auto_fix_high_rounded",
+      "description": "AI & artist mosaic removed"
+    },
+    {
+      "name": "3D / MMD",
+      "slug": "3d-mmd",
+      "icon": "animation_rounded",
+      "description": "3D CGI, MMD, Blender & SFM animations"
+    },
+    {
+      "name": "4K UHD 60FPS",
+      "slug": "4k-60fps",
+      "icon": "high_quality_rounded",
+      "description": "Ultra high definition 60fps"
+    },
+    {
+      "name": "English Dubbed",
+      "slug": "english-dub",
+      "icon": "record_voice_over_rounded",
+      "description": "English voice dubbed"
+    },
+    {
+      "name": "English Subbed",
+      "slug": "english-sub",
+      "icon": "subtitles_rounded",
+      "description": "English subtitles"
+    },
+    {
+      "name": "Cosplay / Live Action",
+      "slug": "cosplay",
+      "icon": "theater_comedy_rounded",
+      "description": "Cosplay performances & gravure"
+    },
+    {
+      "name": "Doujinshi / Motion",
+      "slug": "motion-anime",
+      "icon": "auto_stories_rounded",
+      "description": "Motion comic & manga adaptations"
+    },
+    {
+      "name": "VR 360",
+      "slug": "vr",
+      "icon": "view_in_ar_rounded",
+      "description": "Virtual Reality immersive videos"
+    },
+    {
+      "name": "Shorts / Clips",
+      "slug": "shorts",
+      "icon": "movie_creation_rounded",
+      "description": "Short anime moments & clips"
+    },
+    {
+      "name": "Ongoing",
+      "slug": "ongoing",
+      "icon": "update_rounded",
+      "description": "Currently broadcasting series"
+    },
+    {
+      "name": "Completed",
+      "slug": "completed",
+      "icon": "done_all_rounded",
+      "description": "Fully finished complete series"
+    },
+    {
+      "name": "Classic / Retro 90s",
+      "slug": "retro",
+      "icon": "history_edu_rounded",
+      "description": "Vintage cel animated golden era"
+    }
+  ],
+  "genres": [
+    {
+      "name": "Vanilla",
+      "slug": "vanilla",
+      "icon": "sentiment_very_satisfied_rounded",
+      "description": "Wholesome, loving, consensual romance"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance",
+      "icon": "favorite_rounded",
+      "description": "Romantic connections & love stories"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "icon": "auto_awesome_rounded",
+      "description": "Magic, kingdoms & otherworldly realms"
+    },
+    {
+      "name": "Dark Fantasy",
+      "slug": "dark-fantasy",
+      "icon": "local_fire_department_rounded",
+      "description": "Grimdark fantasy, sorcery & demons"
+    },
+    {
+      "name": "Supernatural",
+      "slug": "supernatural",
+      "icon": "blur_on_rounded",
+      "description": "Spirits, vampires, succubi & ghosts"
+    },
+    {
+      "name": "Sci-Fi / Cyberpunk",
+      "slug": "sci-fi",
+      "icon": "memory_rounded",
+      "description": "Futuristic, androids, cyborgs & technology"
+    },
+    {
+      "name": "Isekai",
+      "slug": "isekai",
+      "icon": "travel_explore_rounded",
+      "description": "Transported to a fantasy alternative world"
+    },
+    {
+      "name": "Action / Adventure",
+      "slug": "action",
+      "icon": "sports_martial_arts_rounded",
+      "description": "Battles, combat, heroes & quests"
+    },
+    {
+      "name": "Comedy / Parody",
+      "slug": "comedy",
+      "icon": "mood_rounded",
+      "description": "Humorous situations, tropes & ecchi gags"
+    },
+    {
+      "name": "Horror / Suspense",
+      "slug": "horror",
+      "icon": "nightlight_round",
+      "description": "Dark atmosphere, eerie mystery & fear"
+    },
+    {
+      "name": "Psychological / Thriller",
+      "slug": "psychological",
+      "icon": "psychology_rounded",
+      "description": "Mind games, psychological intrigue & drama"
+    },
+    {
+      "name": "School Life",
+      "slug": "school-life",
+      "icon": "school_rounded",
+      "description": "High school, classrooms & academy life"
+    },
+    {
+      "name": "Slice of Life",
+      "slug": "slice-of-life",
+      "icon": "wb_sunny_rounded",
+      "description": "Daily life scenarios, clubs & relaxed moments"
+    },
+    {
+      "name": "Harem",
+      "slug": "harem",
+      "icon": "groups_rounded",
+      "description": "Protagonist surrounded by multiple partners"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama",
+      "icon": "masks_rounded",
+      "description": "Emotional conflict, dilemmas & depth"
+    },
+    {
+      "name": "Mystery / Detective",
+      "slug": "mystery",
+      "icon": "search_rounded",
+      "description": "Unraveling secrets, investigations & clues"
+    },
+    {
+      "name": "Historical / Samurai",
+      "slug": "historical",
+      "icon": "fort_rounded",
+      "description": "Feudal Japan, edo period & historical lore"
+    },
+    {
+      "name": "Mecha / Sci-Tech",
+      "slug": "mecha",
+      "icon": "smart_toy_rounded",
+      "description": "Giant robots, pilot battles & mechanized suits"
+    },
+    {
+      "name": "Ecchi",
+      "slug": "ecchi",
+      "icon": "visibility_rounded",
+      "description": "Suggestive, risqu\u00e9 & cheeky fan service"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Maid",
+      "slug": "maid",
+      "category": "Character",
+      "count": 1840
+    },
+    {
+      "name": "Milf",
+      "slug": "milf",
+      "category": "Character",
+      "count": 3120
+    },
+    {
+      "name": "Schoolgirl",
+      "slug": "schoolgirl",
+      "category": "Character",
+      "count": 4190
+    },
+    {
+      "name": "Gyaru / Gal",
+      "slug": "gyaru",
+      "category": "Character",
+      "count": 1430
+    },
+    {
+      "name": "Monster Girl",
+      "slug": "monster-girl",
+      "category": "Character",
+      "count": 1950
+    },
+    {
+      "name": "Elf",
+      "slug": "elf",
+      "category": "Character",
+      "count": 2480
+    },
+    {
+      "name": "Dark Elf",
+      "slug": "dark-elf",
+      "category": "Character",
+      "count": 1370
+    },
+    {
+      "name": "Succubus",
+      "slug": "succubus",
+      "category": "Character",
+      "count": 1820
+    },
+    {
+      "name": "Catgirl / Neko",
+      "slug": "catgirl",
+      "category": "Character",
+      "count": 2150
+    },
+    {
+      "name": "Fox Girl / Kitsune",
+      "slug": "kitsune",
+      "category": "Character",
+      "count": 1120
+    },
+    {
+      "name": "Teacher / Sensei",
+      "slug": "teacher",
+      "category": "Character",
+      "count": 1680
+    },
+    {
+      "name": "Nurse",
+      "slug": "nurse",
+      "category": "Character",
+      "count": 1230
+    },
+    {
+      "name": "Office Lady / OL",
+      "slug": "office-lady",
+      "category": "Character",
+      "count": 1540
+    },
+    {
+      "name": "Ninja / Kunoichi",
+      "slug": "kunoichi",
+      "category": "Character",
+      "count": 980
+    },
+    {
+      "name": "Tomboy",
+      "slug": "tomboy",
+      "category": "Character",
+      "count": 890
+    },
+    {
+      "name": "Tsundere",
+      "slug": "tsundere",
+      "category": "Character",
+      "count": 1460
+    },
+    {
+      "name": "Yandere",
+      "slug": "yandere",
+      "category": "Character",
+      "count": 1280
+    },
+    {
+      "name": "Kuudere",
+      "slug": "kuudere",
+      "category": "Character",
+      "count": 740
+    },
+    {
+      "name": "Princess / Royalty",
+      "slug": "princess",
+      "category": "Character",
+      "count": 1190
+    },
+    {
+      "name": "Nun / Sister",
+      "slug": "nun",
+      "category": "Character",
+      "count": 850
+    },
+    {
+      "name": "Cheerleader",
+      "slug": "cheerleader",
+      "category": "Character",
+      "count": 620
+    },
+    {
+      "name": "Vampire",
+      "slug": "vampire",
+      "category": "Character",
+      "count": 1070
+    },
+    {
+      "name": "Demon Girl",
+      "slug": "demon-girl",
+      "category": "Character",
+      "count": 1750
+    },
+    {
+      "name": "Goddess",
+      "slug": "goddess",
+      "category": "Character",
+      "count": 960
+    },
+    {
+      "name": "Idol",
+      "slug": "idol",
+      "category": "Character",
+      "count": 1340
+    },
+    {
+      "name": "Bunnygirl",
+      "slug": "bunnygirl",
+      "category": "Character",
+      "count": 1580
+    },
+    {
+      "name": "Swimsuit / Bikini",
+      "slug": "swimsuit",
+      "category": "Character",
+      "count": 2670
+    },
+    {
+      "name": "Knight / Paladin",
+      "slug": "knight",
+      "category": "Character",
+      "count": 1020
+    },
+    {
+      "name": "Witch / Sorceress",
+      "slug": "witch",
+      "category": "Character",
+      "count": 1180
+    },
+    {
+      "name": "Tanlines / Dark Skin",
+      "slug": "dark-skin",
+      "category": "Character",
+      "count": 2210
+    },
+    {
+      "name": "Glasses / Megane",
+      "slug": "glasses",
+      "category": "Character",
+      "count": 1450
+    },
+    {
+      "name": "Short Hair",
+      "slug": "short-hair",
+      "category": "Character",
+      "count": 1820
+    },
+    {
+      "name": "Twin Tails",
+      "slug": "twin-tails",
+      "category": "Character",
+      "count": 1930
+    },
+    {
+      "name": "Ponytail",
+      "slug": "ponytail",
+      "category": "Character",
+      "count": 1760
+    },
+    {
+      "name": "Busty / Big Breasts",
+      "slug": "big-breasts",
+      "category": "Character",
+      "count": 5300
+    },
+    {
+      "name": "Petite / Flat Chest",
+      "slug": "petite",
+      "category": "Character",
+      "count": 2980
+    },
+    {
+      "name": "Muscular Girl",
+      "slug": "muscular-girl",
+      "category": "Character",
+      "count": 540
+    },
+    {
+      "name": "Chubby / BBW",
+      "slug": "bbw",
+      "category": "Character",
+      "count": 410
+    },
+    {
+      "name": "Ahegao",
+      "slug": "ahegao",
+      "category": "Trope",
+      "count": 3420
+    },
+    {
+      "name": "Creampie / Nakadashi",
+      "slug": "creampie",
+      "category": "Trope",
+      "count": 4950
+    },
+    {
+      "name": "Paizuri / Titfuck",
+      "slug": "paizuri",
+      "category": "Trope",
+      "count": 2890
+    },
+    {
+      "name": "Mind Control / Hypnosis",
+      "slug": "mind-control",
+      "category": "Trope",
+      "count": 2310
+    },
+    {
+      "name": "Time Stop",
+      "slug": "time-stop",
+      "category": "Trope",
+      "count": 1420
+    },
+    {
+      "name": "Invisible Man",
+      "slug": "invisible",
+      "category": "Trope",
+      "count": 890
+    },
+    {
+      "name": "BDSM / Bondage",
+      "slug": "bdsm",
+      "category": "Trope",
+      "count": 2180
+    },
+    {
+      "name": "Tentacles",
+      "slug": "tentacles",
+      "category": "Trope",
+      "count": 2640
+    },
+    {
+      "name": "Netorare / NTR",
+      "slug": "ntr",
+      "category": "Trope",
+      "count": 2850
+    },
+    {
+      "name": "Netori",
+      "slug": "netori",
+      "category": "Trope",
+      "count": 920
+    },
+    {
+      "name": "Cheating / Infidelity",
+      "slug": "cheating",
+      "category": "Trope",
+      "count": 1870
+    },
+    {
+      "name": "Femdom",
+      "slug": "femdom",
+      "category": "Trope",
+      "count": 2340
+    },
+    {
+      "name": "Footjob / Feet",
+      "slug": "footjob",
+      "category": "Trope",
+      "count": 1690
+    },
+    {
+      "name": "Thigh Highs / Stockings",
+      "slug": "stockings",
+      "category": "Trope",
+      "count": 3890
+    },
+    {
+      "name": "Garter Straps",
+      "slug": "garter-straps",
+      "category": "Trope",
+      "count": 1120
+    },
+    {
+      "name": "Incest / Sister",
+      "slug": "sister",
+      "category": "Trope",
+      "count": 3140
+    },
+    {
+      "name": "Mother",
+      "slug": "mother",
+      "category": "Trope",
+      "count": 2250
+    },
+    {
+      "name": "Aunt",
+      "slug": "aunt",
+      "category": "Trope",
+      "count": 840
+    },
+    {
+      "name": "Cousin",
+      "slug": "cousin",
+      "category": "Trope",
+      "count": 960
+    },
+    {
+      "name": "Yuri / Girls Love",
+      "slug": "yuri",
+      "category": "Trope",
+      "count": 2780
+    },
+    {
+      "name": "Futanari",
+      "slug": "futanari",
+      "category": "Trope",
+      "count": 3620
+    },
+    {
+      "name": "Gangbang",
+      "slug": "gangbang",
+      "category": "Trope",
+      "count": 2150
+    },
+    {
+      "name": "Group / Orgy",
+      "slug": "orgy",
+      "category": "Trope",
+      "count": 2490
+    },
+    {
+      "name": "Public / Exhibitionism",
+      "slug": "exhibitionism",
+      "category": "Trope",
+      "count": 1780
+    },
+    {
+      "name": "Voyeurism / Peeping",
+      "slug": "voyeurism",
+      "category": "Trope",
+      "count": 1320
+    },
+    {
+      "name": "Lingerie / Underwear",
+      "slug": "lingerie",
+      "category": "Trope",
+      "count": 2860
+    },
+    {
+      "name": "Sleep Sex / Somnophilia",
+      "slug": "somnophilia",
+      "category": "Trope",
+      "count": 1150
+    },
+    {
+      "name": "Drunk / Aphrodisiac",
+      "slug": "aphrodisiac",
+      "category": "Trope",
+      "count": 1480
+    },
+    {
+      "name": "X-Ray / Internal View",
+      "slug": "x-ray",
+      "category": "Trope",
+      "count": 2610
+    },
+    {
+      "name": "Lactation / Breast Milk",
+      "slug": "lactation",
+      "category": "Trope",
+      "count": 1390
+    },
+    {
+      "name": "Blowjob / Fellatio",
+      "slug": "blowjob",
+      "category": "Trope",
+      "count": 4210
+    },
+    {
+      "name": "Deepthroat",
+      "slug": "deepthroat",
+      "category": "Trope",
+      "count": 2110
+    },
+    {
+      "name": "Spanking",
+      "slug": "spanking",
+      "category": "Trope",
+      "count": 1270
+    },
+    {
+      "name": "Double Penetration",
+      "slug": "double-penetration",
+      "category": "Trope",
+      "count": 1830
+    },
+    {
+      "name": "Toys / Vibrators",
+      "slug": "toys",
+      "category": "Trope",
+      "count": 1950
+    },
+    {
+      "name": "Virgin / Defloration",
+      "slug": "defloration",
+      "category": "Trope",
+      "count": 2180
+    },
+    {
+      "name": "Squirting",
+      "slug": "squirting",
+      "category": "Trope",
+      "count": 1920
+    },
+    {
+      "name": "Pet Play / Leash",
+      "slug": "pet-play",
+      "category": "Trope",
+      "count": 760
+    },
+    {
+      "name": "Latex / Leather",
+      "slug": "latex",
+      "category": "Trope",
+      "count": 840
+    },
+    {
+      "name": "Goth / E-Girl",
+      "slug": "goth",
+      "category": "Trope",
+      "count": 690
+    },
+    {
+      "name": "Crossdressing / Traps",
+      "slug": "crossdressing",
+      "category": "Trope",
+      "count": 1410
+    },
+    {
+      "name": "Monster / Non-Human",
+      "slug": "monster",
+      "category": "Trope",
+      "count": 1520
+    },
+    {
+      "name": "Corruption / Fallen",
+      "slug": "corruption",
+      "category": "Trope",
+      "count": 1680
+    },
+    {
+      "name": "Blackmail",
+      "slug": "blackmail",
+      "category": "Trope",
+      "count": 1940
+    },
+    {
+      "name": "Gloryhole",
+      "slug": "gloryhole",
+      "category": "Trope",
+      "count": 870
+    },
+    {
+      "name": "POV / First Person",
+      "slug": "pov",
+      "category": "Trope",
+      "count": 2430
+    },
+    {
+      "name": "Sweat / Glistening",
+      "slug": "sweat",
+      "category": "Trope",
+      "count": 1380
+    },
+    {
+      "name": "Oil / Massage",
+      "slug": "massage",
+      "category": "Trope",
+      "count": 1510
+    },
+    {
+      "name": "Onsen / Hot Springs",
+      "slug": "onsen",
+      "category": "Trope",
+      "count": 1670
+    },
+    {
+      "name": "Beach / Pool",
+      "slug": "beach",
+      "category": "Trope",
+      "count": 1820
+    },
+    {
+      "name": "Genshin Impact",
+      "slug": "genshin-impact",
+      "category": "Game Parody",
+      "count": 5120
+    },
+    {
+      "name": "Overwatch",
+      "slug": "overwatch",
+      "category": "Game Parody",
+      "count": 4300
+    },
+    {
+      "name": "Fate / Grand Order",
+      "slug": "fate",
+      "category": "Game Parody",
+      "count": 3890
+    },
+    {
+      "name": "Honkai Star Rail",
+      "slug": "honkai-star-rail",
+      "category": "Game Parody",
+      "count": 2980
+    },
+    {
+      "name": "Final Fantasy",
+      "slug": "final-fantasy",
+      "category": "Game Parody",
+      "count": 2450
+    },
+    {
+      "name": "NieR Automata / 2B",
+      "slug": "nier-automata",
+      "category": "Game Parody",
+      "count": 2120
+    },
+    {
+      "name": "Dead or Alive",
+      "slug": "dead-or-alive",
+      "category": "Game Parody",
+      "count": 1840
+    },
+    {
+      "name": "League of Legends",
+      "slug": "league-of-legends",
+      "category": "Game Parody",
+      "count": 2670
+    },
+    {
+      "name": "Pokemon",
+      "slug": "pokemon",
+      "category": "Game Parody",
+      "count": 1780
+    },
+    {
+      "name": "Azur Lane",
+      "slug": "azur-lane",
+      "category": "Game Parody",
+      "count": 2390
+    },
+    {
+      "name": "Blue Archive",
+      "slug": "blue-archive",
+      "category": "Game Parody",
+      "count": 2140
+    },
+    {
+      "name": "Street Fighter",
+      "slug": "street-fighter",
+      "category": "Game Parody",
+      "count": 1290
+    },
+    {
+      "name": "Resident Evil",
+      "slug": "resident-evil",
+      "category": "Game Parody",
+      "count": 1560
+    },
+    {
+      "name": "Cyberpunk / Edgerunners",
+      "slug": "cyberpunk",
+      "category": "Game Parody",
+      "count": 1430
+    },
+    {
+      "name": "Persona Series",
+      "slug": "persona",
+      "category": "Game Parody",
+      "count": 1120
+    },
+    {
+      "name": "Naruto / Kunoichi",
+      "slug": "naruto",
+      "category": "Anime Parody",
+      "count": 1680
+    },
+    {
+      "name": "Dragon Ball",
+      "slug": "dragon-ball",
+      "category": "Anime Parody",
+      "count": 980
+    },
+    {
+      "name": "One Piece",
+      "slug": "one-piece",
+      "category": "Anime Parody",
+      "count": 1450
+    },
+    {
+      "name": "Bleach",
+      "slug": "bleach",
+      "category": "Anime Parody",
+      "count": 1120
+    },
+    {
+      "name": "Demon Slayer",
+      "slug": "demon-slayer",
+      "category": "Anime Parody",
+      "count": 1340
+    },
+    {
+      "name": "Chainsaw Man",
+      "slug": "chainsaw-man",
+      "category": "Anime Parody",
+      "count": 1210
+    },
+    {
+      "name": "Spy x Family",
+      "slug": "spy-x-family",
+      "category": "Anime Parody",
+      "count": 950
+    },
+    {
+      "name": "Attack on Titan",
+      "slug": "attack-on-titan",
+      "category": "Anime Parody",
+      "count": 780
+    },
+    {
+      "name": "My Hero Academia",
+      "slug": "my-hero-academia",
+      "category": "Anime Parody",
+      "count": 1090
+    }
+  ]
+}

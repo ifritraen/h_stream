@@ -1,0 +1,2552 @@
+{
+  "target_results": {
+    "https://hentaisea.com/series": {
+      "status": 200,
+      "final_url": "https://hentaisea.com/free/",
+      "body_len": 122037
+    },
+    "https://hentaisea.com/genre": {
+      "status": 404,
+      "final_url": "https://hentaisea.com/genre",
+      "body_len": 77728
+    },
+    "https://hentaisea.com/genres": {
+      "status": 404,
+      "final_url": "https://hentaisea.com/genres",
+      "body_len": 77729
+    }
+  },
+  "genres_count": 182,
+  "series_count": 139,
+  "genres": [
+    {
+      "name": "3D Hentai",
+      "slug": "3d-hentai-2022",
+      "count": 2640,
+      "description": "Check also handpicked collection of latest 3D hentai videos on HentaiSea Tube",
+      "endpointPath": "/genre/3d-hentai-2022/"
+    },
+    {
+      "name": "Big Boobs",
+      "slug": "big-boobs",
+      "count": 2237,
+      "description": "Like tits? Don't forget to check following subcategory of hentai: Oppai, Paizuri, Tits Fuck",
+      "endpointPath": "/genre/big-boobs/"
+    },
+    {
+      "name": "Blowjob",
+      "slug": "blowjob",
+      "count": 1978,
+      "description": "Like blowjob hentai? Don't forget to check following series: Fellatio",
+      "endpointPath": "/genre/blowjob/"
+    },
+    {
+      "name": "Big Tits",
+      "slug": "big-tits",
+      "count": 1555,
+      "description": "Like tits? Don't forget to check following subcategory of hentai: Oppai, Paizuri, Tits Fuck",
+      "endpointPath": "/genre/big-tits/"
+    },
+    {
+      "name": "Ahegao",
+      "slug": "ahegao-hentai",
+      "count": 1521,
+      "description": "Authentic HentaiSea Ahegao anime releases \u2022 1521 videos available",
+      "endpointPath": "/genre/ahegao-hentai/"
+    },
+    {
+      "name": "Censored",
+      "slug": "censored-hentai",
+      "count": 1110,
+      "description": "Authentic HentaiSea Censored anime releases \u2022 1110 videos available",
+      "endpointPath": "/genre/censored-hentai/"
+    },
+    {
+      "name": "Anal",
+      "slug": "anal",
+      "count": 1068,
+      "description": "Authentic HentaiSea Anal anime releases \u2022 1068 videos available",
+      "endpointPath": "/genre/anal/"
+    },
+    {
+      "name": "Creampie",
+      "slug": "creampie",
+      "count": 951,
+      "description": "Authentic HentaiSea Creampie anime releases \u2022 951 videos available",
+      "endpointPath": "/genre/creampie/"
+    },
+    {
+      "name": "Hardcore",
+      "slug": "hardcore",
+      "count": 845,
+      "description": "Authentic HentaiSea Hardcore anime releases \u2022 845 videos available",
+      "endpointPath": "/genre/hardcore/"
+    },
+    {
+      "name": "Uncensored",
+      "slug": "uncensored",
+      "count": 750,
+      "description": "Like uncensored hentai? Don't forget to check following section of HentaiSea tube: Uncensored",
+      "endpointPath": "/genre/uncensored/"
+    },
+    {
+      "name": "Oppai",
+      "slug": "oppai-hentai",
+      "count": 568,
+      "description": "Authentic HentaiSea Oppai anime releases \u2022 568 videos available",
+      "endpointPath": "/genre/oppai-hentai/"
+    },
+    {
+      "name": "Schoolgirl",
+      "slug": "schoolgirl",
+      "count": 553,
+      "description": "Authentic HentaiSea Schoolgirl anime releases \u2022 553 videos available",
+      "endpointPath": "/genre/schoolgirl/"
+    },
+    {
+      "name": "Bondage",
+      "slug": "bondage",
+      "count": 414,
+      "description": "Authentic HentaiSea Bondage anime releases \u2022 414 videos available",
+      "endpointPath": "/genre/bondage/"
+    },
+    {
+      "name": "Big Ass",
+      "slug": "big-ass",
+      "count": 397,
+      "description": "Authentic HentaiSea Big Ass anime releases \u2022 397 videos available",
+      "endpointPath": "/genre/big-ass/"
+    },
+    {
+      "name": "Group",
+      "slug": "group",
+      "count": 390,
+      "description": "Authentic HentaiSea Group anime releases \u2022 390 videos available",
+      "endpointPath": "/genre/group/"
+    },
+    {
+      "name": "Young",
+      "slug": "young",
+      "count": 369,
+      "description": "Authentic HentaiSea Young anime releases \u2022 369 videos available",
+      "endpointPath": "/genre/young/"
+    },
+    {
+      "name": "Female Students",
+      "slug": "female-students",
+      "count": 357,
+      "description": "Authentic HentaiSea Female Students anime releases \u2022 357 videos available",
+      "endpointPath": "/genre/female-students/"
+    },
+    {
+      "name": "Big Bust",
+      "slug": "big-bust",
+      "count": 356,
+      "description": "Like tits? Don't forget to check following subcategory of hentai: Oppai, Paizuri, Tits Fuck",
+      "endpointPath": "/genre/big-bust/"
+    },
+    {
+      "name": "BDSM",
+      "slug": "bdsm",
+      "count": 336,
+      "description": "Authentic HentaiSea BDSM anime releases \u2022 336 videos available",
+      "endpointPath": "/genre/bdsm/"
+    },
+    {
+      "name": "Incest",
+      "slug": "incest",
+      "count": 326,
+      "description": "Authentic HentaiSea Incest anime releases \u2022 326 videos available",
+      "endpointPath": "/genre/incest/"
+    },
+    {
+      "name": "Yuri",
+      "slug": "yuri",
+      "count": 307,
+      "description": "Like when girl with girl? Don't forget to check following sections: Lesbian Hentai Series, Lesbian Videos, Lesbians Have Sex",
+      "endpointPath": "/genre/yuri/"
+    },
+    {
+      "name": "Forced",
+      "slug": "forced",
+      "count": 293,
+      "description": "Authentic HentaiSea Forced anime releases \u2022 293 videos available",
+      "endpointPath": "/genre/forced/"
+    },
+    {
+      "name": "Big Dick",
+      "slug": "big-dick",
+      "count": 291,
+      "description": "Authentic HentaiSea Big Dick anime releases \u2022 291 videos available",
+      "endpointPath": "/genre/big-dick/"
+    },
+    {
+      "name": "Hand Job",
+      "slug": "hand-job",
+      "count": 288,
+      "description": "Authentic HentaiSea Hand Job anime releases \u2022 288 videos available",
+      "endpointPath": "/genre/hand-job/"
+    },
+    {
+      "name": "Paizuri",
+      "slug": "paizuri",
+      "count": 288,
+      "description": "Really like tits fucking?! So don't forget to check Tits Fuck Series, and all about tits here - Tits & Boobs!",
+      "endpointPath": "/genre/paizuri/"
+    },
+    {
+      "name": "Action",
+      "slug": "action",
+      "count": 269,
+      "description": "Authentic HentaiSea Action anime releases \u2022 269 videos available",
+      "endpointPath": "/genre/action/"
+    },
+    {
+      "name": "Cumshot",
+      "slug": "cumshot",
+      "count": 262,
+      "description": "Authentic HentaiSea Cumshot anime releases \u2022 262 videos available",
+      "endpointPath": "/genre/cumshot/"
+    },
+    {
+      "name": "Harem",
+      "slug": "harem",
+      "count": 260,
+      "description": "Authentic HentaiSea Harem anime releases \u2022 260 videos available",
+      "endpointPath": "/genre/harem/"
+    },
+    {
+      "name": "Stockings",
+      "slug": "stockings",
+      "count": 253,
+      "description": "Authentic HentaiSea Stockings anime releases \u2022 253 videos available",
+      "endpointPath": "/genre/stockings/"
+    },
+    {
+      "name": "Tentacles",
+      "slug": "tentacles",
+      "count": 251,
+      "description": "Like Hentai with Tentacles? Don\u2019t forget to check HentaiSea videos collections: Tentacle and Tentacles",
+      "endpointPath": "/genre/tentacles/"
+    },
+    {
+      "name": "Anime",
+      "slug": "anime",
+      "count": 236,
+      "description": "Authentic HentaiSea Anime anime releases \u2022 236 videos available",
+      "endpointPath": "/genre/anime/"
+    },
+    {
+      "name": "Futanari",
+      "slug": "futanari",
+      "count": 233,
+      "description": "Like girls with massive dicks? Don't forget to check following section of HentaiSea tube: Futanari",
+      "endpointPath": "/genre/futanari/"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure-hentai",
+      "count": 215,
+      "description": "Authentic HentaiSea Adventure anime releases \u2022 215 videos available",
+      "endpointPath": "/genre/adventure-hentai/"
+    },
+    {
+      "name": "Virgin",
+      "slug": "virgin",
+      "count": 214,
+      "description": "Authentic HentaiSea Virgin anime releases \u2022 214 videos available",
+      "endpointPath": "/genre/virgin/"
+    },
+    {
+      "name": "Masturbation",
+      "slug": "masturbation",
+      "count": 210,
+      "description": "Authentic HentaiSea Masturbation anime releases \u2022 210 videos available",
+      "endpointPath": "/genre/masturbation/"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance",
+      "count": 208,
+      "description": "Like love stories? Don't forget to check following section of HentaiSea: Love",
+      "endpointPath": "/genre/romance/"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "count": 207,
+      "description": "Authentic HentaiSea Fantasy anime releases \u2022 207 videos available",
+      "endpointPath": "/genre/fantasy/"
+    },
+    {
+      "name": "Fellatio",
+      "slug": "fellatio",
+      "count": 204,
+      "description": "Authentic HentaiSea Fellatio anime releases \u2022 204 videos available",
+      "endpointPath": "/genre/fellatio/"
+    },
+    {
+      "name": "Dark Skin",
+      "slug": "dark-skin",
+      "count": 198,
+      "description": "Authentic HentaiSea Dark Skin anime releases \u2022 198 videos available",
+      "endpointPath": "/genre/dark-skin/"
+    },
+    {
+      "name": "Monster",
+      "slug": "monster-hentai",
+      "count": 171,
+      "description": "Like monsters? Don\u2019t forget to check following section of HentaiSea tube: Monster Hentai Tube Videos",
+      "endpointPath": "/genre/monster-hentai/"
+    },
+    {
+      "name": "Cosplay",
+      "slug": "cosplay",
+      "count": 165,
+      "description": "Authentic HentaiSea Cosplay anime releases \u2022 165 videos available",
+      "endpointPath": "/genre/cosplay/"
+    },
+    {
+      "name": "School",
+      "slug": "school",
+      "count": 163,
+      "description": "Authentic HentaiSea School anime releases \u2022 163 videos available",
+      "endpointPath": "/genre/school/"
+    },
+    {
+      "name": "Gangbang",
+      "slug": "gangbang-hentai",
+      "count": 162,
+      "description": "Authentic HentaiSea Gangbang anime releases \u2022 162 videos available",
+      "endpointPath": "/genre/gangbang-hentai/"
+    },
+    {
+      "name": "Double Penetration",
+      "slug": "double-penetration",
+      "count": 153,
+      "description": "Authentic HentaiSea Double Penetration anime releases \u2022 153 videos available",
+      "endpointPath": "/genre/double-penetration/"
+    },
+    {
+      "name": "Threesome",
+      "slug": "threesome",
+      "count": 146,
+      "description": "Authentic HentaiSea Threesome anime releases \u2022 146 videos available",
+      "endpointPath": "/genre/threesome/"
+    },
+    {
+      "name": "Cunnilingus",
+      "slug": "cunnilingus",
+      "count": 145,
+      "description": "Authentic HentaiSea Cunnilingus anime releases \u2022 145 videos available",
+      "endpointPath": "/genre/cunnilingus/"
+    },
+    {
+      "name": "Humiliation",
+      "slug": "humiliation-hentai",
+      "count": 143,
+      "description": "Authentic HentaiSea Humiliation anime releases \u2022 143 videos available",
+      "endpointPath": "/genre/humiliation-hentai/"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation",
+      "count": 141,
+      "description": "Authentic HentaiSea Animation anime releases \u2022 141 videos available",
+      "endpointPath": "/genre/animation/"
+    },
+    {
+      "name": "Hentai Games",
+      "slug": "game",
+      "count": 141,
+      "description": "An eroge (erotic game</i> is a Japanese genre of erotic video game.",
+      "endpointPath": "/genre/game/"
+    },
+    {
+      "name": "Maid",
+      "slug": "maid",
+      "count": 138,
+      "description": "Authentic HentaiSea Maid anime releases \u2022 138 videos available",
+      "endpointPath": "/genre/maid/"
+    },
+    {
+      "name": "Lesbian",
+      "slug": "lesbian",
+      "count": 136,
+      "description": "Like lesbian hentai? Don't forget to check following subcategory of hentai: Yuri",
+      "endpointPath": "/genre/lesbian/"
+    },
+    {
+      "name": "Vanilla",
+      "slug": "vanilla",
+      "count": 134,
+      "description": "Authentic HentaiSea Vanilla anime releases \u2022 134 videos available",
+      "endpointPath": "/genre/vanilla/"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy-hentai",
+      "count": 134,
+      "description": "Authentic HentaiSea Comedy anime releases \u2022 134 videos available",
+      "endpointPath": "/genre/comedy-hentai/"
+    },
+    {
+      "name": "Small Breasts",
+      "slug": "small-breasts",
+      "count": 128,
+      "description": "Like small tits hentai? Don't forget to check following section of HentaiSea: Pettanko, Small Tits",
+      "endpointPath": "/genre/small-breasts/"
+    },
+    {
+      "name": "Teacher",
+      "slug": "teacher",
+      "count": 126,
+      "description": "Authentic HentaiSea Teacher anime releases \u2022 126 videos available",
+      "endpointPath": "/genre/teacher/"
+    },
+    {
+      "name": "Bukkake",
+      "slug": "bukkake",
+      "count": 123,
+      "description": "Authentic HentaiSea Bukkake anime releases \u2022 123 videos available",
+      "endpointPath": "/genre/bukkake/"
+    },
+    {
+      "name": "Milf",
+      "slug": "milf",
+      "count": 121,
+      "description": "Like MILF's? Check also top hentai tube videos: Milf Hentai Videos",
+      "endpointPath": "/genre/milf/"
+    },
+    {
+      "name": "Blonde",
+      "slug": "blonde",
+      "count": 120,
+      "description": "Authentic HentaiSea Blonde anime releases \u2022 120 videos available",
+      "endpointPath": "/genre/blonde/"
+    },
+    {
+      "name": "Swimsuit",
+      "slug": "swimsuit",
+      "count": 116,
+      "description": "Authentic HentaiSea Swimsuit anime releases \u2022 116 videos available",
+      "endpointPath": "/genre/swimsuit/"
+    },
+    {
+      "name": "Nurse",
+      "slug": "nurse",
+      "count": 113,
+      "description": "Authentic HentaiSea Nurse anime releases \u2022 113 videos available",
+      "endpointPath": "/genre/nurse/"
+    },
+    {
+      "name": "NTR (Netorare",
+      "slug": "hentai-netorare",
+      "count": 112,
+      "description": "Like (NTR</i> Netorare genre? Don't forget to check following subcategory of hentai: Cheating hentai",
+      "endpointPath": "/genre/hentai-netorare/"
+    },
+    {
+      "name": "Megane",
+      "slug": "megane-hentai",
+      "count": 111,
+      "description": "Authentic HentaiSea Megane anime releases \u2022 111 videos available",
+      "endpointPath": "/genre/megane-hentai/"
+    },
+    {
+      "name": "Public Sex",
+      "slug": "public-sex",
+      "count": 110,
+      "description": "Authentic HentaiSea Public Sex anime releases \u2022 110 videos available",
+      "endpointPath": "/genre/public-sex/"
+    },
+    {
+      "name": "Pain",
+      "slug": "pain",
+      "count": 110,
+      "description": "Authentic HentaiSea Pain anime releases \u2022 110 videos available",
+      "endpointPath": "/genre/pain/"
+    },
+    {
+      "name": "Twin Tail",
+      "slug": "twin-tail",
+      "count": 103,
+      "description": "Authentic HentaiSea Twin Tail anime releases \u2022 103 videos available",
+      "endpointPath": "/genre/twin-tail/"
+    },
+    {
+      "name": "Action & Adventure",
+      "slug": "action-adventure",
+      "count": 103,
+      "description": "Authentic HentaiSea Action & Adventure anime releases \u2022 103 videos available",
+      "endpointPath": "/genre/action-adventure/"
+    },
+    {
+      "name": "Tits Fuck",
+      "slug": "tits-fuck",
+      "count": 100,
+      "description": "Like tits? Don't forget to check following subcategory of hentai: Oppai, Paizuri, Tits Fuck",
+      "endpointPath": "/genre/tits-fuck/"
+    },
+    {
+      "name": "High School",
+      "slug": "high-school",
+      "count": 98,
+      "description": "Authentic HentaiSea High School anime releases \u2022 98 videos available",
+      "endpointPath": "/genre/high-school/"
+    },
+    {
+      "name": "Housewife",
+      "slug": "housewife",
+      "count": 90,
+      "description": "Authentic HentaiSea Housewife anime releases \u2022 90 videos available",
+      "endpointPath": "/genre/housewife/"
+    },
+    {
+      "name": "Female Teacher",
+      "slug": "female-teacher",
+      "count": 90,
+      "description": "Authentic HentaiSea Female Teacher anime releases \u2022 90 videos available",
+      "endpointPath": "/genre/female-teacher/"
+    },
+    {
+      "name": "Fetish",
+      "slug": "fetish",
+      "count": 89,
+      "description": "Authentic HentaiSea Fetish anime releases \u2022 89 videos available",
+      "endpointPath": "/genre/fetish/"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama",
+      "count": 83,
+      "description": "Authentic HentaiSea Drama anime releases \u2022 83 videos available",
+      "endpointPath": "/genre/drama/"
+    },
+    {
+      "name": "Glasses",
+      "slug": "glasses",
+      "count": 82,
+      "description": "Authentic HentaiSea Glasses anime releases \u2022 82 videos available",
+      "endpointPath": "/genre/glasses/"
+    },
+    {
+      "name": "Couple",
+      "slug": "couple",
+      "count": 80,
+      "description": "Authentic HentaiSea Couple anime releases \u2022 80 videos available",
+      "endpointPath": "/genre/couple/"
+    },
+    {
+      "name": "Dildos",
+      "slug": "dildos",
+      "count": 78,
+      "description": "Authentic HentaiSea Dildos anime releases \u2022 78 videos available",
+      "endpointPath": "/genre/dildos/"
+    },
+    {
+      "name": "Alien",
+      "slug": "alien",
+      "count": 77,
+      "description": "Authentic HentaiSea Alien anime releases \u2022 77 videos available",
+      "endpointPath": "/genre/alien/"
+    },
+    {
+      "name": "Bestiality",
+      "slug": "bestiality",
+      "count": 74,
+      "description": "Authentic HentaiSea Bestiality anime releases \u2022 74 videos available",
+      "endpointPath": "/genre/bestiality/"
+    },
+    {
+      "name": "Demons",
+      "slug": "demons",
+      "count": 74,
+      "description": "Authentic HentaiSea Demons anime releases \u2022 74 videos available",
+      "endpointPath": "/genre/demons/"
+    },
+    {
+      "name": "Footjob",
+      "slug": "footjob",
+      "count": 72,
+      "description": "Authentic HentaiSea Footjob anime releases \u2022 72 videos available",
+      "endpointPath": "/genre/footjob/"
+    },
+    {
+      "name": "Bathroom",
+      "slug": "bathroom-hentai",
+      "count": 72,
+      "description": "Authentic HentaiSea Bathroom anime releases \u2022 72 videos available",
+      "endpointPath": "/genre/bathroom-hentai/"
+    },
+    {
+      "name": "Cheating",
+      "slug": "cheating",
+      "count": 70,
+      "description": "Like Cheating genre? Don't forget to check following subcategory of hentai: Netorare (NTR</i> hentai",
+      "endpointPath": "/genre/cheating/"
+    },
+    {
+      "name": "Femdom",
+      "slug": "femdom",
+      "count": 68,
+      "description": "Authentic HentaiSea Femdom anime releases \u2022 68 videos available",
+      "endpointPath": "/genre/femdom/"
+    },
+    {
+      "name": "School Life",
+      "slug": "school-life",
+      "count": 67,
+      "description": "Authentic HentaiSea School Life anime releases \u2022 67 videos available",
+      "endpointPath": "/genre/school-life/"
+    },
+    {
+      "name": "Super Power",
+      "slug": "super-power",
+      "count": 65,
+      "description": "Authentic HentaiSea Super Power anime releases \u2022 65 videos available",
+      "endpointPath": "/genre/super-power/"
+    },
+    {
+      "name": "Magic",
+      "slug": "magic",
+      "count": 65,
+      "description": "Authentic HentaiSea Magic anime releases \u2022 65 videos available",
+      "endpointPath": "/genre/magic/"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror-hentai",
+      "count": 63,
+      "description": "Authentic HentaiSea Horror anime releases \u2022 63 videos available",
+      "endpointPath": "/genre/horror-hentai/"
+    },
+    {
+      "name": "Domination",
+      "slug": "domination-hentai",
+      "count": 62,
+      "description": "Authentic HentaiSea Domination anime releases \u2022 62 videos available",
+      "endpointPath": "/genre/domination-hentai/"
+    },
+    {
+      "name": "Mature",
+      "slug": "mature",
+      "count": 61,
+      "description": "Authentic HentaiSea Mature anime releases \u2022 61 videos available",
+      "endpointPath": "/genre/mature/"
+    },
+    {
+      "name": "Filmed",
+      "slug": "filmed",
+      "count": 59,
+      "description": "Authentic HentaiSea Filmed anime releases \u2022 59 videos available",
+      "endpointPath": "/genre/filmed/"
+    },
+    {
+      "name": "Blackmail",
+      "slug": "blackmail",
+      "count": 59,
+      "description": "Authentic HentaiSea Blackmail anime releases \u2022 59 videos available",
+      "endpointPath": "/genre/blackmail/"
+    },
+    {
+      "name": "Vibrators",
+      "slug": "vibrators",
+      "count": 59,
+      "description": "Authentic HentaiSea Vibrators anime releases \u2022 59 videos available",
+      "endpointPath": "/genre/vibrators/"
+    },
+    {
+      "name": "Yaoi",
+      "slug": "yaoi",
+      "count": 58,
+      "description": "Like yaoi and gay hentai? Don't forget to check following section of HentaiSea tube: Yaoi(9</i> Gay(5</i>",
+      "endpointPath": "/genre/yaoi/"
+    },
+    {
+      "name": "Pregnant",
+      "slug": "pregnant",
+      "count": 57,
+      "description": "Authentic HentaiSea Pregnant anime releases \u2022 57 videos available",
+      "endpointPath": "/genre/pregnant/"
+    },
+    {
+      "name": "Supernatural",
+      "slug": "supernatural",
+      "count": 54,
+      "description": "Authentic HentaiSea Supernatural anime releases \u2022 54 videos available",
+      "endpointPath": "/genre/supernatural/"
+    },
+    {
+      "name": "Love",
+      "slug": "love",
+      "count": 54,
+      "description": "Authentic HentaiSea Love anime releases \u2022 54 videos available",
+      "endpointPath": "/genre/love/"
+    },
+    {
+      "name": "Gangfuck",
+      "slug": "gangfuck",
+      "count": 53,
+      "description": "Authentic HentaiSea Gangfuck anime releases \u2022 53 videos available",
+      "endpointPath": "/genre/gangfuck/"
+    },
+    {
+      "name": "Tsundere",
+      "slug": "tsundere",
+      "count": 50,
+      "description": "Authentic HentaiSea Tsundere anime releases \u2022 50 videos available",
+      "endpointPath": "/genre/tsundere/"
+    },
+    {
+      "name": "Slave",
+      "slug": "slave-hentai",
+      "count": 47,
+      "description": "Authentic HentaiSea Slave anime releases \u2022 47 videos available",
+      "endpointPath": "/genre/slave-hentai/"
+    },
+    {
+      "name": "Grope",
+      "slug": "grope",
+      "count": 47,
+      "description": "Authentic HentaiSea Grope anime releases \u2022 47 videos available",
+      "endpointPath": "/genre/grope/"
+    },
+    {
+      "name": "Shota",
+      "slug": "shota",
+      "count": 47,
+      "description": "Authentic HentaiSea Shota anime releases \u2022 47 videos available",
+      "endpointPath": "/genre/shota/"
+    },
+    {
+      "name": "Lactation",
+      "slug": "lactation",
+      "count": 46,
+      "description": "Authentic HentaiSea Lactation anime releases \u2022 46 videos available",
+      "endpointPath": "/genre/lactation/"
+    },
+    {
+      "name": "Pettanko",
+      "slug": "pattanko-hentai-hd",
+      "count": 44,
+      "description": "Like small tits hentai? Don't forget to check following section of HentaiSea: Small Breasts, Small Tits",
+      "endpointPath": "/genre/pattanko-hentai-hd/"
+    },
+    {
+      "name": "Office",
+      "slug": "office",
+      "count": 44,
+      "description": "Authentic HentaiSea Office anime releases \u2022 44 videos available",
+      "endpointPath": "/genre/office/"
+    },
+    {
+      "name": "Orgy",
+      "slug": "orgy",
+      "count": 43,
+      "description": "Authentic HentaiSea Orgy anime releases \u2022 43 videos available",
+      "endpointPath": "/genre/orgy/"
+    },
+    {
+      "name": "Chikan",
+      "slug": "chikan",
+      "count": 42,
+      "description": "Authentic HentaiSea Chikan anime releases \u2022 42 videos available",
+      "endpointPath": "/genre/chikan/"
+    },
+    {
+      "name": "Nympho",
+      "slug": "nympho",
+      "count": 42,
+      "description": "Authentic HentaiSea Nympho anime releases \u2022 42 videos available",
+      "endpointPath": "/genre/nympho/"
+    },
+    {
+      "name": "Mizugi",
+      "slug": "mizugi",
+      "count": 41,
+      "description": "Authentic HentaiSea Mizugi anime releases \u2022 41 videos available",
+      "endpointPath": "/genre/mizugi/"
+    },
+    {
+      "name": "Mind Control",
+      "slug": "mind-control",
+      "count": 41,
+      "description": "Authentic HentaiSea Mind Control anime releases \u2022 41 videos available",
+      "endpointPath": "/genre/mind-control/"
+    },
+    {
+      "name": "Sisters",
+      "slug": "sisters",
+      "count": 40,
+      "description": "Authentic HentaiSea Sisters anime releases \u2022 40 videos available",
+      "endpointPath": "/genre/sisters/"
+    },
+    {
+      "name": "Manga",
+      "slug": "manga-hentai",
+      "count": 39,
+      "description": "Authentic HentaiSea Manga anime releases \u2022 39 videos available",
+      "endpointPath": "/genre/manga-hentai/"
+    },
+    {
+      "name": "Torture",
+      "slug": "torture-hentai",
+      "count": 39,
+      "description": "Authentic HentaiSea Torture anime releases \u2022 39 videos available",
+      "endpointPath": "/genre/torture-hentai/"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery",
+      "count": 38,
+      "description": "Authentic HentaiSea Mystery anime releases \u2022 38 videos available",
+      "endpointPath": "/genre/mystery/"
+    },
+    {
+      "name": "Family",
+      "slug": "family-hentai",
+      "count": 37,
+      "description": "Authentic HentaiSea Family anime releases \u2022 37 videos available",
+      "endpointPath": "/genre/family-hentai/"
+    },
+    {
+      "name": "Shotacon",
+      "slug": "shotacon",
+      "count": 37,
+      "description": "Authentic HentaiSea Shotacon anime releases \u2022 37 videos available",
+      "endpointPath": "/genre/shotacon/"
+    },
+    {
+      "name": "Reverse Hardcore",
+      "slug": "reverse-hardcore",
+      "count": 36,
+      "description": "Authentic HentaiSea Reverse Hardcore anime releases \u2022 36 videos available",
+      "endpointPath": "/genre/reverse-hardcore/"
+    },
+    {
+      "name": "Succubus",
+      "slug": "succubus",
+      "count": 36,
+      "description": "Authentic HentaiSea Succubus anime releases \u2022 36 videos available",
+      "endpointPath": "/genre/succubus/"
+    },
+    {
+      "name": "Shibari",
+      "slug": "shibari",
+      "count": 36,
+      "description": "Authentic HentaiSea Shibari anime releases \u2022 36 videos available",
+      "endpointPath": "/genre/shibari/"
+    },
+    {
+      "name": "Pee",
+      "slug": "pee",
+      "count": 35,
+      "description": "Authentic HentaiSea Pee anime releases \u2022 35 videos available",
+      "endpointPath": "/genre/pee/"
+    },
+    {
+      "name": "Elf",
+      "slug": "elf",
+      "count": 35,
+      "description": "Authentic HentaiSea Elf anime releases \u2022 35 videos available",
+      "endpointPath": "/genre/elf/"
+    },
+    {
+      "name": "Android",
+      "slug": "android",
+      "count": 33,
+      "description": "Authentic HentaiSea Android anime releases \u2022 33 videos available",
+      "endpointPath": "/genre/android/"
+    },
+    {
+      "name": "Gigantic Tits",
+      "slug": "gigantic-tits",
+      "count": 31,
+      "description": "Like tits? Don't forget to check following subcategory of hentai: Oppai, Paizuri, Tits Fuck",
+      "endpointPath": "/genre/gigantic-tits/"
+    },
+    {
+      "name": "Demon girl",
+      "slug": "demon-girl",
+      "count": 31,
+      "description": "Authentic HentaiSea Demon girl anime releases \u2022 31 videos available",
+      "endpointPath": "/genre/demon-girl/"
+    },
+    {
+      "name": "Onichan",
+      "slug": "onichan",
+      "count": 30,
+      "description": "Authentic HentaiSea Onichan anime releases \u2022 30 videos available",
+      "endpointPath": "/genre/onichan/"
+    },
+    {
+      "name": "Inflation",
+      "slug": "inflation",
+      "count": 29,
+      "description": "Authentic HentaiSea Inflation anime releases \u2022 29 videos available",
+      "endpointPath": "/genre/inflation/"
+    },
+    {
+      "name": "Nekomimi",
+      "slug": "nekomimi",
+      "count": 28,
+      "description": "Authentic HentaiSea Nekomimi anime releases \u2022 28 videos available",
+      "endpointPath": "/genre/nekomimi/"
+    },
+    {
+      "name": "ScienceFiction",
+      "slug": "sciencefiction",
+      "count": 28,
+      "description": "Authentic HentaiSea ScienceFiction anime releases \u2022 28 videos available",
+      "endpointPath": "/genre/sciencefiction/"
+    },
+    {
+      "name": "Trap",
+      "slug": "trap-hentai",
+      "count": 27,
+      "description": "Authentic HentaiSea Trap anime releases \u2022 27 videos available",
+      "endpointPath": "/genre/trap-hentai/"
+    },
+    {
+      "name": "Ecchi",
+      "slug": "ecchi",
+      "count": 26,
+      "description": "Authentic HentaiSea Ecchi anime releases \u2022 26 videos available",
+      "endpointPath": "/genre/ecchi/"
+    },
+    {
+      "name": "Elves",
+      "slug": "elves",
+      "count": 25,
+      "description": "Authentic HentaiSea Elves anime releases \u2022 25 videos available",
+      "endpointPath": "/genre/elves/"
+    },
+    {
+      "name": "Maids",
+      "slug": "maids",
+      "count": 25,
+      "description": "Authentic HentaiSea Maids anime releases \u2022 25 videos available",
+      "endpointPath": "/genre/maids/"
+    },
+    {
+      "name": "Osananajimi",
+      "slug": "osananajimi-hentai",
+      "count": 24,
+      "description": "Authentic HentaiSea Osananajimi anime releases \u2022 24 videos available",
+      "endpointPath": "/genre/osananajimi-hentai/"
+    },
+    {
+      "name": "Ninja",
+      "slug": "ninja",
+      "count": 23,
+      "description": "A kunoichi (Japanese: \u304f\u30ce\u4e00</i> Means ninja or practitioner of ninjutsu (ninpo</i>.",
+      "endpointPath": "/genre/ninja/"
+    },
+    {
+      "name": "Ashikoki",
+      "slug": "ashikoki",
+      "count": 23,
+      "description": "Authentic HentaiSea Ashikoki anime releases \u2022 23 videos available",
+      "endpointPath": "/genre/ashikoki/"
+    },
+    {
+      "name": "Housewives",
+      "slug": "housewives",
+      "count": 22,
+      "description": "Authentic HentaiSea Housewives anime releases \u2022 22 videos available",
+      "endpointPath": "/genre/housewives/"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime",
+      "count": 22,
+      "description": "Authentic HentaiSea Crime anime releases \u2022 22 videos available",
+      "endpointPath": "/genre/crime/"
+    },
+    {
+      "name": "Nudity",
+      "slug": "nudity",
+      "count": 22,
+      "description": "Authentic HentaiSea Nudity anime releases \u2022 22 videos available",
+      "endpointPath": "/genre/nudity/"
+    },
+    {
+      "name": "Catgirls",
+      "slug": "catgirls",
+      "count": 22,
+      "description": "Authentic HentaiSea Catgirls anime releases \u2022 22 videos available",
+      "endpointPath": "/genre/catgirls/"
+    },
+    {
+      "name": "Monster Girl",
+      "slug": "monster-girl",
+      "count": 22,
+      "description": "Authentic HentaiSea Monster Girl anime releases \u2022 22 videos available",
+      "endpointPath": "/genre/monster-girl/"
+    },
+    {
+      "name": "Kemonomimi",
+      "slug": "kemonomimi-hentai",
+      "count": 21,
+      "description": "Authentic HentaiSea Kemonomimi anime releases \u2022 21 videos available",
+      "endpointPath": "/genre/kemonomimi-hentai/"
+    },
+    {
+      "name": "Betrayal",
+      "slug": "betrayal",
+      "count": 21,
+      "description": "Authentic HentaiSea Betrayal anime releases \u2022 21 videos available",
+      "endpointPath": "/genre/betrayal/"
+    },
+    {
+      "name": "Prostitution",
+      "slug": "prostitution",
+      "count": 20,
+      "description": "Authentic HentaiSea Prostitution anime releases \u2022 20 videos available",
+      "endpointPath": "/genre/prostitution/"
+    },
+    {
+      "name": "Waitress",
+      "slug": "waitress",
+      "count": 19,
+      "description": "Authentic HentaiSea Waitress anime releases \u2022 19 videos available",
+      "endpointPath": "/genre/waitress/"
+    },
+    {
+      "name": "Sci-Fi & Fantasy",
+      "slug": "sci-fi-fantasy",
+      "count": 19,
+      "description": "Authentic HentaiSea Sci-Fi & Fantasy anime releases \u2022 19 videos available",
+      "endpointPath": "/genre/sci-fi-fantasy/"
+    },
+    {
+      "name": "Idol",
+      "slug": "idol",
+      "count": 19,
+      "description": "Authentic HentaiSea Idol anime releases \u2022 19 videos available",
+      "endpointPath": "/genre/idol/"
+    },
+    {
+      "name": "Devil Girl",
+      "slug": "devil-girl",
+      "count": 18,
+      "description": "Authentic HentaiSea Devil Girl anime releases \u2022 18 videos available",
+      "endpointPath": "/genre/devil-girl/"
+    },
+    {
+      "name": "Scat",
+      "slug": "scat",
+      "count": 18,
+      "description": "Authentic HentaiSea Scat anime releases \u2022 18 videos available",
+      "endpointPath": "/genre/scat/"
+    },
+    {
+      "name": "Cuckold",
+      "slug": "cuckold",
+      "count": 17,
+      "description": "Authentic HentaiSea Cuckold anime releases \u2022 17 videos available",
+      "endpointPath": "/genre/cuckold/"
+    },
+    {
+      "name": "Doctor",
+      "slug": "doctor",
+      "count": 16,
+      "description": "Authentic HentaiSea Doctor anime releases \u2022 16 videos available",
+      "endpointPath": "/genre/doctor/"
+    },
+    {
+      "name": "Psychological",
+      "slug": "psychological",
+      "count": 15,
+      "description": "Authentic HentaiSea Psychological anime releases \u2022 15 videos available",
+      "endpointPath": "/genre/psychological/"
+    },
+    {
+      "name": "Vampires",
+      "slug": "vampires",
+      "count": 15,
+      "description": "Authentic HentaiSea Vampires anime releases \u2022 15 videos available",
+      "endpointPath": "/genre/vampires/"
+    },
+    {
+      "name": "House",
+      "slug": "house-hentai",
+      "count": 15,
+      "description": "Authentic HentaiSea House anime releases \u2022 15 videos available",
+      "endpointPath": "/genre/house-hentai/"
+    },
+    {
+      "name": "Angels",
+      "slug": "angels",
+      "count": 14,
+      "description": "Authentic HentaiSea Angels anime releases \u2022 14 videos available",
+      "endpointPath": "/genre/angels/"
+    },
+    {
+      "name": "Hypnosis",
+      "slug": "hypnosis-hentai",
+      "count": 13,
+      "description": "Authentic HentaiSea Hypnosis anime releases \u2022 13 videos available",
+      "endpointPath": "/genre/hypnosis-hentai/"
+    },
+    {
+      "name": "Bunny",
+      "slug": "bunny-hentai",
+      "count": 13,
+      "description": "Authentic HentaiSea Bunny anime releases \u2022 13 videos available",
+      "endpointPath": "/genre/bunny-hentai/"
+    },
+    {
+      "name": "Chubby",
+      "slug": "chubby-hentai",
+      "count": 13,
+      "description": "Authentic HentaiSea Chubby anime releases \u2022 13 videos available",
+      "endpointPath": "/genre/chubby-hentai/"
+    },
+    {
+      "name": "Sport",
+      "slug": "sport",
+      "count": 12,
+      "description": "Authentic HentaiSea Sport anime releases \u2022 12 videos available",
+      "endpointPath": "/genre/sport/"
+    },
+    {
+      "name": "Sports",
+      "slug": "sports",
+      "count": 12,
+      "description": "Authentic HentaiSea Sports anime releases \u2022 12 videos available",
+      "endpointPath": "/genre/sports/"
+    },
+    {
+      "name": "X-ray",
+      "slug": "x-ray",
+      "count": 11,
+      "description": "Authentic HentaiSea X-ray anime releases \u2022 11 videos available",
+      "endpointPath": "/genre/x-ray/"
+    },
+    {
+      "name": "Crossdressing",
+      "slug": "crossdressing",
+      "count": 11,
+      "description": "Authentic HentaiSea Crossdressing anime releases \u2022 11 videos available",
+      "endpointPath": "/genre/crossdressing/"
+    },
+    {
+      "name": "Space",
+      "slug": "space",
+      "count": 11,
+      "description": "Authentic HentaiSea Space anime releases \u2022 11 videos available",
+      "endpointPath": "/genre/space/"
+    },
+    {
+      "name": "Red head",
+      "slug": "red-head",
+      "count": 10,
+      "description": "Authentic HentaiSea Red head anime releases \u2022 10 videos available",
+      "endpointPath": "/genre/red-head/"
+    },
+    {
+      "name": "Police",
+      "slug": "police",
+      "count": 9,
+      "description": "Authentic HentaiSea Police anime releases \u2022 9 videos available",
+      "endpointPath": "/genre/police/"
+    },
+    {
+      "name": "Military",
+      "slug": "military",
+      "count": 9,
+      "description": "Authentic HentaiSea Military anime releases \u2022 9 videos available",
+      "endpointPath": "/genre/military/"
+    },
+    {
+      "name": "Tomboy",
+      "slug": "tomboy",
+      "count": 8,
+      "description": "Authentic HentaiSea Tomboy anime releases \u2022 8 videos available",
+      "endpointPath": "/genre/tomboy/"
+    },
+    {
+      "name": "Squirt",
+      "slug": "squirt",
+      "count": 8,
+      "description": "Authentic HentaiSea Squirt anime releases \u2022 8 videos available",
+      "endpointPath": "/genre/squirt/"
+    },
+    {
+      "name": "Gender Bender",
+      "slug": "gender-bender",
+      "count": 8,
+      "description": "Authentic HentaiSea Gender Bender anime releases \u2022 8 videos available",
+      "endpointPath": "/genre/gender-bender/"
+    },
+    {
+      "name": "Zombies",
+      "slug": "zombies",
+      "count": 6,
+      "description": "Authentic HentaiSea Zombies anime releases \u2022 6 videos available",
+      "endpointPath": "/genre/zombies/"
+    },
+    {
+      "name": "Doujinshi",
+      "slug": "doujinshi",
+      "count": 6,
+      "description": "Authentic HentaiSea Doujinshi anime releases \u2022 6 videos available",
+      "endpointPath": "/genre/doujinshi/"
+    },
+    {
+      "name": "Autofellatio",
+      "slug": "autofellatio",
+      "count": 5,
+      "description": "Authentic HentaiSea Autofellatio anime releases \u2022 5 videos available",
+      "endpointPath": "/genre/autofellatio/"
+    },
+    {
+      "name": "Nipple",
+      "slug": "nipple",
+      "count": 5,
+      "description": "Authentic HentaiSea Nipple anime releases \u2022 5 videos available",
+      "endpointPath": "/genre/nipple/"
+    },
+    {
+      "name": "Ghost",
+      "slug": "ghost",
+      "count": 5,
+      "description": "Authentic HentaiSea Ghost anime releases \u2022 5 videos available",
+      "endpointPath": "/genre/ghost/"
+    },
+    {
+      "name": "Fanservice",
+      "slug": "fanservice",
+      "count": 5,
+      "description": "Authentic HentaiSea Fanservice anime releases \u2022 5 videos available",
+      "endpointPath": "/genre/fanservice/"
+    },
+    {
+      "name": "Machine",
+      "slug": "machine",
+      "count": 3,
+      "description": "Authentic HentaiSea Machine anime releases \u2022 3 videos available",
+      "endpointPath": "/genre/machine/"
+    },
+    {
+      "name": "Slice of Life",
+      "slug": "slice-of-life",
+      "count": 3,
+      "description": "Authentic HentaiSea Slice of Life anime releases \u2022 3 videos available",
+      "endpointPath": "/genre/slice-of-life/"
+    },
+    {
+      "name": "Porn Games",
+      "slug": "erotic-game",
+      "count": 2,
+      "description": "Authentic HentaiSea Porn Games anime releases \u2022 2 videos available",
+      "endpointPath": "/genre/erotic-game/"
+    },
+    {
+      "name": "Train",
+      "slug": "train",
+      "count": 2,
+      "description": "Authentic HentaiSea Train anime releases \u2022 2 videos available",
+      "endpointPath": "/genre/train/"
+    },
+    {
+      "name": "Shemale",
+      "slug": "shemale",
+      "count": 2,
+      "description": "Authentic HentaiSea Shemale anime releases \u2022 2 videos available",
+      "endpointPath": "/genre/shemale/"
+    },
+    {
+      "name": "Soap",
+      "slug": "soap",
+      "count": 1,
+      "description": "Authentic HentaiSea Soap anime releases \u2022 1 videos available",
+      "endpointPath": "/genre/soap/"
+    },
+    {
+      "name": "Reality",
+      "slug": "reality",
+      "count": 1,
+      "description": "Authentic HentaiSea Reality anime releases \u2022 1 videos available",
+      "endpointPath": "/genre/reality/"
+    },
+    {
+      "name": "Navel Fuck",
+      "slug": "navel-fuck",
+      "count": 1,
+      "description": "Authentic HentaiSea Navel Fuck anime releases \u2022 1 videos available",
+      "endpointPath": "/genre/navel-fuck/"
+    },
+    {
+      "name": "Time Stop",
+      "slug": "time-stop",
+      "count": 1,
+      "description": "Authentic HentaiSea Time Stop anime releases \u2022 1 videos available",
+      "endpointPath": "/genre/time-stop/"
+    },
+    {
+      "name": "Mindbreak",
+      "slug": "mindbreak",
+      "count": 1,
+      "description": "Authentic HentaiSea Mindbreak anime releases \u2022 1 videos available",
+      "endpointPath": "/genre/mindbreak/"
+    }
+  ],
+  "series": [
+    {
+      "name": "Secret Of Beauty Stone Lady",
+      "slug": "secret-of-beauty-stone-lady",
+      "cover": "https://hentaisea.com/wp-content/uploads/2022/05/secret-of-beauty-affect3d-stone-lady-cover.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Secret Of Beauty Stone Lady",
+      "endpointPath": "/watch/secret-of-beauty-stone-lady/"
+    },
+    {
+      "name": "Campaign Girl Attack - What\u2019s Wrong to be Naked",
+      "slug": "campaign-girl-attack-8211-what-8217-s-wrong-to-be-naked",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-campaign-girl-attack-8211-what-8217-s-wrong-to-be-naked.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Campaign Girl Attack - What\u2019s Wrong to be Naked",
+      "endpointPath": "/watch/campaign-girl-attack-8211-what-8217-s-wrong-to-be-naked/"
+    },
+    {
+      "name": "Inran Na Hebihime",
+      "slug": "inran-na-hebihime",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/12/inran-na-hebihime.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Inran Na Hebihime",
+      "endpointPath": "/watch/inran-na-hebihime/"
+    },
+    {
+      "name": "Femdom Vixens",
+      "slug": "femdom-vixens",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/12/femdom-vixens.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Femdom Vixens",
+      "endpointPath": "/watch/femdom-vixens/"
+    },
+    {
+      "name": "Shinkon Kozukuri Life With Lovey-dove Elf",
+      "slug": "shinkon-kozukuri-life-with-lovey-dove-elf",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-shinkon-kozukuri-life-with-lovey-dove-elf.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Shinkon Kozukuri Life With Lovey-dove Elf",
+      "endpointPath": "/watch/shinkon-kozukuri-life-with-lovey-dove-elf/"
+    },
+    {
+      "name": "Rori Kei Anime Shoujo",
+      "slug": "rori-kei-anime-shoujo",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/11/rori-kei-anime-shoujo.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Rori Kei Anime Shoujo",
+      "endpointPath": "/watch/rori-kei-anime-shoujo/"
+    },
+    {
+      "name": "Welcome to Caffe Lascivia",
+      "slug": "welcome-to-caffe-lascivia",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/10/Welcome-to-Caffe-Lascivia-Episode-1.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Welcome to Caffe Lascivia",
+      "endpointPath": "/watch/welcome-to-caffe-lascivia/"
+    },
+    {
+      "name": "Nyotengu And Big Monster 2",
+      "slug": "nyotengu-and-big-monster-2",
+      "cover": "https://hentaisea.com/wp-content/uploads/2022/03/Nyotengu-Big-Monster.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Nyotengu And Big Monster 2",
+      "endpointPath": "/watch/nyotengu-and-big-monster-2/"
+    },
+    {
+      "name": "The Feast Of Elves Who Use A Human As A Dildo",
+      "slug": "the-feast-of-elves-who-use-a-human-as-a-dildo",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-the-feast-of-elves-who-use-a-human-as-a-dildo.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 The Feast Of Elves Who Use A Human As A Dildo",
+      "endpointPath": "/watch/the-feast-of-elves-who-use-a-human-as-a-dildo/"
+    },
+    {
+      "name": "All Out Orgy Fuckfest",
+      "slug": "all-out-orgy-fuckfest",
+      "cover": "https://hentaisea.com/wp-content/uploads/2021/01/all-out-orgy-fuckfest.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 All Out Orgy Fuckfest",
+      "endpointPath": "/watch/all-out-orgy-fuckfest/"
+    },
+    {
+      "name": "Ingoku Byoutou",
+      "slug": "ingoku-byoutou",
+      "cover": "https://cdn.myanimelist.net/images/anime/7/10534.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Ingoku Byoutou",
+      "endpointPath": "/watch/ingoku-byoutou/"
+    },
+    {
+      "name": "Pia Carrot E Youkoso!!",
+      "slug": "pia-carrot-e-youkoso",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-pia-carrot-e-youkoso.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Pia Carrot E Youkoso!!",
+      "endpointPath": "/watch/pia-carrot-e-youkoso/"
+    },
+    {
+      "name": "Hot Juicy Teacher",
+      "slug": "hot-juicy-teacher",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/09/hot-juicy-teacher-vol-1.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Hot Juicy Teacher",
+      "endpointPath": "/watch/hot-juicy-teacher/"
+    },
+    {
+      "name": "The Oasis",
+      "slug": "the-oasis",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/10/the-oasis.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 The Oasis",
+      "endpointPath": "/watch/the-oasis/"
+    },
+    {
+      "name": "V Jack 2 Evil Town",
+      "slug": "v-jack-2-evil-town",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/08/v-jack-2-evil-town.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 V Jack 2 Evil Town",
+      "endpointPath": "/watch/v-jack-2-evil-town/"
+    },
+    {
+      "name": "Venus In Furs CYBERPUNK 2077",
+      "slug": "venus-in-furs-cyberpunk-2077",
+      "cover": "https://hentaisea.com/wp-content/uploads/2025/03/Venus-In-Furs-CYBERPUNK-2077-1.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Venus In Furs CYBERPUNK 2077",
+      "endpointPath": "/watch/venus-in-furs-cyberpunk-2077/"
+    },
+    {
+      "name": "Ryoujoku no Rensa",
+      "slug": "ryoujoku-no-rensa",
+      "cover": "https://cdn.myanimelist.net/images/manga/3/40934.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Ryoujoku no Rensa",
+      "endpointPath": "/watch/ryoujoku-no-rensa/"
+    },
+    {
+      "name": "Yurino yuritaru yururi yuri kea",
+      "slug": "yurino-yuritaru-yururi-yuri-kea",
+      "cover": "https://hentaisea.com/wp-content/uploads/2021/01/178.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Yurino yuritaru yururi yuri kea",
+      "endpointPath": "/watch/yurino-yuritaru-yururi-yuri-kea/"
+    },
+    {
+      "name": "Taimanin Asagi 2",
+      "slug": "taimanin-asagi-2",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-taimanin-asagi-2.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Taimanin Asagi 2",
+      "endpointPath": "/watch/taimanin-asagi-2/"
+    },
+    {
+      "name": "Mecha Gishi Resta no Daibouken",
+      "slug": "mecha-gishi-resta-no-daibouken",
+      "cover": "https://hentaisea.com/wp-content/uploads/2024/11/Mecha-Gishi-Resta-no-Daibouken-1.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Mecha Gishi Resta no Daibouken",
+      "endpointPath": "/watch/mecha-gishi-resta-no-daibouken/"
+    },
+    {
+      "name": "Little Devil Girlfriend",
+      "slug": "little-devil-girlfriend",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/05/little-devil-girlfriend-1-TpVtY.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Little Devil Girlfriend",
+      "endpointPath": "/watch/little-devil-girlfriend/"
+    },
+    {
+      "name": "Soukou tenshi burumarine naji soushitsu no haka ryou joku",
+      "slug": "soukou-tenshi-burumarine-naji-soushitsu-no-haka-ryou-joku",
+      "cover": "https://hentaisea.com/wp-content/uploads/2021/01/299.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Soukou tenshi burumarine naji soushitsu no haka ryou joku",
+      "endpointPath": "/watch/soukou-tenshi-burumarine-naji-soushitsu-no-haka-ryou-joku/"
+    },
+    {
+      "name": "Chibimon Sailor Moon Hentai",
+      "slug": "chibimon-sailor-moon",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-chibimon-sailor-moon.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Chibimon Sailor Moon Hentai",
+      "endpointPath": "/watch/chibimon-sailor-moon/"
+    },
+    {
+      "name": "Real",
+      "slug": "reeal",
+      "cover": "https://hentaisea.com/wp-content/uploads/2021/02/92.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Real",
+      "endpointPath": "/watch/reeal/"
+    },
+    {
+      "name": "Ikusa Otome Valkyrie G",
+      "slug": "ikusa-otome-valkyrie-g",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-ikusa-otome-valkyrie-g.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Ikusa Otome Valkyrie G",
+      "endpointPath": "/watch/ikusa-otome-valkyrie-g/"
+    },
+    {
+      "name": "Parade Parade",
+      "slug": "parade-parade",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/08/parade-parade-ep-1.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Parade Parade",
+      "endpointPath": "/watch/parade-parade/"
+    },
+    {
+      "name": "Ghosts Of Paradise",
+      "slug": "ghosts-of-paradise",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-ghosts-of-paradise.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Ghosts Of Paradise",
+      "endpointPath": "/watch/ghosts-of-paradise/"
+    },
+    {
+      "name": "D1scode",
+      "slug": "d1scode",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/06/d1scode-1-DFSQkaLbOV.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 D1scode",
+      "endpointPath": "/watch/d1scode/"
+    },
+    {
+      "name": "Koakuma Kanojo The Animation",
+      "slug": "koakuma-kanojo-the-animation",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-koakuma-kanojo-the-animation.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Koakuma Kanojo The Animation",
+      "endpointPath": "/watch/koakuma-kanojo-the-animation/"
+    },
+    {
+      "name": "Shemale Im Knast",
+      "slug": "shemale-im-knast",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/11/shemale-im-knast.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Shemale Im Knast",
+      "endpointPath": "/watch/shemale-im-knast/"
+    },
+    {
+      "name": "Tokubetsu Byoutou",
+      "slug": "tokubetsu-byoutou",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/07/Tokubetsu-Byoutou-Episode-1.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Tokubetsu Byoutou",
+      "endpointPath": "/watch/tokubetsu-byoutou/"
+    },
+    {
+      "name": "Plug Suit Rei! Sexual Interpolation",
+      "slug": "plug-suit-rei-sexual-interpolation",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-plug-suit-rei-sexual-interpolation.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Plug Suit Rei! Sexual Interpolation",
+      "endpointPath": "/watch/plug-suit-rei-sexual-interpolation/"
+    },
+    {
+      "name": "J-girl.fight 3",
+      "slug": "j-girl-fight-3",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-j-girl-fight-3.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 J-girl.fight 3",
+      "endpointPath": "/watch/j-girl-fight-3/"
+    },
+    {
+      "name": "Insidious Boss Colossal Tits Reincarnation!",
+      "slug": "insidious-boss-colossal-tits-reincarnation",
+      "cover": "https://hentaisea.com/wp-content/uploads/2023/04/Insidious-Boss-Colossal-Tits-Reincarnation.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Insidious Boss Colossal Tits Reincarnation!",
+      "endpointPath": "/watch/insidious-boss-colossal-tits-reincarnation/"
+    },
+    {
+      "name": "Isekai TS Tensei no Cheat! Ordering",
+      "slug": "isekai-ts-tensei-no-cheat-ordering",
+      "cover": "https://hentaisea.com/wp-content/uploads/2023/03/Isekai-TS-Tensei-no-Cheat-Ordering-quests-is-tough-because-there-are-so-many-ecchi-things-to-do-Episode-1.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Isekai TS Tensei no Cheat! Ordering",
+      "endpointPath": "/watch/isekai-ts-tensei-no-cheat-ordering/"
+    },
+    {
+      "name": "Horny Samus - Metroid",
+      "slug": "horny-samus-metroid",
+      "cover": "https://hentaisea.com/wp-content/uploads/2021/11/Metroid_Horny_Samus_02.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Horny Samus - Metroid",
+      "endpointPath": "/watch/horny-samus-metroid/"
+    },
+    {
+      "name": "Sailor Uniform Idol Disgrace Animation - Erotikka\u2019s Degrading Choker",
+      "slug": "sailor-uniform-idol-disgrace-animation-erotikka-s-degrading-choker",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-sailor-uniform-idol-disgrace-animation-erotikka-s-degrading-choker.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Sailor Uniform Idol Disgrace Animation - Erotikka\u2019s Degrading Choker",
+      "endpointPath": "/watch/sailor-uniform-idol-disgrace-animation-erotikka-s-degrading-choker/"
+    },
+    {
+      "name": "Try Girls",
+      "slug": "try-girls",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-try-girls.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Try Girls",
+      "endpointPath": "/watch/try-girls/"
+    },
+    {
+      "name": "Ciri of Witcher - Skyrim",
+      "slug": "ciri-of-witcher-skyrim",
+      "cover": "https://hentaisea.com/wp-content/uploads/2021/09/Skyrim_Ciri_Witcher_03-1.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Ciri of Witcher - Skyrim",
+      "endpointPath": "/watch/ciri-of-witcher-skyrim/"
+    },
+    {
+      "name": "Together With Rem",
+      "slug": "together-with-rem",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-together-with-rem.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Together With Rem",
+      "endpointPath": "/watch/together-with-rem/"
+    },
+    {
+      "name": "Soviet Seduction",
+      "slug": "soviet-seduction",
+      "cover": "https://hentaisea.com/wp-content/uploads/2022/07/Soviet-Seduction.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Soviet Seduction",
+      "endpointPath": "/watch/soviet-seduction/"
+    },
+    {
+      "name": "Jigoku Ruupu 3d",
+      "slug": "jigoku-ruupu-3d",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-jigoku-ruupu-3d.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Jigoku Ruupu 3d",
+      "endpointPath": "/watch/jigoku-ruupu-3d/"
+    },
+    {
+      "name": "Hatsukoi",
+      "slug": "hatsukoi",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/06/hatsukoi-1.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Hatsukoi",
+      "endpointPath": "/watch/hatsukoi/"
+    },
+    {
+      "name": "Succubus Again",
+      "slug": "succubus-again",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-succubus-again.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Succubus Again",
+      "endpointPath": "/watch/succubus-again/"
+    },
+    {
+      "name": "Septem Charm Magical Kanan",
+      "slug": "septem-charm-magical-kanan",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/06/septem-charm-magical-kanan.png",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Septem Charm Magical Kanan",
+      "endpointPath": "/watch/septem-charm-magical-kanan/"
+    },
+    {
+      "name": "El",
+      "slug": "el",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-el.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 El",
+      "endpointPath": "/watch/el/"
+    },
+    {
+      "name": "The Cumdumpification of an Internet Goddess",
+      "slug": "the-cumdumpification-of-an-internet-goddess",
+      "cover": "https://hentaisea.com/wp-content/uploads/2023/03/The-Cumdumpification-of-an-Internet-Goddess.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 The Cumdumpification of an Internet Goddess",
+      "endpointPath": "/watch/the-cumdumpification-of-an-internet-goddess/"
+    },
+    {
+      "name": "Asuna Karin Service",
+      "slug": "asuna-karin-service",
+      "cover": "https://hentaisea.com/wp-content/uploads/2023/10/Asuna-Karin-Service-scaled.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Asuna Karin Service",
+      "endpointPath": "/watch/asuna-karin-service/"
+    },
+    {
+      "name": "One X Boku",
+      "slug": "one-x-boku",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-one-x-boku.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 One X Boku",
+      "endpointPath": "/watch/one-x-boku/"
+    },
+    {
+      "name": "Natsuno Himegoto 3d",
+      "slug": "natsuno-himegoto-3d",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-natsuno-himegoto-3d.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Natsuno Himegoto 3d",
+      "endpointPath": "/watch/natsuno-himegoto-3d/"
+    },
+    {
+      "name": "The Fantastic Whore",
+      "slug": "the-fantastic-whore",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/10/the-fantastic-whore.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 The Fantastic Whore",
+      "endpointPath": "/watch/the-fantastic-whore/"
+    },
+    {
+      "name": "Kanojo to Ikenai Kankei",
+      "slug": "kanojo-to-ikenai-kankei",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/12/kanojo-to-ikenai-kankei.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Kanojo to Ikenai Kankei",
+      "endpointPath": "/watch/kanojo-to-ikenai-kankei/"
+    },
+    {
+      "name": "Honpen",
+      "slug": "honpen",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/12/honpen.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Honpen",
+      "endpointPath": "/watch/honpen/"
+    },
+    {
+      "name": "Beware Of Darkness",
+      "slug": "beware-of-darkness",
+      "cover": "https://hentaisea.com/wp-content/uploads/2021/01/beware-of-darkness.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Beware Of Darkness",
+      "endpointPath": "/watch/beware-of-darkness/"
+    },
+    {
+      "name": "Sex I Lucia",
+      "slug": "sex-i-lucia",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/11/sex-i-lucia.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Sex I Lucia",
+      "endpointPath": "/watch/sex-i-lucia/"
+    },
+    {
+      "name": "Ada K9 - Resident Evil",
+      "slug": "ada-k9-resident-evil",
+      "cover": "https://hentaisea.com/wp-content/uploads/2021/09/RE_k9_01.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Ada K9 - Resident Evil",
+      "endpointPath": "/watch/ada-k9-resident-evil/"
+    },
+    {
+      "name": "Tsun Dere Punyu Puri Ex",
+      "slug": "tsun-dere-punyu-puri-ex",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/10/tsun-dere-punyu-puri-ex.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Tsun Dere Punyu Puri Ex",
+      "endpointPath": "/watch/tsun-dere-punyu-puri-ex/"
+    },
+    {
+      "name": "Super Girl vs Wonder Woman",
+      "slug": "super-girl-vs-wonder-woman",
+      "cover": "https://hentaisea.com/wp-content/uploads/2021/09/SH_Girl_vs_Goddess_06.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Super Girl vs Wonder Woman",
+      "endpointPath": "/watch/super-girl-vs-wonder-woman/"
+    },
+    {
+      "name": "Serf Market",
+      "slug": "serf-market",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/05/ewrgverw.png",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Serf Market",
+      "endpointPath": "/watch/serf-market/"
+    },
+    {
+      "name": "Discode: Ijou Seiai",
+      "slug": "discode-ijou-seiai",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-discode-ijou-seiai.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Discode: Ijou Seiai",
+      "endpointPath": "/watch/discode-ijou-seiai/"
+    },
+    {
+      "name": "Women at Work",
+      "slug": "women-at-work",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/06/women-at-work-1-ElnMC.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Women at Work",
+      "endpointPath": "/watch/women-at-work/"
+    },
+    {
+      "name": "Hypnolove",
+      "slug": "hypnolove",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-hypnolove.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Hypnolove",
+      "endpointPath": "/watch/hypnolove/"
+    },
+    {
+      "name": "Maple Colors",
+      "slug": "maple-colors",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/08/maple-colors-ep-1.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Maple Colors",
+      "endpointPath": "/watch/maple-colors/"
+    },
+    {
+      "name": "The Invisible Stud Returns",
+      "slug": "the-invisible-stud-returns",
+      "cover": "https://hentaigasm.tv/wp-content/uploads/2018/11/the-invisible-stud-returns-1.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 The Invisible Stud Returns",
+      "endpointPath": "/watch/the-invisible-stud-returns/"
+    },
+    {
+      "name": "Toushin Toshi 2",
+      "slug": "toushin-toshi-2",
+      "cover": "https://cdn.myanimelist.net/images/anime/1142/96468.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Toushin Toshi 2",
+      "endpointPath": "/watch/toushin-toshi-2/"
+    },
+    {
+      "name": "Kunoichi 2 Fall of the Shrinemaiden",
+      "slug": "kunoichi-2-fall-of-the-shrinemaiden",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/05/sdfgsd.png",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Kunoichi 2 Fall of the Shrinemaiden",
+      "endpointPath": "/watch/kunoichi-2-fall-of-the-shrinemaiden/"
+    },
+    {
+      "name": "Choujin Densetsu Urotsukidouji",
+      "slug": "choujin-densetsu-urotsukidouji",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/06/choujin-densetsu-urotsukidouji.png",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Choujin Densetsu Urotsukidouji",
+      "endpointPath": "/watch/choujin-densetsu-urotsukidouji/"
+    },
+    {
+      "name": "If Valiant Sin Fay 3d",
+      "slug": "if-valiant-sin-fay-3d",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-if-valiant-sin-fay-3d.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 If Valiant Sin Fay 3d",
+      "endpointPath": "/watch/if-valiant-sin-fay-3d/"
+    },
+    {
+      "name": "Nami no Naminami Naranai Monogatari Pirate Assault",
+      "slug": "nami-no-naminami-naranai-monogatari-pirate-assault",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-nami-no-naminami-naranai-monogatari-pirate-assault.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Nami no Naminami Naranai Monogatari Pirate Assault",
+      "endpointPath": "/watch/nami-no-naminami-naranai-monogatari-pirate-assault/"
+    },
+    {
+      "name": "Purinsesupurizun",
+      "slug": "purinsesupurizun",
+      "cover": "https://hentaisea.com/wp-content/uploads/2021/02/303.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Purinsesupurizun",
+      "endpointPath": "/watch/purinsesupurizun/"
+    },
+    {
+      "name": "Redchips",
+      "slug": "redchips",
+      "cover": "https://hentaisea.com/wp-content/uploads/2021/02/89.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Redchips",
+      "endpointPath": "/watch/redchips/"
+    },
+    {
+      "name": "Mahou Shoujo Noble Rose The Animation",
+      "slug": "mahou-shoujo-noble-rose-the-animation",
+      "cover": "https://hentaisea.com/wp-content/uploads/2023/12/Mahou-Shoujo-Noble-Rose-The-Animation.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Mahou Shoujo Noble Rose The Animation",
+      "endpointPath": "/watch/mahou-shoujo-noble-rose-the-animation/"
+    },
+    {
+      "name": "Tsukiakari no Raspberry Tsun Dere 2",
+      "slug": "tsukiakari-no-raspberry-tsun-dere-2",
+      "cover": "https://hentaisea.com/wp-content/uploads/2021/01/121.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Tsukiakari no Raspberry Tsun Dere 2",
+      "endpointPath": "/watch/tsukiakari-no-raspberry-tsun-dere-2/"
+    },
+    {
+      "name": "In No Houteishiki",
+      "slug": "in-no-houteishiki",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-in-no-houteishiki.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 In No Houteishiki",
+      "endpointPath": "/watch/in-no-houteishiki/"
+    },
+    {
+      "name": "Beat Angel Escalayer",
+      "slug": "beat-angel-escalayer",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-beat-angel-escalayer.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Beat Angel Escalayer",
+      "endpointPath": "/watch/beat-angel-escalayer/"
+    },
+    {
+      "name": "Kemonofuckers The Animation",
+      "slug": "kemonofuckers-the-animation",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-kemonofuckers-the-animation.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Kemonofuckers The Animation",
+      "endpointPath": "/watch/kemonofuckers-the-animation/"
+    },
+    {
+      "name": "Sweet Bunny Futanari",
+      "slug": "sweet-bunny-futanari",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-sweet-bunny-futanari.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Sweet Bunny Futanari",
+      "endpointPath": "/watch/sweet-bunny-futanari/"
+    },
+    {
+      "name": "Punyu Puri",
+      "slug": "punyu-puri",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/11/punyu-puri.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Punyu Puri",
+      "endpointPath": "/watch/punyu-puri/"
+    },
+    {
+      "name": "Milky Girls",
+      "slug": "milky-girls",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/11/milky-girls.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Milky Girls",
+      "endpointPath": "/watch/milky-girls/"
+    },
+    {
+      "name": "Dancing F - Sefiria Da - Destiny Of Dice Battle",
+      "slug": "dancing-f-sefiria-da-destiny-of-dice-battle",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-dancing-f-sefiria-da-destiny-of-dice-battle.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Dancing F - Sefiria Da - Destiny Of Dice Battle",
+      "endpointPath": "/watch/dancing-f-sefiria-da-destiny-of-dice-battle/"
+    },
+    {
+      "name": "O-yugi! (back Play)",
+      "slug": "o-yugi-back-play",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-o-yugi-back-play.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 O-yugi! (back Play)",
+      "endpointPath": "/watch/o-yugi-back-play/"
+    },
+    {
+      "name": "Toho Moso Tensoku",
+      "slug": "toho-moso-tensoku",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-toho-moso-tensoku.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Toho Moso Tensoku",
+      "endpointPath": "/watch/toho-moso-tensoku/"
+    },
+    {
+      "name": "Notes From The 104th ~ Mikasa Edition",
+      "slug": "notes-from-the-104th-mikasa-edition",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-notes-from-the-104th-mikasa-edition.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Notes From The 104th ~ Mikasa Edition",
+      "endpointPath": "/watch/notes-from-the-104th-mikasa-edition/"
+    },
+    {
+      "name": "WCS Slut activity CAFE",
+      "slug": "wcs-slut-activity-cafe",
+      "cover": "https://hentaisea.com/wp-content/uploads/2022/06/WCS-Slut-activity-CAFE-.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 WCS Slut activity CAFE",
+      "endpointPath": "/watch/wcs-slut-activity-cafe/"
+    },
+    {
+      "name": "Pirate Girl Adventure",
+      "slug": "pirate-girl-adventure",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-pirate-girl-adventure.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Pirate Girl Adventure",
+      "endpointPath": "/watch/pirate-girl-adventure/"
+    },
+    {
+      "name": "Bukkake On Azu-nyan!! ( No Audio )",
+      "slug": "bukkake-on-azu-nyan-no-audio",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-bukkake-on-azu-nyan-no-audio.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Bukkake On Azu-nyan!! ( No Audio )",
+      "endpointPath": "/watch/bukkake-on-azu-nyan-no-audio/"
+    },
+    {
+      "name": "Endless Serenade",
+      "slug": "endless-serenade-hd",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/09/endless-serenade.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Endless Serenade",
+      "endpointPath": "/watch/endless-serenade-hd/"
+    },
+    {
+      "name": "Kanojo wa Hanayome Kouhosei",
+      "slug": "kanojo-wa-hanayome-kouhosei",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/06/kanojo-wa-hanayome-kouhosei-1-rjCfs.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Kanojo wa Hanayome Kouhosei",
+      "endpointPath": "/watch/kanojo-wa-hanayome-kouhosei/"
+    },
+    {
+      "name": "The Post Fuck Eccentricity of Haruhi Sizumiya",
+      "slug": "the-post-fuck-eccentricity-of-haruhi-sizumiya",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/10/the-post-fuck-eccentricity-of-haruhi-sizumiya.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 The Post Fuck Eccentricity of Haruhi Sizumiya",
+      "endpointPath": "/watch/the-post-fuck-eccentricity-of-haruhi-sizumiya/"
+    },
+    {
+      "name": "Yari-Sugi Okasan",
+      "slug": "yari-sugi-okasan",
+      "cover": "https://hentaisea.com/wp-content/uploads/2021/06/Yari-sugi_Okasan_01.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Yari-Sugi Okasan",
+      "endpointPath": "/watch/yari-sugi-okasan/"
+    },
+    {
+      "name": "Shunka Shuutou",
+      "slug": "shunka-shuutou",
+      "cover": "https://hentaisea.com/wp-content/uploads/2024/05/Shunka-Shuutou-Episode-1.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Shunka Shuutou",
+      "endpointPath": "/watch/shunka-shuutou/"
+    },
+    {
+      "name": "Eroi 3d",
+      "slug": "eroi-3d",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-eroi-3d.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Eroi 3d",
+      "endpointPath": "/watch/eroi-3d/"
+    },
+    {
+      "name": "SISTERS - The Last Day of Summer - Haruka",
+      "slug": "sisters-the-last-day-of-summer-haruka",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/07/SISTERS-The-Last-Day-of-Summer-Haruka-Episode-1.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 SISTERS - The Last Day of Summer - Haruka",
+      "endpointPath": "/watch/sisters-the-last-day-of-summer-haruka/"
+    },
+    {
+      "name": "Shokuzai no Kyoushitsu",
+      "slug": "shokuzai-no-kyoushitsu",
+      "cover": "https://cdn.myanimelist.net/images/anime/6/7185.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Shokuzai no Kyoushitsu",
+      "endpointPath": "/watch/shokuzai-no-kyoushitsu/"
+    },
+    {
+      "name": "Pole Dancer Christie",
+      "slug": "pole-dancer-christie",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/11/pole-dancer-christie.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Pole Dancer Christie",
+      "endpointPath": "/watch/pole-dancer-christie/"
+    },
+    {
+      "name": "Dr. Sugimotos Lecherous Treatment",
+      "slug": "dr-sugimotos-lecherous-tresatment",
+      "cover": "https://hentaisea.com/wp-content/uploads/2021/01/dr-sugimotos-lecherous-treatment.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Dr. Sugimotos Lecherous Treatment",
+      "endpointPath": "/watch/dr-sugimotos-lecherous-tresatment/"
+    },
+    {
+      "name": "Idol\u2019s Business",
+      "slug": "idol-s-business",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-idol-s-business.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Idol\u2019s Business",
+      "endpointPath": "/watch/idol-s-business/"
+    },
+    {
+      "name": "Xalas Virtual Robo Pussy",
+      "slug": "xalas-virtual-robo-pussy",
+      "cover": "https://hentaisea.com/wp-content/uploads/2021/07/1507231865_virtual-robo-pussy.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Xalas Virtual Robo Pussy",
+      "endpointPath": "/watch/xalas-virtual-robo-pussy/"
+    },
+    {
+      "name": "Mahou No Shippona",
+      "slug": "mahou-no-shippona",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/12/mahou-no-shippona-ep-1.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Mahou No Shippona",
+      "endpointPath": "/watch/mahou-no-shippona/"
+    },
+    {
+      "name": "Silicon Doll - My sex life",
+      "slug": "psilicon-doll-my-sex-life",
+      "cover": "https://hentaisea.com/wp-content/uploads/2021/02/107.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Silicon Doll - My sex life",
+      "endpointPath": "/watch/psilicon-doll-my-sex-life/"
+    },
+    {
+      "name": "ANGELITA UNCENSORED",
+      "slug": "angelita-uncensored",
+      "cover": "https://hentaisea.com/wp-content/uploads/2022/07/ANGELITA-UNCENSORED.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 ANGELITA UNCENSORED",
+      "endpointPath": "/watch/angelita-uncensored/"
+    },
+    {
+      "name": "Chika And Cheer",
+      "slug": "chika-and-cheer",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-chika-and-cheer.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Chika And Cheer",
+      "endpointPath": "/watch/chika-and-cheer/"
+    },
+    {
+      "name": "Panam Palber VIP Party CYBERPUNK 2077",
+      "slug": "panam-palber-vip-party-cyberpunk-2077",
+      "cover": "https://hentaisea.com/wp-content/uploads/2025/01/Panam-Palber-VIP-Party-CYBERPUNK-2077-1.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Panam Palber VIP Party CYBERPUNK 2077",
+      "endpointPath": "/watch/panam-palber-vip-party-cyberpunk-2077/"
+    },
+    {
+      "name": "Big Breasted S Well Hung B",
+      "slug": "big-breasted-s-well-hung-b",
+      "cover": "https://hentaisea.com/wp-content/uploads/2021/01/big-breasted-s-well-hung-b.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Big Breasted S Well Hung B",
+      "endpointPath": "/watch/big-breasted-s-well-hung-b/"
+    },
+    {
+      "name": "Anecos S",
+      "slug": "anecos-s",
+      "cover": "https://hentaisea.com/wp-content/uploads/2021/01/anecos-s.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Anecos S",
+      "endpointPath": "/watch/anecos-s/"
+    },
+    {
+      "name": "Angelium",
+      "slug": "angelium",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-angelium.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Angelium",
+      "endpointPath": "/watch/angelium/"
+    },
+    {
+      "name": "Cyberpunk ft Detroit become human",
+      "slug": "cyberpunk-ft-detroit-become-human",
+      "cover": "https://hentaisea.com/wp-content/uploads/2023/10/Cyberpunk-ft-Detroit-become-human.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Cyberpunk ft Detroit become human",
+      "endpointPath": "/watch/cyberpunk-ft-detroit-become-human/"
+    },
+    {
+      "name": "Hitozuma Kasumi-san",
+      "slug": "hitozuma-kasumi-san",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-hitozuma-kasumi-san.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Hitozuma Kasumi-san",
+      "endpointPath": "/watch/hitozuma-kasumi-san/"
+    },
+    {
+      "name": "Ingrid 7 days keeping a diary",
+      "slug": "ingrid-7-days-keeping-a-diary",
+      "cover": "https://hentaisea.com/wp-content/uploads/2024/12/Ingrid-7-days-keeping-a-diary-1.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Ingrid 7 days keeping a diary",
+      "endpointPath": "/watch/ingrid-7-days-keeping-a-diary/"
+    },
+    {
+      "name": "Girlfriends",
+      "slug": "girlfriends",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/12/girlfriends.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Girlfriends",
+      "endpointPath": "/watch/girlfriends/"
+    },
+    {
+      "name": "Amanee",
+      "slug": "amanee",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-amanee.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Amanee",
+      "endpointPath": "/watch/amanee/"
+    },
+    {
+      "name": "Angel Of Darkness",
+      "slug": "angel-of-darkness",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-angel-of-darkness.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Angel Of Darkness",
+      "endpointPath": "/watch/angel-of-darkness/"
+    },
+    {
+      "name": "Etsuraku no Tane The Animation",
+      "slug": "etsuraku-no-tane-the-animation",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-etsuraku-no-tane-the-animation.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Etsuraku no Tane The Animation",
+      "endpointPath": "/watch/etsuraku-no-tane-the-animation/"
+    },
+    {
+      "name": "Omae No Mono Wa Ore No Mono 2",
+      "slug": "omae-no-mono-wa-ore-no-mono-2",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-omae-no-mono-wa-ore-no-mono-2.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Omae No Mono Wa Ore No Mono 2",
+      "endpointPath": "/watch/omae-no-mono-wa-ore-no-mono-2/"
+    },
+    {
+      "name": "Residence Of Obscene Art",
+      "slug": "residence-of-obscene-art",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/06/residence-of-obscene-art.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Residence Of Obscene Art",
+      "endpointPath": "/watch/residence-of-obscene-art/"
+    },
+    {
+      "name": "A Heat For All Seasons",
+      "slug": "a-heat-for-all-seasons",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-a-heat-for-all-seasons.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 A Heat For All Seasons",
+      "endpointPath": "/watch/a-heat-for-all-seasons/"
+    },
+    {
+      "name": "Dancing F Dolls",
+      "slug": "dancing-f-dolls",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-dancing-f-dolls.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Dancing F Dolls",
+      "endpointPath": "/watch/dancing-f-dolls/"
+    },
+    {
+      "name": "Kuraibito",
+      "slug": "kuraibito",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-kuraibito.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Kuraibito",
+      "endpointPath": "/watch/kuraibito/"
+    },
+    {
+      "name": "Party Night",
+      "slug": "party-night",
+      "cover": "https://hentaisea.com/wp-content/uploads/2024/02/Party-Night.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Party Night",
+      "endpointPath": "/watch/party-night/"
+    },
+    {
+      "name": "Bible Black New Testament",
+      "slug": "bible-black-new-testament",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-bible-black-new-testament.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Bible Black New Testament",
+      "endpointPath": "/watch/bible-black-new-testament/"
+    },
+    {
+      "name": "A Futanari Fantasy Sexual Unity Of Two",
+      "slug": "a-futanari-fantasy-sexual-unity-of-two",
+      "cover": "https://hentaisea.com/wp-content/uploads/2021/01/a-futanari-fantasy-sexual-unity-of-two.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 A Futanari Fantasy Sexual Unity Of Two",
+      "endpointPath": "/watch/a-futanari-fantasy-sexual-unity-of-two/"
+    },
+    {
+      "name": "Futari no Aniyome",
+      "slug": "futari-no-aniyome",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-futari-no-aniyome.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Futari no Aniyome",
+      "endpointPath": "/watch/futari-no-aniyome/"
+    },
+    {
+      "name": "Horny In The Morning",
+      "slug": "horny-in-the-morning",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/12/horny-in-the-morning.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Horny In The Morning",
+      "endpointPath": "/watch/horny-in-the-morning/"
+    },
+    {
+      "name": "The Jarl Of Sky Haven",
+      "slug": "the-jarl-of-sky-haven",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/10/the-jarl-of-sky-haven.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 The Jarl Of Sky Haven",
+      "endpointPath": "/watch/the-jarl-of-sky-haven/"
+    },
+    {
+      "name": "Weather Report Girl",
+      "slug": "weather-report-girl",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/08/weather-report-girl-ep-1.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Weather Report Girl",
+      "endpointPath": "/watch/weather-report-girl/"
+    },
+    {
+      "name": "A Certain Molestific Mikoto - Express Assault",
+      "slug": "a-certain-molestific-mikoto-express-assault",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-a-certain-molestific-mikoto-express-assault.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 A Certain Molestific Mikoto - Express Assault",
+      "endpointPath": "/watch/a-certain-molestific-mikoto-express-assault/"
+    },
+    {
+      "name": "Asukana! - You Better Invite Me Tomorrow!",
+      "slug": "asukana-you-better-invite-me-tomorrow",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-asukana-you-better-invite-me-tomorrow.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Asukana! - You Better Invite Me Tomorrow!",
+      "endpointPath": "/watch/asukana-you-better-invite-me-tomorrow/"
+    },
+    {
+      "name": "Iv - Sakura -",
+      "slug": "iv-sakura",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-iv-sakura.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Iv - Sakura -",
+      "endpointPath": "/watch/iv-sakura/"
+    },
+    {
+      "name": "Dejavu - Silent Hill",
+      "slug": "dejavu-silent-hill",
+      "cover": "https://hentaisea.com/wp-content/uploads/2021/09/Silent_Hill_Dejavu_03.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Dejavu - Silent Hill",
+      "endpointPath": "/watch/dejavu-silent-hill/"
+    },
+    {
+      "name": "Love Love Fighter Tifa",
+      "slug": "love-love-fighter-tifa",
+      "cover": "https://hentaisea.com/wp-content/uploads/2022/01/Tifa_animation_02.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Love Love Fighter Tifa",
+      "endpointPath": "/watch/love-love-fighter-tifa/"
+    },
+    {
+      "name": "Custom Serf",
+      "slug": "custom-serf",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/09/th.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Custom Serf",
+      "endpointPath": "/watch/custom-serf/"
+    },
+    {
+      "name": "Nanako no Atsuatsu Kushikatsuya San",
+      "slug": "nanako-no-atsuatsu-kushikatsuya-san",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/11/nanako-no-atsuatsu-kushikatsuya-san.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Nanako no Atsuatsu Kushikatsuya San",
+      "endpointPath": "/watch/nanako-no-atsuatsu-kushikatsuya-san/"
+    },
+    {
+      "name": "School Shame! Wet Slathered Schoolgirls (motion Comic Version)",
+      "slug": "school-shame-wet-slathered-schoolgirls-motion-comic-version",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-school-shame-wet-slathered-schoolgirls-motion-comic-version.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 School Shame! Wet Slathered Schoolgirls (motion Comic Version)",
+      "endpointPath": "/watch/school-shame-wet-slathered-schoolgirls-motion-comic-version/"
+    },
+    {
+      "name": "Sex ga Suki de Suki de Daisuki",
+      "slug": "sex-ga-suki-de-suki-de-daisuki",
+      "cover": "https://hentaisea.com/wp-content/uploads/2024/11/Sex-ga-Suki-de-Suki-de-Daisuki-1.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Sex ga Suki de Suki de Daisuki",
+      "endpointPath": "/watch/sex-ga-suki-de-suki-de-daisuki/"
+    },
+    {
+      "name": "Bondage Games",
+      "slug": "bondage-games",
+      "cover": "https://hentaisea.com/wp-content/uploads/2020/09/bondage-games-vol-1.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Bondage Games",
+      "endpointPath": "/watch/bondage-games/"
+    },
+    {
+      "name": "Futabu!",
+      "slug": "futabu-2",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-futabu.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Futabu!",
+      "endpointPath": "/watch/futabu-2/"
+    },
+    {
+      "name": "Senran Kagura Sex Training",
+      "slug": "senran-kagura-sex-training",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-senran-kagura-sex-training.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Senran Kagura Sex Training",
+      "endpointPath": "/watch/senran-kagura-sex-training/"
+    },
+    {
+      "name": "Otome wa Boku ni Koishiteru Trinkle Stars The Animation 2022",
+      "slug": "otome-wa-boku-ni-koishiteru-trinkle-stars-the-animation-2022",
+      "cover": "https://hentaisea.com/wp-content/uploads/2022/06/Otome-wa-Boku-ni-Koishiteru-Trinkle-Stars-The-Animation-2022.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Otome wa Boku ni Koishiteru Trinkle Stars The Animation 2022",
+      "endpointPath": "/watch/otome-wa-boku-ni-koishiteru-trinkle-stars-the-animation-2022/"
+    },
+    {
+      "name": "Classmate No Okaasan",
+      "slug": "classmate-no-okaasan",
+      "cover": "https://hentaisea.com/wp-content/uploads/images/poster-classmate-no-okaasan.jpg",
+      "count": 2,
+      "description": "Complete serialized collection \u2022 Classmate No Okaasan",
+      "endpointPath": "/watch/classmate-no-okaasan/"
+    }
+  ],
+  "covers": {
+    "secret-of-beauty-stone-lady": "https://hentaisea.com/wp-content/uploads/2022/05/secret-of-beauty-affect3d-stone-lady-cover.jpg",
+    "campaign-girl-attack-8211-what-8217-s-wrong-to-be-naked": "https://hentaisea.com/wp-content/uploads/images/poster-campaign-girl-attack-8211-what-8217-s-wrong-to-be-naked.jpg",
+    "inran-na-hebihime": "https://hentaisea.com/wp-content/uploads/2020/12/inran-na-hebihime.jpg",
+    "femdom-vixens": "https://hentaisea.com/wp-content/uploads/2020/12/femdom-vixens.jpg",
+    "shinkon-kozukuri-life-with-lovey-dove-elf": "https://hentaisea.com/wp-content/uploads/images/poster-shinkon-kozukuri-life-with-lovey-dove-elf.jpg",
+    "rori-kei-anime-shoujo": "https://hentaisea.com/wp-content/uploads/2020/11/rori-kei-anime-shoujo.jpg",
+    "welcome-to-caffe-lascivia": "https://hentaisea.com/wp-content/uploads/2020/10/Welcome-to-Caffe-Lascivia-Episode-1.jpg",
+    "nyotengu-and-big-monster-2": "https://hentaisea.com/wp-content/uploads/2022/03/Nyotengu-Big-Monster.jpg",
+    "the-feast-of-elves-who-use-a-human-as-a-dildo": "https://hentaisea.com/wp-content/uploads/images/poster-the-feast-of-elves-who-use-a-human-as-a-dildo.jpg",
+    "all-out-orgy-fuckfest": "https://hentaisea.com/wp-content/uploads/2021/01/all-out-orgy-fuckfest.jpg",
+    "ingoku-byoutou": "https://cdn.myanimelist.net/images/anime/7/10534.jpg",
+    "pia-carrot-e-youkoso": "https://hentaisea.com/wp-content/uploads/images/poster-pia-carrot-e-youkoso.jpg",
+    "hot-juicy-teacher": "https://hentaisea.com/wp-content/uploads/2020/09/hot-juicy-teacher-vol-1.jpg",
+    "the-oasis": "https://hentaisea.com/wp-content/uploads/2020/10/the-oasis.jpg",
+    "v-jack-2-evil-town": "https://hentaisea.com/wp-content/uploads/2020/08/v-jack-2-evil-town.jpg",
+    "venus-in-furs-cyberpunk-2077": "https://hentaisea.com/wp-content/uploads/2025/03/Venus-In-Furs-CYBERPUNK-2077-1.jpg",
+    "ryoujoku-no-rensa": "https://cdn.myanimelist.net/images/manga/3/40934.jpg",
+    "yurino-yuritaru-yururi-yuri-kea": "https://hentaisea.com/wp-content/uploads/2021/01/178.jpg",
+    "taimanin-asagi-2": "https://hentaisea.com/wp-content/uploads/images/poster-taimanin-asagi-2.jpg",
+    "mecha-gishi-resta-no-daibouken": "https://hentaisea.com/wp-content/uploads/2024/11/Mecha-Gishi-Resta-no-Daibouken-1.jpg",
+    "little-devil-girlfriend": "https://hentaisea.com/wp-content/uploads/2020/05/little-devil-girlfriend-1-TpVtY.jpg",
+    "soukou-tenshi-burumarine-naji-soushitsu-no-haka-ryou-joku": "https://hentaisea.com/wp-content/uploads/2021/01/299.jpg",
+    "chibimon-sailor-moon": "https://hentaisea.com/wp-content/uploads/images/poster-chibimon-sailor-moon.jpg",
+    "reeal": "https://hentaisea.com/wp-content/uploads/2021/02/92.jpg",
+    "ikusa-otome-valkyrie-g": "https://hentaisea.com/wp-content/uploads/images/poster-ikusa-otome-valkyrie-g.jpg",
+    "parade-parade": "https://hentaisea.com/wp-content/uploads/2020/08/parade-parade-ep-1.jpg",
+    "ghosts-of-paradise": "https://hentaisea.com/wp-content/uploads/images/poster-ghosts-of-paradise.jpg",
+    "d1scode": "https://hentaisea.com/wp-content/uploads/2020/06/d1scode-1-DFSQkaLbOV.jpg",
+    "koakuma-kanojo-the-animation": "https://hentaisea.com/wp-content/uploads/images/poster-koakuma-kanojo-the-animation.jpg",
+    "shemale-im-knast": "https://hentaisea.com/wp-content/uploads/2020/11/shemale-im-knast.jpg",
+    "tokubetsu-byoutou": "https://hentaisea.com/wp-content/uploads/2020/07/Tokubetsu-Byoutou-Episode-1.jpg",
+    "plug-suit-rei-sexual-interpolation": "https://hentaisea.com/wp-content/uploads/images/poster-plug-suit-rei-sexual-interpolation.jpg",
+    "j-girl-fight-3": "https://hentaisea.com/wp-content/uploads/images/poster-j-girl-fight-3.jpg",
+    "insidious-boss-colossal-tits-reincarnation": "https://hentaisea.com/wp-content/uploads/2023/04/Insidious-Boss-Colossal-Tits-Reincarnation.jpg",
+    "isekai-ts-tensei-no-cheat-ordering": "https://hentaisea.com/wp-content/uploads/2023/03/Isekai-TS-Tensei-no-Cheat-Ordering-quests-is-tough-because-there-are-so-many-ecchi-things-to-do-Episode-1.jpg",
+    "horny-samus-metroid": "https://hentaisea.com/wp-content/uploads/2021/11/Metroid_Horny_Samus_02.jpg",
+    "sailor-uniform-idol-disgrace-animation-erotikka-s-degrading-choker": "https://hentaisea.com/wp-content/uploads/images/poster-sailor-uniform-idol-disgrace-animation-erotikka-s-degrading-choker.jpg",
+    "try-girls": "https://hentaisea.com/wp-content/uploads/images/poster-try-girls.jpg",
+    "ciri-of-witcher-skyrim": "https://hentaisea.com/wp-content/uploads/2021/09/Skyrim_Ciri_Witcher_03-1.jpg",
+    "together-with-rem": "https://hentaisea.com/wp-content/uploads/images/poster-together-with-rem.jpg",
+    "soviet-seduction": "https://hentaisea.com/wp-content/uploads/2022/07/Soviet-Seduction.jpg",
+    "jigoku-ruupu-3d": "https://hentaisea.com/wp-content/uploads/images/poster-jigoku-ruupu-3d.jpg",
+    "hatsukoi": "https://hentaisea.com/wp-content/uploads/2020/06/hatsukoi-1.jpg",
+    "succubus-again": "https://hentaisea.com/wp-content/uploads/images/poster-succubus-again.jpg",
+    "septem-charm-magical-kanan": "https://hentaisea.com/wp-content/uploads/2020/06/septem-charm-magical-kanan.png",
+    "el": "https://hentaisea.com/wp-content/uploads/images/poster-el.jpg",
+    "the-cumdumpification-of-an-internet-goddess": "https://hentaisea.com/wp-content/uploads/2023/03/The-Cumdumpification-of-an-Internet-Goddess.jpg",
+    "asuna-karin-service": "https://hentaisea.com/wp-content/uploads/2023/10/Asuna-Karin-Service-scaled.jpg",
+    "one-x-boku": "https://hentaisea.com/wp-content/uploads/images/poster-one-x-boku.jpg",
+    "natsuno-himegoto-3d": "https://hentaisea.com/wp-content/uploads/images/poster-natsuno-himegoto-3d.jpg",
+    "the-fantastic-whore": "https://hentaisea.com/wp-content/uploads/2020/10/the-fantastic-whore.jpg",
+    "kanojo-to-ikenai-kankei": "https://hentaisea.com/wp-content/uploads/2020/12/kanojo-to-ikenai-kankei.jpg",
+    "honpen": "https://hentaisea.com/wp-content/uploads/2020/12/honpen.jpg",
+    "beware-of-darkness": "https://hentaisea.com/wp-content/uploads/2021/01/beware-of-darkness.jpg",
+    "sex-i-lucia": "https://hentaisea.com/wp-content/uploads/2020/11/sex-i-lucia.jpg",
+    "ada-k9-resident-evil": "https://hentaisea.com/wp-content/uploads/2021/09/RE_k9_01.jpg",
+    "tsun-dere-punyu-puri-ex": "https://hentaisea.com/wp-content/uploads/2020/10/tsun-dere-punyu-puri-ex.jpg",
+    "super-girl-vs-wonder-woman": "https://hentaisea.com/wp-content/uploads/2021/09/SH_Girl_vs_Goddess_06.jpg",
+    "serf-market": "https://hentaisea.com/wp-content/uploads/2020/05/ewrgverw.png",
+    "discode-ijou-seiai": "https://hentaisea.com/wp-content/uploads/images/poster-discode-ijou-seiai.jpg",
+    "women-at-work": "https://hentaisea.com/wp-content/uploads/2020/06/women-at-work-1-ElnMC.jpg",
+    "hypnolove": "https://hentaisea.com/wp-content/uploads/images/poster-hypnolove.jpg",
+    "maple-colors": "https://hentaisea.com/wp-content/uploads/2020/08/maple-colors-ep-1.jpg",
+    "the-invisible-stud-returns": "https://hentaigasm.tv/wp-content/uploads/2018/11/the-invisible-stud-returns-1.jpg",
+    "toushin-toshi-2": "https://cdn.myanimelist.net/images/anime/1142/96468.jpg",
+    "kunoichi-2-fall-of-the-shrinemaiden": "https://hentaisea.com/wp-content/uploads/2020/05/sdfgsd.png",
+    "choujin-densetsu-urotsukidouji": "https://hentaisea.com/wp-content/uploads/2020/06/choujin-densetsu-urotsukidouji.png",
+    "if-valiant-sin-fay-3d": "https://hentaisea.com/wp-content/uploads/images/poster-if-valiant-sin-fay-3d.jpg",
+    "nami-no-naminami-naranai-monogatari-pirate-assault": "https://hentaisea.com/wp-content/uploads/images/poster-nami-no-naminami-naranai-monogatari-pirate-assault.jpg",
+    "purinsesupurizun": "https://hentaisea.com/wp-content/uploads/2021/02/303.jpg",
+    "redchips": "https://hentaisea.com/wp-content/uploads/2021/02/89.jpg",
+    "mahou-shoujo-noble-rose-the-animation": "https://hentaisea.com/wp-content/uploads/2023/12/Mahou-Shoujo-Noble-Rose-The-Animation.jpg",
+    "tsukiakari-no-raspberry-tsun-dere-2": "https://hentaisea.com/wp-content/uploads/2021/01/121.jpg",
+    "in-no-houteishiki": "https://hentaisea.com/wp-content/uploads/images/poster-in-no-houteishiki.jpg",
+    "beat-angel-escalayer": "https://hentaisea.com/wp-content/uploads/images/poster-beat-angel-escalayer.jpg",
+    "kemonofuckers-the-animation": "https://hentaisea.com/wp-content/uploads/images/poster-kemonofuckers-the-animation.jpg",
+    "sweet-bunny-futanari": "https://hentaisea.com/wp-content/uploads/images/poster-sweet-bunny-futanari.jpg",
+    "punyu-puri": "https://hentaisea.com/wp-content/uploads/2020/11/punyu-puri.jpg",
+    "milky-girls": "https://hentaisea.com/wp-content/uploads/2020/11/milky-girls.jpg",
+    "dancing-f-sefiria-da-destiny-of-dice-battle": "https://hentaisea.com/wp-content/uploads/images/poster-dancing-f-sefiria-da-destiny-of-dice-battle.jpg",
+    "o-yugi-back-play": "https://hentaisea.com/wp-content/uploads/images/poster-o-yugi-back-play.jpg",
+    "toho-moso-tensoku": "https://hentaisea.com/wp-content/uploads/images/poster-toho-moso-tensoku.jpg",
+    "notes-from-the-104th-mikasa-edition": "https://hentaisea.com/wp-content/uploads/images/poster-notes-from-the-104th-mikasa-edition.jpg",
+    "wcs-slut-activity-cafe": "https://hentaisea.com/wp-content/uploads/2022/06/WCS-Slut-activity-CAFE-.jpg",
+    "pirate-girl-adventure": "https://hentaisea.com/wp-content/uploads/images/poster-pirate-girl-adventure.jpg",
+    "bukkake-on-azu-nyan-no-audio": "https://hentaisea.com/wp-content/uploads/images/poster-bukkake-on-azu-nyan-no-audio.jpg",
+    "endless-serenade-hd": "https://hentaisea.com/wp-content/uploads/2020/09/endless-serenade.jpg",
+    "kanojo-wa-hanayome-kouhosei": "https://hentaisea.com/wp-content/uploads/2020/06/kanojo-wa-hanayome-kouhosei-1-rjCfs.jpg",
+    "the-post-fuck-eccentricity-of-haruhi-sizumiya": "https://hentaisea.com/wp-content/uploads/2020/10/the-post-fuck-eccentricity-of-haruhi-sizumiya.jpg",
+    "yari-sugi-okasan": "https://hentaisea.com/wp-content/uploads/2021/06/Yari-sugi_Okasan_01.jpg",
+    "shunka-shuutou": "https://hentaisea.com/wp-content/uploads/2024/05/Shunka-Shuutou-Episode-1.jpg",
+    "eroi-3d": "https://hentaisea.com/wp-content/uploads/images/poster-eroi-3d.jpg",
+    "sisters-the-last-day-of-summer-haruka": "https://hentaisea.com/wp-content/uploads/2020/07/SISTERS-The-Last-Day-of-Summer-Haruka-Episode-1.jpg",
+    "shokuzai-no-kyoushitsu": "https://cdn.myanimelist.net/images/anime/6/7185.jpg",
+    "pole-dancer-christie": "https://hentaisea.com/wp-content/uploads/2020/11/pole-dancer-christie.jpg",
+    "dr-sugimotos-lecherous-tresatment": "https://hentaisea.com/wp-content/uploads/2021/01/dr-sugimotos-lecherous-treatment.jpg",
+    "idol-s-business": "https://hentaisea.com/wp-content/uploads/images/poster-idol-s-business.jpg",
+    "xalas-virtual-robo-pussy": "https://hentaisea.com/wp-content/uploads/2021/07/1507231865_virtual-robo-pussy.jpg",
+    "mahou-no-shippona": "https://hentaisea.com/wp-content/uploads/2020/12/mahou-no-shippona-ep-1.jpg",
+    "psilicon-doll-my-sex-life": "https://hentaisea.com/wp-content/uploads/2021/02/107.jpg",
+    "angelita-uncensored": "https://hentaisea.com/wp-content/uploads/2022/07/ANGELITA-UNCENSORED.jpg",
+    "chika-and-cheer": "https://hentaisea.com/wp-content/uploads/images/poster-chika-and-cheer.jpg",
+    "panam-palber-vip-party-cyberpunk-2077": "https://hentaisea.com/wp-content/uploads/2025/01/Panam-Palber-VIP-Party-CYBERPUNK-2077-1.jpg",
+    "big-breasted-s-well-hung-b": "https://hentaisea.com/wp-content/uploads/2021/01/big-breasted-s-well-hung-b.jpg",
+    "anecos-s": "https://hentaisea.com/wp-content/uploads/2021/01/anecos-s.jpg",
+    "angelium": "https://hentaisea.com/wp-content/uploads/images/poster-angelium.jpg",
+    "cyberpunk-ft-detroit-become-human": "https://hentaisea.com/wp-content/uploads/2023/10/Cyberpunk-ft-Detroit-become-human.jpg",
+    "hitozuma-kasumi-san": "https://hentaisea.com/wp-content/uploads/images/poster-hitozuma-kasumi-san.jpg",
+    "ingrid-7-days-keeping-a-diary": "https://hentaisea.com/wp-content/uploads/2024/12/Ingrid-7-days-keeping-a-diary-1.jpg",
+    "girlfriends": "https://hentaisea.com/wp-content/uploads/2020/12/girlfriends.jpg",
+    "amanee": "https://hentaisea.com/wp-content/uploads/images/poster-amanee.jpg",
+    "angel-of-darkness": "https://hentaisea.com/wp-content/uploads/images/poster-angel-of-darkness.jpg",
+    "etsuraku-no-tane-the-animation": "https://hentaisea.com/wp-content/uploads/images/poster-etsuraku-no-tane-the-animation.jpg",
+    "omae-no-mono-wa-ore-no-mono-2": "https://hentaisea.com/wp-content/uploads/images/poster-omae-no-mono-wa-ore-no-mono-2.jpg",
+    "residence-of-obscene-art": "https://hentaisea.com/wp-content/uploads/2020/06/residence-of-obscene-art.jpg",
+    "a-heat-for-all-seasons": "https://hentaisea.com/wp-content/uploads/images/poster-a-heat-for-all-seasons.jpg",
+    "dancing-f-dolls": "https://hentaisea.com/wp-content/uploads/images/poster-dancing-f-dolls.jpg",
+    "kuraibito": "https://hentaisea.com/wp-content/uploads/images/poster-kuraibito.jpg",
+    "party-night": "https://hentaisea.com/wp-content/uploads/2024/02/Party-Night.jpg",
+    "bible-black-new-testament": "https://hentaisea.com/wp-content/uploads/images/poster-bible-black-new-testament.jpg",
+    "a-futanari-fantasy-sexual-unity-of-two": "https://hentaisea.com/wp-content/uploads/2021/01/a-futanari-fantasy-sexual-unity-of-two.jpg",
+    "futari-no-aniyome": "https://hentaisea.com/wp-content/uploads/images/poster-futari-no-aniyome.jpg",
+    "horny-in-the-morning": "https://hentaisea.com/wp-content/uploads/2020/12/horny-in-the-morning.jpg",
+    "the-jarl-of-sky-haven": "https://hentaisea.com/wp-content/uploads/2020/10/the-jarl-of-sky-haven.jpg",
+    "weather-report-girl": "https://hentaisea.com/wp-content/uploads/2020/08/weather-report-girl-ep-1.jpg",
+    "a-certain-molestific-mikoto-express-assault": "https://hentaisea.com/wp-content/uploads/images/poster-a-certain-molestific-mikoto-express-assault.jpg",
+    "asukana-you-better-invite-me-tomorrow": "https://hentaisea.com/wp-content/uploads/images/poster-asukana-you-better-invite-me-tomorrow.jpg",
+    "iv-sakura": "https://hentaisea.com/wp-content/uploads/images/poster-iv-sakura.jpg",
+    "dejavu-silent-hill": "https://hentaisea.com/wp-content/uploads/2021/09/Silent_Hill_Dejavu_03.jpg",
+    "love-love-fighter-tifa": "https://hentaisea.com/wp-content/uploads/2022/01/Tifa_animation_02.jpg",
+    "custom-serf": "https://hentaisea.com/wp-content/uploads/2020/09/th.jpg",
+    "nanako-no-atsuatsu-kushikatsuya-san": "https://hentaisea.com/wp-content/uploads/2020/11/nanako-no-atsuatsu-kushikatsuya-san.jpg",
+    "school-shame-wet-slathered-schoolgirls-motion-comic-version": "https://hentaisea.com/wp-content/uploads/images/poster-school-shame-wet-slathered-schoolgirls-motion-comic-version.jpg",
+    "sex-ga-suki-de-suki-de-daisuki": "https://hentaisea.com/wp-content/uploads/2024/11/Sex-ga-Suki-de-Suki-de-Daisuki-1.jpg",
+    "bondage-games": "https://hentaisea.com/wp-content/uploads/2020/09/bondage-games-vol-1.jpg",
+    "futabu-2": "https://hentaisea.com/wp-content/uploads/images/poster-futabu.jpg",
+    "senran-kagura-sex-training": "https://hentaisea.com/wp-content/uploads/images/poster-senran-kagura-sex-training.jpg",
+    "otome-wa-boku-ni-koishiteru-trinkle-stars-the-animation-2022": "https://hentaisea.com/wp-content/uploads/2022/06/Otome-wa-Boku-ni-Koishiteru-Trinkle-Stars-The-Animation-2022.jpg",
+    "classmate-no-okaasan": "https://hentaisea.com/wp-content/uploads/images/poster-classmate-no-okaasan.jpg"
+  }
+}

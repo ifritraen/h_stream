@@ -1,0 +1,2674 @@
+{
+  "probes": {
+    "/genre": {
+      "status": 200,
+      "final_url": "https://hentaiocean.com/genre",
+      "bytes": 37613
+    },
+    "/playlists": {
+      "status": 200,
+      "final_url": "https://hentaiocean.com/",
+      "bytes": 42614
+    },
+    "/series": {
+      "status": 404,
+      "final_url": "https://hentaiocean.com/series",
+      "bytes": 3117
+    }
+  },
+  "genres": [
+    {
+      "name": "Big Boobs",
+      "slug": "Big Boobs",
+      "count": 360,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/b55c0aa4409e69b6f537f87c618eaf1618a7c2a4.webp",
+      "endpointPath": "/genre/Big Boobs"
+    },
+    {
+      "name": "Blowjob",
+      "slug": "Blowjob",
+      "count": 313,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/b55c0aa4409e69b6f537f87c618eaf1618a7c2a4.webp",
+      "endpointPath": "/genre/Blowjob"
+    },
+    {
+      "name": "Creampie",
+      "slug": "Creampie",
+      "count": 309,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/b55c0aa4409e69b6f537f87c618eaf1618a7c2a4.webp",
+      "endpointPath": "/genre/Creampie"
+    },
+    {
+      "name": "School Girl",
+      "slug": "School Girl",
+      "count": 188,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/b55c0aa4409e69b6f537f87c618eaf1618a7c2a4.webp",
+      "endpointPath": "/genre/School Girl"
+    },
+    {
+      "name": "Uncensored",
+      "slug": "Uncensored",
+      "count": 162,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/5c80a1d730f7cd6d768dbd864c3919a12e96689b.webp",
+      "endpointPath": "/genre/Uncensored"
+    },
+    {
+      "name": "Boobjob",
+      "slug": "Boobjob",
+      "count": 140,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/55ab4c45b10ce00c38cdb2724c287c01d9adedb2.webp",
+      "endpointPath": "/genre/Boobjob"
+    },
+    {
+      "name": "X-Ray",
+      "slug": "X-Ray",
+      "count": 138,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/261e3eb500539187f21f33c619c203f430facd1d.webp",
+      "endpointPath": "/genre/X-Ray"
+    },
+    {
+      "name": "Handjob",
+      "slug": "Handjob",
+      "count": 122,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/e5144fc1280390409d96a8cc2be21465a545e2f6.webp",
+      "endpointPath": "/genre/Handjob"
+    },
+    {
+      "name": "Facial",
+      "slug": "Facial",
+      "count": 114,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/02017c361b21547b8a2b3eedfcd2581dc299e112.webp",
+      "endpointPath": "/genre/Facial"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "Fantasy",
+      "count": 96,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/84a46ad51f0490220097ecb8c33bfc38a701ca30.webp",
+      "endpointPath": "/genre/Fantasy"
+    },
+    {
+      "name": "Virgin",
+      "slug": "Virgin",
+      "count": 89,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/8c5b9d7d8b173e1c31f5089de346709459c4649a.webp",
+      "endpointPath": "/genre/Virgin"
+    },
+    {
+      "name": "Harem",
+      "slug": "Harem",
+      "count": 87,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/55ab4c45b10ce00c38cdb2724c287c01d9adedb2.webp",
+      "endpointPath": "/genre/Harem"
+    },
+    {
+      "name": "Rape",
+      "slug": "Rape",
+      "count": 72,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/c84ea6522444d1a9b8d659c4975f49d379846caf.webp",
+      "endpointPath": "/genre/Rape"
+    },
+    {
+      "name": "Incest",
+      "slug": "Incest",
+      "count": 70,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/f136c1ce15bf9ad023e8951e5573056857e65f73.webp",
+      "endpointPath": "/genre/Incest"
+    },
+    {
+      "name": "Toys",
+      "slug": "Toys",
+      "count": 66,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/188b0efda99dc53b0ab95b29bc8314852bfd8b0c.webp",
+      "endpointPath": "/genre/Toys"
+    },
+    {
+      "name": "Public Sex",
+      "slug": "Public Sex",
+      "count": 62,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/6f2b7de26c87bd1ac57a31c1f5a9b8a85a9161ee.webp",
+      "endpointPath": "/genre/Public Sex"
+    },
+    {
+      "name": "Masturbation",
+      "slug": "Masturbation",
+      "count": 59,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/907cb745390f38f6ff8b2ee3d17686d349e14920.webp",
+      "endpointPath": "/genre/Masturbation"
+    },
+    {
+      "name": "Ahegao",
+      "slug": "Ahegao",
+      "count": 54,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/b55c0aa4409e69b6f537f87c618eaf1618a7c2a4.webp",
+      "endpointPath": "/genre/Ahegao"
+    },
+    {
+      "name": "Teacher",
+      "slug": "Teacher",
+      "count": 50,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/907cb745390f38f6ff8b2ee3d17686d349e14920.webp",
+      "endpointPath": "/genre/Teacher"
+    },
+    {
+      "name": "Anal",
+      "slug": "Anal",
+      "count": 49,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/9bfd72bb05d6beff5f5759a40221db52f8b537e6.webp",
+      "endpointPath": "/genre/Anal"
+    },
+    {
+      "name": "Swimsuit",
+      "slug": "Swimsuit",
+      "count": 49,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/55ab4c45b10ce00c38cdb2724c287c01d9adedb2.webp",
+      "endpointPath": "/genre/Swimsuit"
+    },
+    {
+      "name": "NTR",
+      "slug": "NTR",
+      "count": 47,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/188b0efda99dc53b0ab95b29bc8314852bfd8b0c.webp",
+      "endpointPath": "/genre/NTR"
+    },
+    {
+      "name": "Ugly Bastard",
+      "slug": "Ugly Bastard",
+      "count": 45,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/a71e9cd8371b785674e045ac958b109ade9c26ff.webp",
+      "endpointPath": "/genre/Ugly Bastard"
+    },
+    {
+      "name": "Cosplay",
+      "slug": "Cosplay",
+      "count": 43,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/55ab4c45b10ce00c38cdb2724c287c01d9adedb2.webp",
+      "endpointPath": "/genre/Cosplay"
+    },
+    {
+      "name": "Vanilla",
+      "slug": "Vanilla",
+      "count": 43,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/06b709981d508dc299f866036ed4f4f3e1f59099.webp",
+      "endpointPath": "/genre/Vanilla"
+    },
+    {
+      "name": "Milf",
+      "slug": "Milf",
+      "count": 42,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/fa7cfd65cffe20d1f6d8956358944f5147bbdd07.webp",
+      "endpointPath": "/genre/Milf"
+    },
+    {
+      "name": "Gangbang",
+      "slug": "Gangbang",
+      "count": 41,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/9bfd72bb05d6beff5f5759a40221db52f8b537e6.webp",
+      "endpointPath": "/genre/Gangbang"
+    },
+    {
+      "name": "Dark Skin",
+      "slug": "Dark Skin",
+      "count": 34,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/55ab4c45b10ce00c38cdb2724c287c01d9adedb2.webp",
+      "endpointPath": "/genre/Dark Skin"
+    },
+    {
+      "name": "Tsundere",
+      "slug": "Tsundere",
+      "count": 32,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/02017c361b21547b8a2b3eedfcd2581dc299e112.webp",
+      "endpointPath": "/genre/Tsundere"
+    },
+    {
+      "name": "Gyaru",
+      "slug": "Gyaru",
+      "count": 26,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/b55c0aa4409e69b6f537f87c618eaf1618a7c2a4.webp",
+      "endpointPath": "/genre/Gyaru"
+    },
+    {
+      "name": "Orgy",
+      "slug": "Orgy",
+      "count": 26,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/6ceb02f4bbcedd5a1bc9c40e15ad84c054d4f39f.webp",
+      "endpointPath": "/genre/Orgy"
+    },
+    {
+      "name": "Yaoi",
+      "slug": "Yaoi",
+      "count": 26,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/f0b17fc97caf3df18d6a5e1b9f9fdf4b901e3bf7.webp",
+      "endpointPath": "/genre/Yaoi"
+    },
+    {
+      "name": "Animal Ears",
+      "slug": "Animal Ears",
+      "count": 25,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/55ab4c45b10ce00c38cdb2724c287c01d9adedb2.webp",
+      "endpointPath": "/genre/Animal Ears"
+    },
+    {
+      "name": "Footjob",
+      "slug": "Footjob",
+      "count": 24,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/c81bbdf0897bd5d6ced6c1f012636aaf08b605e0.webp",
+      "endpointPath": "/genre/Footjob"
+    },
+    {
+      "name": "Lactation",
+      "slug": "Lactation",
+      "count": 22,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/02017c361b21547b8a2b3eedfcd2581dc299e112.webp",
+      "endpointPath": "/genre/Lactation"
+    },
+    {
+      "name": "Tentacles",
+      "slug": "Tentacles",
+      "count": 20,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/65af73a9d004790c0bcea0e85ac03e62b0810f5c.webp",
+      "endpointPath": "/genre/Tentacles"
+    },
+    {
+      "name": "Maid",
+      "slug": "Maid",
+      "count": 19,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/e4eea0b8cf3aaaf625909b6d18e03dc8cb289ead.webp",
+      "endpointPath": "/genre/Maid"
+    },
+    {
+      "name": "Mind Break",
+      "slug": "Mind Break",
+      "count": 18,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/3cfc11114e6866a6c79d305b7c723bb174b4de8a.webp",
+      "endpointPath": "/genre/Mind Break"
+    },
+    {
+      "name": "Nurse",
+      "slug": "Nurse",
+      "count": 18,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/9bdfc796259ca5a34b3763b425ca51e707fb4ffb.webp",
+      "endpointPath": "/genre/Nurse"
+    },
+    {
+      "name": "Yuri",
+      "slug": "Yuri",
+      "count": 14,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/6b6b69e72acd3524e3052580da8b0fbcab5b6333.webp",
+      "endpointPath": "/genre/Yuri"
+    },
+    {
+      "name": "POV",
+      "slug": "POV",
+      "count": 12,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/c1eb6a84328947abc721a9ef9d35cb8061f5a670.webp",
+      "endpointPath": "/genre/POV"
+    },
+    {
+      "name": "Rimjob",
+      "slug": "Rimjob",
+      "count": 11,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/323e5b0c0716650442ded7b08e41168a62f1f53f.webp",
+      "endpointPath": "/genre/Rimjob"
+    },
+    {
+      "name": "Softcore",
+      "slug": "Softcore",
+      "count": 11,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/659ad3a7d39a2aaa5aa818daf1228ed6439fcc7a.webp",
+      "endpointPath": "/genre/Softcore"
+    },
+    {
+      "name": "Pregnant",
+      "slug": "Pregnant",
+      "count": 10,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/c1eb6a84328947abc721a9ef9d35cb8061f5a670.webp",
+      "endpointPath": "/genre/Pregnant"
+    },
+    {
+      "name": "Shoutacon",
+      "slug": "Shoutacon",
+      "count": 9,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/5982941d89446d42f976d8ae6aebf1fe51278a20.webp",
+      "endpointPath": "/genre/Shoutacon"
+    },
+    {
+      "name": "Comedy",
+      "slug": "Comedy",
+      "count": 6,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/875c7ffbffef69786bbd56bc72bff82694093657.webp",
+      "endpointPath": "/genre/Comedy"
+    },
+    {
+      "name": "Futanari",
+      "slug": "Futanari",
+      "count": 3,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/f0049c1d1a6d1e18bd794f412881a73ad427c445.webp",
+      "endpointPath": "/genre/Futanari"
+    },
+    {
+      "name": "Scat",
+      "slug": "Scat",
+      "count": 2,
+      "thumbnail": "https://hentaiocean.com/assets/optcover/a162e5601a173aceb028a9224a5a058bb7321749.webp",
+      "endpointPath": "/genre/Scat"
+    },
+    {
+      "name": "3D",
+      "slug": "3D",
+      "count": 0,
+      "thumbnail": "",
+      "endpointPath": "/genre/3D"
+    }
+  ],
+  "playlists": [
+    {
+      "name": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani",
+      "slug": "ichigo-aika-zatsu-de-namaiki-na-imouto-to-warikirenai-ani",
+      "episodes": 12,
+      "first_episode_slug": "ichigo-aika-zatsu-de-namaiki-na-imouto-to-warikirenai-ani-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/bbb444bc44596a5e9ecd1093b2de0bc097e433d3.png",
+      "endpointPath": "/watch/ichigo-aika-zatsu-de-namaiki-na-imouto-to-warikirenai-ani-1",
+      "description": "Complete serialized collection • 12 episodes"
+    },
+    {
+      "name": "Ookii Onnanoko wa Suki desu ka?",
+      "slug": "ookii-onnanoko-wa-suki-desu-ka",
+      "episodes": 12,
+      "first_episode_slug": "ookii-onnanoko-wa-suki-desu-ka-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/202697df02b71ab8453509f51061dab7591531da.png",
+      "endpointPath": "/watch/ookii-onnanoko-wa-suki-desu-ka-1",
+      "description": "Complete serialized collection • 12 episodes"
+    },
+    {
+      "name": "Enjo Kouhai",
+      "slug": "enjo-kouhai",
+      "episodes": 10,
+      "first_episode_slug": "enjo-kouhai-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/enjo-kouhai-1.webp",
+      "endpointPath": "/watch/enjo-kouhai-1",
+      "description": "Complete serialized collection • 10 episodes"
+    },
+    {
+      "name": "Sakusei Byoutou",
+      "slug": "sakusei-byoutou",
+      "episodes": 10,
+      "first_episode_slug": "sakusei-byoutou-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/88e0077cd1e1441bcee21d241f8a1baddc867a44.jpg",
+      "endpointPath": "/watch/sakusei-byoutou-1",
+      "description": "Complete serialized collection • 10 episodes"
+    },
+    {
+      "name": "Maou Evelogia Ni Mi O Sasageyo",
+      "slug": "maou-evelogia-ni-mi-o-sasageyo",
+      "episodes": 9,
+      "first_episode_slug": "maou-evelogia-ni-mi-o-sasageyo-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/maou-evelogia-ni-mi-o-sasageyo-1.webp",
+      "endpointPath": "/watch/maou-evelogia-ni-mi-o-sasageyo-1",
+      "description": "Complete serialized collection • 9 episodes"
+    },
+    {
+      "name": "Mori No Kuma San Toumin Chuu",
+      "slug": "mori-no-kuma-san-toumin-chuu",
+      "episodes": 9,
+      "first_episode_slug": "mori-no-kuma-san-toumin-chuu-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/mori-no-kuma-san-toumin-chuu-1.webp",
+      "endpointPath": "/watch/mori-no-kuma-san-toumin-chuu-1",
+      "description": "Complete serialized collection • 9 episodes"
+    },
+    {
+      "name": "Araiya San Ore To Aitsu Ga Onnayu De",
+      "slug": "araiya-san-ore-to-aitsu-ga-onnayu-de",
+      "episodes": 8,
+      "first_episode_slug": "araiya-san-ore-to-aitsu-ga-onnayu-de-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/araiya-san-ore-to-aitsu-ga-onnayu-de-1.webp",
+      "endpointPath": "/watch/araiya-san-ore-to-aitsu-ga-onnayu-de-1",
+      "description": "Complete serialized collection • 8 episodes"
+    },
+    {
+      "name": "Arisugawa Ren tte Honto wa Onna Nanda yo ne",
+      "slug": "arisugawa-ren-tte-honto-wa-onna-nanda-yo-ne",
+      "episodes": 8,
+      "first_episode_slug": "arisugawa-ren-tte-honto-wa-onna-nanda-yo-ne-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/02240d32d92abcdd81c013144b6188ccf2d5e6d1.png",
+      "endpointPath": "/watch/arisugawa-ren-tte-honto-wa-onna-nanda-yo-ne-1",
+      "description": "Complete serialized collection • 8 episodes"
+    },
+    {
+      "name": "Deki Chau Made Kon",
+      "slug": "deki-chau-made-kon",
+      "episodes": 8,
+      "first_episode_slug": "deki-chau-made-kon-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/f58d51f0791b9269dc022c0f5ed804643a54cbb9.jpg",
+      "endpointPath": "/watch/deki-chau-made-kon-1",
+      "description": "Complete serialized collection • 8 episodes"
+    },
+    {
+      "name": "Guilty Hole",
+      "slug": "guilty-hole",
+      "episodes": 8,
+      "first_episode_slug": "guilty-hole-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/a59d37bc3b08c0af504effde545499b7beb200c7.jpg",
+      "endpointPath": "/watch/guilty-hole-1",
+      "description": "Complete serialized collection • 8 episodes"
+    },
+    {
+      "name": "Jitaku Keibiin 2 Episode",
+      "slug": "jitaku-keibiin-2-episode",
+      "episodes": 8,
+      "first_episode_slug": "jitaku-keibiin-2-episode-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/jitaku-keibiin-2-episode-1.webp",
+      "endpointPath": "/watch/jitaku-keibiin-2-episode-1",
+      "description": "Complete serialized collection • 8 episodes"
+    },
+    {
+      "name": "Kuro Gal Ni Natta Kara Shinyuu To Shite Mita",
+      "slug": "kuro-gal-ni-natta-kara-shinyuu-to-shite-mita",
+      "episodes": 8,
+      "first_episode_slug": "kuro-gal-ni-natta-kara-shinyuu-to-shite-mita-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/kuro-gal-ni-natta-kara-shinyuu-to-shite-mita-1.webp",
+      "endpointPath": "/watch/kuro-gal-ni-natta-kara-shinyuu-to-shite-mita-1",
+      "description": "Complete serialized collection • 8 episodes"
+    },
+    {
+      "name": "Modaete Yo Adam Kun",
+      "slug": "modaete-yo-adam-kun",
+      "episodes": 8,
+      "first_episode_slug": "modaete-yo-adam-kun-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/modaete-yo-adam-kun-1.webp",
+      "endpointPath": "/watch/modaete-yo-adam-kun-1",
+      "description": "Complete serialized collection • 8 episodes"
+    },
+    {
+      "name": "Onaji Zemi no Someya-san ga Sexy Joyuu Datta Hanashi",
+      "slug": "onaji-zemi-no-someya-san-ga-sexy-joyuu-datta-hanashi",
+      "episodes": 8,
+      "first_episode_slug": "onaji-zemi-no-someya-san-ga-sexy-joyuu-datta-hanashi-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/8c5b9d7d8b173e1c31f5089de346709459c4649a.png",
+      "endpointPath": "/watch/onaji-zemi-no-someya-san-ga-sexy-joyuu-datta-hanashi-1",
+      "description": "Complete serialized collection • 8 episodes"
+    },
+    {
+      "name": "Overflow",
+      "slug": "overflow",
+      "episodes": 8,
+      "first_episode_slug": "overflow-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/overflow-1.webp",
+      "endpointPath": "/watch/overflow-1",
+      "description": "Complete serialized collection • 8 episodes"
+    },
+    {
+      "name": "Papa Datte Shitai",
+      "slug": "papa-datte-shitai",
+      "episodes": 8,
+      "first_episode_slug": "papa-datte-shitai-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/papa-datte-shitai-1.webp",
+      "endpointPath": "/watch/papa-datte-shitai-1",
+      "description": "Complete serialized collection • 8 episodes"
+    },
+    {
+      "name": "Isekai Kita no de Sukebe Skill de Zenryoku Ouka Shiyou to Omou",
+      "slug": "isekai-kita-no-de-sukebe-skill-de-zenryoku-ouka-shiyou-to-omou",
+      "episodes": 7,
+      "first_episode_slug": "isekai-kita-no-de-sukebe-skill-de-zenryoku-ouka-shiyou-to-omou-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/8a292fa3be037c4c282c36c8527ff273209a7f91.png",
+      "endpointPath": "/watch/isekai-kita-no-de-sukebe-skill-de-zenryoku-ouka-shiyou-to-omou-1",
+      "description": "Complete serialized collection • 7 episodes"
+    },
+    {
+      "name": "1LDK+JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?",
+      "slug": "1ldkjk-ikinari-doukyo-micchaku-hatsu-ecchi",
+      "episodes": 6,
+      "first_episode_slug": "1ldkjk-ikinari-doukyo-micchaku-hatsu-ecchi-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/06b709981d508dc299f866036ed4f4f3e1f59099.jpg",
+      "endpointPath": "/watch/1ldkjk-ikinari-doukyo-micchaku-hatsu-ecchi-1",
+      "description": "Complete serialized collection • 6 episodes"
+    },
+    {
+      "name": "Dokidoki Little Ooyasan",
+      "slug": "dokidoki-little-ooyasan",
+      "episodes": 6,
+      "first_episode_slug": "dokidoki-little-ooyasan-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/dokidoki-little-ooyasan-1.webp",
+      "endpointPath": "/watch/dokidoki-little-ooyasan-1",
+      "description": "Complete serialized collection • 6 episodes"
+    },
+    {
+      "name": "Imaizumin-chi wa Douyara Gal no Tamariba ni Natteru Rashii",
+      "slug": "imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii",
+      "episodes": 6,
+      "first_episode_slug": "imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/3c8794a72e88662a895b7910c8b3c8fc5eccf6ab.jpg",
+      "endpointPath": "/watch/imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii-1",
+      "description": "Complete serialized collection • 6 episodes"
+    },
+    {
+      "name": "ImaRia",
+      "slug": "imaria",
+      "episodes": 6,
+      "first_episode_slug": "imaria-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/136b3b298850604f94a92c92478459a97a8c25b1.jpg",
+      "endpointPath": "/watch/imaria-1",
+      "description": "Complete serialized collection • 6 episodes"
+    },
+    {
+      "name": "Kazoku: Haha to Shimai no Kyousei",
+      "slug": "kazoku-haha-to-shimai-no-kyousei",
+      "episodes": 6,
+      "first_episode_slug": "kazoku-haha-to-shimai-no-kyousei-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/5cc0742b58aa4dd670cdf6dc6c4b1352d4ebb0af.jpg",
+      "endpointPath": "/watch/kazoku-haha-to-shimai-no-kyousei-1",
+      "description": "Complete serialized collection • 6 episodes"
+    },
+    {
+      "name": "Tsundero Series",
+      "slug": "tsundero-series",
+      "episodes": 6,
+      "first_episode_slug": "tsundero-series-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/tsundero-series-1.webp",
+      "endpointPath": "/watch/tsundero-series-1",
+      "description": "Complete serialized collection • 6 episodes"
+    },
+    {
+      "name": "Hajimete No Hitozuma",
+      "slug": "hajimete-no-hitozuma",
+      "episodes": 5,
+      "first_episode_slug": "hajimete-no-hitozuma-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/hajimete-no-hitozuma-1.webp",
+      "endpointPath": "/watch/hajimete-no-hitozuma-1",
+      "description": "Complete serialized collection • 5 episodes"
+    },
+    {
+      "name": "Ane Chijo Max Heart",
+      "slug": "ane-chijo-max-heart",
+      "episodes": 4,
+      "first_episode_slug": "ane-chijo-max-heart-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/ane-chijo-max-heart-1.webp",
+      "endpointPath": "/watch/ane-chijo-max-heart-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Baka Na Imouto O Rikou Ni Suru No Wa Ore No Xx Dake Na Ken Ni Tsuite",
+      "slug": "baka-na-imouto-o-rikou-ni-suru-no-wa-ore-no-xx-dake-na-ken-ni-tsuite",
+      "episodes": 4,
+      "first_episode_slug": "baka-na-imouto-o-rikou-ni-suru-no-wa-ore-no-xx-dake-na-ken-ni-tsuite-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/baka-na-imouto-o-rikou-ni-suru-no-wa-ore-no-xx-dake-na-ken-ni-tsuite-1.webp",
+      "endpointPath": "/watch/baka-na-imouto-o-rikou-ni-suru-no-wa-ore-no-xx-dake-na-ken-ni-tsuite-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Boku no Risou no Isekai Seikatsu",
+      "slug": "boku-no-risou-no-isekai-seikatsu",
+      "episodes": 4,
+      "first_episode_slug": "boku-no-risou-no-isekai-seikatsu-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/37a163d6f3e04ff9c1291328a34cc3873f863f4b.jpg",
+      "endpointPath": "/watch/boku-no-risou-no-isekai-seikatsu-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Chiisana Tsubomi No Sono Oku Ni",
+      "slug": "chiisana-tsubomi-no-sono-oku-ni",
+      "episodes": 4,
+      "first_episode_slug": "chiisana-tsubomi-no-sono-oku-ni-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/chiisana-tsubomi-no-sono-oku-ni-1.webp",
+      "endpointPath": "/watch/chiisana-tsubomi-no-sono-oku-ni-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Cosplay Change Pure Kei Joshidaisei No Kiken Na Seiheki",
+      "slug": "cosplay-change-pure-kei-joshidaisei-no-kiken-na-seiheki",
+      "episodes": 4,
+      "first_episode_slug": "cosplay-change-pure-kei-joshidaisei-no-kiken-na-seiheki-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/cosplay-change-pure-kei-joshidaisei-no-kiken-na-seiheki-1.webp",
+      "endpointPath": "/watch/cosplay-change-pure-kei-joshidaisei-no-kiken-na-seiheki-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Do S Na Maina Kaichou Sama Ga M Note Ni Shihai Saremashita",
+      "slug": "do-s-na-maina-kaichou-sama-ga-m-note-ni-shihai-saremashita",
+      "episodes": 4,
+      "first_episode_slug": "do-s-na-maina-kaichou-sama-ga-m-note-ni-shihai-saremashita-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/do-s-na-maina-kaichou-sama-ga-m-note-ni-shihai-saremashita-1.webp",
+      "endpointPath": "/watch/do-s-na-maina-kaichou-sama-ga-m-note-ni-shihai-saremashita-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Dousou Kai Yesterday Once More",
+      "slug": "dousou-kai-yesterday-once-more",
+      "episodes": 4,
+      "first_episode_slug": "dousou-kai-yesterday-once-more-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/dousou-kai-yesterday-once-more-1.webp",
+      "endpointPath": "/watch/dousou-kai-yesterday-once-more-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Eroriman",
+      "slug": "eroriman",
+      "episodes": 4,
+      "first_episode_slug": "eroriman-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/dba18e09ef31b84e01d0f8814d3d520189b9eccb.jpg",
+      "endpointPath": "/watch/eroriman-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Goblin No Suana",
+      "slug": "goblin-no-suana",
+      "episodes": 4,
+      "first_episode_slug": "goblin-no-suana-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/goblin-no-suana-1.webp",
+      "endpointPath": "/watch/goblin-no-suana-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Hime Sama Love Life",
+      "slug": "hime-sama-love-life",
+      "episodes": 4,
+      "first_episode_slug": "hime-sama-love-life-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/hime-sama-love-life-1.webp",
+      "endpointPath": "/watch/hime-sama-love-life-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Iribitari Gal ni Manko Tsukawasete Morau Hanashi",
+      "slug": "iribitari-gal-ni-manko-tsukawasete-morau-hanashi",
+      "episodes": 4,
+      "first_episode_slug": "iribitari-gal-ni-manko-tsukawasete-morau-hanashi-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/70386adc5d8aa155371c7d5e08286df5273ff75b.webp",
+      "endpointPath": "/watch/iribitari-gal-ni-manko-tsukawasete-morau-hanashi-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Jitaku Keibiin",
+      "slug": "jitaku-keibiin",
+      "episodes": 4,
+      "first_episode_slug": "jitaku-keibiin-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/jitaku-keibiin-1.webp",
+      "endpointPath": "/watch/jitaku-keibiin-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Jitaku Keibiin 2019",
+      "slug": "jitaku-keibiin-2019",
+      "episodes": 4,
+      "first_episode_slug": "jitaku-keibiin-2019-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/jitaku-keibiin-2019-1.webp",
+      "endpointPath": "/watch/jitaku-keibiin-2019-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Kanojo ga Yatsu ni Dakareta Hi",
+      "slug": "kanojo-ga-yatsu-ni-dakareta-hi",
+      "episodes": 4,
+      "first_episode_slug": "kanojo-ga-yatsu-ni-dakareta-hi-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/2a51286080ffa252f05043a6f8992e8699929df2.jpg",
+      "endpointPath": "/watch/kanojo-ga-yatsu-ni-dakareta-hi-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Kegareboshi",
+      "slug": "kegareboshi",
+      "episodes": 4,
+      "first_episode_slug": "kegareboshi-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/932314c023c6fdb45a80f36e11d2769b03ec1455.jpg",
+      "endpointPath": "/watch/kegareboshi-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Kemonokko Tsuushin: The Animation",
+      "slug": "kemonokko-tsuushin-the-animation",
+      "episodes": 4,
+      "first_episode_slug": "kemonokko-tsuushin-the-animation-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/acb0884dbda4c87b68835d2687f27d4d9e821846.png",
+      "endpointPath": "/watch/kemonokko-tsuushin-the-animation-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Kimi Wa Yasashiku Netorareru The Animation",
+      "slug": "kimi-wa-yasashiku-netorareru-the-animation",
+      "episodes": 4,
+      "first_episode_slug": "kimi-wa-yasashiku-netorareru-the-animation-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/kimi-wa-yasashiku-netorareru-the-animation-1.webp",
+      "endpointPath": "/watch/kimi-wa-yasashiku-netorareru-the-animation-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Knight Of Erin",
+      "slug": "knight-of-erin",
+      "episodes": 4,
+      "first_episode_slug": "knight-of-erin-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/knight-of-erin-1.webp",
+      "endpointPath": "/watch/knight-of-erin-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Konbini Shoujo Z",
+      "slug": "konbini-shoujo-z",
+      "episodes": 4,
+      "first_episode_slug": "konbini-shoujo-z-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/konbini-shoujo-z-1.webp",
+      "endpointPath": "/watch/konbini-shoujo-z-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Korashime 2 Kyouikuteki Depaga Shidou",
+      "slug": "korashime-2-kyouikuteki-depaga-shidou",
+      "episodes": 4,
+      "first_episode_slug": "korashime-2-kyouikuteki-depaga-shidou-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/korashime-2-kyouikuteki-depaga-shidou-1.webp",
+      "endpointPath": "/watch/korashime-2-kyouikuteki-depaga-shidou-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Mako Chan Kaihatsu Nikki",
+      "slug": "mako-chan-kaihatsu-nikki",
+      "episodes": 4,
+      "first_episode_slug": "mako-chan-kaihatsu-nikki-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/mako-chan-kaihatsu-nikki-1.webp",
+      "endpointPath": "/watch/mako-chan-kaihatsu-nikki-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Nozoki Kanojo",
+      "slug": "nozoki-kanojo",
+      "episodes": 4,
+      "first_episode_slug": "nozoki-kanojo-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/nozoki-kanojo-1.webp",
+      "endpointPath": "/watch/nozoki-kanojo-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Oni Chichi Harem",
+      "slug": "oni-chichi-harem",
+      "episodes": 4,
+      "first_episode_slug": "oni-chichi-harem-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/7b86fb50476911b6b30fba1b21f226ab91e9a34b.png",
+      "endpointPath": "/watch/oni-chichi-harem-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Oni Chichi Refresh",
+      "slug": "oni-chichi-refresh",
+      "episodes": 4,
+      "first_episode_slug": "oni-chichi-refresh-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/oni-chichi-refresh-1.webp",
+      "endpointPath": "/watch/oni-chichi-refresh-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Papa Katsu",
+      "slug": "papa-katsu",
+      "episodes": 4,
+      "first_episode_slug": "papa-katsu-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/papa-katsu-1.webp",
+      "endpointPath": "/watch/papa-katsu-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Rance 01 Hikari O Motomete The Animation",
+      "slug": "rance-01-hikari-o-motomete-the-animation",
+      "episodes": 4,
+      "first_episode_slug": "rance-01-hikari-o-motomete-the-animation-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/rance-01-hikari-o-motomete-the-animation-1.webp",
+      "endpointPath": "/watch/rance-01-hikari-o-motomete-the-animation-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Reika wa Karei na Boku no Joou",
+      "slug": "reika-wa-karei-na-boku-no-joou",
+      "episodes": 4,
+      "first_episode_slug": "reika-wa-karei-na-boku-no-joou-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/45149575e06f448aa2881ba279754e3da3d06ffa.jpg",
+      "endpointPath": "/watch/reika-wa-karei-na-boku-no-joou-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Saimin Seishidou",
+      "slug": "saimin-seishidou",
+      "episodes": 4,
+      "first_episode_slug": "saimin-seishidou-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/saimin-seishidou-1.webp",
+      "endpointPath": "/watch/saimin-seishidou-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Sansha Mendan Rensa Suru Chijoku Choukyou No Gakuen",
+      "slug": "sansha-mendan-rensa-suru-chijoku-choukyou-no-gakuen",
+      "episodes": 4,
+      "first_episode_slug": "sansha-mendan-rensa-suru-chijoku-choukyou-no-gakuen-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/sansha-mendan-rensa-suru-chijoku-choukyou-no-gakuen-1.webp",
+      "endpointPath": "/watch/sansha-mendan-rensa-suru-chijoku-choukyou-no-gakuen-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Shakuen No Eris",
+      "slug": "shakuen-no-eris",
+      "episodes": 4,
+      "first_episode_slug": "shakuen-no-eris-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/shakuen-no-eris-1.webp",
+      "endpointPath": "/watch/shakuen-no-eris-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Sister Breeder",
+      "slug": "sister-breeder",
+      "episodes": 4,
+      "first_episode_slug": "sister-breeder-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/e66d68f481db013032f4e7f631d6cbc5d8dcd7b5.jpg",
+      "endpointPath": "/watch/sister-breeder-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Soshite Watashi Wa Ojisan Ni",
+      "slug": "soshite-watashi-wa-ojisan-ni",
+      "episodes": 4,
+      "first_episode_slug": "soshite-watashi-wa-ojisan-ni-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/soshite-watashi-wa-ojisan-ni-1.webp",
+      "endpointPath": "/watch/soshite-watashi-wa-ojisan-ni-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Soshite Watashi Wa Sensei Ni",
+      "slug": "soshite-watashi-wa-sensei-ni",
+      "episodes": 4,
+      "first_episode_slug": "soshite-watashi-wa-sensei-ni-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/soshite-watashi-wa-sensei-ni-1.webp",
+      "endpointPath": "/watch/soshite-watashi-wa-sensei-ni-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Tiny Evil",
+      "slug": "tiny-evil",
+      "episodes": 4,
+      "first_episode_slug": "tiny-evil-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/tiny-evil-1.webp",
+      "endpointPath": "/watch/tiny-evil-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "White Blue",
+      "slug": "white-blue",
+      "episodes": 4,
+      "first_episode_slug": "white-blue-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/white-blue-1.webp",
+      "endpointPath": "/watch/white-blue-1",
+      "description": "Complete serialized collection • 4 episodes"
+    },
+    {
+      "name": "Akiba Kei Kanojo",
+      "slug": "akiba-kei-kanojo",
+      "episodes": 3,
+      "first_episode_slug": "akiba-kei-kanojo-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/akiba-kei-kanojo-1.webp",
+      "endpointPath": "/watch/akiba-kei-kanojo-1",
+      "description": "Complete serialized collection • 3 episodes"
+    },
+    {
+      "name": "Bonyuuchan Wa Dashitai",
+      "slug": "bonyuuchan-wa-dashitai",
+      "episodes": 3,
+      "first_episode_slug": "bonyuuchan-wa-dashitai-2",
+      "thumbnail": "https://hentaiocean.com/thumbnail/bonyuuchan-wa-dashitai-2.webp",
+      "endpointPath": "/watch/bonyuuchan-wa-dashitai-2",
+      "description": "Complete serialized collection • 3 episodes"
+    },
+    {
+      "name": "Daraku Onna Kyoushi Hakai",
+      "slug": "daraku-onna-kyoushi-hakai",
+      "episodes": 3,
+      "first_episode_slug": "daraku-onna-kyoushi-hakai-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/daraku-onna-kyoushi-hakai-1.webp",
+      "endpointPath": "/watch/daraku-onna-kyoushi-hakai-1",
+      "description": "Complete serialized collection • 3 episodes"
+    },
+    {
+      "name": "Dearest Blue",
+      "slug": "dearest-blue",
+      "episodes": 3,
+      "first_episode_slug": "dearest-blue-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/b6f89e6379dafa3c147262c71bd1d4fd7a6592b0.jpg",
+      "endpointPath": "/watch/dearest-blue-1",
+      "description": "Complete serialized collection • 3 episodes"
+    },
+    {
+      "name": "Houkago Nureta Seifuku",
+      "slug": "houkago-nureta-seifuku",
+      "episodes": 3,
+      "first_episode_slug": "houkago-nureta-seifuku-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/houkago-nureta-seifuku-1.webp",
+      "endpointPath": "/watch/houkago-nureta-seifuku-1",
+      "description": "Complete serialized collection • 3 episodes"
+    },
+    {
+      "name": "Inbo",
+      "slug": "inbo",
+      "episodes": 3,
+      "first_episode_slug": "inbo-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/inbo-1.webp",
+      "endpointPath": "/watch/inbo-1",
+      "description": "Complete serialized collection • 3 episodes"
+    },
+    {
+      "name": "Inko",
+      "slug": "inko",
+      "episodes": 3,
+      "first_episode_slug": "inko-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/inko-1.webp",
+      "endpointPath": "/watch/inko-1",
+      "description": "Complete serialized collection • 3 episodes"
+    },
+    {
+      "name": "Kokuhaku",
+      "slug": "kokuhaku",
+      "episodes": 3,
+      "first_episode_slug": "kokuhaku-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/8ae2ce50bb5832ec2bf9ed4d76f281d37c82348b.png",
+      "endpointPath": "/watch/kokuhaku-1",
+      "description": "Complete serialized collection • 3 episodes"
+    },
+    {
+      "name": "Koutetsu No Majo Annerose",
+      "slug": "koutetsu-no-majo-annerose",
+      "episodes": 3,
+      "first_episode_slug": "koutetsu-no-majo-annerose-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/koutetsu-no-majo-annerose-1.webp",
+      "endpointPath": "/watch/koutetsu-no-majo-annerose-1",
+      "description": "Complete serialized collection • 3 episodes"
+    },
+    {
+      "name": "Love Me: Kaede to Suzu The Animation",
+      "slug": "love-me-kaede-to-suzu-the-animation",
+      "episodes": 3,
+      "first_episode_slug": "love-me-kaede-to-suzu-the-animation-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/7061a1f5ac444ac86489dbc16d8aee8902cf7594.jpg",
+      "endpointPath": "/watch/love-me-kaede-to-suzu-the-animation-1",
+      "description": "Complete serialized collection • 3 episodes"
+    },
+    {
+      "name": "Ma Ga Ochiru Yoru",
+      "slug": "ma-ga-ochiru-yoru",
+      "episodes": 3,
+      "first_episode_slug": "ma-ga-ochiru-yoru-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/ma-ga-ochiru-yoru-1.webp",
+      "endpointPath": "/watch/ma-ga-ochiru-yoru-1",
+      "description": "Complete serialized collection • 3 episodes"
+    },
+    {
+      "name": "Nagachichi Nagai-san",
+      "slug": "nagachichi-nagai-san",
+      "episodes": 3,
+      "first_episode_slug": "nagachichi-nagai-san-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/6d9d12869366d3b9d95e316a93cc86757064b5cd.png",
+      "endpointPath": "/watch/nagachichi-nagai-san-1",
+      "description": "Complete serialized collection • 3 episodes"
+    },
+    {
+      "name": "Oni Chichi Rebuild",
+      "slug": "oni-chichi-rebuild",
+      "episodes": 3,
+      "first_episode_slug": "oni-chichi-rebuild-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/oni-chichi-rebuild-1.webp",
+      "endpointPath": "/watch/oni-chichi-rebuild-1",
+      "description": "Complete serialized collection • 3 episodes"
+    },
+    {
+      "name": "Ookami San Wa Taberaretai",
+      "slug": "ookami-san-wa-taberaretai",
+      "episodes": 3,
+      "first_episode_slug": "ookami-san-wa-taberaretai-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/ookami-san-wa-taberaretai-1.webp",
+      "endpointPath": "/watch/ookami-san-wa-taberaretai-1",
+      "description": "Complete serialized collection • 3 episodes"
+    },
+    {
+      "name": "Ryouki No Ori Dai 2 Shou",
+      "slug": "ryouki-no-ori-dai-2-shou",
+      "episodes": 3,
+      "first_episode_slug": "ryouki-no-ori-dai-2-shou-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/ryouki-no-ori-dai-2-shou-1.webp",
+      "endpointPath": "/watch/ryouki-no-ori-dai-2-shou-1",
+      "description": "Complete serialized collection • 3 episodes"
+    },
+    {
+      "name": "Succubus Connect",
+      "slug": "succubus-connect",
+      "episodes": 3,
+      "first_episode_slug": "succubus-connect-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/c7da786dc41dcef2b869507d8adc7530417e6f60.png",
+      "endpointPath": "/watch/succubus-connect-1",
+      "description": "Complete serialized collection • 3 episodes"
+    },
+    {
+      "name": "Taimanin Yukikaze",
+      "slug": "taimanin-yukikaze",
+      "episodes": 3,
+      "first_episode_slug": "taimanin-yukikaze-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/taimanin-yukikaze-1.webp",
+      "endpointPath": "/watch/taimanin-yukikaze-1",
+      "description": "Complete serialized collection • 3 episodes"
+    },
+    {
+      "name": "Yumemiru Otome",
+      "slug": "yumemiru-otome",
+      "episodes": 3,
+      "first_episode_slug": "yumemiru-otome-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/b79c87b8941ca3b2cfb45085e52d8f42d28f2b80.png",
+      "endpointPath": "/watch/yumemiru-otome-1",
+      "description": "Complete serialized collection • 3 episodes"
+    },
+    {
+      "name": "69 Itsuwari No Bishou",
+      "slug": "69-itsuwari-no-bishou",
+      "episodes": 2,
+      "first_episode_slug": "69-itsuwari-no-bishou-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/69-itsuwari-no-bishou-1.webp",
+      "endpointPath": "/watch/69-itsuwari-no-bishou-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Aisei Tenshi Love Mary Akusei Jutai",
+      "slug": "aisei-tenshi-love-mary-akusei-jutai",
+      "episodes": 2,
+      "first_episode_slug": "aisei-tenshi-love-mary-akusei-jutai-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/aisei-tenshi-love-mary-akusei-jutai-1.webp",
+      "endpointPath": "/watch/aisei-tenshi-love-mary-akusei-jutai-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Ajin ga Osuki nan desu ne",
+      "slug": "ajin-ga-osuki-nan-desu-ne",
+      "episodes": 2,
+      "first_episode_slug": "ajin-ga-osuki-nan-desu-ne-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/99bc1f202374751b9eebed4c398c59ad43fe0582.jpg",
+      "endpointPath": "/watch/ajin-ga-osuki-nan-desu-ne-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Akane Wa Tsumare Somerareru",
+      "slug": "akane-wa-tsumare-somerareru",
+      "episodes": 2,
+      "first_episode_slug": "akane-wa-tsumare-somerareru-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/akane-wa-tsumare-somerareru-1.webp",
+      "endpointPath": "/watch/akane-wa-tsumare-somerareru-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Akogare no Onna Joushi",
+      "slug": "akogare-no-onna-joushi",
+      "episodes": 2,
+      "first_episode_slug": "akogare-no-onna-joushi-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/a81a52a47c7b1ffb0601884cec32666fe8951d89.png",
+      "endpointPath": "/watch/akogare-no-onna-joushi-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Aku No Onna Kanbu Full Moon Night Returns",
+      "slug": "aku-no-onna-kanbu-full-moon-night-returns",
+      "episodes": 2,
+      "first_episode_slug": "aku-no-onna-kanbu-full-moon-night-returns-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/aku-no-onna-kanbu-full-moon-night-returns-1.webp",
+      "endpointPath": "/watch/aku-no-onna-kanbu-full-moon-night-returns-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Ane Koi Suki Kirai Daisuki",
+      "slug": "ane-koi-suki-kirai-daisuki",
+      "episodes": 2,
+      "first_episode_slug": "ane-koi-suki-kirai-daisuki-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/ane-koi-suki-kirai-daisuki-1.webp",
+      "endpointPath": "/watch/ane-koi-suki-kirai-daisuki-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Ano Danchi No Tsuma Tachi Wa",
+      "slug": "ano-danchi-no-tsuma-tachi-wa",
+      "episodes": 2,
+      "first_episode_slug": "ano-danchi-no-tsuma-tachi-wa-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/ano-danchi-no-tsuma-tachi-wa-1.webp",
+      "endpointPath": "/watch/ano-danchi-no-tsuma-tachi-wa-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Aoharu Snatch",
+      "slug": "aoharu-snatch",
+      "episodes": 2,
+      "first_episode_slug": "aoharu-snatch-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/aoharu-snatch-1.webp",
+      "endpointPath": "/watch/aoharu-snatch-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Asa made Shiru Daku Oyakodon!!",
+      "slug": "asa-made-shiru-daku-oyakodon",
+      "episodes": 2,
+      "first_episode_slug": "asa-made-shiru-daku-oyakodon-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/ca7663a9cd00a7ff813b973deec0d972512de634.png",
+      "endpointPath": "/watch/asa-made-shiru-daku-oyakodon-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Bishoku-ke no Rule",
+      "slug": "bishoku-ke-no-rule",
+      "episodes": 2,
+      "first_episode_slug": "bishoku-ke-no-rule-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/44bf8c7d11c5ed19d14be1da4eff9cd424a3aa15.png",
+      "endpointPath": "/watch/bishoku-ke-no-rule-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Chichi Iro Toiki",
+      "slug": "chichi-iro-toiki",
+      "episodes": 2,
+      "first_episode_slug": "chichi-iro-toiki-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/chichi-iro-toiki-1.webp",
+      "endpointPath": "/watch/chichi-iro-toiki-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Chii Chan Kaihatsu Nikki",
+      "slug": "chii-chan-kaihatsu-nikki",
+      "episodes": 2,
+      "first_episode_slug": "chii-chan-kaihatsu-nikki-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/chii-chan-kaihatsu-nikki-1.webp",
+      "endpointPath": "/watch/chii-chan-kaihatsu-nikki-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Chimimonryou",
+      "slug": "chimimonryou",
+      "episodes": 2,
+      "first_episode_slug": "chimimonryou-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/a20e551bab70564a64399031926b217483eea1db.jpg",
+      "endpointPath": "/watch/chimimonryou-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Choro Mesu Days",
+      "slug": "choro-mesu-days",
+      "episodes": 2,
+      "first_episode_slug": "choro-mesu-days-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/4af682c67b3e7a7edd59678d097d36185f1a21cb.jpg",
+      "endpointPath": "/watch/choro-mesu-days-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Cool de M",
+      "slug": "cool-de-m",
+      "episodes": 2,
+      "first_episode_slug": "cool-de-m-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/b68c1bffd49fe80c5411d0283e02d8cc168b5b49.jpg",
+      "endpointPath": "/watch/cool-de-m-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Do S na Pet",
+      "slug": "do-s-na-pet",
+      "episodes": 2,
+      "first_episode_slug": "do-s-na-pet-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/5a1de5b168000873211586143baed47e8e26e653.jpg",
+      "endpointPath": "/watch/do-s-na-pet-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Doukyo Suru Neneki",
+      "slug": "doukyo-suru-neneki",
+      "episodes": 2,
+      "first_episode_slug": "doukyo-suru-neneki-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/doukyo-suru-neneki-1.webp",
+      "endpointPath": "/watch/doukyo-suru-neneki-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Ecchi Na Onee Chan Ni Shiboraretai",
+      "slug": "ecchi-na-onee-chan-ni-shiboraretai",
+      "episodes": 2,
+      "first_episode_slug": "ecchi-na-onee-chan-ni-shiboraretai-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/ecchi-na-onee-chan-ni-shiboraretai-1.webp",
+      "endpointPath": "/watch/ecchi-na-onee-chan-ni-shiboraretai-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Elf ni Inmon o Tsukeru Hon",
+      "slug": "elf-ni-inmon-o-tsukeru-hon",
+      "episodes": 2,
+      "first_episode_slug": "elf-ni-inmon-o-tsukeru-hon-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/29a2e5920a9b603e1c97d433923bea4e123c860c.png",
+      "endpointPath": "/watch/elf-ni-inmon-o-tsukeru-hon-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Energy Kyouka",
+      "slug": "energy-kyouka",
+      "episodes": 2,
+      "first_episode_slug": "energy-kyouka-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/energy-kyouka-1.webp",
+      "endpointPath": "/watch/energy-kyouka-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Enkou Jk Bitch Gal Oji San To Nama Pako Seikatsu",
+      "slug": "enkou-jk-bitch-gal-oji-san-to-nama-pako-seikatsu",
+      "episodes": 2,
+      "first_episode_slug": "enkou-jk-bitch-gal-oji-san-to-nama-pako-seikatsu-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/enkou-jk-bitch-gal-oji-san-to-nama-pako-seikatsu-1.webp",
+      "endpointPath": "/watch/enkou-jk-bitch-gal-oji-san-to-nama-pako-seikatsu-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Eroge De Subete Wa Kaiketsu Dekiru The Animation",
+      "slug": "eroge-de-subete-wa-kaiketsu-dekiru-the-animation",
+      "episodes": 2,
+      "first_episode_slug": "eroge-de-subete-wa-kaiketsu-dekiru-the-animation-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/eroge-de-subete-wa-kaiketsu-dekiru-the-animation-1.webp",
+      "endpointPath": "/watch/eroge-de-subete-wa-kaiketsu-dekiru-the-animation-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Eroriman 2 Episode",
+      "slug": "eroriman-2-episode",
+      "episodes": 2,
+      "first_episode_slug": "eroriman-2-episode-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/eroriman-2-episode-1.webp",
+      "endpointPath": "/watch/eroriman-2-episode-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "First Love",
+      "slug": "first-love",
+      "episodes": 2,
+      "first_episode_slug": "first-love-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/first-love-1.webp",
+      "endpointPath": "/watch/first-love-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Fleur The Animation",
+      "slug": "fleur-the-animation",
+      "episodes": 2,
+      "first_episode_slug": "fleur-the-animation-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/d68ff9109f89993bc1802da936a147178a0bd704.png",
+      "endpointPath": "/watch/fleur-the-animation-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Furachi",
+      "slug": "furachi",
+      "episodes": 2,
+      "first_episode_slug": "furachi-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/bfa3bfd8bbd7b1104ebd3d21a34b0923118fe256.jpg",
+      "endpointPath": "/watch/furachi-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Futsuma Shoujo Charlotte",
+      "slug": "futsuma-shoujo-charlotte",
+      "episodes": 2,
+      "first_episode_slug": "futsuma-shoujo-charlotte-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/futsuma-shoujo-charlotte-1.webp",
+      "endpointPath": "/watch/futsuma-shoujo-charlotte-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Fuuki Iin to Fuuzoku Katsudou",
+      "slug": "fuuki-iin-to-fuuzoku-katsudou",
+      "episodes": 2,
+      "first_episode_slug": "fuuki-iin-to-fuuzoku-katsudou-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/07225ab33c89a1dcc89c906fba0d34b36a9ad648.png",
+      "endpointPath": "/watch/fuuki-iin-to-fuuzoku-katsudou-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Gobaku Moe Mama Tsurezure",
+      "slug": "gobaku-moe-mama-tsurezure",
+      "episodes": 2,
+      "first_episode_slug": "gobaku-moe-mama-tsurezure-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/gobaku-moe-mama-tsurezure-1.webp",
+      "endpointPath": "/watch/gobaku-moe-mama-tsurezure-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Gomu o Tsukete to Iimashita yo ne",
+      "slug": "gomu-o-tsukete-to-iimashita-yo-ne",
+      "episodes": 2,
+      "first_episode_slug": "gomu-o-tsukete-to-iimashita-yo-ne-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/ddc8d7425d621b3cceaaeb0fcc98e44abe41f0b6.jpg",
+      "endpointPath": "/watch/gomu-o-tsukete-to-iimashita-yo-ne-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Haitoku No Kyoukai",
+      "slug": "haitoku-no-kyoukai",
+      "episodes": 2,
+      "first_episode_slug": "haitoku-no-kyoukai-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/haitoku-no-kyoukai-1.webp",
+      "endpointPath": "/watch/haitoku-no-kyoukai-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Haji",
+      "slug": "haji",
+      "episodes": 2,
+      "first_episode_slug": "haji-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/haji-1.webp",
+      "endpointPath": "/watch/haji-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Hametsu no Yuuwaku",
+      "slug": "hametsu-no-yuuwaku",
+      "episodes": 2,
+      "first_episode_slug": "hametsu-no-yuuwaku-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/e51c01945ee30deb8059de5ef1d1d43b2f051842.png",
+      "endpointPath": "/watch/hametsu-no-yuuwaku-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Haramaseya The Animation",
+      "slug": "haramaseya-the-animation",
+      "episodes": 2,
+      "first_episode_slug": "haramaseya-the-animation-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/63488d7c89b22207bd8932c50e21e75a38ecdb8d.jpg",
+      "endpointPath": "/watch/haramaseya-the-animation-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Heart Mark Oome",
+      "slug": "heart-mark-oome",
+      "episodes": 2,
+      "first_episode_slug": "heart-mark-oome-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/947eba2bee37c3571a09fd00b525472eda8a8f8f.jpg",
+      "endpointPath": "/watch/heart-mark-oome-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Hime Sama Gentei",
+      "slug": "hime-sama-gentei",
+      "episodes": 2,
+      "first_episode_slug": "hime-sama-gentei-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/hime-sama-gentei-1.webp",
+      "endpointPath": "/watch/hime-sama-gentei-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Hump Bang",
+      "slug": "hump-bang",
+      "episodes": 2,
+      "first_episode_slug": "hump-bang-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/hump-bang-1.webp",
+      "endpointPath": "/watch/hump-bang-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Ikuiku Succubus Saikyouiku",
+      "slug": "ikuiku-succubus-saikyouiku",
+      "episodes": 2,
+      "first_episode_slug": "ikuiku-succubus-saikyouiku-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/e028fa311822af79ebab7b1673143e62affdd3ea.png",
+      "endpointPath": "/watch/ikuiku-succubus-saikyouiku-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Ikumonogakari",
+      "slug": "ikumonogakari",
+      "episodes": 2,
+      "first_episode_slug": "ikumonogakari-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/ikumonogakari-1.webp",
+      "endpointPath": "/watch/ikumonogakari-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Ikusei",
+      "slug": "ikusei",
+      "episodes": 2,
+      "first_episode_slug": "ikusei-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/7f19554a813ffd21ef2c599e4a3a62d1793d94ee.jpg",
+      "endpointPath": "/watch/ikusei-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Ima Made De Ichiban Yokatta Sex",
+      "slug": "ima-made-de-ichiban-yokatta-sex",
+      "episodes": 2,
+      "first_episode_slug": "ima-made-de-ichiban-yokatta-sex-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/ima-made-de-ichiban-yokatta-sex-1.webp",
+      "endpointPath": "/watch/ima-made-de-ichiban-yokatta-sex-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Immoral Game Master The Animation",
+      "slug": "immoral-game-master-the-animation",
+      "episodes": 2,
+      "first_episode_slug": "immoral-game-master-the-animation-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/637db28ce0df00f80eae355557fa60a41bd8c062.png",
+      "endpointPath": "/watch/immoral-game-master-the-animation-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Imouto Bitch Ni Shiboraretai",
+      "slug": "imouto-bitch-ni-shiboraretai",
+      "episodes": 2,
+      "first_episode_slug": "imouto-bitch-ni-shiboraretai-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/imouto-bitch-ni-shiboraretai-1.webp",
+      "endpointPath": "/watch/imouto-bitch-ni-shiboraretai-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Incha Couple Ga Yougal Tachi To Sex Training Suru Hanashi",
+      "slug": "incha-couple-ga-yougal-tachi-to-sex-training-suru-hanashi",
+      "episodes": 2,
+      "first_episode_slug": "incha-couple-ga-yougal-tachi-to-sex-training-suru-hanashi",
+      "thumbnail": "https://hentaiocean.com/thumbnail/incha-couple-ga-yougal-tachi-to-sex-training-suru-hanashi.webp",
+      "endpointPath": "/watch/incha-couple-ga-yougal-tachi-to-sex-training-suru-hanashi",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Inkou Kyoushi No Saimin Seikatsu Shidouroku",
+      "slug": "inkou-kyoushi-no-saimin-seikatsu-shidouroku",
+      "episodes": 2,
+      "first_episode_slug": "inkou-kyoushi-no-saimin-seikatsu-shidouroku-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/inkou-kyoushi-no-saimin-seikatsu-shidouroku-1.webp",
+      "endpointPath": "/watch/inkou-kyoushi-no-saimin-seikatsu-shidouroku-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Inmou",
+      "slug": "inmou",
+      "episodes": 2,
+      "first_episode_slug": "inmou-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/inmou-1.webp",
+      "endpointPath": "/watch/inmou-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Jokei Kazoku Inbou",
+      "slug": "jokei-kazoku-inbou",
+      "episodes": 2,
+      "first_episode_slug": "jokei-kazoku-inbou-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/jokei-kazoku-inbou-1.webp",
+      "endpointPath": "/watch/jokei-kazoku-inbou-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Jokuana",
+      "slug": "jokuana",
+      "episodes": 2,
+      "first_episode_slug": "jokuana-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/jokuana-1.webp",
+      "endpointPath": "/watch/jokuana-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Junjou Decamelon",
+      "slug": "junjou-decamelon",
+      "episodes": 2,
+      "first_episode_slug": "junjou-decamelon-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/junjou-decamelon-1.webp",
+      "endpointPath": "/watch/junjou-decamelon-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Junjou Shoujo Et Cetera",
+      "slug": "junjou-shoujo-et-cetera",
+      "episodes": 2,
+      "first_episode_slug": "junjou-shoujo-et-cetera-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/junjou-shoujo-et-cetera-1.webp",
+      "endpointPath": "/watch/junjou-shoujo-et-cetera-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Kanochi x Netorare Kazoku",
+      "slug": "kanochi-x-netorare-kazoku",
+      "episodes": 2,
+      "first_episode_slug": "kanochi-x-netorare-kazoku-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/eae8d328be5380c15a08f5fcc237846e9c47a9bb.png",
+      "endpointPath": "/watch/kanochi-x-netorare-kazoku-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Kanojo Face The Animation",
+      "slug": "kanojo-face-the-animation",
+      "episodes": 2,
+      "first_episode_slug": "kanojo-face-the-animation-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/2413518bff0d69f2e1315522989c73cec04cabed.png",
+      "endpointPath": "/watch/kanojo-face-the-animation-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Kateikyoushi X Saimin 2 The Animation",
+      "slug": "kateikyoushi-x-saimin-2-the-animation",
+      "episodes": 2,
+      "first_episode_slug": "kateikyoushi-x-saimin-2-the-animation-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/kateikyoushi-x-saimin-2-the-animation-1.webp",
+      "endpointPath": "/watch/kateikyoushi-x-saimin-2-the-animation-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Kenki Virgo",
+      "slug": "kenki-virgo",
+      "episodes": 2,
+      "first_episode_slug": "kenki-virgo-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/24c4eea9519af9514509cd56090d0a5abc076dbe.jpg",
+      "endpointPath": "/watch/kenki-virgo-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Kiken na Mori Onigokko",
+      "slug": "kiken-na-mori-onigokko",
+      "episodes": 2,
+      "first_episode_slug": "kiken-na-mori-onigokko-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/de43af336795bc55ca0ac4c42757758d95f7ddcc.jpg",
+      "endpointPath": "/watch/kiken-na-mori-onigokko-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Kininaru Roommate",
+      "slug": "kininaru-roommate",
+      "episodes": 2,
+      "first_episode_slug": "kininaru-roommate-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/kininaru-roommate-1.webp",
+      "endpointPath": "/watch/kininaru-roommate-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Kitsune Musume No Ecchi Na Oyado",
+      "slug": "kitsune-musume-no-ecchi-na-oyado",
+      "episodes": 2,
+      "first_episode_slug": "kitsune-musume-no-ecchi-na-oyado-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/kitsune-musume-no-ecchi-na-oyado-1.webp",
+      "endpointPath": "/watch/kitsune-musume-no-ecchi-na-oyado-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Kohakuiro No Hunter The Animation",
+      "slug": "kohakuiro-no-hunter-the-animation",
+      "episodes": 2,
+      "first_episode_slug": "kohakuiro-no-hunter-the-animation-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/kohakuiro-no-hunter-the-animation-1.webp",
+      "endpointPath": "/watch/kohakuiro-no-hunter-the-animation-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Konomi Ja Nai Kedo Mukatsuku Ane To Aishou Batsugun Ecchi",
+      "slug": "konomi-ja-nai-kedo-mukatsuku-ane-to-aishou-batsugun-ecchi",
+      "episodes": 2,
+      "first_episode_slug": "konomi-ja-nai-kedo-mukatsuku-ane-to-aishou-batsugun-ecchi-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/konomi-ja-nai-kedo-mukatsuku-ane-to-aishou-batsugun-ecchi-1.webp",
+      "endpointPath": "/watch/konomi-ja-nai-kedo-mukatsuku-ane-to-aishou-batsugun-ecchi-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Kotowari Kimi No Kokoro No Koboreta Kakera",
+      "slug": "kotowari-kimi-no-kokoro-no-koboreta-kakera",
+      "episodes": 2,
+      "first_episode_slug": "kotowari-kimi-no-kokoro-no-koboreta-kakera-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/kotowari-kimi-no-kokoro-no-koboreta-kakera-1.webp",
+      "endpointPath": "/watch/kotowari-kimi-no-kokoro-no-koboreta-kakera-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Koumi Jima Shuu 7 De Umeru Mesu Tachi",
+      "slug": "koumi-jima-shuu-7-de-umeru-mesu-tachi",
+      "episodes": 2,
+      "first_episode_slug": "koumi-jima-shuu-7-de-umeru-mesu-tachi-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/koumi-jima-shuu-7-de-umeru-mesu-tachi-1.webp",
+      "endpointPath": "/watch/koumi-jima-shuu-7-de-umeru-mesu-tachi-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Koushoku no Chuugi Kunoichi Botan",
+      "slug": "koushoku-no-chuugi-kunoichi-botan",
+      "episodes": 2,
+      "first_episode_slug": "koushoku-no-chuugi-kunoichi-botan-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/cb884017d0c9a6df5df51e0ede97c64d92ddd257.png",
+      "endpointPath": "/watch/koushoku-no-chuugi-kunoichi-botan-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Kozukuri Ninkatsu Bu!",
+      "slug": "kozukuri-ninkatsu-bu",
+      "episodes": 2,
+      "first_episode_slug": "kozukuri-ninkatsu-bu-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/94d7633077918f427f6f3ab274763ca61e0b5636.png",
+      "endpointPath": "/watch/kozukuri-ninkatsu-bu-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Kuro Gal a la Carte",
+      "slug": "kuro-gal-a-la-carte",
+      "episodes": 2,
+      "first_episode_slug": "kuro-gal-a-la-carte-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/7d7ab59b91e1488062f3f6c0aa03155810d48b87.jpg",
+      "endpointPath": "/watch/kuro-gal-a-la-carte-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Kutsujoku 2 The Animation",
+      "slug": "kutsujoku-2-the-animation",
+      "episodes": 2,
+      "first_episode_slug": "kutsujoku-2-the-animation-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/kutsujoku-2-the-animation-1.webp",
+      "endpointPath": "/watch/kutsujoku-2-the-animation-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Kyokugen Chikan Tokuiten 3 The Animation",
+      "slug": "kyokugen-chikan-tokuiten-3-the-animation",
+      "episodes": 2,
+      "first_episode_slug": "kyokugen-chikan-tokuiten-3-the-animation-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/7654891a200f60b1626d6bd218cda29800e4ed42.jpg",
+      "endpointPath": "/watch/kyokugen-chikan-tokuiten-3-the-animation-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Kyonyuu ga Futari Inai to Bokki Shinai Otto no Tame ni Tomodachi wo Tsuretekita Tsuma",
+      "slug": "kyonyuu-ga-futari-inai-to-bokki-shinai-otto-no-tame-ni-tomodachi-wo-tsuretekita-tsuma",
+      "episodes": 2,
+      "first_episode_slug": "kyonyuu-ga-futari-inai-to-bokki-shinai-otto-no-tame-ni-tomodachi-wo-tsuretekita-tsuma-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/89ac849a0b3d672c2d7390575a927c50a311fdb7.jpg",
+      "endpointPath": "/watch/kyonyuu-ga-futari-inai-to-bokki-shinai-otto-no-tame-ni-tomodachi-wo-tsuretekita-tsuma-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "L'amour fou de l'automate",
+      "slug": "lamour-fou-de-lautomate",
+      "episodes": 2,
+      "first_episode_slug": "lamour-fou-de-lautomate-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/3368f573a20437787aa71082c5f2133b5bcb1ade.jpg",
+      "endpointPath": "/watch/lamour-fou-de-lautomate-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Love X Holic Miwaku No Otome To Hakudaku Kankei",
+      "slug": "love-x-holic-miwaku-no-otome-to-hakudaku-kankei",
+      "episodes": 2,
+      "first_episode_slug": "love-x-holic-miwaku-no-otome-to-hakudaku-kankei-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/love-x-holic-miwaku-no-otome-to-hakudaku-kankei-1.webp",
+      "endpointPath": "/watch/love-x-holic-miwaku-no-otome-to-hakudaku-kankei-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Lovely Heart",
+      "slug": "lovely-heart",
+      "episodes": 2,
+      "first_episode_slug": "lovely-heart-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/lovely-heart-1.webp",
+      "endpointPath": "/watch/lovely-heart-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Maid Kyouiku. Botsuraku Kizoku Rurikawa Tsubaki",
+      "slug": "maid-kyouiku-botsuraku-kizoku-rurikawa-tsubaki",
+      "episodes": 2,
+      "first_episode_slug": "maid-kyouiku-botsuraku-kizoku-rurikawa-tsubaki-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/d32d52b1458186b94f0bb3d63f2b7e1846d41d01.jpg",
+      "endpointPath": "/watch/maid-kyouiku-botsuraku-kizoku-rurikawa-tsubaki-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Mama X Holic Miwaku No Mama To Amaama Kankei",
+      "slug": "mama-x-holic-miwaku-no-mama-to-amaama-kankei",
+      "episodes": 2,
+      "first_episode_slug": "mama-x-holic-miwaku-no-mama-to-amaama-kankei-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/mama-x-holic-miwaku-no-mama-to-amaama-kankei-1.webp",
+      "endpointPath": "/watch/mama-x-holic-miwaku-no-mama-to-amaama-kankei-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Maso Mesu Soap de Aimashou",
+      "slug": "maso-mesu-soap-de-aimashou",
+      "episodes": 2,
+      "first_episode_slug": "maso-mesu-soap-de-aimashou-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/0782bd7cbf5b0804584fb358631d2a4a890dfc38.jpg",
+      "endpointPath": "/watch/maso-mesu-soap-de-aimashou-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Mesu o Karu Mura",
+      "slug": "mesu-o-karu-mura",
+      "episodes": 2,
+      "first_episode_slug": "mesu-o-karu-mura-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/a401c1123e5a35169d3b6415df7f5bbd80430384.jpg",
+      "endpointPath": "/watch/mesu-o-karu-mura-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Mujin Eki The Animation",
+      "slug": "mujin-eki-the-animation",
+      "episodes": 2,
+      "first_episode_slug": "mujin-eki-the-animation-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/3f40d7b75bd7819ea1ad7cfe88f3fa42265dae8d.jpg",
+      "endpointPath": "/watch/mujin-eki-the-animation-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Natsu to Hako",
+      "slug": "natsu-to-hako",
+      "episodes": 2,
+      "first_episode_slug": "natsu-to-hako-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/b249862e70184803f28249076d141ffb64579ed1.jpg",
+      "endpointPath": "/watch/natsu-to-hako-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Natsu Zuma",
+      "slug": "natsu-zuma",
+      "episodes": 2,
+      "first_episode_slug": "natsu-zuma-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/64d5e4a54379b7672ed02b1410072a4c19938b2d.jpg",
+      "endpointPath": "/watch/natsu-zuma-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Netorareta Bakunyuu Tsuma-tachi",
+      "slug": "netorareta-bakunyuu-tsuma-tachi",
+      "episodes": 2,
+      "first_episode_slug": "netorareta-bakunyuu-tsuma-tachi-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/34b5cc9ac5eb5a7e9c8beb5986dfdb449c239192.png",
+      "endpointPath": "/watch/netorareta-bakunyuu-tsuma-tachi-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Night Tail",
+      "slug": "night-tail",
+      "episodes": 2,
+      "first_episode_slug": "night-tail-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/night-tail-1.webp",
+      "endpointPath": "/watch/night-tail-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Nikuen",
+      "slug": "nikuen",
+      "episodes": 2,
+      "first_episode_slug": "nikuen-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/569bee09ff40b3bc25d5ff3e4a76473ec889d05d.png",
+      "endpointPath": "/watch/nikuen-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Nocturnal",
+      "slug": "nocturnal",
+      "episodes": 2,
+      "first_episode_slug": "nocturnal-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/nocturnal-1.webp",
+      "endpointPath": "/watch/nocturnal-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Nonohara Yuzuka no Himitsu no Haishin",
+      "slug": "nonohara-yuzuka-no-himitsu-no-haishin",
+      "episodes": 2,
+      "first_episode_slug": "nonohara-yuzuka-no-himitsu-no-haishin-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/b9991246883ce3730137fb8b975a15092bf199f4.png",
+      "endpointPath": "/watch/nonohara-yuzuka-no-himitsu-no-haishin-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Oni Chichi",
+      "slug": "oni-chichi",
+      "episodes": 2,
+      "first_episode_slug": "oni-chichi-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/oni-chichi-1.webp",
+      "endpointPath": "/watch/oni-chichi-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Oni Chichi Re Born",
+      "slug": "oni-chichi-re-born",
+      "episodes": 2,
+      "first_episode_slug": "oni-chichi-re-born-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/oni-chichi-re-born-1.webp",
+      "endpointPath": "/watch/oni-chichi-re-born-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Oshikake! Bakunyuu Gyaru Harem Seikatsu",
+      "slug": "oshikake-bakunyuu-gyaru-harem-seikatsu",
+      "episodes": 2,
+      "first_episode_slug": "oshikake-bakunyuu-gyaru-harem-seikatsu-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/1a27cd870baaa407ba61fbd22a6718bfbc62f568.jpg",
+      "endpointPath": "/watch/oshikake-bakunyuu-gyaru-harem-seikatsu-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Otogibanashi No Onigokko",
+      "slug": "otogibanashi-no-onigokko",
+      "episodes": 2,
+      "first_episode_slug": "otogibanashi-no-onigokko-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/otogibanashi-no-onigokko-1.webp",
+      "endpointPath": "/watch/otogibanashi-no-onigokko-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Otome Wa Boku Ni Koi Shiteru Trinkle Stars",
+      "slug": "otome-wa-boku-ni-koi-shiteru-trinkle-stars",
+      "episodes": 2,
+      "first_episode_slug": "otome-wa-boku-ni-koi-shiteru-trinkle-stars-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/otome-wa-boku-ni-koi-shiteru-trinkle-stars-1.webp",
+      "endpointPath": "/watch/otome-wa-boku-ni-koi-shiteru-trinkle-stars-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Paihame Kazoku",
+      "slug": "paihame-kazoku",
+      "episodes": 2,
+      "first_episode_slug": "paihame-kazoku-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/aa6293145ee89bf92a502aaa5b2bdb09787742fe.jpg",
+      "endpointPath": "/watch/paihame-kazoku-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Princess Burst!",
+      "slug": "princess-burst",
+      "episodes": 2,
+      "first_episode_slug": "princess-burst-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/bdc9e98d7e6146c0f4080f90dc806541d9a8d073.jpg",
+      "endpointPath": "/watch/princess-burst-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Pure Pure Pero Pero Princess",
+      "slug": "pure-pure-pero-pero-princess",
+      "episodes": 2,
+      "first_episode_slug": "pure-pure-pero-pero-princess-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/3f6b9026e733c5af9dd3c9ba65ac05700ecea582.jpg",
+      "endpointPath": "/watch/pure-pure-pero-pero-princess-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Raikou Shinki Aigis Magia Pandra Saga 3rd Ignition",
+      "slug": "raikou-shinki-aigis-magia-pandra-saga-3rd-ignition",
+      "episodes": 2,
+      "first_episode_slug": "raikou-shinki-aigis-magia-pandra-saga-3rd-ignition-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/raikou-shinki-aigis-magia-pandra-saga-3rd-ignition-1.webp",
+      "endpointPath": "/watch/raikou-shinki-aigis-magia-pandra-saga-3rd-ignition-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Rakuen Shinshoku: Island of the Dead",
+      "slug": "rakuen-shinshoku-island-of-the-dead",
+      "episodes": 2,
+      "first_episode_slug": "rakuen-shinshoku-island-of-the-dead-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/60b23601fd7aee236fd93eb57eb23a451e2a06ce.png",
+      "endpointPath": "/watch/rakuen-shinshoku-island-of-the-dead-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Ran Sem Hakudaku Delmo Tsuma No Miira Tori",
+      "slug": "ran-sem-hakudaku-delmo-tsuma-no-miira-tori",
+      "episodes": 2,
+      "first_episode_slug": "ran-sem-hakudaku-delmo-tsuma-no-miira-tori-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/ran-sem-hakudaku-delmo-tsuma-no-miira-tori-1.webp",
+      "endpointPath": "/watch/ran-sem-hakudaku-delmo-tsuma-no-miira-tori-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Rin X Sen Hakudaku Onna Kyoushi To Yaroudomo",
+      "slug": "rin-x-sen-hakudaku-onna-kyoushi-to-yaroudomo",
+      "episodes": 2,
+      "first_episode_slug": "rin-x-sen-hakudaku-onna-kyoushi-to-yaroudomo-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/rin-x-sen-hakudaku-onna-kyoushi-to-yaroudomo-1.webp",
+      "endpointPath": "/watch/rin-x-sen-hakudaku-onna-kyoushi-to-yaroudomo-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Seifuku wa Kita mama de",
+      "slug": "seifuku-wa-kita-mama-de",
+      "episodes": 2,
+      "first_episode_slug": "seifuku-wa-kita-mama-de-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/95e13c61864eafe2076af519ee60fe300398ab13.jpg",
+      "endpointPath": "/watch/seifuku-wa-kita-mama-de-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Seihou Shouka Saint Lime",
+      "slug": "seihou-shouka-saint-lime",
+      "episodes": 2,
+      "first_episode_slug": "seihou-shouka-saint-lime-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/594111e6fbc85b41cee22038faa568017ec146c0.jpg",
+      "endpointPath": "/watch/seihou-shouka-saint-lime-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Seikatsu Shuukan The Animation",
+      "slug": "seikatsu-shuukan-the-animation",
+      "episodes": 2,
+      "first_episode_slug": "seikatsu-shuukan-the-animation-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/seikatsu-shuukan-the-animation-1.webp",
+      "endpointPath": "/watch/seikatsu-shuukan-the-animation-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Seikon no Aria",
+      "slug": "seikon-no-aria",
+      "episodes": 2,
+      "first_episode_slug": "seikon-no-aria-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/a9587ee7a9b3ee2fca0316533df06eafeec68c42.jpg",
+      "endpointPath": "/watch/seikon-no-aria-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Seikou Senki Pony Celes",
+      "slug": "seikou-senki-pony-celes",
+      "episodes": 2,
+      "first_episode_slug": "seikou-senki-pony-celes-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/d4101cb4e43cec7f9e78c18bec854b32533f11e8.jpg",
+      "endpointPath": "/watch/seikou-senki-pony-celes-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Shinsei Kourin Dacryon Luna",
+      "slug": "shinsei-kourin-dacryon-luna",
+      "episodes": 2,
+      "first_episode_slug": "shinsei-kourin-dacryon-luna-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/26b9040875fccae23c0e9d12d639ce7a2cc9181d.jpg",
+      "endpointPath": "/watch/shinsei-kourin-dacryon-luna-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Shiranai Koto Shiritai no? The Animation",
+      "slug": "shiranai-koto-shiritai-no-the-animation",
+      "episodes": 2,
+      "first_episode_slug": "shiranai-koto-shiritai-no-the-animation-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/4546fde4c6589f76cb4a3a92206e55a694c8720a.png",
+      "endpointPath": "/watch/shiranai-koto-shiritai-no-the-animation-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Shoujo Kara Shoujo E",
+      "slug": "shoujo-kara-shoujo-e",
+      "episodes": 2,
+      "first_episode_slug": "shoujo-kara-shoujo-e-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/shoujo-kara-shoujo-e-1.webp",
+      "endpointPath": "/watch/shoujo-kara-shoujo-e-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Shunka Shuutou",
+      "slug": "shunka-shuutou",
+      "episodes": 2,
+      "first_episode_slug": "shunka-shuutou-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/shunka-shuutou-1.webp",
+      "endpointPath": "/watch/shunka-shuutou-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Sinisistar",
+      "slug": "sinisistar",
+      "episodes": 2,
+      "first_episode_slug": "sinisistar-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/sinisistar-1.webp",
+      "endpointPath": "/watch/sinisistar-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Sleepless A Midsummer Nights Dream",
+      "slug": "sleepless-a-midsummer-nights-dream",
+      "episodes": 2,
+      "first_episode_slug": "sleepless-a-midsummer-nights-dream-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/sleepless-a-midsummer-nights-dream-1.webp",
+      "endpointPath": "/watch/sleepless-a-midsummer-nights-dream-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Sleepless Nocturne",
+      "slug": "sleepless-nocturne",
+      "episodes": 2,
+      "first_episode_slug": "sleepless-nocturne-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/sleepless-nocturne-1.webp",
+      "endpointPath": "/watch/sleepless-nocturne-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "So_low",
+      "slug": "so_low",
+      "episodes": 2,
+      "first_episode_slug": "so_low-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/so_low-1.webp",
+      "endpointPath": "/watch/so_low-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Succubus Yondara Haha Ga Kita",
+      "slug": "succubus-yondara-haha-ga-kita",
+      "episodes": 2,
+      "first_episode_slug": "succubus-yondara-haha-ga-kita-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/succubus-yondara-haha-ga-kita-1.webp",
+      "endpointPath": "/watch/succubus-yondara-haha-ga-kita-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Summer Inaka No Seikatsu",
+      "slug": "summer-inaka-no-seikatsu",
+      "episodes": 2,
+      "first_episode_slug": "summer-inaka-no-seikatsu-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/summer-inaka-no-seikatsu-1.webp",
+      "endpointPath": "/watch/summer-inaka-no-seikatsu-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Sweet And Hot",
+      "slug": "sweet-and-hot",
+      "episodes": 2,
+      "first_episode_slug": "sweet-and-hot-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/sweet-and-hot-1.webp",
+      "endpointPath": "/watch/sweet-and-hot-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Toumei Ningen",
+      "slug": "toumei-ningen",
+      "episodes": 2,
+      "first_episode_slug": "toumei-ningen-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/toumei-ningen-1.webp",
+      "endpointPath": "/watch/toumei-ningen-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Tsuma Ni Damatte Sokubaikai Ni Ikun Ja Nakatta",
+      "slug": "tsuma-ni-damatte-sokubaikai-ni-ikun-ja-nakatta",
+      "episodes": 2,
+      "first_episode_slug": "tsuma-ni-damatte-sokubaikai-ni-ikun-ja-nakatta-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/tsuma-ni-damatte-sokubaikai-ni-ikun-ja-nakatta-1.webp",
+      "endpointPath": "/watch/tsuma-ni-damatte-sokubaikai-ni-ikun-ja-nakatta-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Uchi No Otouto Maji De Dekain Dakedo Mi Ni Konai",
+      "slug": "uchi-no-otouto-maji-de-dekain-dakedo-mi-ni-konai",
+      "episodes": 2,
+      "first_episode_slug": "uchi-no-otouto-maji-de-dekain-dakedo-mi-ni-konai-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/uchi-no-otouto-maji-de-dekain-dakedo-mi-ni-konai-1.webp",
+      "endpointPath": "/watch/uchi-no-otouto-maji-de-dekain-dakedo-mi-ni-konai-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Yamitsuki Mura Melty Limit The Animation",
+      "slug": "yamitsuki-mura-melty-limit-the-animation",
+      "episodes": 2,
+      "first_episode_slug": "yamitsuki-mura-melty-limit-the-animation-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/yamitsuki-mura-melty-limit-the-animation-1.webp",
+      "endpointPath": "/watch/yamitsuki-mura-melty-limit-the-animation-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Yari Agari",
+      "slug": "yari-agari",
+      "episodes": 2,
+      "first_episode_slug": "yari-agari-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/yari-agari-1.webp",
+      "endpointPath": "/watch/yari-agari-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Yarichin Kateikyoushi Netori Houkoku Dosukebe Kyonyuu Oyakodon",
+      "slug": "yarichin-kateikyoushi-netori-houkoku-dosukebe-kyonyuu-oyakodon",
+      "episodes": 2,
+      "first_episode_slug": "yarichin-kateikyoushi-netori-houkoku-dosukebe-kyonyuu-oyakodon-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/yarichin-kateikyoushi-netori-houkoku-dosukebe-kyonyuu-oyakodon-1.webp",
+      "endpointPath": "/watch/yarichin-kateikyoushi-netori-houkoku-dosukebe-kyonyuu-oyakodon-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Yuusha-chan no Bouken wa Owatte Shimatta!",
+      "slug": "yuusha-chan-no-bouken-wa-owatte-shimatta",
+      "episodes": 2,
+      "first_episode_slug": "yuusha-chan-no-bouken-wa-owatte-shimatta-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/90eeeee20c8632673d944e7ada662fb55d93d7ca.jpg",
+      "endpointPath": "/watch/yuusha-chan-no-bouken-wa-owatte-shimatta-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Yuuwaku",
+      "slug": "yuuwaku",
+      "episodes": 2,
+      "first_episode_slug": "yuuwaku-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/yuuwaku-1.webp",
+      "endpointPath": "/watch/yuuwaku-1",
+      "description": "Complete serialized collection • 2 episodes"
+    },
+    {
+      "name": "Aibeya The Animation",
+      "slug": "aibeya-the-animation",
+      "episodes": 1,
+      "first_episode_slug": "aibeya-the-animation-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/aibeya-the-animation-1.webp",
+      "endpointPath": "/watch/aibeya-the-animation-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Aikagi The Animation",
+      "slug": "aikagi-the-animation",
+      "episodes": 1,
+      "first_episode_slug": "aikagi-the-animation-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/aikagi-the-animation-1.webp",
+      "endpointPath": "/watch/aikagi-the-animation-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Ajisai No Chiru Koro Ni",
+      "slug": "ajisai-no-chiru-koro-ni",
+      "episodes": 1,
+      "first_episode_slug": "ajisai-no-chiru-koro-ni-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/ajisai-no-chiru-koro-ni-1.webp",
+      "endpointPath": "/watch/ajisai-no-chiru-koro-ni-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Amai Ijiwaru",
+      "slug": "amai-ijiwaru",
+      "episodes": 1,
+      "first_episode_slug": "amai-ijiwaru-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/929c4bad38602d642efac14e5586bea61f471c53.png",
+      "endpointPath": "/watch/amai-ijiwaru-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Anal Mania Otaku to Ananii Daisuki na Ojou-sama",
+      "slug": "anal-mania-otaku-to-ananii-daisuki-na-ojou-sama",
+      "episodes": 1,
+      "first_episode_slug": "anal-mania-otaku-to-ananii-daisuki-na-ojou-sama-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/01158c69f91a677ef0475ad56742e4152beed0d7.jpg",
+      "endpointPath": "/watch/anal-mania-otaku-to-ananii-daisuki-na-ojou-sama-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Anette San To Liliana San The Animation",
+      "slug": "anette-san-to-liliana-san-the-animation",
+      "episodes": 1,
+      "first_episode_slug": "anette-san-to-liliana-san-the-animation-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/anette-san-to-liliana-san-the-animation-1.webp",
+      "endpointPath": "/watch/anette-san-to-liliana-san-the-animation-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Boku Wa Chiisana Succubus No Shimobe",
+      "slug": "boku-wa-chiisana-succubus-no-shimobe",
+      "episodes": 1,
+      "first_episode_slug": "boku-wa-chiisana-succubus-no-shimobe-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/boku-wa-chiisana-succubus-no-shimobe-1.webp",
+      "endpointPath": "/watch/boku-wa-chiisana-succubus-no-shimobe-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Bonyuu Chan Wa Dashitai",
+      "slug": "bonyuu-chan-wa-dashitai",
+      "episodes": 1,
+      "first_episode_slug": "bonyuu-chan-wa-dashitai-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/bonyuu-chan-wa-dashitai-1.webp",
+      "endpointPath": "/watch/bonyuu-chan-wa-dashitai-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Delivery Chinko O Tanomitai Onee San",
+      "slug": "delivery-chinko-o-tanomitai-onee-san",
+      "episodes": 1,
+      "first_episode_slug": "delivery-chinko-o-tanomitai-onee-san-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/delivery-chinko-o-tanomitai-onee-san-1.webp",
+      "endpointPath": "/watch/delivery-chinko-o-tanomitai-onee-san-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Etsuraku No Tane",
+      "slug": "etsuraku-no-tane",
+      "episodes": 1,
+      "first_episode_slug": "etsuraku-no-tane-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/etsuraku-no-tane-1.webp",
+      "endpointPath": "/watch/etsuraku-no-tane-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Fushigi No Kuni No Succubus",
+      "slug": "fushigi-no-kuni-no-succubus",
+      "episodes": 1,
+      "first_episode_slug": "fushigi-no-kuni-no-succubus-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/fushigi-no-kuni-no-succubus-1.webp",
+      "endpointPath": "/watch/fushigi-no-kuni-no-succubus-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Futari no Yume Mochi",
+      "slug": "futari-no-yume-mochi",
+      "episodes": 1,
+      "first_episode_slug": "futari-no-yume-mochi-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/1b5bd066f30e0d35e9ce7bcb4762ed1b2bc18481.jpg",
+      "endpointPath": "/watch/futari-no-yume-mochi-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Garden Takamine Ke No Nirinka The Animation",
+      "slug": "garden-takamine-ke-no-nirinka-the-animation",
+      "episodes": 1,
+      "first_episode_slug": "garden-takamine-ke-no-nirinka-the-animation-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/garden-takamine-ke-no-nirinka-the-animation-1.webp",
+      "endpointPath": "/watch/garden-takamine-ke-no-nirinka-the-animation-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "H na Gishi Series The Animation",
+      "slug": "h-na-gishi-series-the-animation",
+      "episodes": 1,
+      "first_episode_slug": "h-na-gishi-series-the-animation-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/b283e2d9057759cece2c48617415b8b291128178.jpg",
+      "endpointPath": "/watch/h-na-gishi-series-the-animation-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Hebi to Kumo",
+      "slug": "hebi-to-kumo",
+      "episodes": 1,
+      "first_episode_slug": "hebi-to-kumo-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/7486a61b8c7fbf7bbcf4777082ad63b225001e2c.jpg",
+      "endpointPath": "/watch/hebi-to-kumo-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Honey Blonde 2 Episode",
+      "slug": "honey-blonde-2-episode",
+      "episodes": 1,
+      "first_episode_slug": "honey-blonde-2-episode-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/6718862df39a79ea4579ffb1bc9723520d110724.jpg",
+      "endpointPath": "/watch/honey-blonde-2-episode-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Iizuka Senpai X Blazer Ane Kyun Yori",
+      "slug": "iizuka-senpai-x-blazer-ane-kyun-yori",
+      "episodes": 1,
+      "first_episode_slug": "iizuka-senpai-x-blazer-ane-kyun-yori-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/iizuka-senpai-x-blazer-ane-kyun-yori-1.webp",
+      "endpointPath": "/watch/iizuka-senpai-x-blazer-ane-kyun-yori-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Immoral Routine",
+      "slug": "immoral-routine",
+      "episodes": 1,
+      "first_episode_slug": "immoral-routine-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/da93994340eb81ffc96e194e329ce366eff29ba0.png",
+      "endpointPath": "/watch/immoral-routine-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Inbaku Gakuen",
+      "slug": "inbaku-gakuen",
+      "episodes": 1,
+      "first_episode_slug": "inbaku-gakuen-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/inbaku-gakuen-1.webp",
+      "endpointPath": "/watch/inbaku-gakuen-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Inshoku Ou Demar",
+      "slug": "inshoku-ou-demar",
+      "episodes": 1,
+      "first_episode_slug": "inshoku-ou-demar-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/674fc6884b839c58f36aaeb97500127d1eb0d691.jpg",
+      "endpointPath": "/watch/inshoku-ou-demar-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Jewelry The Animation",
+      "slug": "jewelry-the-animation",
+      "episodes": 1,
+      "first_episode_slug": "jewelry-the-animation",
+      "thumbnail": "https://hentaiocean.com/thumbnail/jewelry-the-animation.webp",
+      "endpointPath": "/watch/jewelry-the-animation",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Kanojo ga Separate o Matou Riyuu",
+      "slug": "kanojo-ga-separate-o-matou-riyuu",
+      "episodes": 1,
+      "first_episode_slug": "kanojo-ga-separate-o-matou-riyuu-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/cd222c10af5c34add5c5ce8b52b665c6e46a2d2c.jpeg",
+      "endpointPath": "/watch/kanojo-ga-separate-o-matou-riyuu-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Kisaku Reiwa Ban",
+      "slug": "kisaku-reiwa-ban",
+      "episodes": 1,
+      "first_episode_slug": "kisaku-reiwa-ban-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/kisaku-reiwa-ban-1.webp",
+      "endpointPath": "/watch/kisaku-reiwa-ban-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Kunoichi Bakumatsu Kitan",
+      "slug": "kunoichi-bakumatsu-kitan",
+      "episodes": 1,
+      "first_episode_slug": "kunoichi-bakumatsu-kitan-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/kunoichi-bakumatsu-kitan-1.webp",
+      "endpointPath": "/watch/kunoichi-bakumatsu-kitan-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Kuroinu Ii The Animation",
+      "slug": "kuroinu-ii-the-animation",
+      "episodes": 1,
+      "first_episode_slug": "kuroinu-ii-the-animation-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/kuroinu-ii-the-animation-1.webp",
+      "endpointPath": "/watch/kuroinu-ii-the-animation-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Kyou wa Yubiwa wo Hazusu kara...",
+      "slug": "kyou-wa-yubiwa-wo-hazusu-kara",
+      "episodes": 1,
+      "first_episode_slug": "kyou-wa-yubiwa-wo-hazusu-kara-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/0407f5e5f113c80a27279fdd3ff431d58ab74434.jpg",
+      "endpointPath": "/watch/kyou-wa-yubiwa-wo-hazusu-kara-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Love Me: Kakurenbo",
+      "slug": "kakurenbo",
+      "episodes": 1,
+      "first_episode_slug": "kakurenbo-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/37cfa2e4218e2eebf18410176a3182ea885c8fb3.png",
+      "endpointPath": "/watch/kakurenbo-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Love wa Gal kara Hajimaru Unmei",
+      "slug": "love-wa-gal-kara-hajimaru-unmei",
+      "episodes": 1,
+      "first_episode_slug": "love-wa-gal-kara-hajimaru-unmei-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/6319651f7fdca0fb121040de7627d61d3fc82798.jpg",
+      "endpointPath": "/watch/love-wa-gal-kara-hajimaru-unmei-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Mashou No Kao",
+      "slug": "mashou-no-kao",
+      "episodes": 1,
+      "first_episode_slug": "mashou-no-kao-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/mashou-no-kao-1.webp",
+      "endpointPath": "/watch/mashou-no-kao-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Mesudachi",
+      "slug": "mesudachi",
+      "episodes": 1,
+      "first_episode_slug": "mesudachi-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/mesudachi-1.webp",
+      "endpointPath": "/watch/mesudachi-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Motokare to wa Dekinakatta Sex Shitemo Ii desu ka?",
+      "slug": "motokare-to-wa-dekinakatta-sex-shitemo-ii-desu-ka",
+      "episodes": 1,
+      "first_episode_slug": "motokare-to-wa-dekinakatta-sex-shitemo-ii-desu-ka-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/130fc5accf26b5af70e50671c2b8ff98f90add6c.png",
+      "endpointPath": "/watch/motokare-to-wa-dekinakatta-sex-shitemo-ii-desu-ka-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Mou Ichido, Shitemitai.",
+      "slug": "mou-ichido-shitemitai",
+      "episodes": 1,
+      "first_episode_slug": "mou-ichido-shitemitai-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/850972c804179f424876972dc33a7f150bbb7320.png",
+      "endpointPath": "/watch/mou-ichido-shitemitai-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Muchuu no Tou",
+      "slug": "muchuu-no-tou",
+      "episodes": 1,
+      "first_episode_slug": "muchuu-no-tou-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/c883f06bb3756c9e583aa3c423eb1b8033b01db0.jpg",
+      "endpointPath": "/watch/muchuu-no-tou-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "My Mother",
+      "slug": "my-mother",
+      "episodes": 1,
+      "first_episode_slug": "my-mother-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/my-mother-1.webp",
+      "endpointPath": "/watch/my-mother-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Naisho No Wakana San",
+      "slug": "naisho-no-wakana-san",
+      "episodes": 1,
+      "first_episode_slug": "naisho-no-wakana-san-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/naisho-no-wakana-san-1.webp",
+      "endpointPath": "/watch/naisho-no-wakana-san-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Natsu Ga Owaru Made",
+      "slug": "natsu-ga-owaru-made",
+      "episodes": 1,
+      "first_episode_slug": "natsu-ga-owaru-made-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/natsu-ga-owaru-made-1.webp",
+      "endpointPath": "/watch/natsu-ga-owaru-made-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "No Waifu No Life",
+      "slug": "no-waifu-no-life",
+      "episodes": 1,
+      "first_episode_slug": "no-waifu-no-life-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/no-waifu-no-life-1.webp",
+      "endpointPath": "/watch/no-waifu-no-life-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Notto Sexaroid Eurie!",
+      "slug": "notto-sexaroid-eurie",
+      "episodes": 1,
+      "first_episode_slug": "notto-sexaroid-eurie-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/42f58d507218b7153afa6bb6edc0a6c6c0f4c02e.png",
+      "endpointPath": "/watch/notto-sexaroid-eurie-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Oni Chichi 2 Harvest",
+      "slug": "oni-chichi-2-harvest",
+      "episodes": 1,
+      "first_episode_slug": "oni-chichi-2-harvest-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/oni-chichi-2-harvest-1.webp",
+      "endpointPath": "/watch/oni-chichi-2-harvest-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Oni Chichi Kakeeshon",
+      "slug": "oni-chichi-kakeeshon",
+      "episodes": 1,
+      "first_episode_slug": "oni-chichi-kakeeshon-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/oni-chichi-kakeeshon-1.webp",
+      "endpointPath": "/watch/oni-chichi-kakeeshon-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Oni Chichi Re Birth",
+      "slug": "oni-chichi-re-birth",
+      "episodes": 1,
+      "first_episode_slug": "oni-chichi-re-birth-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/oni-chichi-re-birth-1.webp",
+      "endpointPath": "/watch/oni-chichi-re-birth-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Onii-san… Ohitori desu ka?",
+      "slug": "onii-san-ohitori-desu-ka",
+      "episodes": 1,
+      "first_episode_slug": "onii-san-ohitori-desu-ka-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/4a3c160c6b81af1aceaab1b777f359b5f3a64172.png",
+      "endpointPath": "/watch/onii-san-ohitori-desu-ka-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Otaku no Boku ga Ichigun Gal to Tsukiaeru made no Hanashi",
+      "slug": "otaku-no-boku-ga-ichigun-gal-to-tsukiaeru-made-no-hanashi",
+      "episodes": 1,
+      "first_episode_slug": "otaku-no-boku-ga-ichigun-gal-to-tsukiaeru-made-no-hanashi-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/c81bbdf0897bd5d6ced6c1f012636aaf08b605e0.jpg",
+      "endpointPath": "/watch/otaku-no-boku-ga-ichigun-gal-to-tsukiaeru-made-no-hanashi-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Otome Domain",
+      "slug": "otome-domain",
+      "episodes": 1,
+      "first_episode_slug": "otome-domain-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/otome-domain-1.webp",
+      "endpointPath": "/watch/otome-domain-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Phantom Alchemia: Silvia no Dokidoki Sakusei Toshi Keikaku",
+      "slug": "phantom-alchemia-silvia-no-dokidoki-sakusei-toshi-keikaku",
+      "episodes": 1,
+      "first_episode_slug": "phantom-alchemia-silvia-no-dokidoki-sakusei-toshi-keikaku-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/e0297dd3873e7195abbed3490a20c851fb17cbb4.jpg",
+      "endpointPath": "/watch/phantom-alchemia-silvia-no-dokidoki-sakusei-toshi-keikaku-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Sei Brunehilde Gakuen Shoujo Kishidan To Junpaku No Panty",
+      "slug": "sei-brunehilde-gakuen-shoujo-kishidan-to-junpaku-no-panty",
+      "episodes": 1,
+      "first_episode_slug": "sei-brunehilde-gakuen-shoujo-kishidan-to-junpaku-no-panty-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/sei-brunehilde-gakuen-shoujo-kishidan-to-junpaku-no-panty-1.webp",
+      "endpointPath": "/watch/sei-brunehilde-gakuen-shoujo-kishidan-to-junpaku-no-panty-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Seishidouin no Oshigoto",
+      "slug": "seishidouin-no-oshigoto",
+      "episodes": 1,
+      "first_episode_slug": "seishidouin-no-oshigoto-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/a9cc0828810be32485163fb10180c715691d0371.jpg",
+      "endpointPath": "/watch/seishidouin-no-oshigoto-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Shachiku Cinderella",
+      "slug": "shachiku-cinderella",
+      "episodes": 1,
+      "first_episode_slug": "shachiku-cinderella-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/18b0cf59e4ec60a00eac3b2a86410e9ef93f90d4.jpg",
+      "endpointPath": "/watch/shachiku-cinderella-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Shin Hitou Meguri",
+      "slug": "shin-hitou-meguri",
+      "episodes": 1,
+      "first_episode_slug": "shin-hitou-meguri-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/shin-hitou-meguri-1.webp",
+      "endpointPath": "/watch/shin-hitou-meguri-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Succuba Mist Story The Animation",
+      "slug": "succuba-mist-story-the-animation",
+      "episodes": 1,
+      "first_episode_slug": "succuba-mist-story-the-animation-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/succuba-mist-story-the-animation-1.webp",
+      "endpointPath": "/watch/succuba-mist-story-the-animation-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Taimanin Asagi Toraware No Niku Ningyou",
+      "slug": "taimanin-asagi-toraware-no-niku-ningyou",
+      "episodes": 1,
+      "first_episode_slug": "taimanin-asagi-toraware-no-niku-ningyou-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/taimanin-asagi-toraware-no-niku-ningyou-1.webp",
+      "endpointPath": "/watch/taimanin-asagi-toraware-no-niku-ningyou-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Taimanin Shiranui Inyoku No Dorei Shoufu",
+      "slug": "taimanin-shiranui-inyoku-no-dorei-shoufu",
+      "episodes": 1,
+      "first_episode_slug": "taimanin-shiranui-inyoku-no-dorei-shoufu-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/taimanin-shiranui-inyoku-no-dorei-shoufu-1.webp",
+      "endpointPath": "/watch/taimanin-shiranui-inyoku-no-dorei-shoufu-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Todo no Tsumari",
+      "slug": "todo-no-tsumari",
+      "episodes": 1,
+      "first_episode_slug": "todo-no-tsumari-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/bb0737d525a4e327af7e92d93f66540270a6c135.jpg",
+      "endpointPath": "/watch/todo-no-tsumari-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Tonari no Kanojo",
+      "slug": "tonari-no-kanojo",
+      "episodes": 1,
+      "first_episode_slug": "tonari-no-kanojo-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/a2e278fd7a951701966b386a0c464ba2f6486c5e.jpg",
+      "endpointPath": "/watch/tonari-no-kanojo-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Tsuma Netori Kan Bijutsu Kyoushi No Baai",
+      "slug": "tsuma-netori-kan-bijutsu-kyoushi-no-baai",
+      "episodes": 1,
+      "first_episode_slug": "tsuma-netori-kan-bijutsu-kyoushi-no-baai-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/tsuma-netori-kan-bijutsu-kyoushi-no-baai-1.webp",
+      "endpointPath": "/watch/tsuma-netori-kan-bijutsu-kyoushi-no-baai-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Ushichichi Tabehoudai",
+      "slug": "ushichichi-tabehoudai",
+      "episodes": 1,
+      "first_episode_slug": "ushichichi-tabehoudai-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/ushichichi-tabehoudai-1.webp",
+      "endpointPath": "/watch/ushichichi-tabehoudai-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Uwaki To Honki",
+      "slug": "uwaki-to-honki",
+      "episodes": 1,
+      "first_episode_slug": "uwaki-to-honki-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/uwaki-to-honki-1.webp",
+      "endpointPath": "/watch/uwaki-to-honki-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Yarakashi",
+      "slug": "yarakashi",
+      "episodes": 1,
+      "first_episode_slug": "yarakashi-1",
+      "thumbnail": "https://hentaiocean.com/thumbnail/yarakashi-1.webp",
+      "endpointPath": "/watch/yarakashi-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Yogoreta Kanojo",
+      "slug": "yogoreta-kanojo",
+      "episodes": 1,
+      "first_episode_slug": "yogoreta-kanojo-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/73693ff153d433b63364ea9c53c0a8717fa967e1.jpg",
+      "endpointPath": "/watch/yogoreta-kanojo-1",
+      "description": "Feature standalone release • 1 episode"
+    },
+    {
+      "name": "Yuugao",
+      "slug": "yuugao",
+      "episodes": 1,
+      "first_episode_slug": "yuugao-1",
+      "thumbnail": "https://hentaiocean.com/assets/cover/d93f2b29200f6e79190fbc0dee47d59495801d9c.png",
+      "endpointPath": "/watch/yuugao-1",
+      "description": "Feature standalone release • 1 episode"
+    }
+  ],
+  "summary": {
+    "total_genres": 49,
+    "total_playlists": 256
+  }
+}

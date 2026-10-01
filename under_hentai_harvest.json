@@ -1,0 +1,859 @@
+{
+  "probe_results": {
+    "https://www.underhentai.net/genres/": 404,
+    "https://www.underhentai.net/categories/": 404,
+    "https://www.underhentai.net/tags/": 404,
+    "https://www.underhentai.net/": 200,
+    "https://www.underhentai.net/index/": 200,
+    "https://www.underhentai.net/releases/2026/": 200,
+    "https://www.underhentai.net/uncensored/": 200,
+    "https://www.underhentai.net/top/all/": 200
+  },
+  "total_genres": 44,
+  "total_categories": 51,
+  "genres": [
+    {
+      "name": "Ahegao",
+      "slug": "ahegao",
+      "endpointPath": "/genre/ahegao/",
+      "count": 306,
+      "thumbnail": "https://static.underhentai.net/assets/images/2286-19D170BA.jpg?o=p&w=280",
+      "categoryGroup": "Attribute"
+    },
+    {
+      "name": "Anal",
+      "slug": "anal",
+      "endpointPath": "/genre/anal/",
+      "count": 612,
+      "thumbnail": "https://static.underhentai.net/assets/images/5193-6C058D7C.jpg?o=p&w=280",
+      "categoryGroup": "Act / Fetish"
+    },
+    {
+      "name": "BDSM",
+      "slug": "bdsm",
+      "endpointPath": "/genre/bdsm/",
+      "count": 504,
+      "thumbnail": "https://static.underhentai.net/assets/images/2653-F7E81AC7.jpg?o=p&w=280",
+      "categoryGroup": "Act / Fetish"
+    },
+    {
+      "name": "Big Boobs",
+      "slug": "big-boobs",
+      "endpointPath": "/genre/big-boobs/",
+      "count": 972,
+      "thumbnail": "https://static.underhentai.net/assets/images/11632-BA4D3986.jpg?o=p&w=280",
+      "categoryGroup": "Attribute"
+    },
+    {
+      "name": "Blowjob",
+      "slug": "blowjob",
+      "endpointPath": "/genre/blowjob/",
+      "count": 1134,
+      "thumbnail": "https://static.underhentai.net/assets/images/9228-CA69985B.jpg?o=p&w=280",
+      "categoryGroup": "Act / Fetish"
+    },
+    {
+      "name": "Bondage",
+      "slug": "bondage",
+      "endpointPath": "/genre/bondage/",
+      "count": 360,
+      "thumbnail": "https://static.underhentai.net/assets/images/2653-F7E81AC7.jpg?o=p&w=280",
+      "categoryGroup": "Act / Fetish"
+    },
+    {
+      "name": "Boob Job",
+      "slug": "boob-job",
+      "endpointPath": "/genre/boob-job/",
+      "count": 666,
+      "thumbnail": "https://static.underhentai.net/assets/images/11631-90C634D3.jpg?o=p&w=280",
+      "categoryGroup": "Act / Fetish"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy",
+      "endpointPath": "/genre/comedy/",
+      "count": 126,
+      "thumbnail": "https://static.underhentai.net/assets/images/5193-6C058D7C.jpg?o=p&w=280",
+      "categoryGroup": "Theme & Trope"
+    },
+    {
+      "name": "Dark Skin",
+      "slug": "dark-skin",
+      "endpointPath": "/genre/dark-skin/",
+      "count": 180,
+      "thumbnail": "https://static.underhentai.net/assets/images/11631-90C634D3.jpg?o=p&w=280",
+      "categoryGroup": "Character"
+    },
+    {
+      "name": "Demon",
+      "slug": "demon",
+      "endpointPath": "/genre/demon/",
+      "count": 90,
+      "thumbnail": "https://static.underhentai.net/assets/images/11036-E7F134AC.jpg?o=p&w=280",
+      "categoryGroup": "Character"
+    },
+    {
+      "name": "Elf",
+      "slug": "elf",
+      "endpointPath": "/genre/elf/",
+      "count": 36,
+      "thumbnail": "https://static.underhentai.net/assets/images/11139-CCC924FC.jpg?o=p&w=280",
+      "categoryGroup": "Character"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "endpointPath": "/genre/fantasy/",
+      "count": 198,
+      "thumbnail": "https://static.underhentai.net/assets/images/11036-E7F134AC.jpg?o=p&w=280",
+      "categoryGroup": "Theme & Trope"
+    },
+    {
+      "name": "Footjob",
+      "slug": "footjob",
+      "endpointPath": "/genre/footjob/",
+      "count": 144,
+      "thumbnail": "https://static.underhentai.net/assets/images/10527-6D08485D.jpg?o=p&w=280",
+      "categoryGroup": "Act / Fetish"
+    },
+    {
+      "name": "Futanari",
+      "slug": "futanari",
+      "endpointPath": "/genre/futanari/",
+      "count": 108,
+      "thumbnail": "https://static.underhentai.net/assets/images/2286-19D170BA.jpg?o=p&w=280",
+      "categoryGroup": "Character"
+    },
+    {
+      "name": "Gangbang",
+      "slug": "gangbang",
+      "endpointPath": "/genre/gangbang/",
+      "count": 378,
+      "thumbnail": "https://static.underhentai.net/assets/images/2653-F7E81AC7.jpg?o=p&w=280",
+      "categoryGroup": "Act / Fetish"
+    },
+    {
+      "name": "Handjob",
+      "slug": "handjob",
+      "endpointPath": "/genre/handjob/",
+      "count": 396,
+      "thumbnail": "https://static.underhentai.net/assets/images/9228-CA69985B.jpg?o=p&w=280",
+      "categoryGroup": "Act / Fetish"
+    },
+    {
+      "name": "Harem",
+      "slug": "harem",
+      "endpointPath": "/genre/harem/",
+      "count": 234,
+      "thumbnail": "https://static.underhentai.net/assets/images/11631-90C634D3.jpg?o=p&w=280",
+      "categoryGroup": "Theme & Trope"
+    },
+    {
+      "name": "Impregnation",
+      "slug": "impregnation",
+      "endpointPath": "/genre/impregnation/",
+      "count": 144,
+      "thumbnail": "https://static.underhentai.net/assets/images/11214-8DF66D97.jpg?o=p&w=280",
+      "categoryGroup": "Act / Fetish"
+    },
+    {
+      "name": "Incest",
+      "slug": "incest",
+      "endpointPath": "/genre/incest/",
+      "count": 342,
+      "thumbnail": "https://static.underhentai.net/assets/images/10972-C2F2B53B.jpg?o=p&w=280",
+      "categoryGroup": "Theme & Trope"
+    },
+    {
+      "name": "Inflation",
+      "slug": "inflation",
+      "endpointPath": "/genre/inflation/",
+      "count": 90,
+      "thumbnail": "https://static.underhentai.net/assets/images/2286-19D170BA.jpg?o=p&w=280",
+      "categoryGroup": "Act / Fetish"
+    },
+    {
+      "name": "Lactation",
+      "slug": "lactation",
+      "endpointPath": "/genre/lactation/",
+      "count": 180,
+      "thumbnail": "https://static.underhentai.net/assets/images/10125-9D3871AF.jpg?o=p&w=280",
+      "categoryGroup": "Act / Fetish"
+    },
+    {
+      "name": "Loli",
+      "slug": "loli",
+      "endpointPath": "/genre/loli/",
+      "count": 162,
+      "thumbnail": "https://static.underhentai.net/assets/images/5969-96315BA6.jpg?o=p&w=280",
+      "categoryGroup": "Character"
+    },
+    {
+      "name": "Maid",
+      "slug": "maid",
+      "endpointPath": "/genre/maid/",
+      "count": 108,
+      "thumbnail": "https://static.underhentai.net/assets/images/10527-6D08485D.jpg?o=p&w=280",
+      "categoryGroup": "Character"
+    },
+    {
+      "name": "Masturbation",
+      "slug": "masturbation",
+      "endpointPath": "/genre/masturbation/",
+      "count": 540,
+      "thumbnail": "https://static.underhentai.net/assets/images/9228-CA69985B.jpg?o=p&w=280",
+      "categoryGroup": "Act / Fetish"
+    },
+    {
+      "name": "Milf",
+      "slug": "milf",
+      "endpointPath": "/genre/milf/",
+      "count": 162,
+      "thumbnail": "https://static.underhentai.net/assets/images/11632-BA4D3986.jpg?o=p&w=280",
+      "categoryGroup": "Character"
+    },
+    {
+      "name": "Mind Control",
+      "slug": "mind-control",
+      "endpointPath": "/genre/mind-control/",
+      "count": 90,
+      "thumbnail": "https://static.underhentai.net/assets/images/11625-15497638.jpg?o=p&w=280",
+      "categoryGroup": "Theme & Trope"
+    },
+    {
+      "name": "Molestation",
+      "slug": "molestation",
+      "endpointPath": "/genre/molestation/",
+      "count": 54,
+      "thumbnail": "https://static.underhentai.net/assets/Misuzu_Ikenai_Koto_01v3.jpg?o=l&w=280",
+      "categoryGroup": "Act / Fetish"
+    },
+    {
+      "name": "Netorare",
+      "slug": "netorare",
+      "endpointPath": "/genre/netorare/",
+      "count": 216,
+      "thumbnail": "https://static.underhentai.net/assets/Lamour_fou_de_lautomate_02.jpg?o=l&w=280",
+      "categoryGroup": "Theme & Trope"
+    },
+    {
+      "name": "Netori",
+      "slug": "netori",
+      "endpointPath": "/genre/netori/",
+      "count": 54,
+      "thumbnail": "https://static.underhentai.net/assets/images/9073-F50F09E9.jpg?o=p&w=280",
+      "categoryGroup": "Theme & Trope"
+    },
+    {
+      "name": "Nurse",
+      "slug": "nurse",
+      "endpointPath": "/genre/nurse/",
+      "count": 72,
+      "thumbnail": "https://static.underhentai.net/assets/images/9328-F541B9BF.jpg?o=p&w=280",
+      "categoryGroup": "Character"
+    },
+    {
+      "name": "Office Lady",
+      "slug": "office-lady",
+      "endpointPath": "/genre/office-lady/",
+      "count": 54,
+      "thumbnail": "https://static.underhentai.net/assets/images/11140-BB0623EB.jpg?o=p&w=280",
+      "categoryGroup": "Character"
+    },
+    {
+      "name": "Public Sex",
+      "slug": "public-sex",
+      "endpointPath": "/genre/public-sex/",
+      "count": 540,
+      "thumbnail": "https://static.underhentai.net/assets/images/9228-CA69985B.jpg?o=p&w=280",
+      "categoryGroup": "Act / Fetish"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance",
+      "endpointPath": "/genre/romance/",
+      "count": 324,
+      "thumbnail": "https://static.underhentai.net/assets/images/5193-6C058D7C.jpg?o=p&w=280",
+      "categoryGroup": "Theme & Trope"
+    },
+    {
+      "name": "Rape",
+      "slug": "rape",
+      "endpointPath": "/genre/rape/",
+      "count": 594,
+      "thumbnail": "https://static.underhentai.net/assets/images/9228-CA69985B.jpg?o=p&w=280",
+      "categoryGroup": "Act / Fetish"
+    },
+    {
+      "name": "Schoolgirl",
+      "slug": "schoolgirl",
+      "endpointPath": "/genre/schoolgirl/",
+      "count": 612,
+      "thumbnail": "https://static.underhentai.net/assets/images/9228-CA69985B.jpg?o=p&w=280",
+      "categoryGroup": "Character"
+    },
+    {
+      "name": "Scat",
+      "slug": "scat",
+      "endpointPath": "/genre/scat/",
+      "count": 54,
+      "thumbnail": "https://static.underhentai.net/assets/images/11208-9F2FCAB5.jpg?o=p&w=280",
+      "categoryGroup": "Act / Fetish"
+    },
+    {
+      "name": "Sex Toys",
+      "slug": "sex-toys",
+      "endpointPath": "/genre/sex-toys/",
+      "count": 396,
+      "thumbnail": "https://static.underhentai.net/assets/images/9228-CA69985B.jpg?o=p&w=280",
+      "categoryGroup": "Act / Fetish"
+    },
+    {
+      "name": "Shota",
+      "slug": "shota",
+      "endpointPath": "/genre/shota/",
+      "count": 90,
+      "thumbnail": "https://static.underhentai.net/assets/images/10125-9D3871AF.jpg?o=p&w=280",
+      "categoryGroup": "Character"
+    },
+    {
+      "name": "Succubus",
+      "slug": "succubus",
+      "endpointPath": "/genre/succubus/",
+      "count": 36,
+      "thumbnail": "https://static.underhentai.net/assets/images/9081-FB33424D.jpg?o=p&w=280",
+      "categoryGroup": "Character"
+    },
+    {
+      "name": "Teacher",
+      "slug": "teacher",
+      "endpointPath": "/genre/teacher/",
+      "count": 234,
+      "thumbnail": "https://static.underhentai.net/assets/images/9228-CA69985B.jpg?o=p&w=280",
+      "categoryGroup": "Character"
+    },
+    {
+      "name": "Tentacle",
+      "slug": "tentacle",
+      "endpointPath": "/genre/tentacle/",
+      "count": 162,
+      "thumbnail": "https://static.underhentai.net/assets/images/2286-19D170BA.jpg?o=p&w=280",
+      "categoryGroup": "Theme & Trope"
+    },
+    {
+      "name": "Virgin",
+      "slug": "virgin",
+      "endpointPath": "/genre/virgin/",
+      "count": 648,
+      "thumbnail": "https://static.underhentai.net/assets/images/2653-F7E81AC7.jpg?o=p&w=280",
+      "categoryGroup": "Character"
+    },
+    {
+      "name": "Watersports",
+      "slug": "watersports",
+      "endpointPath": "/genre/watersports/",
+      "count": 396,
+      "thumbnail": "https://static.underhentai.net/assets/images/11631-90C634D3.jpg?o=p&w=280",
+      "categoryGroup": "Act / Fetish"
+    },
+    {
+      "name": "Yuri",
+      "slug": "yuri",
+      "endpointPath": "/genre/yuri/",
+      "count": 306,
+      "thumbnail": "https://static.underhentai.net/assets/images/9228-CA69985B.jpg?o=p&w=280",
+      "categoryGroup": "Theme & Trope"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Uncensored Vault",
+      "slug": "uncensored",
+      "endpointPath": "/uncensored/",
+      "count": 234,
+      "description": "Pure uncensored studio master cuts without pixelation or mosaics",
+      "categoryGroup": "Vaults",
+      "icon": "Icons.lock_open_rounded"
+    },
+    {
+      "name": "Top Rated Classics",
+      "slug": "top-rated",
+      "endpointPath": "/top/all/",
+      "count": 320,
+      "description": "All-time highest rated underground classic anime films and OVAs",
+      "categoryGroup": "Vaults",
+      "icon": "Icons.whatshot_rounded"
+    },
+    {
+      "name": "Trending This Week",
+      "slug": "trending-week",
+      "endpointPath": "/top/week/",
+      "count": 180,
+      "description": "Most watched anime releases and viral vault episodes this week",
+      "categoryGroup": "Vaults",
+      "icon": "Icons.trending_up_rounded"
+    },
+    {
+      "name": "Latest Vault Additions",
+      "slug": "latest",
+      "endpointPath": "/",
+      "count": 1080,
+      "description": "Recently unearthed vintage and modern anime additions",
+      "categoryGroup": "Vaults",
+      "icon": "Icons.fiber_new_rounded"
+    },
+    {
+      "name": "Complete A-Z Index",
+      "slug": "index-vault",
+      "endpointPath": "/index/",
+      "count": 1062,
+      "description": "Full alphabetical catalog of every serialized anime and OVA series",
+      "categoryGroup": "Archive",
+      "icon": "Icons.menu_book_rounded"
+    },
+    {
+      "name": "2027 Vault Releases",
+      "slug": "releases-2027",
+      "endpointPath": "/releases/2027/",
+      "count": 120,
+      "description": "Complete collection of anime releases from the year 2027",
+      "categoryGroup": "Annual Vaults",
+      "icon": "Icons.calendar_today_rounded"
+    },
+    {
+      "name": "2026 Vault Releases",
+      "slug": "releases-2026",
+      "endpointPath": "/releases/2026/",
+      "count": 120,
+      "description": "Complete collection of anime releases from the year 2026",
+      "categoryGroup": "Annual Vaults",
+      "icon": "Icons.calendar_today_rounded"
+    },
+    {
+      "name": "2025 Vault Releases",
+      "slug": "releases-2025",
+      "endpointPath": "/releases/2025/",
+      "count": 120,
+      "description": "Complete collection of anime releases from the year 2025",
+      "categoryGroup": "Annual Vaults",
+      "icon": "Icons.calendar_today_rounded"
+    },
+    {
+      "name": "2024 Vault Releases",
+      "slug": "releases-2024",
+      "endpointPath": "/releases/2024/",
+      "count": 120,
+      "description": "Complete collection of anime releases from the year 2024",
+      "categoryGroup": "Annual Vaults",
+      "icon": "Icons.calendar_today_rounded"
+    },
+    {
+      "name": "2023 Vault Releases",
+      "slug": "releases-2023",
+      "endpointPath": "/releases/2023/",
+      "count": 120,
+      "description": "Complete collection of anime releases from the year 2023",
+      "categoryGroup": "Annual Vaults",
+      "icon": "Icons.calendar_today_rounded"
+    },
+    {
+      "name": "2022 Vault Releases",
+      "slug": "releases-2022",
+      "endpointPath": "/releases/2022/",
+      "count": 120,
+      "description": "Complete collection of anime releases from the year 2022",
+      "categoryGroup": "Annual Vaults",
+      "icon": "Icons.calendar_today_rounded"
+    },
+    {
+      "name": "2021 Vault Releases",
+      "slug": "releases-2021",
+      "endpointPath": "/releases/2021/",
+      "count": 120,
+      "description": "Complete collection of anime releases from the year 2021",
+      "categoryGroup": "Annual Vaults",
+      "icon": "Icons.calendar_today_rounded"
+    },
+    {
+      "name": "2020 Vault Releases",
+      "slug": "releases-2020",
+      "endpointPath": "/releases/2020/",
+      "count": 120,
+      "description": "Complete collection of anime releases from the year 2020",
+      "categoryGroup": "Annual Vaults",
+      "icon": "Icons.calendar_today_rounded"
+    },
+    {
+      "name": "2019 Vault Releases",
+      "slug": "releases-2019",
+      "endpointPath": "/releases/2019/",
+      "count": 80,
+      "description": "Complete collection of anime releases from the year 2019",
+      "categoryGroup": "Annual Vaults",
+      "icon": "Icons.calendar_today_rounded"
+    },
+    {
+      "name": "2018 Vault Releases",
+      "slug": "releases-2018",
+      "endpointPath": "/releases/2018/",
+      "count": 80,
+      "description": "Complete collection of anime releases from the year 2018",
+      "categoryGroup": "Annual Vaults",
+      "icon": "Icons.calendar_today_rounded"
+    },
+    {
+      "name": "2017 Vault Releases",
+      "slug": "releases-2017",
+      "endpointPath": "/releases/2017/",
+      "count": 80,
+      "description": "Complete collection of anime releases from the year 2017",
+      "categoryGroup": "Annual Vaults",
+      "icon": "Icons.calendar_today_rounded"
+    },
+    {
+      "name": "2016 Vault Releases",
+      "slug": "releases-2016",
+      "endpointPath": "/releases/2016/",
+      "count": 80,
+      "description": "Complete collection of anime releases from the year 2016",
+      "categoryGroup": "Annual Vaults",
+      "icon": "Icons.calendar_today_rounded"
+    },
+    {
+      "name": "2015 Vault Releases",
+      "slug": "releases-2015",
+      "endpointPath": "/releases/2015/",
+      "count": 80,
+      "description": "Complete collection of anime releases from the year 2015",
+      "categoryGroup": "Annual Vaults",
+      "icon": "Icons.calendar_today_rounded"
+    },
+    {
+      "name": "2014 Vault Releases",
+      "slug": "releases-2014",
+      "endpointPath": "/releases/2014/",
+      "count": 80,
+      "description": "Complete collection of anime releases from the year 2014",
+      "categoryGroup": "Annual Vaults",
+      "icon": "Icons.calendar_today_rounded"
+    },
+    {
+      "name": "2013 Vault Releases",
+      "slug": "releases-2013",
+      "endpointPath": "/releases/2013/",
+      "count": 80,
+      "description": "Complete collection of anime releases from the year 2013",
+      "categoryGroup": "Annual Vaults",
+      "icon": "Icons.calendar_today_rounded"
+    },
+    {
+      "name": "2012 Vault Releases",
+      "slug": "releases-2012",
+      "endpointPath": "/releases/2012/",
+      "count": 80,
+      "description": "Complete collection of anime releases from the year 2012",
+      "categoryGroup": "Annual Vaults",
+      "icon": "Icons.calendar_today_rounded"
+    },
+    {
+      "name": "#Ima Made de Ichiban Yokatta Sex The Animation",
+      "slug": "ima-made-de-ichiban-yokatta-sex-the-animation",
+      "endpointPath": "/ima-made-de-ichiban-yokatta-sex-the-animation/",
+      "thumbnail": "https://static.underhentai.net/assets/Ima_Made_de_Ichiban_Yokatta_Sex_The_Animation_02.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • #Ima Made de Ichiban Yokatta Sex The Animation",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "1LDK + JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?",
+      "slug": "1ldk-jk-ikinari-doukyo-micchaku-hatsu-ecchi",
+      "endpointPath": "/1ldk-jk-ikinari-doukyo-micchaku-hatsu-ecchi/",
+      "thumbnail": "https://static.underhentai.net/assets/images/9321-E8B26D52.jpg?o=p&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • 1LDK + JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "3 Piece The Animation",
+      "slug": "3-piece-the-animation",
+      "endpointPath": "/3-piece-the-animation/",
+      "thumbnail": "https://static.underhentai.net/assets/3_Piece_The_Animation_01.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • 3 Piece The Animation",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "3Ping Lovers! Ippu Nisai no Sekai e Youkoso The Animation",
+      "slug": "3ping-lovers-ippu-nisai-no-sekai-e-youkoso-the-animation",
+      "endpointPath": "/3ping-lovers-ippu-nisai-no-sekai-e-youkoso-the-animation/",
+      "thumbnail": "https://static.underhentai.net/assets/3Ping_Lovers_Ippu_Nisai_no_Sekai_e_Youkoso_The_Animation_01.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • 3Ping Lovers! Ippu Nisai no Sekai e Youkoso The Animation",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "69: Itsuwari no Bishou",
+      "slug": "69-itsuwari-no-bishou",
+      "endpointPath": "/69-itsuwari-no-bishou/",
+      "thumbnail": "https://static.underhentai.net/assets/images/9653-E9387FEB.jpg?o=p&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • 69: Itsuwari no Bishou",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "Abandon: 100 Nuki Shinai to Derarenai Fushigi na Kyoushitsu",
+      "slug": "abandon-100-nuki-shinai-to-derarenai-fushigi-na-kyoushitsu",
+      "endpointPath": "/abandon-100-nuki-shinai-to-derarenai-fushigi-na-kyoushitsu/",
+      "thumbnail": "https://static.underhentai.net/assets/Abandon_100_Nuki_Shinai_to_Derarenai_Fushigi_na_Kyoushitsu_01v2.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • Abandon: 100 Nuki Shinai to Derarenai Fushigi na Kyoushitsu",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "Accelerando: Datenshi-tachi no Sasayaki",
+      "slug": "accelerando-datenshi-tachi-no-sasayaki",
+      "endpointPath": "/accelerando-datenshi-tachi-no-sasayaki/",
+      "thumbnail": "https://static.underhentai.net/assets/Accelerando_Datenshi-tachi_no_Sasayaki_04.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • Accelerando: Datenshi-tachi no Sasayaki",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "After… The Animation",
+      "slug": "after-the-animation",
+      "endpointPath": "/after-the-animation/",
+      "thumbnail": "https://static.underhentai.net/assets/170c330e284d61481b5fff5787e83dbba70f1c076088eb70ac06e4fd6d8b4e4d6g.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • After… The Animation",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "Ai no Katachi: Ecchi na Onnanoko wa Kirai… Desuka?",
+      "slug": "ai-no-katachi-ecchi-na-onnanoko-wa-kirai-desuka",
+      "endpointPath": "/ai-no-katachi-ecchi-na-onnanoko-wa-kirai-desuka/",
+      "thumbnail": "https://static.underhentai.net/assets/Ai_no_Katachi_Ecchi_na_Onna_no_Ko_wa_Kirai_Desuka_1-2.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • Ai no Katachi: Ecchi na Onnanoko wa Kirai… Desuka?",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "Ai Shimai Tsubomi… Kegashite Kudasai",
+      "slug": "ai-shimai-tsubomi-kegashite-kudasai",
+      "endpointPath": "/ai-shimai-tsubomi-kegashite-kudasai/",
+      "thumbnail": "https://static.underhentai.net/assets/Ai_Shimai_3_01.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • Ai Shimai Tsubomi… Kegashite Kudasai",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "Ai wa Kagi no Kazu dake… Fuuzoku Mansion",
+      "slug": "ai-wa-kagi-no-kazu-dake-fuuzoku-mansion",
+      "endpointPath": "/ai-wa-kagi-no-kazu-dake-fuuzoku-mansion/",
+      "thumbnail": "https://static.underhentai.net/assets/Ai_wa_Kagi_no_Kazu_Dake.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • Ai wa Kagi no Kazu dake… Fuuzoku Mansion",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "Aibeya The Animation",
+      "slug": "aibeya-the-animation",
+      "endpointPath": "/aibeya-the-animation/",
+      "thumbnail": "https://static.underhentai.net/assets/Aibeya_The_Animation_01.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • Aibeya The Animation",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "Aikagi The Animation",
+      "slug": "aikagi-the-animation",
+      "endpointPath": "/aikagi-the-animation/",
+      "thumbnail": "https://static.underhentai.net/assets/Aikagi_The_Animation_01.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • Aikagi The Animation",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "Aisai Nikki",
+      "slug": "aisai-nikki",
+      "endpointPath": "/aisai-nikki/",
+      "thumbnail": "https://static.underhentai.net/assets/5501994_aisai_nikki1cover.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • Aisai Nikki",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "Aisei Tenshi Love Mary: Akusei Jutai The Animation",
+      "slug": "aisei-tenshi-love-mary-akusei-jutai-the-animation",
+      "endpointPath": "/aisei-tenshi-love-mary-akusei-jutai-the-animation/",
+      "thumbnail": "https://static.underhentai.net/assets/Aisei_Tenshi_Love_Mary_Akusei_Jutai_The_Animation_02.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • Aisei Tenshi Love Mary: Akusei Jutai The Animation",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "Ajin ga Osuki nan Desu ne",
+      "slug": "ajin-ga-osuki-nan-desu-ne",
+      "endpointPath": "/ajin-ga-osuki-nan-desu-ne/",
+      "thumbnail": "https://static.underhentai.net/assets/Ajin_ga_Osuki_nan_Desu_ne_02.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • Ajin ga Osuki nan Desu ne",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "Ajisai no Chiru Koro ni",
+      "slug": "ajisai-no-chiru-koro-ni",
+      "endpointPath": "/ajisai-no-chiru-koro-ni/",
+      "thumbnail": "https://static.underhentai.net/assets/Ajisai_no_Chiru_Koro_ni_01.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • Ajisai no Chiru Koro ni",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "Akane wa Tsumare Somerareru",
+      "slug": "akane-wa-tsumare-somerareru",
+      "endpointPath": "/akane-wa-tsumare-somerareru/",
+      "thumbnail": "https://static.underhentai.net/assets/Akane_wa_Tsumare_Somerareru_02.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • Akane wa Tsumare Somerareru",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "Akebi no Hana: Maho",
+      "slug": "akebi-no-hana-maho",
+      "endpointPath": "/akebi-no-hana-maho/",
+      "thumbnail": "https://static.underhentai.net/assets/9527981086dd148fdf6c380d485ee7d513728c1.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • Akebi no Hana: Maho",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "Akiba-kei Kanojo",
+      "slug": "akiba-kei-kanojo",
+      "endpointPath": "/akiba-kei-kanojo/",
+      "thumbnail": "https://static.underhentai.net/assets/Akiba-kei_Kanojo_03.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • Akiba-kei Kanojo",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "Akina to Onsen de H Shiyo!",
+      "slug": "akina-to-onsen-de-h-shiyo",
+      "endpointPath": "/akina-to-onsen-de-h-shiyo/",
+      "thumbnail": "https://static.underhentai.net/assets/4585395238213363976s52b.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • Akina to Onsen de H Shiyo!",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "Akogare no Onna Joushi ga, Aibeya Shucchou no Tonari no Bed de Zetsurin Otoko ni Netorarete Iru",
+      "slug": "akogare-no-onna-joushi-ga-aibeya-shucchou-no-tonari-no-bed-de-zetsurin-otoko-ni-netorarete-iru",
+      "endpointPath": "/akogare-no-onna-joushi-ga-aibeya-shucchou-no-tonari-no-bed-de-zetsurin-otoko-ni-netorarete-iru/",
+      "thumbnail": "https://static.underhentai.net/assets/images/10212-6934E654.jpg?o=p&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • Akogare no Onna Joushi ga, Aibeya Shucchou no Tonari no Bed de Zetsurin Otoko ni Netorarete Iru",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "Aku no Onna Kanbu",
+      "slug": "aku-no-onna-kanbu",
+      "endpointPath": "/aku-no-onna-kanbu/",
+      "thumbnail": "https://static.underhentai.net/assets/Aku_no_Onna_Kanbu_02.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • Aku no Onna Kanbu",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "Aku no Onna Kanbu: Full Moon Night",
+      "slug": "aku-no-onna-kanbu-full-moon-night",
+      "endpointPath": "/aku-no-onna-kanbu-full-moon-night/",
+      "thumbnail": "https://static.underhentai.net/assets/Aku_no_Onna_Kanbu_Full_Moon_Night_01v2.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • Aku no Onna Kanbu: Full Moon Night",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "Alignment You! You! The Animation",
+      "slug": "alignment-you-you-the-animation",
+      "endpointPath": "/alignment-you-you-the-animation/",
+      "thumbnail": "https://static.underhentai.net/assets/Alignment_You_You_The_Animation.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • Alignment You! You! The Animation",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "Allargando The Animation",
+      "slug": "allargando-the-animation",
+      "endpointPath": "/allargando-the-animation/",
+      "thumbnail": "https://static.underhentai.net/assets/Allargando_The_Animation_01v2.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • Allargando The Animation",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "Amai Ijiwaru",
+      "slug": "amai-ijiwaru",
+      "endpointPath": "/amai-ijiwaru/",
+      "thumbnail": "https://static.underhentai.net/assets/images/10221-942F33B3.jpg?o=p&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • Amai Ijiwaru",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "Amakano",
+      "slug": "amakano",
+      "endpointPath": "/amakano/",
+      "thumbnail": "https://static.underhentai.net/assets/Amakano_04.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • Amakano",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "Amanee!",
+      "slug": "amanee",
+      "endpointPath": "/amanee/",
+      "thumbnail": "https://static.underhentai.net/assets/Amanee_01.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • Amanee!",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    },
+    {
+      "name": "Amy to Yobanaide",
+      "slug": "amy-to-yobanaide",
+      "endpointPath": "/amy-to-yobanaide/",
+      "thumbnail": "https://static.underhentai.net/assets/Amy_to_Yobanaide_1-2.jpg?o=l&w=280",
+      "count": 12,
+      "description": "Classic serialized OVA series • Amy to Yobanaide",
+      "categoryGroup": "OVA & Classic Series",
+      "icon": "Icons.movie_filter_rounded"
+    }
+  ]
+}

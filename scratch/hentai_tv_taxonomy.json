@@ -1,0 +1,2234 @@
+{
+  "probe": {
+    "https://hentai.tv/categories": {
+      "status": 200,
+      "length": 293506
+    },
+    "https://hentai.tv/genres": {
+      "status": 200,
+      "length": 380944
+    },
+    "https://hentai.tv/studios": {
+      "status": 200,
+      "length": 293506
+    },
+    "https://hentai.tv/tags": {
+      "status": 200,
+      "length": 293506
+    }
+  },
+  "total_genres": 105,
+  "total_studios": 171,
+  "genres": {
+    "vanilla": {
+      "name": "Vanilla",
+      "slug": "vanilla",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/vanilla-vertical.min_.jpg",
+      "desc": "Soft, loving and intimate stories that focus on tender romance and genuine connection between the leads.",
+      "count": 421,
+      "endpointPath": "/genre/vanilla"
+    },
+    "anal": {
+      "name": "anal",
+      "slug": "anal",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/anal-hentai.jpg",
+      "desc": "This is a category designed to fulfill your fantasies, because here your Waifus are ready to do anything to please those who accompany them.",
+      "count": 962,
+      "endpointPath": "/genre/anal"
+    },
+    "romance": {
+      "name": "Romance",
+      "slug": "romance",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/vanilla-vertical.min_.jpg",
+      "desc": "Heartfelt encounters where chemistry builds slowly into passionate, emotional moments.",
+      "count": 416,
+      "endpointPath": "/genre/romance"
+    },
+    "big-boobs": {
+      "name": "Big Boobs",
+      "slug": "big-boobs",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/big_boobs-vertical.min1_.jpg",
+      "desc": "For fans of voluptuous figures and curves, with animation that celebrates fuller silhouettes.",
+      "count": 2224,
+      "endpointPath": "/genre/big-boobs"
+    },
+    "maid": {
+      "name": "Maid",
+      "slug": "maid",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/maid-vertical.min_.jpg",
+      "desc": "Devoted maids in classic uniforms attending to their masters in every way imaginable.",
+      "count": 312,
+      "endpointPath": "/genre/maid"
+    },
+    "incest": {
+      "name": "incest",
+      "slug": "incest",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/incest-vertical.min_.jpg",
+      "desc": "Our collection of erotic content will take you on a journey of intense emotions and unrestricted pleasure. There are no fears here, so your mind must be open to everything you are going to find throughout each of our videos.",
+      "count": 478,
+      "endpointPath": "/genre/incest"
+    },
+    "comedy": {
+      "name": "Comedy",
+      "slug": "comedy",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/comedy-vertical.min_.jpg",
+      "desc": "Light-hearted, playful titles that mix laughs with the lewd.",
+      "count": 255,
+      "endpointPath": "/genre/comedy"
+    },
+    "glasses": {
+      "name": "Glasses",
+      "slug": "glasses",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/glasses-vertical.min_.jpg",
+      "desc": "Bespectacled beauties \u2014 the irresistible charm of the studious type.",
+      "count": 482,
+      "endpointPath": "/genre/glasses"
+    },
+    "school-girl": {
+      "name": "School",
+      "slug": "school-girl",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/school_girl-vertical.min_.jpg",
+      "desc": "School hentai is not the same as loli hentai, why? Because it includes more exuberant bodies, uniforms and institutions as the main scenarios . Even though it&#x27;s not the same, you can still enjoy sexy girls who are willing to get fucked by their classmates and even their teachers.",
+      "count": 1397,
+      "endpointPath": "/genre/school-girl"
+    },
+    "swimsuit": {
+      "name": "Swimsuit",
+      "slug": "swimsuit",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/swimsuit-vertical.min_.jpg",
+      "desc": "Beaches, pools and summer heat with characters in revealing swimwear.",
+      "count": 264,
+      "endpointPath": "/genre/swimsuit"
+    },
+    "loli": {
+      "name": "loli",
+      "slug": "loli",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/loli-vertical.min_.jpg",
+      "desc": "Loli Hentai is a sub-genre of Hentai that puts the focus of the action on girls and young girls, but who are exuberant in personality and charm. These characters may be known for their youthfulness and are often designed with proportions that exaggerate their petite stature and delicate features, providing a stark contrast to their bold personalities or situations.",
+      "count": 349,
+      "endpointPath": "/genre/loli"
+    },
+    "virgin": {
+      "name": "virgin",
+      "slug": "virgin",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/virgin-vertical.min1_.jpg",
+      "desc": "Virgin Hentai refers to the category within hentai online that focuses on characters experiencing their first intimate encounters. These stories are often emotionally charged, exploring the mix of anxiety, excitement, discovery and pleasure that accompanies such moments.",
+      "count": 850,
+      "endpointPath": "/genre/virgin"
+    },
+    "uncensored": {
+      "name": "Uncensored",
+      "slug": "uncensored",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/Uncensored-Hentai.jpg",
+      "desc": "Fully uncensored animation with every explicit detail intact.",
+      "count": 1191,
+      "endpointPath": "/genre/uncensored"
+    },
+    "bondage": {
+      "name": "bondage",
+      "slug": "bondage",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/bondage-vertical.min1_.jpg",
+      "desc": "Bondage is a very popular erotic practice, in which a person&#x27;s body is immobilized by means of ties. The same can be done in a part of the body or in its entirety, with ribbons, fabric, chains or whatever you can think of.",
+      "count": 946,
+      "endpointPath": "/genre/bondage"
+    },
+    "censored": {
+      "name": "Censored",
+      "slug": "censored",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/censored-hentai.jpg",
+      "desc": "Classic censored releases as originally distributed.",
+      "count": 2140,
+      "endpointPath": "/genre/censored"
+    },
+    "blow-job": {
+      "name": "Blow Job",
+      "slug": "blow-job",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/3d-vertical.min1_.jpg",
+      "desc": "Oral-focused scenes for fans of the act.",
+      "count": 2349,
+      "endpointPath": "/genre/blow-job"
+    },
+    "oral": {
+      "name": "Oral",
+      "slug": "oral",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/blow_job-vertical.min_.jpg",
+      "desc": "This genre offers an enticing blend of explicit storytelling and art, unraveling different facets of pleasure through oral sex.",
+      "count": 283,
+      "endpointPath": "/genre/oral"
+    },
+    "creampie": {
+      "name": "Creampie",
+      "slug": "creampie",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/creampie-vertical.min1_.jpg",
+      "desc": "Intense finishes and the creampie finale fans look for.",
+      "count": 2317,
+      "endpointPath": "/genre/creampie"
+    },
+    "masturbation": {
+      "name": "Masturbation",
+      "slug": "masturbation",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/masturbation-vertical.min_.jpg",
+      "desc": "Solo pleasure and self-exploration in vivid detail.",
+      "count": 358,
+      "endpointPath": "/genre/masturbation"
+    },
+    "fantasy": {
+      "name": "fantasy",
+      "slug": "fantasy",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/fantasy-vertical.min_.jpg",
+      "desc": "In this section, we delve into the world of Hentai Sexual Fantasies, where artistic expression and imagination collide, offering an unparalleled experience of erotic storytelling. Discover how creators push the boundaries to present passionate narratives, inviting you to engage with your deepest desires and explore the realms of sensual pleasure.",
+      "count": 786,
+      "endpointPath": "/genre/fantasy"
+    },
+    "ahegao": {
+      "name": "Ahegao",
+      "slug": "ahegao",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/ahegao-vertical.min_.jpg",
+      "desc": "Over-the-top expressions of overwhelming pleasure.",
+      "count": 406,
+      "endpointPath": "/genre/ahegao"
+    },
+    "teacher": {
+      "name": "teacher",
+      "slug": "teacher",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/teacher-vertical.min_.jpg",
+      "desc": "Hentai Teacher x Student typically revolves around the lives, romances, and explicit encounters of college students, teachers, or staff. These stories might depict youthful experimentation, romantic entanglements, or taboo relationships within an academic setting, and in Hentai.tv we have the best for you.",
+      "count": 394,
+      "endpointPath": "/genre/teacher"
+    },
+    "harem": {
+      "name": "harem",
+      "slug": "harem",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/harem-vertical.min1_.jpg",
+      "desc": "Hentai Harem is a specialized sub genre of hentai anime that focuses on a single protagonist surrounded by multiple characters who are romantically or sexually attracted to them. The genre introduces intricate power dynamics, sensual experiences, and an array of personalities, providing a unique viewing experience.",
+      "count": 955,
+      "endpointPath": "/genre/harem"
+    },
+    "threesome": {
+      "name": "Threesome",
+      "slug": "threesome",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/threesome-vertical.min_.jpg",
+      "desc": "Group encounters with three or more participants.",
+      "count": 143,
+      "endpointPath": "/genre/threesome"
+    },
+    "milf": {
+      "name": "milf",
+      "slug": "milf",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/milf-vertical.min_.jpg",
+      "desc": "Milfs Hentai represents those girls in the world of online Hentai who combine experience and beauty in scenarios full of intrigue and seduction. These characters, known for their maturity and voluptuous attributes, are the fantasy of many, offering a world where wisdom and passion meet.",
+      "count": 287,
+      "endpointPath": "/genre/milf"
+    },
+    "cosplay": {
+      "name": "Cosplay",
+      "slug": "cosplay",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/cosplay-vertical.min_.jpg",
+      "desc": "Characters in costume and role-play scenarios.",
+      "count": 331,
+      "endpointPath": "/genre/cosplay"
+    },
+    "ntr": {
+      "name": "ntr",
+      "slug": "ntr",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/ntr-vertical.min_.jpg",
+      "desc": "NTR or Netorare Hentai is a subgenre of adult anime that focuses on the concept of infidelity and the pleasure derived from the loss or theft of one character&#x27;s partner by another. In Hentai tv, NTR is presented with an immersive narrative that captures the emotional complexity and conflict inherent in these scenarios .",
+      "count": 286,
+      "endpointPath": "/genre/ntr"
+    },
+    "tsundere": {
+      "name": "Tsundere",
+      "slug": "tsundere",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/tsundere-vertical.min_.jpg",
+      "desc": "Hot-and-cold love interests whose tough exterior melts into desire.",
+      "count": 51,
+      "endpointPath": "/genre/tsundere"
+    },
+    "nurse": {
+      "name": "nurse",
+      "slug": "nurse",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/nurse-vertical.min_.jpg",
+      "desc": "Nurse Hentai is a subgenre of hentai anime and manga that focuses on the figures of nurses in erotic and romantic contexts. These stories often combine the charm and dedication of nurses with sensual and provocative situations, creating an atmosphere full of fantasy and desire.",
+      "count": 175,
+      "endpointPath": "/genre/nurse"
+    },
+    "tentacle": {
+      "name": "tentacle",
+      "slug": "tentacle",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/tentacle-vertical.min_.jpg",
+      "desc": "Tentacle Hentai is a form of online Hentai that includes fantastical elements where tentacle creatures interact intimately with human characters. This fascinating blend of mythology, fantasy and eroticism has captured the imagination of many viewers, offering an escape to worlds where conventional rules do not apply and where creativity knows no bounds.",
+      "count": 361,
+      "endpointPath": "/genre/tentacle"
+    },
+    "monster": {
+      "name": "monster",
+      "slug": "monster",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/monster-vertical.min_.jpg",
+      "desc": "Hentai Monsters refers to the category of online hentai that features supernatural creatures and beings interacting with human characters, whether in situations of conflict, romance or desire. These monsters can range from tentacles, demons, mythical beasts, to beings from other dimensions.",
+      "count": 484,
+      "endpointPath": "/genre/monster"
+    },
+    "orgy": {
+      "name": "orgy",
+      "slug": "orgy",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/orgy-vertical.min_.jpg",
+      "desc": "Hentai Orgy is a subgenre of hentai that focuses on group sexual encounters, where three or more characters participate in erotic acts simultaneously. This type of content is famous for its ability to explore a vast range of fantasies with almost unlimited freedom, allowing for a variety of situations and combinations that go beyond the one-on-one interactions typical of standard hentai.",
+      "count": 228,
+      "endpointPath": "/genre/orgy"
+    },
+    "boob-job": {
+      "name": "boob job",
+      "slug": "boob-job",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/boob_job-vertical.min1_.jpg",
+      "desc": "Boob job Hentai is a subcategory of online hentai that focuses on erotic stimulation through breasts. This genre combines detailed art with exciting narratives, creating scenes full of passion and fantasy.",
+      "count": 783,
+      "endpointPath": "/genre/boob-job"
+    },
+    "toys": {
+      "name": "toys",
+      "slug": "toys",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/toys-vertical.min1_.jpg",
+      "desc": "Toys Hentai refers to a range of hentai Online where you explore with adult toys to experience unique pleasure. This provides an intimate and erotic experience by viewing the different shapes, sizes and functionalities of all the accessories shown.",
+      "count": 751,
+      "endpointPath": "/genre/toys"
+    },
+    "rape": {
+      "name": "rape",
+      "slug": "rape",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/Rape-Hentai.jpg",
+      "desc": "This type of Hentai is very attractive because you can hear the screams of your waifus while they are penetrated without their consent and in really hot situations. We assure you that you will not be able to stop watching each of the scenes we have for you.",
+      "count": 1459,
+      "endpointPath": "/genre/rape"
+    },
+    "short": {
+      "name": "yaoi",
+      "slug": "short",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/yaoi-vertical.min_.jpg",
+      "desc": "Yaoi Hentai is an art form that focuses on romantic and erotic relationships between male characters. Through Japanese animation, this genre presents stories that go beyond physical pleasure, delving into the emotional and psychological complexities of its characters.",
+      "count": 41,
+      "endpointPath": "/genre/short"
+    },
+    "plot": {
+      "name": "plot",
+      "slug": "plot",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/plot-vertical.min_.jpg",
+      "desc": "Hentai Plot refers to the story or narrative element in hentai content. Unlike some conventional adult entertainment, hentai often includes storylines that explore various relationships, fantasies, and scenarios.",
+      "count": 1186,
+      "endpointPath": "/genre/plot"
+    },
+    "mind-control": {
+      "name": "mind control",
+      "slug": "mind-control",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/mind_control-vertical.min_.jpg",
+      "desc": "Hentai Mind Control is a subgenre of online hentai anime and manga that focuses on the use of hypnosis, psychological manipulation and other forms of mind control in erotic scenarios. This genre explores themes of power, seduction and submission, creating an intriguing dynamic between characters.",
+      "count": 171,
+      "endpointPath": "/genre/mind-control"
+    },
+    "facial": {
+      "name": "facial",
+      "slug": "facial",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/facial-vertical.min1_.jpg",
+      "desc": "Here, you&#x27;ll witness a variety of characters and situations, from the most innocent to the most spicy, all sharing the common theme of facials. The scenes in this compilation come from a range of hentai series, so there&#x27;s something for everyone, whether you&#x27;re a long-time hentai fan or new to the genre.",
+      "count": 937,
+      "endpointPath": "/genre/facial"
+    },
+    "pregnant": {
+      "name": "pregnant",
+      "slug": "pregnant",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/pregnant-vertical.min_.jpg",
+      "desc": "Pregnant hentai is a subgenre of hentai that focuses on female characters in a state of gestation. Unlike other genres, here the narrative and aesthetics revolve around the figure of the pregnant woman, highlighting not only her physical form but also the emotional depth that accompanies pregnancy.",
+      "count": 82,
+      "endpointPath": "/genre/pregnant"
+    },
+    "hand-job": {
+      "name": "hand job",
+      "slug": "hand-job",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/hand_job-vertical.min_.jpg",
+      "desc": "Hentai Hand Job, also known as Hentai Handjob, is a subcategory within the hentai genre that focuses on intimate acts performed with the hands. It is an artistic representation of one of the oldest and most fundamental practices of human pleasure.",
+      "count": 558,
+      "endpointPath": "/genre/hand-job"
+    },
+    "hd": {
+      "name": "HD",
+      "slug": "hd",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/HD-hentai.jpg",
+      "desc": "Anime Hentai HD refers to hentai anime content that is displayed in high definition. This higher resolution provides a clearer, sharper image, which enhances the viewer&#x27;s experience by highlighting the meticulous details and vibrant colors characteristic of hentai art.",
+      "count": 1648,
+      "endpointPath": "/genre/hd"
+    },
+    "lactation": {
+      "name": "lactation",
+      "slug": "lactation",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/lactation-vertical.min_.jpg",
+      "desc": "Hentai lactation is a subgenre of hentai online and manga that explores the theme of breastfeeding in erotic contexts. This genre is characterized by its depiction of female characters in breastfeeding situations, fusing elements of tenderness, care and eroticism.",
+      "count": 166,
+      "endpointPath": "/genre/lactation"
+    },
+    "rimjob": {
+      "name": "rimjob",
+      "slug": "rimjob",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/rimjob-vertical.min_.jpg",
+      "desc": "Rimjobs Hentai is a subgenre of online Hentai that focuses on a specific form of intimacy, exploring this practice with a mix of realism and fantasy. In these stories, the focus is on detail, emotion and connection between characters, presenting scenes that are as emotionally resonant as they are visually stimulating.",
+      "count": 73,
+      "endpointPath": "/genre/rimjob"
+    },
+    "x-ray": {
+      "name": "x-ray",
+      "slug": "x-ray",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/x-ray-vertical.min_.jpg",
+      "desc": "With an animation technique that allows viewers to see through the surface, this modality offers an insider&#x27;s, almost medical, view of sexual encounters. Ideal for those with an insatiable curiosity, This is Hentai online unfolds every detail of intimate interactions with startling clarity, providing an experience both educational and titillating.",
+      "count": 209,
+      "endpointPath": "/genre/x-ray"
+    },
+    "doggy-style": {
+      "name": "foot job",
+      "slug": "doggy-style",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/foot_job-vertical.min_.jpg",
+      "desc": "Footjob Hentai is a subgenre of hentai anime and manga that focuses on the use of feet to provide sexual pleasure. In these stories, characters use their feet in creative and erotic ways, offering a different and exciting perspective on sexual interactions.",
+      "count": 93,
+      "endpointPath": "/genre/doggy-style"
+    },
+    "yuri": {
+      "name": "yuri",
+      "slug": "yuri",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/yuri-vertical.min_.jpg",
+      "desc": "Yuri Hentai is a genre of online hentai that focuses on romantic and erotic relationships between women. Characterized by its delicate storytelling and beautiful animation, this genre offers an intimate look at the emotional and physical bonds between female characters.",
+      "count": 639,
+      "endpointPath": "/genre/yuri"
+    },
+    "gangbang": {
+      "name": "gangbang",
+      "slug": "gangbang",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/gangbang-vertical.min_.jpg",
+      "desc": "The term &quot;Gang Bang&quot;, in the context of adult entertainment, refers to scenes in which a main character interacts intimately with multiple characters simultaneously. In the world of hentai, this category is adapted and elevated with intriguing plots, well-developed characters and, of course, exceptional art.",
+      "count": 671,
+      "endpointPath": "/genre/gangbang"
+    },
+    "filmed": {
+      "name": "filmed",
+      "slug": "filmed",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/filmed-vertical.min_.jpg",
+      "desc": "Filmed Hentai is a special category within hentai that simulates the experience of being on a film set, offering a drawer and more realistic view of erotic scenes. This genre plays with metanarrative, where characters are often aware of being watched or filmed, adding a layer of voyeuristic titillation.",
+      "count": 258,
+      "endpointPath": "/genre/filmed"
+    },
+    "horror": {
+      "name": "horror",
+      "slug": "horror",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/horror-vertical.min_.jpg",
+      "desc": "Horror Hentai is a bold category that intertwines elements of the horror genre with the erotic art of online hentai. Characterized by its creepy atmosphere, mysterious characters and borderline situations that challenge both the mind and the senses, this genre takes viewers on a journey through the forbidden and the unknown.",
+      "count": 215,
+      "endpointPath": "/genre/horror"
+    },
+    "public-sex": {
+      "name": "public sex",
+      "slug": "public-sex",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/public_sex-vertical.min_.jpg",
+      "desc": "In this section, discover the allure of Exhibitionism Hentai, a genre that explores the excitement and thrill of public display and voyeurism. Dive into narratives that showcase characters unafraid to embrace their sensual desires in daring and arousing scenarios.",
+      "count": 629,
+      "endpointPath": "/genre/public-sex"
+    },
+    "ugly-bastard": {
+      "name": "ugly bastard",
+      "slug": "ugly-bastard",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/ugly_bastard-vertical.min_.jpg",
+      "desc": "Ugly Bastard Hentai is a subgenre that breaks away from the usual archetypes of beauty and perfection in erotic stories. Instead of the typical attractive protagonists, here it is the &quot;ugly bastard&quot; who leads the sensual experiences, often portraying an unusual and provocative power dynamic.",
+      "count": 184,
+      "endpointPath": "/genre/ugly-bastard"
+    },
+    "reverse-rape": {
+      "name": "reverse rape",
+      "slug": "reverse-rape",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/reverse_rape-vertical.min_.jpg",
+      "desc": "Reverse rape Hentai is a sub-genre of online hentai anime and manga that focuses on the reversal of gender and power roles in sexual relationships. In these stories, traditional expectations are subverted, creating situations where characters adopt behaviors and roles that are the opposite of conventional stereotypes.",
+      "count": 128,
+      "endpointPath": "/genre/reverse-rape"
+    },
+    "watersports": {
+      "name": "watersports",
+      "slug": "watersports",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/watersports-vertical.min_.jpg",
+      "desc": "Watersports Hentai is a subcategory of adult anime that focuses on playful and erotic water-related activities. From swimming competitions with a provocative twist to intimate games on the beach, this genre offers a torrent of scenes charged with energy and a fluid expression of desire.",
+      "count": 259,
+      "endpointPath": "/genre/watersports"
+    },
+    "nekomimi": {
+      "name": "nekomimi",
+      "slug": "nekomimi",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/nekomimi-vertical.min_.jpg",
+      "desc": "Nekomimi Hentai is a subgenre of hentai online that focuses on characters possessing cat-like features, such as ears and tails. These elements not only add a distinctive visual touch, but also enrich the characters&#x27; personalities, sensuality, and behavior, giving them playful, sometimes mischievous, and often charmingly whimsical characteristics.",
+      "count": 32,
+      "endpointPath": "/genre/nekomimi"
+    },
+    "shota": {
+      "name": "shota",
+      "slug": "shota",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/shota-vertical.min_.jpg",
+      "desc": "Shota Hentai is a sub-genre of hentai anime and manga that focuses on children engaging in erotic situations. This genre challenges conventional norms about size and attraction, presenting an unusual and engaging dynamic in sexual relationships.",
+      "count": 97,
+      "endpointPath": "/genre/shota"
+    },
+    "dark-skin": {
+      "name": "dark skin",
+      "slug": "dark-skin",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/dark_skin-vertical.min_.jpg",
+      "desc": "Dark Skin Hentai is a subgenre of hentai online anime and manga that focuses on dark-skinned characters in erotic settings. This genre is noted for its inclusive and diverse representation , offering a variety of characters and situations that celebrate the beauty and eroticism of dark skin.",
+      "count": 169,
+      "endpointPath": "/genre/dark-skin"
+    },
+    "bdsm": {
+      "name": "BDSM",
+      "slug": "bdsm",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/bdsm-vertical.min_.jpg",
+      "desc": "Immerse yourself in intense and provocative scenes that will take you to new levels of arousal. We can assure you that you&#x27;ve never seen everything that&#x27;s going to happen here, so you should have your senses ready for high doses of pleasure.",
+      "count": 270,
+      "endpointPath": "/genre/bdsm"
+    },
+    "inflation": {
+      "name": "inflation",
+      "slug": "inflation",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/inflation-vertical.min_.jpg",
+      "desc": "Inflation Hentai is a subgenre of hentai anime and manga that focuses on the inflation or expansion of body parts as a central element in erotic situations. This genre often includes scenarios where characters undergo changes in their shape and size, which adds an unusual and fascinating dimension to the erotic narrative.",
+      "count": 94,
+      "endpointPath": "/genre/inflation"
+    },
+    "mind-break": {
+      "name": "mind break",
+      "slug": "mind-break",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/mind_break-vertical.min_.jpg",
+      "desc": "Mind Break Hentai is a unique genre within the world of online hentai that focuses on the psychological transformation of characters, often through intense and extreme situations. This type of content usually features narratives where characters undergo a drastic change in their behavior or personality, taking the viewer through a series of scenarios where limits are constantly tested and overcome.",
+      "count": 186,
+      "endpointPath": "/genre/mind-break"
+    },
+    "futanari": {
+      "name": "futanari",
+      "slug": "futanari",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/futanari-vertical.min_.jpg",
+      "desc": "Futanari Hentai is a subgenre of hentai anime and manga that features characters with sexual characteristics of both genders. These stories explore themes of identity, desire and eroticism in unique and often surprising ways.",
+      "count": 175,
+      "endpointPath": "/genre/futanari"
+    },
+    "pov": {
+      "name": "pov",
+      "slug": "pov",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/pov-vertical.min_.jpg",
+      "desc": "POV (Point Of View) Hentai offers a uniquely immersive experience for fans of erotic anime. This perspective, typically seen through the eyes of the protagonist, puts you at the center of the action, making each encounter feel more personal and intimate.",
+      "count": 205,
+      "endpointPath": "/genre/pov"
+    },
+    "nudity": {
+      "name": "scat",
+      "slug": "nudity",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/scat-vertical.min_.jpg",
+      "desc": "Scat hentai is an explicit subcategory, which is characterized by exploring more daring themes such as sexual intercourse with excrement. This is one of the most morbid fetishes, which becomes the protagonist of every story.",
+      "count": 91,
+      "endpointPath": "/genre/nudity"
+    },
+    "impregnation": {
+      "name": "softcore",
+      "slug": "impregnation",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/softcore-vertical.min_.jpg",
+      "desc": "Softcore Hentai is a subgenre of hentai that is characterized by its less explicit approach and more focus on sensuality and implied eroticism. Unlike its more explicit counterpart, this section emphasizes the building of a romantic atmosphere and the development of emotional tension between characters.",
+      "count": 36,
+      "endpointPath": "/genre/impregnation"
+    },
+    "3d": {
+      "name": "3d",
+      "slug": "3d",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/3d-vertical.min1_.jpg",
+      "desc": "3D Hentai is a subgenre of hentai that uses computer-generated graphics to create three-dimensional animated images and sequences. Unlike traditional hentai, which relies on two-dimensional drawings, 3D offers a more realistic and immersive perspective.",
+      "count": 61,
+      "endpointPath": "/genre/3d"
+    },
+    "cream-pie": {
+      "name": "trap",
+      "slug": "cream-pie",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/trap-vertical.min_.jpg",
+      "desc": "Trap hentai delves into the fascinating terrain of exploring characters that defy conventional gender norms. In this section of adult anime, protagonists embody a feminine, seductive and sensual appearance, but reveal their true male identity, unleashing an intriguing plot where attraction and surprise are provocatively intertwined.",
+      "count": 20,
+      "endpointPath": "/genre/cream-pie"
+    },
+    "yaoi": {
+      "name": "yaoi",
+      "slug": "yaoi",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/yaoi-vertical.min_.jpg",
+      "desc": "Yaoi Hentai is an art form that focuses on romantic and erotic relationships between male characters. Through Japanese animation, this genre presents stories that go beyond physical pleasure, delving into the emotional and psychological complexities of its characters.",
+      "count": 41,
+      "endpointPath": "/genre/yaoi"
+    },
+    "foot-job": {
+      "name": "foot job",
+      "slug": "foot-job",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/foot_job-vertical.min_.jpg",
+      "desc": "Footjob Hentai is a subgenre of hentai anime and manga that focuses on the use of feet to provide sexual pleasure. In these stories, characters use their feet in creative and erotic ways, offering a different and exciting perspective on sexual interactions.",
+      "count": 93,
+      "endpointPath": "/genre/foot-job"
+    },
+    "blowjob": {
+      "name": "Blowjob",
+      "slug": "blowjob",
+      "thumb": "",
+      "desc": "The best blowjob hentai, streamed in HD and updated daily.",
+      "count": 22,
+      "endpointPath": "/genre/blowjob"
+    },
+    "exhibitionism": {
+      "name": "Exhibitionism",
+      "slug": "exhibitionism",
+      "thumb": "",
+      "desc": "The best exhibitionism hentai, streamed in HD and updated daily.",
+      "count": 2,
+      "endpointPath": "/genre/exhibitionism"
+    },
+    "big-breasts": {
+      "name": "Big Breasts",
+      "slug": "big-breasts",
+      "thumb": "",
+      "desc": "The best big breasts hentai, streamed in HD and updated daily.",
+      "count": 25,
+      "endpointPath": "/genre/big-breasts"
+    },
+    "paizuri": {
+      "name": "Paizuri",
+      "slug": "paizuri",
+      "thumb": "",
+      "desc": "The best paizuri hentai, streamed in HD and updated daily.",
+      "count": 23,
+      "endpointPath": "/genre/paizuri"
+    },
+    "hentai": {
+      "name": "Hentai",
+      "slug": "hentai",
+      "thumb": "",
+      "desc": "The best hentai hentai, streamed in HD and updated daily.",
+      "count": 25,
+      "endpointPath": "/genre/hentai"
+    },
+    "voyeurism": {
+      "name": "Voyeurism",
+      "slug": "voyeurism",
+      "thumb": "",
+      "desc": "The best voyeurism hentai, streamed in HD and updated daily.",
+      "count": 1,
+      "endpointPath": "/genre/voyeurism"
+    },
+    "corruption": {
+      "name": "Corruption",
+      "slug": "corruption",
+      "thumb": "",
+      "desc": "The best corruption hentai, streamed in HD and updated daily.",
+      "count": 10,
+      "endpointPath": "/genre/corruption"
+    },
+    "magic": {
+      "name": "Magic",
+      "slug": "magic",
+      "thumb": "",
+      "desc": "The best magic hentai, streamed in HD and updated daily.",
+      "count": 1,
+      "endpointPath": "/genre/magic"
+    },
+    "huge-breasts": {
+      "name": "Huge Breasts",
+      "slug": "huge-breasts",
+      "thumb": "",
+      "desc": "The best huge breasts hentai, streamed in HD and updated daily.",
+      "count": 1,
+      "endpointPath": "/genre/huge-breasts"
+    },
+    "cheating": {
+      "name": "Cheating",
+      "slug": "cheating",
+      "thumb": "",
+      "desc": "The best cheating hentai, streamed in HD and updated daily.",
+      "count": 2,
+      "endpointPath": "/genre/cheating"
+    },
+    "high-school": {
+      "name": "High School",
+      "slug": "high-school",
+      "thumb": "",
+      "desc": "The best high school hentai, streamed in HD and updated daily.",
+      "count": 3,
+      "endpointPath": "/genre/high-school"
+    },
+    "schoolgirl": {
+      "name": "Schoolgirl",
+      "slug": "schoolgirl",
+      "thumb": "",
+      "desc": "The best schoolgirl hentai, streamed in HD and updated daily.",
+      "count": 6,
+      "endpointPath": "/genre/schoolgirl"
+    },
+    "big-tits": {
+      "name": "Big Tits",
+      "slug": "big-tits",
+      "thumb": "",
+      "desc": "The best big tits hentai, streamed in HD and updated daily.",
+      "count": 11,
+      "endpointPath": "/genre/big-tits"
+    },
+    "first-kiss": {
+      "name": "First Kiss",
+      "slug": "first-kiss",
+      "thumb": "",
+      "desc": "The best first kiss hentai, streamed in HD and updated daily.",
+      "count": 1,
+      "endpointPath": "/genre/first-kiss"
+    },
+    "drama": {
+      "name": "Drama",
+      "slug": "drama",
+      "thumb": "",
+      "desc": "The best drama hentai, streamed in HD and updated daily.",
+      "count": 1,
+      "endpointPath": "/genre/drama"
+    },
+    "office-lady": {
+      "name": "office lady",
+      "slug": "office-lady",
+      "thumb": "",
+      "desc": "The best office lady hentai, streamed in HD and updated daily.",
+      "count": 1,
+      "endpointPath": "/genre/office-lady"
+    },
+    "sex-toys": {
+      "name": "Sex Toys",
+      "slug": "sex-toys",
+      "thumb": "",
+      "desc": "The best sex toys hentai, streamed in HD and updated daily.",
+      "count": 1,
+      "endpointPath": "/genre/sex-toys"
+    },
+    "group-sex": {
+      "name": "Group Sex",
+      "slug": "group-sex",
+      "thumb": "",
+      "desc": "The best group sex hentai, streamed in HD and updated daily.",
+      "count": 2,
+      "endpointPath": "/genre/group-sex"
+    },
+    "ffm-threesome": {
+      "name": "FFM Threesome",
+      "slug": "ffm-threesome",
+      "thumb": "",
+      "desc": "The best ffm threesome hentai, streamed in HD and updated daily.",
+      "count": 1,
+      "endpointPath": "/genre/ffm-threesome"
+    },
+    "humiliation": {
+      "name": "Humiliation",
+      "slug": "humiliation",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/scat-vertical.min_.jpg",
+      "desc": "The best humiliation hentai, streamed in HD and updated daily.",
+      "count": 1,
+      "endpointPath": "/genre/humiliation"
+    },
+    "scat": {
+      "name": "scat",
+      "slug": "scat",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/scat-vertical.min_.jpg",
+      "desc": "Scat hentai is an explicit subcategory, which is characterized by exploring more daring themes such as sexual intercourse with excrement. This is one of the most morbid fetishes, which becomes the protagonist of every story.",
+      "count": 91,
+      "endpointPath": "/genre/scat"
+    },
+    "housewife": {
+      "name": "Housewife",
+      "slug": "housewife",
+      "thumb": "",
+      "desc": "The best housewife hentai, streamed in HD and updated daily.",
+      "count": 2,
+      "endpointPath": "/genre/housewife"
+    },
+    "elf": {
+      "name": "Elf",
+      "slug": "elf",
+      "thumb": "",
+      "desc": "The best elf hentai, streamed in HD and updated daily.",
+      "count": 3,
+      "endpointPath": "/genre/elf"
+    },
+    "gyaru": {
+      "name": "Gyaru",
+      "slug": "gyaru",
+      "thumb": "",
+      "desc": "The best gyaru hentai, streamed in HD and updated daily.",
+      "count": 2,
+      "endpointPath": "/genre/gyaru"
+    },
+    "erotic-game": {
+      "name": "Erotic Game",
+      "slug": "erotic-game",
+      "thumb": "",
+      "desc": "The best erotic game hentai, streamed in HD and updated daily.",
+      "count": 1,
+      "endpointPath": "/genre/erotic-game"
+    },
+    "teasing": {
+      "name": "Teasing",
+      "slug": "teasing",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/softcore-vertical.min_.jpg",
+      "desc": "The best teasing hentai, streamed in HD and updated daily.",
+      "count": 1,
+      "endpointPath": "/genre/teasing"
+    },
+    "softcore": {
+      "name": "softcore",
+      "slug": "softcore",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/softcore-vertical.min_.jpg",
+      "desc": "Softcore Hentai is a subgenre of hentai that is characterized by its less explicit approach and more focus on sensuality and implied eroticism. Unlike its more explicit counterpart, this section emphasizes the building of a romantic atmosphere and the development of emotional tension between characters.",
+      "count": 36,
+      "endpointPath": "/genre/softcore"
+    },
+    "loli-01": {
+      "name": "Loli",
+      "slug": "loli-01",
+      "thumb": "",
+      "desc": "The best loli 01 hentai, streamed in HD and updated daily.",
+      "count": 1,
+      "endpointPath": "/genre/loli-01"
+    },
+    "sex": {
+      "name": "Sex",
+      "slug": "sex",
+      "thumb": "",
+      "desc": "The best sex hentai, streamed in HD and updated daily.",
+      "count": 1,
+      "endpointPath": "/genre/sex"
+    },
+    "small-tits": {
+      "name": "Small tits",
+      "slug": "small-tits",
+      "thumb": "",
+      "desc": "The best small tits hentai, streamed in HD and updated daily.",
+      "count": 1,
+      "endpointPath": "/genre/small-tits"
+    },
+    "school-life": {
+      "name": "School Life",
+      "slug": "school-life",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/trap-vertical.min_.jpg",
+      "desc": "The best school life hentai, streamed in HD and updated daily.",
+      "count": 3,
+      "endpointPath": "/genre/school-life"
+    },
+    "trap": {
+      "name": "trap",
+      "slug": "trap",
+      "thumb": "https://hentai.tv/uploads/media/2023/10/trap-vertical.min_.jpg",
+      "desc": "Trap hentai delves into the fascinating terrain of exploring characters that defy conventional gender norms. In this section of adult anime, protagonists embody a feminine, seductive and sensual appearance, but reveal their true male identity, unleashing an intriguing plot where attraction and surprise are provocatively intertwined.",
+      "count": 20,
+      "endpointPath": "/genre/trap"
+    },
+    "tentacles": {
+      "name": "Tentacles",
+      "slug": "tentacles",
+      "thumb": "",
+      "desc": "The best tentacles hentai, streamed in HD and updated daily.",
+      "count": 1,
+      "endpointPath": "/genre/tentacles"
+    },
+    "public": {
+      "name": "Public",
+      "slug": "public",
+      "thumb": "",
+      "desc": "The best public hentai, streamed in HD and updated daily.",
+      "count": 1,
+      "endpointPath": "/genre/public"
+    },
+    "femdom": {
+      "name": "Femdom",
+      "slug": "femdom",
+      "thumb": "",
+      "desc": "The best femdom hentai, streamed in HD and updated daily.",
+      "count": 1,
+      "endpointPath": "/genre/femdom"
+    },
+    "monster-girl": {
+      "name": "monster girl",
+      "slug": "monster-girl",
+      "thumb": "",
+      "desc": "The best monster girl hentai, streamed in HD and updated daily.",
+      "count": 2,
+      "endpointPath": "/genre/monster-girl"
+    },
+    "blackmail": {
+      "name": "Blackmail",
+      "slug": "blackmail",
+      "thumb": "",
+      "desc": "The best blackmail hentai, streamed in HD and updated daily.",
+      "count": 1,
+      "endpointPath": "/genre/blackmail"
+    }
+  },
+  "studios": [
+    {
+      "name": "Pink Pineapple",
+      "slug": "pink-pineapple",
+      "count": 569,
+      "thumb": "https://hentai.tv/uploads/media/2023/09/poster_955.jpg",
+      "desc": "Pink Pineapple official anime studio archive \u2022 569 releases",
+      "endpointPath": "/browse?brands=Pink%20Pineapple"
+    },
+    {
+      "name": "Ms Pictures",
+      "slug": "ms-pictures",
+      "count": 344,
+      "thumb": "https://hentai.tv/uploads/media/2023/09/poster_6061.jpg",
+      "desc": "Ms Pictures official anime studio archive \u2022 344 releases",
+      "endpointPath": "/browse?brands=Ms%20Pictures"
+    },
+    {
+      "name": "Poro",
+      "slug": "poro",
+      "count": 188,
+      "thumb": "https://hentai.tv/uploads/media/2023/09/poster_1369.jpg",
+      "desc": "Poro official anime studio archive \u2022 188 releases",
+      "endpointPath": "/browse?brands=Poro"
+    },
+    {
+      "name": "Mary Jane",
+      "slug": "mary-jane",
+      "count": 153,
+      "thumb": "https://hentai.tv/uploads/media/2023/09/poster_638.jpg",
+      "desc": "Mary Jane official anime studio archive \u2022 153 releases",
+      "endpointPath": "/browse?brands=Mary%20Jane"
+    },
+    {
+      "name": "Queen Bee",
+      "slug": "queen-bee",
+      "count": 147,
+      "thumb": "https://hentai.tv/uploads/media/2023/09/poster_2412.jpg",
+      "desc": "Queen Bee official anime studio archive \u2022 147 releases",
+      "endpointPath": "/browse?brands=Queen%20Bee"
+    },
+    {
+      "name": "Vanilla",
+      "slug": "vanilla",
+      "count": 140,
+      "thumb": "https://hentai.tv/uploads/media/2023/09/poster_2976.jpg",
+      "desc": "Vanilla official anime studio archive \u2022 140 releases",
+      "endpointPath": "/browse?brands=Vanilla"
+    },
+    {
+      "name": "Green Bunny",
+      "slug": "green-bunny",
+      "count": 121,
+      "thumb": "https://hentai.tv/uploads/media/2023/09/poster_4592.jpg",
+      "desc": "Green Bunny official anime studio archive \u2022 121 releases",
+      "endpointPath": "/browse?brands=Green%20Bunny"
+    },
+    {
+      "name": "Suzuki Mirano",
+      "slug": "suzuki-mirano",
+      "count": 110,
+      "thumb": "https://hentai.tv/uploads/media/2023/09/poster_1386.jpg",
+      "desc": "Suzuki Mirano official anime studio archive \u2022 110 releases",
+      "endpointPath": "/browse?brands=Suzuki%20Mirano"
+    },
+    {
+      "name": "T Rex",
+      "slug": "t-rex",
+      "count": 104,
+      "thumb": "https://hentai.tv/uploads/media/2025/03/OVA-Yuugao-Episode-1.jpg",
+      "desc": "T Rex official anime studio archive \u2022 104 releases",
+      "endpointPath": "/browse?brands=T%20Rex"
+    },
+    {
+      "name": "Discovery",
+      "slug": "discovery",
+      "count": 77,
+      "thumb": "https://hentai.tv/uploads/media/2023/09/poster_1084.jpg",
+      "desc": "Discovery official anime studio archive \u2022 77 releases",
+      "endpointPath": "/browse?brands=Discovery"
+    },
+    {
+      "name": "Bunnywalker",
+      "slug": "bunnywalker",
+      "count": 76,
+      "thumb": "https://hentai.tv/uploads/media/2023/09/poster_9659.jpg",
+      "desc": "Bunnywalker official anime studio archive \u2022 76 releases",
+      "endpointPath": "/browse?brands=Bunnywalker"
+    },
+    {
+      "name": "Mediabank",
+      "slug": "mediabank",
+      "count": 76,
+      "thumb": "https://hentai.tv/uploads/media/2023/09/poster_3614.jpg",
+      "desc": "Mediabank official anime studio archive \u2022 76 releases",
+      "endpointPath": "/browse?brands=Mediabank"
+    },
+    {
+      "name": "Nur",
+      "slug": "nur",
+      "count": 74,
+      "thumb": "https://hentai.tv/uploads/media/2023/09/poster_6232.jpg",
+      "desc": "Nur official anime studio archive \u2022 74 releases",
+      "endpointPath": "/browse?brands=Nur"
+    },
+    {
+      "name": "Pixy Soft",
+      "slug": "pixy-soft",
+      "count": 71,
+      "thumb": "https://hentai.tv/uploads/media/2023/09/poster_1861.jpg",
+      "desc": "Pixy Soft official anime studio archive \u2022 71 releases",
+      "endpointPath": "/browse?brands=Pixy%20Soft"
+    },
+    {
+      "name": "Majin Petit",
+      "slug": "majin-petit",
+      "count": 67,
+      "thumb": "https://hentai.tv/uploads/media/2023/09/poster_9642.jpg",
+      "desc": "Majin Petit official anime studio archive \u2022 67 releases",
+      "endpointPath": "/browse?brands=Majin%20Petit"
+    },
+    {
+      "name": "Collaboration Works",
+      "slug": "collaboration-works",
+      "count": 52,
+      "thumb": "https://hentai.tv/uploads/media/2023/09/poster_658.jpg",
+      "desc": "Collaboration Works official anime studio archive \u2022 52 releases",
+      "endpointPath": "/browse?brands=Collaboration%20Works"
+    },
+    {
+      "name": "Suiseisha",
+      "slug": "suiseisha",
+      "count": 49,
+      "thumb": "https://hentai.tv/uploads/media/2024/02/1Sazanami-Souji-ni-Junketsu-o-Sasagu-1.jpg",
+      "desc": "Suiseisha official anime studio archive \u2022 49 releases",
+      "endpointPath": "/browse?brands=Suiseisha"
+    },
+    {
+      "name": "Comic Media",
+      "slug": "comic-media",
+      "count": 46,
+      "thumb": "https://hentai.tv/uploads/media/2023/09/poster_8634.jpg",
+      "desc": "Comic Media official anime studio archive \u2022 46 releases",
+      "endpointPath": "/browse?brands=Comic%20Media"
+    },
+    {
+      "name": "Nutech Digital",
+      "slug": "nutech-digital",
+      "count": 46,
+      "thumb": "https://hentai.tv/uploads/media/2023/09/poster_8163.jpg",
+      "desc": "Nutech Digital official anime studio archive \u2022 46 releases",
+      "endpointPath": "/browse?brands=Nutech%20Digital"
+    },
+    {
+      "name": "Showten",
+      "slug": "showten",
+      "count": 42,
+      "thumb": "https://hentai.tv/uploads/media/2024/10/Kyokugen-Chikan-Tokuiten-3-The-Animation-Episode-1.jpg",
+      "desc": "Showten official anime studio archive \u2022 42 releases",
+      "endpointPath": "/browse?brands=Showten"
+    },
+    {
+      "name": "Five Ways",
+      "slug": "five-ways",
+      "count": 41,
+      "thumb": "https://hentai.tv/uploads/media/2023/09/poster_7082.jpg",
+      "desc": "Five Ways official anime studio archive \u2022 41 releases",
+      "endpointPath": "/browse?brands=Five%20Ways"
+    },
+    {
+      "name": "Magin Label",
+      "slug": "magin-label",
+      "count": 41,
+      "thumb": "https://hentai.tv/uploads/media/2023/09/poster_9884.jpg",
+      "desc": "Magin Label official anime studio archive \u2022 41 releases",
+      "endpointPath": "/browse?brands=Magin%20Label"
+    },
+    {
+      "name": "Central Park Media",
+      "slug": "central-park-media",
+      "count": 33,
+      "thumb": "https://hentai.tv/uploads/media/2023/09/poster_8730.jpg",
+      "desc": "Central Park Media official anime studio archive \u2022 33 releases",
+      "endpointPath": "/browse?brands=Central%20Park%20Media"
+    },
+    {
+      "name": "Lune Pictures",
+      "slug": "lune-pictures",
+      "count": 31,
+      "thumb": "https://hentai.tv/uploads/media/2023/09/poster_4503.jpg",
+      "desc": "Lune Pictures official anime studio archive \u2022 31 releases",
+      "endpointPath": "/browse?brands=Lune%20Pictures"
+    },
+    {
+      "name": "Chichinoya",
+      "slug": "chichinoya",
+      "count": 27,
+      "thumb": "https://hentai.tv/uploads/media/2023/09/poster_5008.jpg",
+      "desc": "Chichinoya official anime studio archive \u2022 27 releases",
+      "endpointPath": "/browse?brands=Chichinoya"
+    },
+    {
+      "name": "Media Blasters",
+      "slug": "media-blasters",
+      "count": 26,
+      "thumb": "",
+      "desc": "Media Blasters official anime studio archive \u2022 26 releases",
+      "endpointPath": "/browse?brands=Media%20Blasters"
+    },
+    {
+      "name": "Selfish",
+      "slug": "selfish",
+      "count": 26,
+      "thumb": "",
+      "desc": "Selfish official anime studio archive \u2022 26 releases",
+      "endpointPath": "/browse?brands=Selfish"
+    },
+    {
+      "name": "Edge",
+      "slug": "edge",
+      "count": 25,
+      "thumb": "",
+      "desc": "Edge official anime studio archive \u2022 25 releases",
+      "endpointPath": "/browse?brands=Edge"
+    },
+    {
+      "name": "Hokiboshi",
+      "slug": "hokiboshi",
+      "count": 25,
+      "thumb": "",
+      "desc": "Hokiboshi official anime studio archive \u2022 25 releases",
+      "endpointPath": "/browse?brands=Hokiboshi"
+    },
+    {
+      "name": "Milky",
+      "slug": "milky",
+      "count": 23,
+      "thumb": "",
+      "desc": "Milky official anime studio archive \u2022 23 releases",
+      "endpointPath": "/browse?brands=Milky"
+    },
+    {
+      "name": "Daiei",
+      "slug": "daiei",
+      "count": 22,
+      "thumb": "",
+      "desc": "Daiei official anime studio archive \u2022 22 releases",
+      "endpointPath": "/browse?brands=Daiei"
+    },
+    {
+      "name": "Pashmina",
+      "slug": "pashmina",
+      "count": 22,
+      "thumb": "",
+      "desc": "Pashmina official anime studio archive \u2022 22 releases",
+      "endpointPath": "/browse?brands=Pashmina"
+    },
+    {
+      "name": "Arms",
+      "slug": "arms",
+      "count": 21,
+      "thumb": "",
+      "desc": "Arms official anime studio archive \u2022 21 releases",
+      "endpointPath": "/browse?brands=Arms"
+    },
+    {
+      "name": "Ziz",
+      "slug": "ziz",
+      "count": 21,
+      "thumb": "",
+      "desc": "Ziz official anime studio archive \u2022 21 releases",
+      "endpointPath": "/browse?brands=Ziz"
+    },
+    {
+      "name": "Digital Works",
+      "slug": "digital-works",
+      "count": 18,
+      "thumb": "",
+      "desc": "Digital Works official anime studio archive \u2022 18 releases",
+      "endpointPath": "/browse?brands=Digital%20Works"
+    },
+    {
+      "name": "Gold Bear",
+      "slug": "gold-bear",
+      "count": 16,
+      "thumb": "",
+      "desc": "Gold Bear official anime studio archive \u2022 16 releases",
+      "endpointPath": "/browse?brands=Gold%20Bear"
+    },
+    {
+      "name": "Amour",
+      "slug": "amour",
+      "count": 15,
+      "thumb": "",
+      "desc": "Amour official anime studio archive \u2022 15 releases",
+      "endpointPath": "/browse?brands=Amour"
+    },
+    {
+      "name": "Schoolzone",
+      "slug": "schoolzone",
+      "count": 15,
+      "thumb": "",
+      "desc": "Schoolzone official anime studio archive \u2022 15 releases",
+      "endpointPath": "/browse?brands=Schoolzone"
+    },
+    {
+      "name": "Studio 9 Maiami",
+      "slug": "studio-9-maiami",
+      "count": 15,
+      "thumb": "",
+      "desc": "Studio 9 Maiami official anime studio archive \u2022 15 releases",
+      "endpointPath": "/browse?brands=Studio%209%20Maiami"
+    },
+    {
+      "name": "Bomb Cute Bomb",
+      "slug": "bomb-cute-bomb",
+      "count": 14,
+      "thumb": "",
+      "desc": "Bomb Cute Bomb official anime studio archive \u2022 14 releases",
+      "endpointPath": "/browse?brands=Bomb%20Cute%20Bomb"
+    },
+    {
+      "name": "King Bee",
+      "slug": "king-bee",
+      "count": 14,
+      "thumb": "",
+      "desc": "King Bee official anime studio archive \u2022 14 releases",
+      "endpointPath": "/browse?brands=King%20Bee"
+    },
+    {
+      "name": "Lemon Heart",
+      "slug": "lemon-heart",
+      "count": 14,
+      "thumb": "",
+      "desc": "Lemon Heart official anime studio archive \u2022 14 releases",
+      "endpointPath": "/browse?brands=Lemon%20Heart"
+    },
+    {
+      "name": "White Bear",
+      "slug": "white-bear",
+      "count": 14,
+      "thumb": "",
+      "desc": "White Bear official anime studio archive \u2022 14 releases",
+      "endpointPath": "/browse?brands=White%20Bear"
+    },
+    {
+      "name": "Y O U C",
+      "slug": "y-o-u-c",
+      "count": 14,
+      "thumb": "",
+      "desc": "Y O U C official anime studio archive \u2022 14 releases",
+      "endpointPath": "/browse?brands=Y%20O%20U%20C"
+    },
+    {
+      "name": "Marigold",
+      "slug": "marigold",
+      "count": 13,
+      "thumb": "",
+      "desc": "Marigold official anime studio archive \u2022 13 releases",
+      "endpointPath": "/browse?brands=Marigold"
+    },
+    {
+      "name": "Torudaya",
+      "slug": "torudaya",
+      "count": 13,
+      "thumb": "",
+      "desc": "Torudaya official anime studio archive \u2022 13 releases",
+      "endpointPath": "/browse?brands=Torudaya"
+    },
+    {
+      "name": "Tnk",
+      "slug": "tnk",
+      "count": 12,
+      "thumb": "",
+      "desc": "Tnk official anime studio archive \u2022 12 releases",
+      "endpointPath": "/browse?brands=Tnk"
+    },
+    {
+      "name": "X City",
+      "slug": "x-city",
+      "count": 12,
+      "thumb": "",
+      "desc": "X City official anime studio archive \u2022 12 releases",
+      "endpointPath": "/browse?brands=X%20City"
+    },
+    {
+      "name": "Animac",
+      "slug": "animac",
+      "count": 11,
+      "thumb": "",
+      "desc": "Animac official anime studio archive \u2022 11 releases",
+      "endpointPath": "/browse?brands=Animac"
+    },
+    {
+      "name": "Antechinus",
+      "slug": "antechinus",
+      "count": 11,
+      "thumb": "",
+      "desc": "Antechinus official anime studio archive \u2022 11 releases",
+      "endpointPath": "/browse?brands=Antechinus"
+    },
+    {
+      "name": "Rabbit Gate",
+      "slug": "rabbit-gate",
+      "count": 11,
+      "thumb": "",
+      "desc": "Rabbit Gate official anime studio archive \u2022 11 releases",
+      "endpointPath": "/browse?brands=Rabbit%20Gate"
+    },
+    {
+      "name": "Soft On Demand",
+      "slug": "soft-on-demand",
+      "count": 11,
+      "thumb": "",
+      "desc": "Soft On Demand official anime studio archive \u2022 11 releases",
+      "endpointPath": "/browse?brands=Soft%20On%20Demand"
+    },
+    {
+      "name": "Studio Gokumi",
+      "slug": "studio-gokumi",
+      "count": 11,
+      "thumb": "",
+      "desc": "Studio Gokumi official anime studio archive \u2022 11 releases",
+      "endpointPath": "/browse?brands=Studio%20Gokumi"
+    },
+    {
+      "name": "Bootleg",
+      "slug": "bootleg",
+      "count": 10,
+      "thumb": "",
+      "desc": "Bootleg official anime studio archive \u2022 10 releases",
+      "endpointPath": "/browse?brands=Bootleg"
+    },
+    {
+      "name": "Mousou Senka",
+      "slug": "mousou-senka",
+      "count": 10,
+      "thumb": "",
+      "desc": "Mousou Senka official anime studio archive \u2022 10 releases",
+      "endpointPath": "/browse?brands=Mousou%20Senka"
+    },
+    {
+      "name": "Adult Source Media",
+      "slug": "adult-source-media",
+      "count": 9,
+      "thumb": "",
+      "desc": "Adult Source Media official anime studio archive \u2022 9 releases",
+      "endpointPath": "/browse?brands=Adult%20Source%20Media"
+    },
+    {
+      "name": "Valkyria",
+      "slug": "valkyria",
+      "count": 9,
+      "thumb": "",
+      "desc": "Valkyria official anime studio archive \u2022 9 releases",
+      "endpointPath": "/browse?brands=Valkyria"
+    },
+    {
+      "name": "D3",
+      "slug": "d3",
+      "count": 8,
+      "thumb": "",
+      "desc": "D3 official anime studio archive \u2022 8 releases",
+      "endpointPath": "/browse?brands=D3"
+    },
+    {
+      "name": "Jellyfish",
+      "slug": "jellyfish",
+      "count": 8,
+      "thumb": "",
+      "desc": "Jellyfish official anime studio archive \u2022 8 releases",
+      "endpointPath": "/browse?brands=Jellyfish"
+    },
+    {
+      "name": "Blue Eyes",
+      "slug": "blue-eyes",
+      "count": 7,
+      "thumb": "",
+      "desc": "Blue Eyes official anime studio archive \u2022 7 releases",
+      "endpointPath": "/browse?brands=Blue%20Eyes"
+    },
+    {
+      "name": "Hot Bear",
+      "slug": "hot-bear",
+      "count": 6,
+      "thumb": "",
+      "desc": "Hot Bear official anime studio archive \u2022 6 releases",
+      "endpointPath": "/browse?brands=Hot%20Bear"
+    },
+    {
+      "name": "Knack",
+      "slug": "knack",
+      "count": 6,
+      "thumb": "",
+      "desc": "Knack official anime studio archive \u2022 6 releases",
+      "endpointPath": "/browse?brands=Knack"
+    },
+    {
+      "name": "Nihikime No Dozeu",
+      "slug": "nihikime-no-dozeu",
+      "count": 6,
+      "thumb": "",
+      "desc": "Nihikime No Dozeu official anime studio archive \u2022 6 releases",
+      "endpointPath": "/browse?brands=Nihikime%20No%20Dozeu"
+    },
+    {
+      "name": "Oz",
+      "slug": "oz",
+      "count": 6,
+      "thumb": "",
+      "desc": "Oz official anime studio archive \u2022 6 releases",
+      "endpointPath": "/browse?brands=Oz"
+    },
+    {
+      "name": "Softcell",
+      "slug": "softcell",
+      "count": 6,
+      "thumb": "",
+      "desc": "Softcell official anime studio archive \u2022 6 releases",
+      "endpointPath": "/browse?brands=Softcell"
+    },
+    {
+      "name": "Umemaro 3d",
+      "slug": "umemaro-3d",
+      "count": 6,
+      "thumb": "",
+      "desc": "Umemaro 3d official anime studio archive \u2022 6 releases",
+      "endpointPath": "/browse?brands=Umemaro%203d"
+    },
+    {
+      "name": "Hykobo",
+      "slug": "hykobo",
+      "count": 5,
+      "thumb": "",
+      "desc": "Hykobo official anime studio archive \u2022 5 releases",
+      "endpointPath": "/browse?brands=Hykobo"
+    },
+    {
+      "name": "Studio Fow",
+      "slug": "studio-fow",
+      "count": 5,
+      "thumb": "",
+      "desc": "Studio Fow official anime studio archive \u2022 5 releases",
+      "endpointPath": "/browse?brands=Studio%20Fow"
+    },
+    {
+      "name": "Chocolat",
+      "slug": "chocolat",
+      "count": 4,
+      "thumb": "",
+      "desc": "Chocolat official anime studio archive \u2022 4 releases",
+      "endpointPath": "/browse?brands=Chocolat"
+    },
+    {
+      "name": "Evee",
+      "slug": "evee",
+      "count": 4,
+      "thumb": "",
+      "desc": "Evee official anime studio archive \u2022 4 releases",
+      "endpointPath": "/browse?brands=Evee"
+    },
+    {
+      "name": "Front Line",
+      "slug": "front-line",
+      "count": 4,
+      "thumb": "",
+      "desc": "Front Line official anime studio archive \u2022 4 releases",
+      "endpointPath": "/browse?brands=Front%20Line"
+    },
+    {
+      "name": "Hoods Entertainment",
+      "slug": "hoods-entertainment",
+      "count": 4,
+      "thumb": "",
+      "desc": "Hoods Entertainment official anime studio archive \u2022 4 releases",
+      "endpointPath": "/browse?brands=Hoods%20Entertainment"
+    },
+    {
+      "name": "Magic Bus",
+      "slug": "magic-bus",
+      "count": 4,
+      "thumb": "",
+      "desc": "Magic Bus official anime studio archive \u2022 4 releases",
+      "endpointPath": "/browse?brands=Magic%20Bus"
+    },
+    {
+      "name": "Rojiura Jack",
+      "slug": "rojiura-jack",
+      "count": 4,
+      "thumb": "",
+      "desc": "Rojiura Jack official anime studio archive \u2022 4 releases",
+      "endpointPath": "/browse?brands=Rojiura%20Jack"
+    },
+    {
+      "name": "Seven",
+      "slug": "seven",
+      "count": 4,
+      "thumb": "",
+      "desc": "Seven official anime studio archive \u2022 4 releases",
+      "endpointPath": "/browse?brands=Seven"
+    },
+    {
+      "name": "Shadow Prod Co",
+      "slug": "shadow-prod-co",
+      "count": 4,
+      "thumb": "",
+      "desc": "Shadow Prod Co official anime studio archive \u2022 4 releases",
+      "endpointPath": "/browse?brands=Shadow%20Prod%20Co"
+    },
+    {
+      "name": "Shelf",
+      "slug": "shelf",
+      "count": 4,
+      "thumb": "",
+      "desc": "Shelf official anime studio archive \u2022 4 releases",
+      "endpointPath": "/browse?brands=Shelf"
+    },
+    {
+      "name": "U Jin",
+      "slug": "u-jin",
+      "count": 4,
+      "thumb": "",
+      "desc": "U Jin official anime studio archive \u2022 4 releases",
+      "endpointPath": "/browse?brands=U%20Jin"
+    },
+    {
+      "name": "Alpha Polis",
+      "slug": "alpha-polis",
+      "count": 3,
+      "thumb": "",
+      "desc": "Alpha Polis official anime studio archive \u2022 3 releases",
+      "endpointPath": "/browse?brands=Alpha%20Polis"
+    },
+    {
+      "name": "Bugbug",
+      "slug": "bugbug",
+      "count": 3,
+      "thumb": "",
+      "desc": "Bugbug official anime studio archive \u2022 3 releases",
+      "endpointPath": "/browse?brands=Bugbug"
+    },
+    {
+      "name": "Celeb",
+      "slug": "celeb",
+      "count": 3,
+      "thumb": "",
+      "desc": "Celeb official anime studio archive \u2022 3 releases",
+      "endpointPath": "/browse?brands=Celeb"
+    },
+    {
+      "name": "Cosmos",
+      "slug": "cosmos",
+      "count": 3,
+      "thumb": "",
+      "desc": "Cosmos official anime studio archive \u2022 3 releases",
+      "endpointPath": "/browse?brands=Cosmos"
+    },
+    {
+      "name": "Cranberry",
+      "slug": "cranberry",
+      "count": 3,
+      "thumb": "",
+      "desc": "Cranberry official anime studio archive \u2022 3 releases",
+      "endpointPath": "/browse?brands=Cranberry"
+    },
+    {
+      "name": "Echo",
+      "slug": "echo",
+      "count": 3,
+      "thumb": "",
+      "desc": "Echo official anime studio archive \u2022 3 releases",
+      "endpointPath": "/browse?brands=Echo"
+    },
+    {
+      "name": "J C",
+      "slug": "j-c",
+      "count": 3,
+      "thumb": "",
+      "desc": "J C official anime studio archive \u2022 3 releases",
+      "endpointPath": "/browse?brands=J%20C"
+    },
+    {
+      "name": "Kenzsoft",
+      "slug": "kenzsoft",
+      "count": 3,
+      "thumb": "",
+      "desc": "Kenzsoft official anime studio archive \u2022 3 releases",
+      "endpointPath": "/browse?brands=Kenzsoft"
+    },
+    {
+      "name": "Kitty Media",
+      "slug": "kitty-media",
+      "count": 3,
+      "thumb": "",
+      "desc": "Kitty Media official anime studio archive \u2022 3 releases",
+      "endpointPath": "/browse?brands=Kitty%20Media"
+    },
+    {
+      "name": "L",
+      "slug": "l",
+      "count": 3,
+      "thumb": "",
+      "desc": "L official anime studio archive \u2022 3 releases",
+      "endpointPath": "/browse?brands=L"
+    },
+    {
+      "name": "Passione",
+      "slug": "passione",
+      "count": 3,
+      "thumb": "",
+      "desc": "Passione official anime studio archive \u2022 3 releases",
+      "endpointPath": "/browse?brands=Passione"
+    },
+    {
+      "name": "Pix",
+      "slug": "pix",
+      "count": 3,
+      "thumb": "",
+      "desc": "Pix official anime studio archive \u2022 3 releases",
+      "endpointPath": "/browse?brands=Pix"
+    },
+    {
+      "name": "Studio Fantasia",
+      "slug": "studio-fantasia",
+      "count": 3,
+      "thumb": "",
+      "desc": "Studio Fantasia official anime studio archive \u2022 3 releases",
+      "endpointPath": "/browse?brands=Studio%20Fantasia"
+    },
+    {
+      "name": "Tdk Core",
+      "slug": "tdk-core",
+      "count": 3,
+      "thumb": "",
+      "desc": "Tdk Core official anime studio archive \u2022 3 releases",
+      "endpointPath": "/browse?brands=Tdk%20Core"
+    },
+    {
+      "name": "T Japan",
+      "slug": "t-japan",
+      "count": 3,
+      "thumb": "",
+      "desc": "T Japan official anime studio archive \u2022 3 releases",
+      "endpointPath": "/browse?brands=T%20Japan"
+    },
+    {
+      "name": "Toranoana",
+      "slug": "toranoana",
+      "count": 3,
+      "thumb": "",
+      "desc": "Toranoana official anime studio archive \u2022 3 releases",
+      "endpointPath": "/browse?brands=Toranoana"
+    },
+    {
+      "name": "Anime Antenna Iinkai",
+      "slug": "anime-antenna-iinkai",
+      "count": 2,
+      "thumb": "",
+      "desc": "Anime Antenna Iinkai official anime studio archive \u2022 2 releases",
+      "endpointPath": "/browse?brands=Anime%20Antenna%20Iinkai"
+    },
+    {
+      "name": "Bishop",
+      "slug": "bishop",
+      "count": 2,
+      "thumb": "",
+      "desc": "Bishop official anime studio archive \u2022 2 releases",
+      "endpointPath": "/browse?brands=Bishop"
+    },
+    {
+      "name": "Comet",
+      "slug": "comet",
+      "count": 2,
+      "thumb": "",
+      "desc": "Comet official anime studio archive \u2022 2 releases",
+      "endpointPath": "/browse?brands=Comet"
+    },
+    {
+      "name": "Crimson",
+      "slug": "crimson",
+      "count": 2,
+      "thumb": "",
+      "desc": "Crimson official anime studio archive \u2022 2 releases",
+      "endpointPath": "/browse?brands=Crimson"
+    },
+    {
+      "name": "Exnoa",
+      "slug": "exnoa",
+      "count": 2,
+      "thumb": "",
+      "desc": "Exnoa official anime studio archive \u2022 2 releases",
+      "endpointPath": "/browse?brands=Exnoa"
+    },
+    {
+      "name": "Friends Media Station",
+      "slug": "friends-media-station",
+      "count": 2,
+      "thumb": "",
+      "desc": "Friends Media Station official anime studio archive \u2022 2 releases",
+      "endpointPath": "/browse?brands=Friends%20Media%20Station"
+    },
+    {
+      "name": "Ivory Tower",
+      "slug": "ivory-tower",
+      "count": 2,
+      "thumb": "",
+      "desc": "Ivory Tower official anime studio archive \u2022 2 releases",
+      "endpointPath": "/browse?brands=Ivory%20Tower"
+    },
+    {
+      "name": "Lune-soft",
+      "slug": "lune-soft",
+      "count": 2,
+      "thumb": "",
+      "desc": "Lune-soft official anime studio archive \u2022 2 releases",
+      "endpointPath": "/browse?brands=Lune-soft"
+    },
+    {
+      "name": "Mimia Cute",
+      "slug": "mimia-cute",
+      "count": 2,
+      "thumb": "",
+      "desc": "Mimia Cute official anime studio archive \u2022 2 releases",
+      "endpointPath": "/browse?brands=Mimia%20Cute"
+    },
+    {
+      "name": "Moon Rock",
+      "slug": "moon-rock",
+      "count": 2,
+      "thumb": "",
+      "desc": "Moon Rock official anime studio archive \u2022 2 releases",
+      "endpointPath": "/browse?brands=Moon%20Rock"
+    },
+    {
+      "name": "Moonstone Cherry",
+      "slug": "moonstone-cherry",
+      "count": 2,
+      "thumb": "",
+      "desc": "Moonstone Cherry official anime studio archive \u2022 2 releases",
+      "endpointPath": "/browse?brands=Moonstone%20Cherry"
+    },
+    {
+      "name": "Muse",
+      "slug": "muse",
+      "count": 2,
+      "thumb": "",
+      "desc": "Muse official anime studio archive \u2022 2 releases",
+      "endpointPath": "/browse?brands=Muse"
+    },
+    {
+      "name": "New Generation",
+      "slug": "new-generation",
+      "count": 2,
+      "thumb": "",
+      "desc": "New Generation official anime studio archive \u2022 2 releases",
+      "endpointPath": "/browse?brands=New%20Generation"
+    },
+    {
+      "name": "PinkPineapple",
+      "slug": "pinkpineapple",
+      "count": 2,
+      "thumb": "",
+      "desc": "PinkPineapple official anime studio archive \u2022 2 releases",
+      "endpointPath": "/browse?brands=PinkPineapple"
+    },
+    {
+      "name": "Seismic",
+      "slug": "seismic",
+      "count": 2,
+      "thumb": "",
+      "desc": "Seismic official anime studio archive \u2022 2 releases",
+      "endpointPath": "/browse?brands=Seismic"
+    },
+    {
+      "name": "Shinyusha",
+      "slug": "shinyusha",
+      "count": 2,
+      "thumb": "",
+      "desc": "Shinyusha official anime studio archive \u2022 2 releases",
+      "endpointPath": "/browse?brands=Shinyusha"
+    },
+    {
+      "name": "Shosai",
+      "slug": "shosai",
+      "count": 2,
+      "thumb": "",
+      "desc": "Shosai official anime studio archive \u2022 2 releases",
+      "endpointPath": "/browse?brands=Shosai"
+    },
+    {
+      "name": "Studio Deen",
+      "slug": "studio-deen",
+      "count": 2,
+      "thumb": "",
+      "desc": "Studio Deen official anime studio archive \u2022 2 releases",
+      "endpointPath": "/browse?brands=Studio%20Deen"
+    },
+    {
+      "name": "Studio Ggb",
+      "slug": "studio-ggb",
+      "count": 2,
+      "thumb": "",
+      "desc": "Studio Ggb official anime studio archive \u2022 2 releases",
+      "endpointPath": "/browse?brands=Studio%20Ggb"
+    },
+    {
+      "name": "Triangle",
+      "slug": "triangle",
+      "count": 2,
+      "thumb": "",
+      "desc": "Triangle official anime studio archive \u2022 2 releases",
+      "endpointPath": "/browse?brands=Triangle"
+    },
+    {
+      "name": "0verflow",
+      "slug": "0verflow",
+      "count": 1,
+      "thumb": "",
+      "desc": "0verflow official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=0verflow"
+    },
+    {
+      "name": "37c Binetsu",
+      "slug": "37c-binetsu",
+      "count": 1,
+      "thumb": "",
+      "desc": "37c Binetsu official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=37c%20Binetsu"
+    },
+    {
+      "name": "Ajia Do",
+      "slug": "ajia-do",
+      "count": 1,
+      "thumb": "",
+      "desc": "Ajia Do official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Ajia%20Do"
+    },
+    {
+      "name": "Almond Collective",
+      "slug": "almond-collective",
+      "count": 1,
+      "thumb": "",
+      "desc": "Almond Collective official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Almond%20Collective"
+    },
+    {
+      "name": "Ameliatie",
+      "slug": "ameliatie",
+      "count": 1,
+      "thumb": "",
+      "desc": "Ameliatie official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Ameliatie"
+    },
+    {
+      "name": "Appp",
+      "slug": "appp",
+      "count": 1,
+      "thumb": "",
+      "desc": "Appp official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Appp"
+    },
+    {
+      "name": "Breakbottle",
+      "slug": "breakbottle",
+      "count": 1,
+      "thumb": "",
+      "desc": "Breakbottle official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Breakbottle"
+    },
+    {
+      "name": "Chuchu",
+      "slug": "chuchu",
+      "count": 1,
+      "thumb": "",
+      "desc": "Chuchu official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Chuchu"
+    },
+    {
+      "name": "Circle Tribute",
+      "slug": "circle-tribute",
+      "count": 1,
+      "thumb": "",
+      "desc": "Circle Tribute official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Circle%20Tribute"
+    },
+    {
+      "name": "Cocoans",
+      "slug": "cocoans",
+      "count": 1,
+      "thumb": "",
+      "desc": "Cocoans official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Cocoans"
+    },
+    {
+      "name": "Demodemon",
+      "slug": "demodemon",
+      "count": 1,
+      "thumb": "",
+      "desc": "Demodemon official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Demodemon"
+    },
+    {
+      "name": "Dollhouse",
+      "slug": "dollhouse",
+      "count": 1,
+      "thumb": "",
+      "desc": "Dollhouse official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Dollhouse"
+    },
+    {
+      "name": "Ebimaru Do",
+      "slug": "ebimaru-do",
+      "count": 1,
+      "thumb": "",
+      "desc": "Ebimaru Do official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Ebimaru%20Do"
+    },
+    {
+      "name": "Ecolonun",
+      "slug": "ecolonun",
+      "count": 1,
+      "thumb": "",
+      "desc": "Ecolonun official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Ecolonun"
+    },
+    {
+      "name": "Erozuki",
+      "slug": "erozuki",
+      "count": 1,
+      "thumb": "",
+      "desc": "Erozuki official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Erozuki"
+    },
+    {
+      "name": "Final Fuck 7",
+      "slug": "final-fuck-7",
+      "count": 1,
+      "thumb": "",
+      "desc": "Final Fuck 7 official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Final%20Fuck%207"
+    },
+    {
+      "name": "Fruit",
+      "slug": "fruit",
+      "count": 1,
+      "thumb": "",
+      "desc": "Fruit official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Fruit"
+    },
+    {
+      "name": "Godoy",
+      "slug": "godoy",
+      "count": 1,
+      "thumb": "",
+      "desc": "Godoy official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Godoy"
+    },
+    {
+      "name": "Godoyg",
+      "slug": "godoyg",
+      "count": 1,
+      "thumb": "",
+      "desc": "Godoyg official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Godoyg"
+    },
+    {
+      "name": "Gomasioken",
+      "slug": "gomasioken",
+      "count": 1,
+      "thumb": "",
+      "desc": "Gomasioken official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Gomasioken"
+    },
+    {
+      "name": "Groover",
+      "slug": "groover",
+      "count": 1,
+      "thumb": "",
+      "desc": "Groover official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Groover"
+    },
+    {
+      "name": "Himajin",
+      "slug": "himajin",
+      "count": 1,
+      "thumb": "",
+      "desc": "Himajin official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Himajin"
+    },
+    {
+      "name": "Ima Made De Ichiban Yokatta Sex The Animation",
+      "slug": "ima-made-de-ichiban-yokatta-sex-the-animation",
+      "count": 1,
+      "thumb": "",
+      "desc": "Ima Made De Ichiban Yokatta Sex The Animation official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Ima%20Made%20De%20Ichiban%20Yokatta%20Sex%20The%20Animation"
+    },
+    {
+      "name": "Ironbell",
+      "slug": "ironbell",
+      "count": 1,
+      "thumb": "",
+      "desc": "Ironbell official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Ironbell"
+    },
+    {
+      "name": "Itonami",
+      "slug": "itonami",
+      "count": 1,
+      "thumb": "",
+      "desc": "Itonami official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Itonami"
+    },
+    {
+      "name": "Jewel",
+      "slug": "jewel",
+      "count": 1,
+      "thumb": "",
+      "desc": "Jewel official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Jewel"
+    },
+    {
+      "name": "Jumondo",
+      "slug": "jumondo",
+      "count": 1,
+      "thumb": "",
+      "desc": "Jumondo official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Jumondo"
+    },
+    {
+      "name": "Kate_sai",
+      "slug": "kate-sai",
+      "count": 1,
+      "thumb": "",
+      "desc": "Kate_sai official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Kate_sai"
+    },
+    {
+      "name": "Kuril",
+      "slug": "kuril",
+      "count": 1,
+      "thumb": "",
+      "desc": "Kuril official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Kuril"
+    },
+    {
+      "name": "Lilix",
+      "slug": "lilix",
+      "count": 1,
+      "thumb": "",
+      "desc": "Lilix official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Lilix"
+    },
+    {
+      "name": "Majin",
+      "slug": "majin",
+      "count": 1,
+      "thumb": "",
+      "desc": "Majin official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Majin"
+    },
+    {
+      "name": "Metro Notes",
+      "slug": "metro-notes",
+      "count": 1,
+      "thumb": "",
+      "desc": "Metro Notes official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Metro%20Notes"
+    },
+    {
+      "name": "N43",
+      "slug": "n43",
+      "count": 1,
+      "thumb": "",
+      "desc": "N43 official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=N43"
+    },
+    {
+      "name": "Nikkatsu Video",
+      "slug": "nikkatsu-video",
+      "count": 1,
+      "thumb": "",
+      "desc": "Nikkatsu Video official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Nikkatsu%20Video"
+    },
+    {
+      "name": "Noji",
+      "slug": "noji",
+      "count": 1,
+      "thumb": "",
+      "desc": "Noji official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Noji"
+    },
+    {
+      "name": "Otodeli",
+      "slug": "otodeli",
+      "count": 1,
+      "thumb": "",
+      "desc": "Otodeli official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Otodeli"
+    },
+    {
+      "name": "Peach Pie",
+      "slug": "peach-pie",
+      "count": 1,
+      "thumb": "",
+      "desc": "Peach Pie official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Peach%20Pie"
+    },
+    {
+      "name": "Pinkbell",
+      "slug": "pinkbell",
+      "count": 1,
+      "thumb": "",
+      "desc": "Pinkbell official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Pinkbell"
+    },
+    {
+      "name": "Pocomo Premium",
+      "slug": "pocomo-premium",
+      "count": 1,
+      "thumb": "",
+      "desc": "Pocomo Premium official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Pocomo%20Premium"
+    },
+    {
+      "name": "Project No 9",
+      "slug": "project-no-9",
+      "count": 1,
+      "thumb": "",
+      "desc": "Project No 9 official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Project%20No%209"
+    },
+    {
+      "name": "Pumpkin Pie",
+      "slug": "pumpkin-pie",
+      "count": 1,
+      "thumb": "",
+      "desc": "Pumpkin Pie official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Pumpkin%20Pie"
+    },
+    {
+      "name": "Rene Pictures",
+      "slug": "rene-pictures",
+      "count": 1,
+      "thumb": "",
+      "desc": "Rene Pictures official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Rene%20Pictures"
+    },
+    {
+      "name": "Sakamotoj",
+      "slug": "sakamotoj",
+      "count": 1,
+      "thumb": "",
+      "desc": "Sakamotoj official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Sakamotoj"
+    },
+    {
+      "name": "Sakura Purin",
+      "slug": "sakura-purin",
+      "count": 1,
+      "thumb": "",
+      "desc": "Sakura Purin official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Sakura%20Purin"
+    },
+    {
+      "name": "Sandwichworks",
+      "slug": "sandwichworks",
+      "count": 1,
+      "thumb": "",
+      "desc": "Sandwichworks official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Sandwichworks"
+    },
+    {
+      "name": "Speed",
+      "slug": "speed",
+      "count": 1,
+      "thumb": "",
+      "desc": "Speed official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Speed"
+    },
+    {
+      "name": "Stargate3d",
+      "slug": "stargate3d",
+      "count": 1,
+      "thumb": "",
+      "desc": "Stargate3d official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Stargate3d"
+    },
+    {
+      "name": "Studio Akai Shohosen",
+      "slug": "studio-akai-shohosen",
+      "count": 1,
+      "thumb": "",
+      "desc": "Studio Akai Shohosen official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Studio%20Akai%20Shohosen"
+    },
+    {
+      "name": "Studio Houkiboshi",
+      "slug": "studio-houkiboshi",
+      "count": 1,
+      "thumb": "",
+      "desc": "Studio Houkiboshi official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Studio%20Houkiboshi"
+    },
+    {
+      "name": "Studio Zealot",
+      "slug": "studio-zealot",
+      "count": 1,
+      "thumb": "",
+      "desc": "Studio Zealot official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Studio%20Zealot"
+    },
+    {
+      "name": "Syld",
+      "slug": "syld",
+      "count": 1,
+      "thumb": "",
+      "desc": "Syld official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Syld"
+    },
+    {
+      "name": "Toho",
+      "slug": "toho",
+      "count": 1,
+      "thumb": "",
+      "desc": "Toho official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Toho"
+    },
+    {
+      "name": "Trimax",
+      "slug": "trimax",
+      "count": 1,
+      "thumb": "",
+      "desc": "Trimax official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Trimax"
+    },
+    {
+      "name": "Tys Work",
+      "slug": "tys-work",
+      "count": 1,
+      "thumb": "",
+      "desc": "Tys Work official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Tys%20Work"
+    },
+    {
+      "name": "Union Cho",
+      "slug": "union-cho",
+      "count": 1,
+      "thumb": "",
+      "desc": "Union Cho official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Union%20Cho"
+    },
+    {
+      "name": "Xter",
+      "slug": "xter",
+      "count": 1,
+      "thumb": "",
+      "desc": "Xter official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Xter"
+    },
+    {
+      "name": "Yosino",
+      "slug": "yosino",
+      "count": 1,
+      "thumb": "",
+      "desc": "Yosino official anime studio archive \u2022 1 releases",
+      "endpointPath": "/browse?brands=Yosino"
+    }
+  ]
+}

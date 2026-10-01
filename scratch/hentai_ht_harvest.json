@@ -1,0 +1,1405 @@
+{
+  "catalogCount": 615,
+  "tags": [
+    {
+      "value": "School",
+      "count": 167
+    },
+    {
+      "value": "Male Protagonist",
+      "count": 146
+    },
+    {
+      "value": "Female Protagonist",
+      "count": 109
+    },
+    {
+      "value": "Heterosexual",
+      "count": 76
+    },
+    {
+      "value": "Teacher",
+      "count": 70
+    },
+    {
+      "value": "Primarily Female Cast",
+      "count": 58
+    },
+    {
+      "value": "Age Gap",
+      "count": 47
+    },
+    {
+      "value": "Maids",
+      "count": 42
+    },
+    {
+      "value": "Gyaru",
+      "count": 37
+    },
+    {
+      "value": "Cosplay",
+      "count": 36
+    },
+    {
+      "value": "Primarily Adult Cast",
+      "count": 33
+    },
+    {
+      "value": "Demons",
+      "count": 28
+    },
+    {
+      "value": "Tsundere",
+      "count": 27
+    },
+    {
+      "value": "Episodic",
+      "count": 24
+    },
+    {
+      "value": "Magic",
+      "count": 21
+    },
+    {
+      "value": "Elf",
+      "count": 18
+    },
+    {
+      "value": "Succubus",
+      "count": 16
+    },
+    {
+      "value": "Monster Girl",
+      "count": 14
+    },
+    {
+      "value": "Office Lady",
+      "count": 13
+    },
+    {
+      "value": "Anthology",
+      "count": 11
+    },
+    {
+      "value": "Idol",
+      "count": 11
+    },
+    {
+      "value": "Kemonomimi",
+      "count": 9
+    },
+    {
+      "value": "Ensemble Cast",
+      "count": 8
+    },
+    {
+      "value": "Rural",
+      "count": 8
+    },
+    {
+      "value": "Swordplay",
+      "count": 7
+    },
+    {
+      "value": "Twins",
+      "count": 7
+    },
+    {
+      "value": "Isekai",
+      "count": 6
+    },
+    {
+      "value": "Ninja",
+      "count": 6
+    },
+    {
+      "value": "Love Triangle",
+      "count": 5
+    },
+    {
+      "value": "Work",
+      "count": 5
+    },
+    {
+      "value": "Marriage",
+      "count": 4
+    },
+    {
+      "value": "Nekomimi",
+      "count": 4
+    },
+    {
+      "value": "Photography",
+      "count": 4
+    },
+    {
+      "value": "Vampire",
+      "count": 4
+    },
+    {
+      "value": "Yandere",
+      "count": 4
+    },
+    {
+      "value": "Cohabitation",
+      "count": 3
+    },
+    {
+      "value": "Gods",
+      "count": 3
+    },
+    {
+      "value": "Seinen",
+      "count": 3
+    },
+    {
+      "value": "Shapeshifting",
+      "count": 3
+    },
+    {
+      "value": "Angels",
+      "count": 2
+    },
+    {
+      "value": "Dragons",
+      "count": 2
+    },
+    {
+      "value": "Space",
+      "count": 2
+    },
+    {
+      "value": "Time Manipulation",
+      "count": 2
+    },
+    {
+      "value": "Urban Fantasy",
+      "count": 2
+    },
+    {
+      "value": "Band",
+      "count": 1
+    },
+    {
+      "value": "Body Swapping",
+      "count": 1
+    },
+    {
+      "value": "Crossdressing",
+      "count": 1
+    },
+    {
+      "value": "Delinquents",
+      "count": 1
+    },
+    {
+      "value": "Full CGI",
+      "count": 1
+    },
+    {
+      "value": "Ghost",
+      "count": 1
+    },
+    {
+      "value": "Josei",
+      "count": 1
+    },
+    {
+      "value": "Kuudere",
+      "count": 1
+    },
+    {
+      "value": "Pirates",
+      "count": 1
+    },
+    {
+      "value": "Travel",
+      "count": 1
+    },
+    {
+      "value": "Video Games",
+      "count": 1
+    },
+    {
+      "value": "Virtual World",
+      "count": 1
+    },
+    {
+      "value": "Witch",
+      "count": 1
+    },
+    {
+      "value": "Writing",
+      "count": 1
+    }
+  ],
+  "studios": [
+    "AniMan",
+    "Anime Antenna Iinkai",
+    "BOOTLEG",
+    "BREAKBOTTLE",
+    "Bunny Walker",
+    "Collaboration Works",
+    "Cotton Doll",
+    "EDGE",
+    "Flavors Soft",
+    "G-lam",
+    "GOLD BEAR",
+    "HiLLS",
+    "Hoods Entertainment",
+    "Hot Bear",
+    "Jumondou",
+    "Lune Pictures",
+    "Magic Bus",
+    "Majin",
+    "Mary Jane",
+    "Milky Animation Label",
+    "Mitsu",
+    "Mousou Senka",
+    "NewGeneration",
+    "Office 8-ban",
+    "Office Take Off",
+    "Office Takeout",
+    "Pashmina",
+    "Peak Hunt",
+    "Pink Pineapple",
+    "PoRO",
+    "PoRO petit",
+    "Queen Bee",
+    "Rabbit Gate",
+    "Ryuu M's",
+    "Selfish",
+    "Seven",
+    "Shion",
+    "Studio 1st",
+    "Studio Houkiboshi",
+    "studio LEO",
+    "Studio Silver",
+    "Studio SUNHAN",
+    "T-REX",
+    "TEATRO Nishi Tokyo Studio",
+    "WHITE BEAR"
+  ],
+  "years": [
+    2026,
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013,
+    2012,
+    2011,
+    2010
+  ],
+  "sampleTitles": [
+    {
+      "id": 113417,
+      "routeId": 571,
+      "slug": "overflow",
+      "name": "Overflow",
+      "english": "Overflow",
+      "native": "おーばーふろぉ",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/41fa63acc42b4a1637ea1adad35a4e90637f937de019f324dcf4da9eb6c919b5.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/41fa63acc42b4a1637ea1adad35a4e90637f937de019f324dcf4da9eb6c919b5.webp",
+      "coverColor": "#1aa1f1",
+      "coverCensored": false,
+      "banner": "https://cdn.hentai.ht/media-v2/b1600/4b3ffcfa1f88a9bdec4fb9691ec2914cc31882c5e18f936ec7e0797c35f588ee.webp",
+      "year": 2020,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 8,
+      "duration": 7,
+      "averageScore": 68,
+      "popularity": 36237,
+      "format": "ONA",
+      "studio": "Studio Houkiboshi",
+      "hasUncensored": false,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.543Z",
+      "activeEpisodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 10851,
+      "routeId": 118,
+      "slug": "euphoria",
+      "name": "euphoria",
+      "english": null,
+      "native": "euphoria",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/676084598ae87847642e6669ca502fa7eda2e2c6e9e807f80cb50d0e2f9ee770.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/676084598ae87847642e6669ca502fa7eda2e2c6e9e807f80cb50d0e2f9ee770.webp",
+      "coverColor": "#d6936b",
+      "coverCensored": false,
+      "banner": "https://cdn.hentai.ht/media-v2/b1600/b64f682db187df3e90783b941a44dcd606d62d3a9ec11292923578e288b6e32c.webp",
+      "year": 2011,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 6,
+      "duration": 30,
+      "averageScore": 53,
+      "popularity": 20222,
+      "format": "OVA",
+      "studio": "Majin",
+      "hasUncensored": false,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.539Z",
+      "activeEpisodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 21067,
+      "routeId": 244,
+      "slug": "itadaki-seieki",
+      "name": "Itadaki! Seieki♥",
+      "english": "Vampire Vixen",
+      "native": "いただきっ! セーエキ♥",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/f7a13c547673a71ca5a4d63d2c72211c06b978cafd7a4b6a9485a20ecd27d24c.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/f7a13c547673a71ca5a4d63d2c72211c06b978cafd7a4b6a9485a20ecd27d24c.webp",
+      "coverColor": "#f12886",
+      "coverCensored": false,
+      "banner": null,
+      "year": 2014,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 1,
+      "duration": 23,
+      "averageScore": 69,
+      "popularity": 17127,
+      "format": "OVA",
+      "studio": "Peak Hunt",
+      "hasUncensored": true,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.540Z",
+      "activeEpisodes": [
+        1
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 8577,
+      "routeId": 902,
+      "slug": "aki-sora-yume-no-naka",
+      "name": "Aki-Sora: Yume no Naka",
+      "english": "Aki Sora",
+      "native": "あきそら～夢の中～",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/d7bbfbaa411f7f99d4baa993696b5ef0f276ab25bb148811025454415e6df2fd.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/d7bbfbaa411f7f99d4baa993696b5ef0f276ab25bb148811025454415e6df2fd.webp",
+      "coverColor": "#a1bbe4",
+      "coverCensored": false,
+      "banner": null,
+      "year": 2010,
+      "updatedAt": "2026-07-24T01:02:25.804Z",
+      "status": "finished",
+      "episodeCount": 2,
+      "duration": 25,
+      "averageScore": 54,
+      "popularity": 16614,
+      "format": "OVA",
+      "studio": "Hoods Entertainment",
+      "hasUncensored": true,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.538Z",
+      "activeEpisodes": [
+        1,
+        2
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 21222,
+      "routeId": 305,
+      "slug": "mankitsu-happening",
+      "name": "Mankitsu Happening",
+      "english": "Manga Café Mishaps",
+      "native": "漫喫ハプニング",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/50f4d6a31795a37bd010140e9361f49769ca3bc9d429fc16b3effc16498230d9.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/50f4d6a31795a37bd010140e9361f49769ca3bc9d429fc16b3effc16498230d9.webp",
+      "coverColor": "#f1c986",
+      "coverCensored": false,
+      "banner": "https://cdn.hentai.ht/media-v2/b1600/5c5420a331743e9066fbb341e1a8ab2eaf45500964d768a8509a8e3813517676.webp",
+      "year": 2015,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 4,
+      "duration": 30,
+      "averageScore": 72,
+      "popularity": 14751,
+      "format": "OVA",
+      "studio": "Collaboration Works",
+      "hasUncensored": false,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.541Z",
+      "activeEpisodes": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 101981,
+      "routeId": 493,
+      "slug": "joshi-ochi-2-kai-kara-onna-no-ko-ga-futte-kita",
+      "name": "Joshi Ochi!: 2-kai kara Onna no Ko ga... Futte kita!?",
+      "english": "What She Fell on Was the Tip of My Dick",
+      "native": "じょしおちっ！～2階から女の子が…降ってきた！？～",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/ba5bb62c67416a6dc3e2fce7597fce7500d13f342b38a6c2b1e811fcc9adc467.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/ba5bb62c67416a6dc3e2fce7597fce7500d13f342b38a6c2b1e811fcc9adc467.webp",
+      "coverColor": "#e4bbae",
+      "coverCensored": false,
+      "banner": "https://cdn.hentai.ht/media-v2/b1600/71a003cb7a1cb510ba8cd1e1795792a4745c1bf825231b88d6a8a66159a2f4bb.webp",
+      "year": 2018,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 9,
+      "duration": 5,
+      "averageScore": 61,
+      "popularity": 13903,
+      "format": "ONA",
+      "studio": null,
+      "hasUncensored": true,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.543Z",
+      "activeEpisodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 10779,
+      "routeId": 97,
+      "slug": "eroge-h-mo-game-mo-kaihatsu-zanmai",
+      "name": "Eroge!: H mo Game mo Kaihatsu Zanmai",
+      "english": "Eroge! Sex and Gamedev",
+      "native": "えろげー! ～Hもゲームも開発三昧～",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/3336b5989eea3b951d329e17f619baf4717dcb3403fc3943410705b0f97aa07a.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/3336b5989eea3b951d329e17f619baf4717dcb3403fc3943410705b0f97aa07a.webp",
+      "coverColor": "#e450a1",
+      "coverCensored": false,
+      "banner": "https://cdn.hentai.ht/media-v2/b1600/7f396ef10c5699e837f159c1bba5267043699d0166b4390ae5afa89531d1aeda.webp",
+      "year": 2011,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 6,
+      "duration": 30,
+      "averageScore": 71,
+      "popularity": 13131,
+      "format": "OVA",
+      "studio": "Collaboration Works",
+      "hasUncensored": false,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.539Z",
+      "activeEpisodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 115138,
+      "routeId": 597,
+      "slug": "ane-wa-yanmama-junyuu-chuu",
+      "name": "Ane wa Yanmama Junyuu-chuu",
+      "english": null,
+      "native": "義姉はヤンママ授乳中",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/ecdeccf370c2eb08a12094ba49e9a35c061947e96cea53393cac7da25e21b65c.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/ecdeccf370c2eb08a12094ba49e9a35c061947e96cea53393cac7da25e21b65c.webp",
+      "coverColor": "#e4935d",
+      "coverCensored": false,
+      "banner": "https://cdn.hentai.ht/media-v2/b1600/7a082c41a08e33643dd488e90b93ff736dd231f8ecf3c71d7f4052b6a01a0d2e.webp",
+      "year": 2020,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 2,
+      "duration": 17,
+      "averageScore": 74,
+      "popularity": 12087,
+      "format": "OVA",
+      "studio": "T-REX",
+      "hasUncensored": false,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.544Z",
+      "activeEpisodes": [
+        1,
+        2
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 107974,
+      "routeId": 539,
+      "slug": "araiya-san-ore-to-aitsu-ga-onnayu-de",
+      "name": "Araiya-san!: Ore to Aitsu ga Onnayu de!?",
+      "english": "Backwasher! -Her and I, in the Women's Bath!?-",
+      "native": "洗い屋さん! ~俺とアイツが女湯で!?~",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/81ca8f3e31b14887c696e5b4cb8eb3e8823dc8f78fda70846996e247e39915bc.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/81ca8f3e31b14887c696e5b4cb8eb3e8823dc8f78fda70846996e247e39915bc.webp",
+      "coverColor": "#e46b5d",
+      "coverCensored": false,
+      "banner": "https://cdn.hentai.ht/media-v2/b1600/39d1589d25e4f111ff16d6aec759f321320ddf1fdce094f76800100ef3160bc7.webp",
+      "year": 2019,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 8,
+      "duration": 7,
+      "averageScore": 62,
+      "popularity": 11945,
+      "format": "ONA",
+      "studio": "Magic Bus",
+      "hasUncensored": false,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.543Z",
+      "activeEpisodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 21828,
+      "routeId": 393,
+      "slug": "shoujo-ramune",
+      "name": "Shoujo Ramune",
+      "english": null,
+      "native": "小女ラムネ",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/60fb4c823e9f73f3a858b9e4efbd4a4849f87d2ed0420cf1f72f72ce31ddb179.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/60fb4c823e9f73f3a858b9e4efbd4a4849f87d2ed0420cf1f72f72ce31ddb179.webp",
+      "coverColor": "#50c9f1",
+      "coverCensored": false,
+      "banner": "https://cdn.hentai.ht/media-v2/b1600/80c93742a39e8edf8150cecdd7cffc70336ea9db25d6dc2919202158b1364852.webp",
+      "year": 2016,
+      "updatedAt": "2026-08-16T13:51:49.798Z",
+      "status": "airing",
+      "episodeCount": 1,
+      "duration": 15,
+      "averageScore": 65,
+      "popularity": 11873,
+      "format": "OVA",
+      "studio": "NewGeneration",
+      "hasUncensored": false,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-16T18:28:21.366Z",
+      "activeEpisodes": [
+        7
+      ],
+      "firstActiveEpisode": 7
+    },
+    {
+      "id": 132203,
+      "routeId": 652,
+      "slug": "imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii",
+      "name": "Imaizumin-chi wa Douyara Gal no Tamariba ni Natteru Rashii",
+      "english": "Imaizumi's house seems to be a gathering place for gals",
+      "native": "今泉ん家はどうやらギャルの溜まり場になってるらしい",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/bfa819b6cdaaa8828da5c1068e820f10ae016f93a25e0077ae66df2fbaeb2238.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/bfa819b6cdaaa8828da5c1068e820f10ae016f93a25e0077ae66df2fbaeb2238.webp",
+      "coverColor": "#f1bba1",
+      "coverCensored": false,
+      "banner": "https://cdn.hentai.ht/media-v2/b1600/fe0fd2cf1bb417bc2bfa34461471294f538203cba6759d59e27fb9508a24b4e9.webp",
+      "year": 2021,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "airing",
+      "episodeCount": 6,
+      "duration": 16,
+      "averageScore": 77,
+      "popularity": 10277,
+      "format": "OVA",
+      "studio": "T-REX",
+      "hasUncensored": false,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.544Z",
+      "activeEpisodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 20783,
+      "routeId": 292,
+      "slug": "rance-01-hikari-wo-motomete-the-animation",
+      "name": "Rance 01: Hikari wo Motomete THE ANIMATION",
+      "english": null,
+      "native": "ランス01 光をもとめて THE ANIMATION",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/ca2ef00996f92762af0af8a48e77fcb130b95f466625908d3acb285292c70ee3.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/ca2ef00996f92762af0af8a48e77fcb130b95f466625908d3acb285292c70ee3.webp",
+      "coverColor": "#e4bb43",
+      "coverCensored": false,
+      "banner": "https://cdn.hentai.ht/media-v2/b1600/c2b5bea927033a6b8b6f2b1fad3a7e7d95bc1102a7e1f7b6836701ef3527a6d2.webp",
+      "year": 2014,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 4,
+      "duration": 29,
+      "averageScore": 71,
+      "popularity": 9810,
+      "format": "OVA",
+      "studio": "Seven",
+      "hasUncensored": false,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.540Z",
+      "activeEpisodes": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 108113,
+      "routeId": 544,
+      "slug": "master-piece-the-animation",
+      "name": "Master Piece THE ANIMATION",
+      "english": null,
+      "native": "Master Piece マスターピース THE ANIMATION",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/4005001c2a3e965c0d7865a71d92c1d30f5047b85d0e26fe868f3b9e1b311478.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/4005001c2a3e965c0d7865a71d92c1d30f5047b85d0e26fe868f3b9e1b311478.webp",
+      "coverColor": "#e4865d",
+      "coverCensored": false,
+      "banner": "https://cdn.hentai.ht/media-v2/b1600/f4b0a5b4fe44e49cd1ee9f0583bbfc700d3602d1ffcbabbe8d426fe94567e514.webp",
+      "year": 2019,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 2,
+      "duration": 30,
+      "averageScore": 74,
+      "popularity": 9790,
+      "format": "OVA",
+      "studio": "T-REX",
+      "hasUncensored": false,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.543Z",
+      "activeEpisodes": [
+        1,
+        2
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 21614,
+      "routeId": 365,
+      "slug": "dropout",
+      "name": "Dropout",
+      "english": "Dropout",
+      "native": "ドロップアウト",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/d773581705fe29938a1a093267590a98cb182d49fc903b5f9bb2a46f1173cc1e.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/d773581705fe29938a1a093267590a98cb182d49fc903b5f9bb2a46f1173cc1e.webp",
+      "coverColor": "#e41a86",
+      "coverCensored": false,
+      "banner": "https://cdn.hentai.ht/media-v2/b1600/acccdfaabd3a3a0c8785434a91d4697fae996a286c85cd201c72f5fb5a05ddc1.webp",
+      "year": 2016,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 2,
+      "duration": 18,
+      "averageScore": 63,
+      "popularity": 9334,
+      "format": "OVA",
+      "studio": "Ryuu M's",
+      "hasUncensored": false,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.542Z",
+      "activeEpisodes": [
+        1,
+        2
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 21358,
+      "routeId": 247,
+      "slug": "itadaki-seieki-special",
+      "name": "Itadaki! Seieki♥ Special",
+      "english": null,
+      "native": "いただきっ! セーエキ♥",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/f7a13c547673a71ca5a4d63d2c72211c06b978cafd7a4b6a9485a20ecd27d24c.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/f7a13c547673a71ca5a4d63d2c72211c06b978cafd7a4b6a9485a20ecd27d24c.webp",
+      "coverColor": "#f12886",
+      "coverCensored": false,
+      "banner": null,
+      "year": 2014,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 1,
+      "duration": 5,
+      "averageScore": 67,
+      "popularity": 9071,
+      "format": "SPECIAL",
+      "studio": "Pashmina",
+      "hasUncensored": true,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.541Z",
+      "activeEpisodes": [
+        1
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 11827,
+      "routeId": 123,
+      "slug": "kuroinu-kedakaki-seijo-wa-hakudaku-ni-somaru",
+      "name": "Kuroinu: Kedakaki Seijo wa Hakudaku ni Somaru",
+      "english": "Kuroinu ～The proud saint is stained with white filth～",
+      "native": "黒獣 ～気高き聖女は白濁に染まる～",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/6226ace2c4d53324f43e790024f69cf06e0fee304e0d4c690776db85fcb3f102.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/6226ace2c4d53324f43e790024f69cf06e0fee304e0d4c690776db85fcb3f102.webp",
+      "coverColor": "#e45d5d",
+      "coverCensored": false,
+      "banner": null,
+      "year": 2012,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 6,
+      "duration": 26,
+      "averageScore": 67,
+      "popularity": 9063,
+      "format": "OVA",
+      "studio": "Majin",
+      "hasUncensored": false,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.539Z",
+      "activeEpisodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 118166,
+      "routeId": 603,
+      "slug": "isekai-harem-monogatari",
+      "name": "Isekai Harem Monogatari",
+      "english": "Otherworld Harem Story",
+      "native": "異世界ハーレム物語",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/a4b82d7f21917d34fe11bbc26bcb0215ea62444247ebb0de9110f9186158ade2.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/a4b82d7f21917d34fe11bbc26bcb0215ea62444247ebb0de9110f9186158ade2.webp",
+      "coverColor": "#d69378",
+      "coverCensored": false,
+      "banner": null,
+      "year": 2020,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 4,
+      "duration": 17,
+      "averageScore": 71,
+      "popularity": 8779,
+      "format": "OVA",
+      "studio": null,
+      "hasUncensored": false,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.544Z",
+      "activeEpisodes": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 21819,
+      "routeId": 386,
+      "slug": "jk-bitch-ni-shiboraretai",
+      "name": "JK Bitch ni Shiboraretai",
+      "english": null,
+      "native": "JKビッチに搾られたい",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/2e823932f62a80c3b373c4f898419c001a7082fe4881aa2d143d4a76cadb4d2c.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/2e823932f62a80c3b373c4f898419c001a7082fe4881aa2d143d4a76cadb4d2c.webp",
+      "coverColor": "#e48650",
+      "coverCensored": false,
+      "banner": "https://cdn.hentai.ht/media-v2/b1600/33ed81aafb828534fd0a7389914ec17948fd64b0596f95c77dc34f79802af4f6.webp",
+      "year": 2016,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 2,
+      "duration": 16,
+      "averageScore": 68,
+      "popularity": 8722,
+      "format": "OVA",
+      "studio": "T-REX",
+      "hasUncensored": false,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.542Z",
+      "activeEpisodes": [
+        1,
+        2
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 135513,
+      "routeId": 685,
+      "slug": "kaede-to-suzu-the-animation",
+      "name": "Kaede to Suzu THE ANIMATION",
+      "english": "Love Me: Kaede and Suzu THE ANIMATION",
+      "native": "楓と鈴 THE ANIMATION",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/6faa696ce6018290e64b27d9f41a9fde06e960881a1b6b0d130b8de30c7bca16.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/6faa696ce6018290e64b27d9f41a9fde06e960881a1b6b0d130b8de30c7bca16.webp",
+      "coverColor": "#f1ae5d",
+      "coverCensored": false,
+      "banner": "https://cdn.hentai.ht/media-v2/b1600/6d63f79fd50011888dac928a36cbeecdcd02ceda439a7fa62e8fcf7142ec97ae.webp",
+      "year": 2022,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 3,
+      "duration": 25,
+      "averageScore": 76,
+      "popularity": 8544,
+      "format": "OVA",
+      "studio": "Studio 1st",
+      "hasUncensored": false,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.544Z",
+      "activeEpisodes": [
+        1,
+        2,
+        3
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 21100,
+      "routeId": 246,
+      "slug": "fella-pure-mitarashi-san-chi-no-jijou-the-animation",
+      "name": "Fella Pure: Mitarashi-san Chi no Jijou - THE ANIMATION",
+      "english": null,
+      "native": "フェラピュア ~御手洗さん家の事情~ THE ANIMATION",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/5cb3c445d03571f50b073c744246fbdd12347512fee04fc268b2e193acb89614.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/5cb3c445d03571f50b073c744246fbdd12347512fee04fc268b2e193acb89614.webp",
+      "coverColor": "#f1ae86",
+      "coverCensored": false,
+      "banner": null,
+      "year": 2014,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 1,
+      "duration": 30,
+      "averageScore": 69,
+      "popularity": 8142,
+      "format": "OVA",
+      "studio": "Office Takeout",
+      "hasUncensored": false,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.540Z",
+      "activeEpisodes": [
+        1
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 122954,
+      "routeId": 628,
+      "slug": "ijirare-fukushuu-saimin",
+      "name": "Ijirare: Fukushuu Saimin",
+      "english": null,
+      "native": "イジラレ ～復讐催○～",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/afc27494d9286e99abb37204e0c2721762e560779f26b56f057528565106498f.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/afc27494d9286e99abb37204e0c2721762e560779f26b56f057528565106498f.webp",
+      "coverColor": "#d6865d",
+      "coverCensored": false,
+      "banner": "https://cdn.hentai.ht/media-v2/b1600/daa912ffc265316d3f822e9124724e4ca7e1f208efa93d17004af90152b0b2bc.webp",
+      "year": 2021,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 3,
+      "duration": 16,
+      "averageScore": 71,
+      "popularity": 7925,
+      "format": "OVA",
+      "studio": "T-REX",
+      "hasUncensored": false,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.544Z",
+      "activeEpisodes": [
+        1,
+        2,
+        4
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 99555,
+      "routeId": 458,
+      "slug": "imouto-bitch-ni-shiboraretai",
+      "name": "Imouto Bitch ni Shiboraretai",
+      "english": null,
+      "native": "妹ビッチに搾られたい",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/c658c7bce62980256d880006802438eb7eed2f91852734451ed4287089274f45.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/c658c7bce62980256d880006802438eb7eed2f91852734451ed4287089274f45.webp",
+      "coverColor": "#c9e443",
+      "coverCensored": false,
+      "banner": "https://cdn.hentai.ht/media-v2/b1600/512289b12def2d66a589734a4e7fdfcfe6d5b65aa7c4b98ddf3dd660f405d524.webp",
+      "year": 2017,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 2,
+      "duration": 16,
+      "averageScore": 68,
+      "popularity": 7726,
+      "format": "OVA",
+      "studio": "T-REX",
+      "hasUncensored": false,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.542Z",
+      "activeEpisodes": [
+        1,
+        2
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 21062,
+      "routeId": 236,
+      "slug": "futabu",
+      "name": "Futabu!",
+      "english": null,
+      "native": "ふた部！",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/21b8d63403926e05f21a88853c199288e52d69031fb65a45e4689eb45b3f52f5.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/21b8d63403926e05f21a88853c199288e52d69031fb65a45e4689eb45b3f52f5.webp",
+      "coverColor": "#e45d6b",
+      "coverCensored": false,
+      "banner": null,
+      "year": 2014,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 2,
+      "duration": 27,
+      "averageScore": 67,
+      "popularity": 7412,
+      "format": "OVA",
+      "studio": "WHITE BEAR",
+      "hasUncensored": false,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.540Z",
+      "activeEpisodes": [
+        1,
+        2
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 104451,
+      "routeId": 529,
+      "slug": "saimin-seishidou",
+      "name": "Saimin Seishidou",
+      "english": null,
+      "native": "催眠性指導",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/934ceb7aa14c48344ad9a151e8d9d56a7496599041a7c8e5af0b56f50584bfc2.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/934ceb7aa14c48344ad9a151e8d9d56a7496599041a7c8e5af0b56f50584bfc2.webp",
+      "coverColor": "#e45d5d",
+      "coverCensored": false,
+      "banner": "https://cdn.hentai.ht/media-v2/b1600/c01c2f9be87e44e076a8690ec3e06b38b317d710eda2105253478a075dd7ded1.webp",
+      "year": 2019,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 6,
+      "duration": 16,
+      "averageScore": 70,
+      "popularity": 7409,
+      "format": "OVA",
+      "studio": "Bunny Walker",
+      "hasUncensored": false,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.543Z",
+      "activeEpisodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 10380,
+      "routeId": 77,
+      "slug": "oni-chichi-re-birth",
+      "name": "Oni Chichi: Re-birth",
+      "english": "Demon Father Re-birth",
+      "native": "鬼父 Re-birth",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/855658c14944c5619d26efb84c72e958950d10a8ef7caa596e4696f5d8d38bb6.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/855658c14944c5619d26efb84c72e958950d10a8ef7caa596e4696f5d8d38bb6.webp",
+      "coverColor": "#f1d6ae",
+      "coverCensored": false,
+      "banner": "https://cdn.hentai.ht/media-v2/b1600/5ad59b65af32ef835e2a4c0a6093606860f4ace7de80bd3fe30e804f61b25a5c.webp",
+      "year": 2011,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 1,
+      "duration": 29,
+      "averageScore": 62,
+      "popularity": 7100,
+      "format": "OVA",
+      "studio": "PoRO",
+      "hasUncensored": false,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.539Z",
+      "activeEpisodes": [
+        1
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 9322,
+      "routeId": 54,
+      "slug": "hhh-triple-ecchi",
+      "name": "HHH: Triple Ecchi ♥",
+      "english": null,
+      "native": "HHH トリプルエッチ♥",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/d46c32b42391edabb17807640d53d5f87a335c641df37893b73f474d71b45f8e.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/d46c32b42391edabb17807640d53d5f87a335c641df37893b73f474d71b45f8e.webp",
+      "coverColor": "#f1bb93",
+      "coverCensored": false,
+      "banner": "https://cdn.hentai.ht/media-v2/b1600/01ae26b069cd63279eede9c71b35bf59e1b58884065692245bf48b9964130c32.webp",
+      "year": 2010,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 4,
+      "duration": 17,
+      "averageScore": 68,
+      "popularity": 7088,
+      "format": "OVA",
+      "studio": "Mary Jane",
+      "hasUncensored": false,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.538Z",
+      "activeEpisodes": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 98213,
+      "routeId": 442,
+      "slug": "tamashii-insert",
+      "name": "Tamashii: Insert",
+      "english": null,
+      "native": "魂インサート",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/69553d8c35005eff504aba92f5c4e85b10b1bbda0ec7cd5a4863769ce0c9a6c1.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/69553d8c35005eff504aba92f5c4e85b10b1bbda0ec7cd5a4863769ce0c9a6c1.webp",
+      "coverColor": "#f1d65d",
+      "coverCensored": false,
+      "banner": "https://cdn.hentai.ht/media-v2/b1600/ead43a4090fba2fd7a751c8726e0430289b40a225f243865bc663517d3b8528e.webp",
+      "year": 2017,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 2,
+      "duration": 17,
+      "averageScore": 64,
+      "popularity": 7074,
+      "format": "OVA",
+      "studio": "NewGeneration",
+      "hasUncensored": false,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.542Z",
+      "activeEpisodes": [
+        1,
+        2
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 170913,
+      "routeId": 904,
+      "slug": "modaete-yo-adam-kun",
+      "name": "Modaete yo, Adam-kun",
+      "english": "Adam's Sweet Agony",
+      "native": "悶えてよ、アダムくん",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/ec00baea3e9037aa0cf0e0fbe7113022a67aa72c84669ab8f897cf0c2472adc8.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/ec00baea3e9037aa0cf0e0fbe7113022a67aa72c84669ab8f897cf0c2472adc8.webp",
+      "coverColor": "#e4506b",
+      "coverCensored": false,
+      "banner": "https://cdn.hentai.ht/media-v2/b1600/759a2c3997cbbfb40a41cac8525f97ce9ccab18393c65dd199ea85aa76717748.webp",
+      "year": 2024,
+      "updatedAt": "2026-07-24T01:02:25.804Z",
+      "status": "finished",
+      "episodeCount": 8,
+      "duration": 7,
+      "averageScore": 66,
+      "popularity": 7026,
+      "format": "ONA",
+      "studio": "Studio Houkiboshi",
+      "hasUncensored": true,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.545Z",
+      "activeEpisodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 11321,
+      "routeId": 122,
+      "slug": "nee-summer",
+      "name": "Nee SUMMER!",
+      "english": null,
+      "native": "姉SUMMER!",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/a0d7e1686625dfec0688058f17b6982d4b55017dd15ce9685a264fe927c5897e.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/a0d7e1686625dfec0688058f17b6982d4b55017dd15ce9685a264fe927c5897e.webp",
+      "coverColor": "#35a1e4",
+      "coverCensored": false,
+      "banner": null,
+      "year": 2011,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 2,
+      "duration": 15,
+      "averageScore": 67,
+      "popularity": 6831,
+      "format": "OVA",
+      "studio": "Rabbit Gate",
+      "hasUncensored": false,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.539Z",
+      "activeEpisodes": [
+        1,
+        2
+      ],
+      "firstActiveEpisode": 1
+    },
+    {
+      "id": 108413,
+      "routeId": 552,
+      "slug": "ecchi-na-onee-chan-ni-shiboraretai",
+      "name": "Ecchi na Onee-chan ni Shiboraretai",
+      "english": null,
+      "native": "エッチなお姉ちゃんに搾られたい",
+      "cover": "https://cdn.hentai.ht/media-v2/c320/e05d93b42a506c8dec3f50e72bec0b9b3904098c3ee0259bf8c76f097f3757a6.webp",
+      "coverFull": "https://cdn.hentai.ht/media-v2/c640/e05d93b42a506c8dec3f50e72bec0b9b3904098c3ee0259bf8c76f097f3757a6.webp",
+      "coverColor": "#e40d5d",
+      "coverCensored": false,
+      "banner": "https://cdn.hentai.ht/media-v2/b1600/01fb8c50d51dfc76c73e224c86472334d24982ea69de8afe36700837c9d11a5d.webp",
+      "year": 2019,
+      "updatedAt": "2026-07-23T01:02:06.985Z",
+      "status": "finished",
+      "episodeCount": 2,
+      "duration": 16,
+      "averageScore": 70,
+      "popularity": 6513,
+      "format": "OVA",
+      "studio": "T-REX",
+      "hasUncensored": false,
+      "languages": [
+        "FR SUB",
+        "ENG SUB"
+      ],
+      "bestQuality": "1080p",
+      "isNew": false,
+      "latestReleaseAt": "2026-08-14T15:50:11.543Z",
+      "activeEpisodes": [
+        1,
+        2
+      ],
+      "firstActiveEpisode": 1
+    }
+  ]
+}

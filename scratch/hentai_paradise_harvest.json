@@ -1,0 +1,362 @@
+{
+  "source": "https://hentaiparadise.tv",
+  "extension_id": "hentai_paradise",
+  "candidate_probes": {
+    "https://hentaiparadise.tv/genres/": {
+      "status": 404,
+      "length": 187300
+    },
+    "https://hentaiparadise.tv/categories/": {
+      "status": 404,
+      "length": 187300
+    },
+    "https://hentaiparadise.tv/tags/": {
+      "status": 404,
+      "length": 187300
+    }
+  },
+  "total_posts": 199,
+  "categories": [
+    {
+      "name": "Toutes les Nouveautés",
+      "slug": "latest",
+      "count": 199,
+      "endpointPath": "/",
+      "icon": "Icons.fiber_new_rounded",
+      "categoryGroup": "Découverte",
+      "description": "Tous les derniers animes hentai sous-titrés en français",
+      "thumbnail": "https://hentaiparadise.tv/wp-content/uploads/2026/09/Kanojo-Saimin-Episode-2.webp"
+    },
+    {
+      "name": "Populaires & Recommandés",
+      "slug": "popular",
+      "count": 199,
+      "endpointPath": "/popular/",
+      "icon": "Icons.whatshot_rounded",
+      "categoryGroup": "Découverte",
+      "description": "Les séries les plus regardées et acclamées de HentaiParadise",
+      "thumbnail": "https://hentaiparadise.tv/wp-content/uploads/2026/07/Guilty-Hole.webp"
+    },
+    {
+      "id": 21,
+      "name": "Anal",
+      "slug": "anal",
+      "count": 23,
+      "endpointPath": "/anal/",
+      "icon": "Icons.adjust_rounded",
+      "categoryGroup": "Act / Fetish",
+      "description": "Pénétration anale intense et scènes sensuelles explicites",
+      "thumbnail": "https://hentaiparadise.tv/wp-content/uploads/2026/07/Soredemo-Tsuma-wo-Aishiteru-2-1.webp"
+    },
+    {
+      "id": 1,
+      "name": "Créampie",
+      "slug": "creampie",
+      "count": 194,
+      "endpointPath": "/creampie/",
+      "icon": "Icons.water_drop_rounded",
+      "categoryGroup": "Act / Fetish",
+      "description": "Éjaculation interne nakadashi et fins intimes passionnées",
+      "thumbnail": "https://hentaiparadise.tv/wp-content/uploads/2026/07/Guilty-Hole.webp"
+    },
+    {
+      "id": 24,
+      "name": "Écolières",
+      "slug": "ecolieres",
+      "count": 102,
+      "endpointPath": "/ecolieres/",
+      "icon": "Icons.school_rounded",
+      "categoryGroup": "Role / Setting",
+      "description": "Jeunes lycéennes en uniforme scolaire et romances interdites",
+      "thumbnail": "https://hentaiparadise.tv/wp-content/uploads/2026/08/Shishunki-no-Obenkyou-1.webp"
+    },
+    {
+      "id": 22,
+      "name": "Femmes mûres",
+      "slug": "femmes-mures",
+      "count": 43,
+      "endpointPath": "/femmes-mures/",
+      "icon": "Icons.woman_rounded",
+      "categoryGroup": "Character",
+      "description": "Femmes mûres séduisantes, milfs d’expérience et maîtresses",
+      "thumbnail": "https://hentaiparadise.tv/wp-content/uploads/2026/07/Nuki-Nuki-Zupposism-1-1.webp"
+    },
+    {
+      "id": 25,
+      "name": "Jeunes",
+      "slug": "jeunes",
+      "count": 39,
+      "endpointPath": "/jeunes/",
+      "icon": "Icons.child_care_rounded",
+      "categoryGroup": "Character",
+      "description": "Jeunes héroïnes adorables et premières expériences amoureuses",
+      "thumbnail": "https://hentaiparadise.tv/wp-content/uploads/2026/08/Shishunki-no-Obenkyou-1.webp"
+    },
+    {
+      "id": 23,
+      "name": "Monstres",
+      "slug": "monstres",
+      "count": 17,
+      "endpointPath": "/monstres/",
+      "icon": "Icons.pest_control_rodent_rounded",
+      "categoryGroup": "Creature / Fantasy",
+      "description": "Créatures fantastiques, tentacules mystiques et bêtes démoniaques",
+      "thumbnail": "https://hentaiparadise.tv/wp-content/uploads/2026/07/Ima-Made-de-Ichiban-Yokatta-Sex-1.webp"
+    },
+    {
+      "id": 20,
+      "name": "Poitrine généreuse",
+      "slug": "poitrine-genereuse",
+      "count": 175,
+      "endpointPath": "/poitrine-genereuse/",
+      "icon": "Icons.favorite_rounded",
+      "categoryGroup": "Attribute",
+      "description": "Héroïnes voluptueuses dotées d’une généreuse poitrine",
+      "thumbnail": "https://hentaiparadise.tv/wp-content/uploads/2026/09/Muchuu-no-Tou-2.webp"
+    },
+    {
+      "id": 32,
+      "name": "Raw",
+      "slug": "raw",
+      "count": 5,
+      "endpointPath": "/raw/",
+      "icon": "Icons.record_voice_over_rounded",
+      "categoryGroup": "Audio Format",
+      "description": "Versions originales japonaises sans sous-titres",
+      "thumbnail": ""
+    },
+    {
+      "id": 26,
+      "name": "Sans censure",
+      "slug": "sans-censure",
+      "count": 11,
+      "endpointPath": "/sans-censure/",
+      "icon": "Icons.lock_open_rounded",
+      "categoryGroup": "Censorship",
+      "description": "Épisodes intégraux sans aucune censure ni mosaïque",
+      "thumbnail": "https://hentaiparadise.tv/wp-content/uploads/2026/07/Guilty-Hole.webp"
+    }
+  ],
+  "genres": [
+    {
+      "name": "Harem",
+      "slug": "harem",
+      "query": "harem",
+      "count": 38,
+      "endpointPath": "/?s=harem",
+      "icon": "Icons.groups_rounded",
+      "categoryGroup": "Genre",
+      "description": "Protagoniste entouré de multiples prétendantes séduisantes",
+      "thumbnail": "https://hentaiparadise.tv/wp-content/uploads/2026/08/Harem-jima-e-Youkoso-1.webp"
+    },
+    {
+      "name": "Saimin & Hypnose",
+      "slug": "saimin",
+      "query": "saimin",
+      "count": 24,
+      "endpointPath": "/?s=saimin",
+      "icon": "Icons.cyclone_rounded",
+      "categoryGroup": "Trope",
+      "description": "Contrôle de l'esprit, hypnose et manipulation sensuelle",
+      "thumbnail": "https://hentaiparadise.tv/wp-content/uploads/2026/09/Kanojo-Saimin-Episode-2.webp"
+    },
+    {
+      "name": "Netorare (NTR)",
+      "slug": "ntr",
+      "query": "ntr",
+      "count": 28,
+      "endpointPath": "/?s=ntr",
+      "icon": "Icons.broken_image_rounded",
+      "categoryGroup": "Trope",
+      "description": "Infidélité dramatique, tentation et relations compromises",
+      "thumbnail": "https://hentaiparadise.tv/wp-content/uploads/2026/09/Kanojo-Saimin-Episode-2.webp"
+    },
+    {
+      "name": "Romance & Amour",
+      "slug": "romance",
+      "query": "romance",
+      "count": 45,
+      "endpointPath": "/?s=romance",
+      "icon": "Icons.favorite_rounded",
+      "categoryGroup": "Genre",
+      "description": "Histoires passionnées, tendres sentiments et amours complices",
+      "thumbnail": "https://hentaiparadise.tv/wp-content/uploads/2026/06/Sister-Breeder-4.jpg"
+    },
+    {
+      "name": "Comédie Ecchi",
+      "slug": "comedie",
+      "query": "comedie",
+      "count": 32,
+      "endpointPath": "/?s=comedie",
+      "icon": "Icons.mood_rounded",
+      "categoryGroup": "Genre",
+      "description": "Situations cocasses, quiproquos érotiques et humour léger",
+      "thumbnail": ""
+    },
+    {
+      "name": "Fantasy & Isekai",
+      "slug": "fantasy",
+      "query": "fantasy",
+      "count": 29,
+      "endpointPath": "/?s=fantasy",
+      "icon": "Icons.auto_awesome_rounded",
+      "categoryGroup": "Genre",
+      "description": "Mondes magiques, pouvoirs occultes et aventures fantastiques",
+      "thumbnail": ""
+    },
+    {
+      "name": "Plage & Été",
+      "slug": "plage",
+      "query": "beach",
+      "count": 18,
+      "endpointPath": "/?s=beach",
+      "icon": "Icons.beach_access_rounded",
+      "categoryGroup": "Thème",
+      "description": "Maillots de bain, escapades tropicales et chaleur estivale",
+      "thumbnail": "https://hentaiparadise.tv/wp-content/uploads/2026/07/Nudist-Beach-ni-Shuugaku-Ryokou-de-The-Animation-1.webp"
+    },
+    {
+      "name": "Domestique & Maid",
+      "slug": "maid",
+      "query": "maid",
+      "count": 22,
+      "endpointPath": "/?s=maid",
+      "icon": "Icons.cleaning_services_rounded",
+      "categoryGroup": "Personnage",
+      "description": "Servantes dévouées, soubrettes attentionnées et hospitalité intime",
+      "thumbnail": ""
+    },
+    {
+      "name": "Médical & Infirmière",
+      "slug": "infirmiere",
+      "query": "nurse",
+      "count": 16,
+      "endpointPath": "/?s=nurse",
+      "icon": "Icons.healing_rounded",
+      "categoryGroup": "Personnage",
+      "description": "Consultations privées, infirmières bienveillantes et soins intenses",
+      "thumbnail": ""
+    },
+    {
+      "name": "Gyaru & Gal",
+      "slug": "gyaru",
+      "query": "gal",
+      "count": 26,
+      "endpointPath": "/?s=gal",
+      "icon": "Icons.flare_rounded",
+      "categoryGroup": "Personnage",
+      "description": "Filles branchées, audacieuses et provocatrices sans tabou",
+      "thumbnail": "https://hentaiparadise.tv/wp-content/uploads/2026/08/Hitozuma-Life-One-Time-Gal-1.webp"
+    },
+    {
+      "name": "Famille & Tabou",
+      "slug": "famille",
+      "query": "kazoku",
+      "count": 35,
+      "endpointPath": "/?s=kazoku",
+      "icon": "Icons.family_restroom_rounded",
+      "categoryGroup": "Trope",
+      "description": "Secrets intimes de famille et liaisons interdites",
+      "thumbnail": "https://hentaiparadise.tv/wp-content/uploads/2026/07/Paihame-Kazoku-Episode-1.webp"
+    },
+    {
+      "name": "Professeur & Élève",
+      "slug": "professeur",
+      "query": "sensei",
+      "count": 20,
+      "endpointPath": "/?s=sensei",
+      "icon": "Icons.co_present_rounded",
+      "categoryGroup": "Trope",
+      "description": "Leçons particulières après les cours et tentations défendues",
+      "thumbnail": ""
+    },
+    {
+      "name": "Yuri & Lesbienne",
+      "slug": "yuri",
+      "query": "yuri",
+      "count": 14,
+      "endpointPath": "/?s=yuri",
+      "icon": "Icons.female_rounded",
+      "categoryGroup": "Genre",
+      "description": "Passions intimes et romances complices entre femmes",
+      "thumbnail": ""
+    },
+    {
+      "name": "Vanilla & Douceur",
+      "slug": "vanilla",
+      "query": "vanilla",
+      "count": 30,
+      "endpointPath": "/?s=vanilla",
+      "icon": "Icons.sentiment_very_satisfied_rounded",
+      "categoryGroup": "Genre",
+      "description": "Plaisirs partagés en toute tendresse et consentement mutuel",
+      "thumbnail": ""
+    },
+    {
+      "name": "Vierge & Défloration",
+      "slug": "vierge",
+      "query": "vierge",
+      "count": 25,
+      "endpointPath": "/?s=vierge",
+      "icon": "Icons.star_outline_rounded",
+      "categoryGroup": "Trope",
+      "description": "Première découverte amoureuse et éveil des sens",
+      "thumbnail": "https://hentaiparadise.tv/wp-content/uploads/2026/08/Phantom-Alchemia-Silvia-no-Dokidoki-Sakusei-Toshi-Keikaku-2.webp"
+    },
+    {
+      "name": "BDSM & Soumission",
+      "slug": "bdsm",
+      "query": "bdsm",
+      "count": 19,
+      "endpointPath": "/?s=bdsm",
+      "icon": "Icons.link_rounded",
+      "categoryGroup": "Trope",
+      "description": "Dominance, soumission consentie et jeux de cordes sensuels",
+      "thumbnail": ""
+    },
+    {
+      "name": "Supernaturel & Démons",
+      "slug": "demon",
+      "query": "demon",
+      "count": 21,
+      "endpointPath": "/?s=demon",
+      "icon": "Icons.coronavirus_rounded",
+      "categoryGroup": "Creature",
+      "description": "Succubes envoûtantes, démons séducteurs et pactes charnels",
+      "thumbnail": "https://hentaiparadise.tv/wp-content/uploads/2026/07/Daisuki-na-Mama-episode-2.webp"
+    },
+    {
+      "name": "Lactation & Maternité",
+      "slug": "lactation",
+      "query": "bonyuu",
+      "count": 15,
+      "endpointPath": "/?s=bonyuu",
+      "icon": "Icons.opacity_rounded",
+      "categoryGroup": "Fetish",
+      "description": "Générosité nourricière et volupté maternelle gourmande",
+      "thumbnail": "https://hentaiparadise.tv/wp-content/uploads/2026/08/Bonyuu-chan-wa-Dashitai-1.webp"
+    },
+    {
+      "name": "Idol & Spectacle",
+      "slug": "idol",
+      "query": "idol",
+      "count": 12,
+      "endpointPath": "/?s=idol",
+      "icon": "Icons.mic_rounded",
+      "categoryGroup": "Personnage",
+      "description": "Chanteuses idoles en coulisses et représentations privées",
+      "thumbnail": "https://hentaiparadise.tv/wp-content/uploads/2026/08/Nuki-nuki-zupposism-episode-2.webp"
+    },
+    {
+      "name": "Cosplay & Déguisement",
+      "slug": "cosplay",
+      "query": "cosplay",
+      "count": 17,
+      "endpointPath": "/?s=cosplay",
+      "icon": "Icons.theater_comedy_rounded",
+      "categoryGroup": "Thème",
+      "description": "Tenues suggestives, costumes de soubrettes et jeux de rôle",
+      "thumbnail": ""
+    }
+  ]
+}
